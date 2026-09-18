@@ -12,6 +12,18 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 Living project brief. Update this file as facts change. Do not invent business details that are not listed here. Dummy copy and placeholder images are allowed where noted.
 
+## Repo
+
+- Name: `handyman`
+- Visibility: public
+- GitHub: https://github.com/MohammadAhmerMalick/handyman
+- SSH: `git@github.com:MohammadAhmerMalick/handyman.git`
+- Description: Marketing site for Handyman — renovation, AC, plumbing, and maintenance across the UAE (`handyman.ae`). Next.js + Shadcn UI.
+- License: UNLICENSED (public to view; not open-source licensed)
+- Author: Mohammad Ahmer Malick `<mohammadahmermalick@gmail.com>`
+
+This repo description is for GitHub/Cursor/`package.json` only. Do not use it as the public SEO title or meta description until that research pass.
+
 ## Working mode
 
 We are in **pre-UI** until the user starts a build session. Collect and record facts here. Do not edit app/code files. Do not decide header composition, button placement, icon libraries, or visual layout. Those happen in **dev mode**, page by page / section by section, starting with header, footer, and shared layout.
@@ -24,6 +36,8 @@ We are in **pre-UI** until the user starts a build session. Collect and record f
 - Domain: `handyman.ae`
 - Hosting now: Vercel
 - Hosting later: Contabo with Docker and database services (upcoming; do not set up now)
+- Repo: public GitHub `MohammadAhmerMalick/handyman` (`git@github.com:MohammadAhmerMalick/handyman.git`)
+- Repo description: Marketing site for Handyman — renovation, AC, plumbing, and maintenance across the UAE (`handyman.ae`). Next.js + Shadcn UI.
 
 ## Site purpose
 

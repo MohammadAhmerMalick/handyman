@@ -16,6 +16,8 @@ We are in **pre-UI** until a build session starts. Record facts only. Do not edi
 - Reuse Shadcn components; add new ones via the Shadcn CLI
 - Domain: `handyman.ae`
 - Host now on Vercel; later Contabo + Docker + DB (upcoming)
+- Repo: public GitHub [MohammadAhmerMalick/handyman](https://github.com/MohammadAhmerMalick/handyman) (`git@github.com:MohammadAhmerMalick/handyman.git`)
+- Repo description: Marketing site for Handyman — renovation, AC, plumbing, and maintenance across the UAE (`handyman.ae`). Next.js + Shadcn UI.
 
 ## Identity
 

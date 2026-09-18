@@ -2,6 +2,34 @@
   "name": "handyman",
   "version": "0.1.0",
   "private": true,
+  "description": "Marketing site for Handyman — renovation, AC, plumbing, and maintenance across the UAE (handyman.ae). Next.js + Shadcn UI.",
+  "homepage": "https://handyman.ae",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "Mohammad Ahmer Malick",
+    "email": "mohammadahmermalick@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadAhmerMalick/handyman.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MohammadAhmerMalick/handyman/issues"
+  },
+  "keywords": [
+    "handyman",
+    "renovation",
+    "uae",
+    "dubai",
+    "air-conditioning",
+    "plumbing",
+    "maintenance",
+    "nextjs",
+    "shadcn"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
