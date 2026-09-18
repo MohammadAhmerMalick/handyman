@@ -1,21 +1,31 @@
 {
-  "name": "handyman",
-  "version": "0.1.0",
-  "private": true,
-  "description": "Marketing site for Handyman — renovation, AC, plumbing, and maintenance across the UAE (handyman.ae). Next.js + Shadcn UI.",
-  "homepage": "https://handyman.ae",
-  "license": "UNLICENSED",
   "author": {
-    "name": "Mohammad Ahmer Malick",
-    "email": "mohammadahmermalick@gmail.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MohammadAhmerMalick/handyman.git"
+    "email": "mohammadahmermalick@gmail.com",
+    "name": "Mohammad Ahmer Malick"
   },
   "bugs": {
     "url": "https://github.com/MohammadAhmerMalick/handyman/issues"
   },
+  "dependencies": {
+    "next": "16.3.5",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "description": "Marketing site for Handyman — renovation, AC, plumbing, and maintenance across the UAE (handyman.ae). Next.js + Shadcn UI.",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.5",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "homepage": "https://handyman.ae",
   "keywords": [
     "handyman",
     "renovation",
@@ -27,29 +37,23 @@
     "nextjs",
     "shadcn"
   ],
-  "engines": {
-    "node": ">=20"
+  "license": "UNLICENSED",
+  "name": "handyman",
+  "packageManager": "pnpm@11.21.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadAhmerMalick/handyman.git"
   },
   "scripts": {
-    "dev": "next dev",
+    "biome": "pnpm biome-check && pnpm biome-format && pnpm biome-lint",
+    "biome-check": "npx @biomejs/biome@2.5.13 check --write",
+    "biome-format": "npx @biomejs/biome@2.5.13 format --write",
+    "biome-lint": "npx @biomejs/biome@2.5.13 lint --write",
     "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+    "dev": "next dev",
+    "lint": "eslint",
+    "start": "next start"
   },
-  "dependencies": {
-    "next": "16.3.5",
-    "react": "19.2.8",
-    "react-dom": "19.2.8"
-  },
-  "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "16.3.5",
-    "tailwindcss": "^4",
-    "typescript": "^5"
-  },
-  "packageManager": "pnpm@11.21.0"
+  "version": "0.1.0"
 }
