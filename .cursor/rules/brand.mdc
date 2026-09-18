@@ -1,0 +1,32 @@
+---
+description: Brand colors for buttons, headings, body, and dark sections
+alwaysApply: true
+---
+
+# Brand colors
+
+Use only this palette. Map to CSS variables / Shadcn theme tokens rather than scattering one-off hex values.
+
+| Hex | Role |
+| --- | --- |
+| `#ffc527` | Primary buttons; headings sitting on dark backgrounds |
+| `#222222` | Dark surfaces (footer and similar); heading text on light backgrounds |
+| `#434343` | Paragraph / body text on light backgrounds |
+
+```tsx
+// ❌ BAD — random accent, light heading on dark footer
+<button className="bg-blue-600">Get a quote</button>
+<footer className="bg-black text-white">
+  <h2 className="text-white">Our services</h2>
+  <p className="text-white/80">We renovate villas and flats.</p>
+</footer>
+
+// ✅ GOOD
+<button className="bg-[#ffc527] text-[#222222]">Get a quote</button>
+<footer className="bg-[#222222]">
+  <h2 className="text-[#ffc527]">Our services</h2>
+  <p className="text-white/80">We renovate villas and flats.</p>
+</footer>
+```
+
+Prefer theme tokens (`bg-primary`, `text-foreground`) once they are wired to these hex values. Until then, use the hexes above.

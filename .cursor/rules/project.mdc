@@ -1,0 +1,52 @@
+---
+description: Handyman site purpose, pages, stack, contact, and content rules
+alwaysApply: true
+---
+
+# Project
+
+Canonical brief: `AGENTS.md` (content below the Next.js block). Update that file when facts change. Do not invent missing business details.
+
+We are in **pre-UI** until a build session starts. Record facts only. Do not edit app/code files. Do not decide header CTAs, icon sets, or visual layout.
+
+## Stack
+
+- Next.js App Router + TypeScript
+- Shadcn UI + Tailwind CSS
+- Reuse Shadcn components; add new ones via the Shadcn CLI
+- Domain: `handyman.ae`
+- Host now on Vercel; later Contabo + Docker + DB (upcoming)
+
+## Identity
+
+- Name: **Handyman** (text wordmark until a logo file exists)
+- Favicon: keep the Next.js default until the logo exists
+- Service area: UAE
+- Address: Marina, Dubai, UAE
+- Phone / WhatsApp: `+971 54 514 9849`
+- Email: `mohammadahmermalick@gmail.com`
+- Hours: Sat–Thu 8:00am–9:00pm; Friday 9:00am–11:00am and 4:00pm–9:00pm. No 24h/emergency for now.
+- Map: placeholder until a real embed is added
+- Trade license / legal company name: TBD
+- Ship **English only**. Arabic is upcoming — do not add i18n yet.
+
+## Pages
+
+Home, About us, Contact, Services, Privacy (dummy), Terms (dummy). No extra routes unless asked.
+
+Do not write SEO title/description or add analytics in code yet.
+
+## Services
+
+The five highlight services are not the full list. Services page should include a broad UAE trades catalog. No prices; quote CTAs come later.
+
+## Content
+
+- Dummy copy for about / trust / testimonials / Privacy / Terms
+- Images: `https://placehold.co/600x400`
+- Social / icon library: later in dev mode; no URLs yet
+- First build session (when asked): header, footer, shared layout
+
+## Do not build yet
+
+Arabic, real logo, social URLs, quote popup/form wiring, contact form email sending, analytics, SEO meta, Contabo/Docker.
