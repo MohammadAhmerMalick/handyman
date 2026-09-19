@@ -1,5 +1,6 @@
 'use client'
 
+import { cn } from 'cn'
 import Link from 'next/link'
 import type { ComponentProps } from 'react'
 import {
@@ -20,7 +21,7 @@ const NavMenu = ({ orientation, ...props }: NavMenuProps) => (
     >
       <NavigationMenuItem>
         <NavigationMenuLink
-          className={navigationMenuTriggerStyle()}
+          className={cn(navigationMenuTriggerStyle(), 'text-white text-xl')}
           render={<Link href="#" />}
         >
           Home
@@ -28,23 +29,23 @@ const NavMenu = ({ orientation, ...props }: NavMenuProps) => (
       </NavigationMenuItem>
       <NavigationMenuItem>
         <NavigationMenuLink
-          className={navigationMenuTriggerStyle()}
+          className={cn(navigationMenuTriggerStyle(), 'text-white text-xl')}
           render={<Link href="#" />}
         >
-          Blog
+          About Us
         </NavigationMenuLink>
       </NavigationMenuItem>
       <NavigationMenuItem>
         <NavigationMenuLink
-          className={navigationMenuTriggerStyle()}
+          className={cn(navigationMenuTriggerStyle(), 'text-white text-xl')}
           render={<Link href="#" />}
         >
-          About
+          Services
         </NavigationMenuLink>
       </NavigationMenuItem>
       <NavigationMenuItem>
         <NavigationMenuLink
-          className={navigationMenuTriggerStyle()}
+          className={cn(navigationMenuTriggerStyle(), 'text-white text-xl')}
           render={<Link href="#" />}
         >
           Contact Us
