@@ -1,17 +1,10 @@
 import type { Metadata } from 'next'
-import { Geist, Geist_Mono } from 'next/font/google'
+import { Outfit } from 'next/font/google'
 
 import './globals.css'
+import { cn } from '@/lib/utils'
 
-const geistSans = Geist({
-  subsets: ['latin'],
-  variable: '--font-geist-sans',
-})
-
-const geistMono = Geist_Mono({
-  subsets: ['latin'],
-  variable: '--font-geist-mono',
-})
+const outfit = Outfit({ subsets: ['latin'], variable: '--font-sans' })
 
 export const metadata: Metadata = {
   title: 'Handyman',
@@ -21,7 +14,7 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={cn('h-full', 'antialiased', 'font-sans', outfit.variable)}
     >
       <body className="flex min-h-full flex-col">{children}</body>
     </html>
