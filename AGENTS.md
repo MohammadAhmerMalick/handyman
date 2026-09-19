@@ -61,6 +61,15 @@ Marketing site for **Handyman** — renovation, maintenance, and trade services 
 
 Map these to CSS variables / Shadcn theme tokens. Do not introduce a second palette.
 
+### Fonts
+
+The website uses **multiple typefaces**, not one family for everything:
+
+- Headings: a distinct heading / display font
+- Body and UI: a separate body font
+
+Specific family names are not chosen yet. Do not invent them. Geist in the starter layout is a placeholder until fonts are named in a build session.
+
 ## Contact
 
 - Phone / WhatsApp: `+971 54 514 9849` (raw: `971545149849`)

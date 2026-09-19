@@ -22,6 +22,7 @@ We are in **pre-UI** until a build session starts. Record facts only. Do not edi
 ## Identity
 
 - Name: **Handyman** (text wordmark until a logo file exists)
+- Typography: multiple fonts (heading + body). Families TBD.
 - Favicon: keep the Next.js default until the logo exists
 - Service area: UAE
 - Address: Marina, Dubai, UAE

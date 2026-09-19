@@ -30,3 +30,7 @@ Use only this palette. Map to CSS variables / Shadcn theme tokens rather than sc
 ```
 
 Prefer theme tokens (`bg-primary`, `text-foreground`) once they are wired to these hex values. Until then, use the hexes above.
+
+# Fonts
+
+Use **two typefaces** (heading vs body/UI). Do not ship the finished site on a single family. Family names are TBD — do not invent them. Starter Geist is a placeholder until named.
