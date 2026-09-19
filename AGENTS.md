@@ -33,6 +33,7 @@ We are in **pre-UI** until the user starts a build session. Collect and record f
 - Next.js (App Router) with TypeScript
 - Shadcn UI + Tailwind CSS
 - Prefer existing Shadcn components; add new ones with the Shadcn CLI when needed
+- Component folders (`src/components/`): `ui/` Shadcn only; `layout/` header/footer/shell; `sections/<name>/` page blocks; `shared/` logo, container, and other reused site pieces (see `.cursor/rules/components.mdc`)
 - Domain: `handyman.ae`
 - Hosting now: Vercel
 - Hosting later: Contabo with Docker and database services (upcoming; do not set up now)

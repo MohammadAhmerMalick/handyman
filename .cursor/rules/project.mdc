@@ -13,7 +13,8 @@ We are in **pre-UI** until a build session starts. Record facts only. Do not edi
 
 - Next.js App Router + TypeScript
 - Shadcn UI + Tailwind CSS
-- Reuse Shadcn components; add new ones via the Shadcn CLI
+- Reuse Shadcn components; add new ones via the Shadcn CLI into `src/components/ui/` only
+- Other UI: `src/components/layout/`, `sections/<name>/`, `shared/` (see `.cursor/rules/components.mdc`)
 - Domain: `handyman.ae`
 - Host now on Vercel; later Contabo + Docker + DB (upcoming)
 - Repo: public GitHub [MohammadAhmerMalick/handyman](https://github.com/MohammadAhmerMalick/handyman) (`git@github.com:MohammadAhmerMalick/handyman.git`)

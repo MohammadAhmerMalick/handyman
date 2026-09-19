@@ -1,0 +1,33 @@
+---
+description: Component folder layout — Shadcn in ui/, plus layout, sections, shared
+alwaysApply: true
+---
+
+# Component folders
+
+App components live under `src/components/`. Put new files in the matching folder. Do not dump site components next to Shadcn in `ui/`. Folders may be empty until a build session creates files. Example filenames below are not a required catalog.
+
+```
+src/components/
+  ui/          # Shadcn only (CLI). e.g. button.tsx, card.tsx
+  layout/      # Chrome: header, footer, site shell
+  sections/    # Page blocks, grouped by section folder
+    x/         # e.g. sections/hero/hero_1.tsx
+  shared/      # Reused site pieces: logo, container
+```
+
+```tsx
+// ❌ BAD — custom site UI in ui/, or a page section at the components root
+src/components/ui/header.tsx
+src/components/hero.tsx
+
+// ✅ GOOD
+src/components/layout/header.tsx
+src/components/layout/footer.tsx
+src/components/sections/hero/hero_1.tsx
+src/components/shared/logo.tsx
+src/components/shared/container.tsx
+src/components/ui/button.tsx // Shadcn CLI only
+```
+
+Add Shadcn primitives with the Shadcn CLI into `src/components/ui/` only. Compose them from `layout/`, `sections/`, and `shared/`.
