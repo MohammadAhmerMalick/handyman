@@ -7,7 +7,7 @@ alwaysApply: true
 
 Canonical brief: `AGENTS.md` (content below the Next.js block). Update that file when facts change. Do not invent missing business details.
 
-We are in **pre-UI** until a build session starts. Record facts only. Do not edit app/code files. Do not decide header CTAs, icon sets, or visual layout.
+We are in **UI designing mode**. Build UI from `TASKS.md` (read that file first). Record new facts in `AGENTS.md`.
 
 ## Stack
 
@@ -48,8 +48,8 @@ The five highlight services are not the full list. Services page should include 
 
 - Dummy copy for about / trust / testimonials / Privacy / Terms
 - Images: `https://placehold.co/600x400`
-- Social / icon library: later in dev mode; no URLs yet
-- First build session (when asked): header, footer, shared layout
+- Social / icon library: later; no URLs yet
+- Task queue: `TASKS.md`
 
 ## Do not build yet
 

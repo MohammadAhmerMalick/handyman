@@ -1,0 +1,14 @@
+---
+description: Read TASKS.md first; update it when work ships
+alwaysApply: true
+---
+
+# Tasks
+
+Canonical tracker: `TASKS.md` at the repo root.
+
+At the start of a session, **read `TASKS.md`** for what to do next. Do not explore the whole project just to recover the queue.
+
+When you finish (or the user skips/changes) an item, update the checkboxes in `TASKS.md` in the same turn. Keep order unless the user picks a different task.
+
+Facts stay in `AGENTS.md`. Deferred features stay in `.cursor/rules/upcoming.mdc`.

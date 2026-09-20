@@ -26,7 +26,7 @@ This repo description is for GitHub/Cursor/`package.json` only. Do not use it as
 
 ## Working mode
 
-We are in **pre-UI** until the user starts a build session. Collect and record facts here. Do not edit app/code files. Do not decide header composition, button placement, icon libraries, or visual layout. Those happen in **dev mode**, page by page / section by section, starting with header, footer, and shared layout.
+We are in **UI designing mode**. Build page by page / section by section. Follow `TASKS.md` for the queue (read that file first). Keep recording new business facts here. Do not invent missing details. Deferred features stay unbuilt until asked (see Upcoming).
 
 ## Stack
 
@@ -137,7 +137,7 @@ No per-service prices. Quotes only (CTA / banner / popup / form section later).
 - About, story, trust, testimonials, Privacy, and Terms: dummy text for now (lorem ipsum is fine). Replace section by section later.
 - Photos: `https://placehold.co/600x400` until real images exist.
 - Map: placeholder until a real Google Maps embed is added.
-- Header CTAs (WhatsApp vs Call vs quote), social icons, and section layout: discuss in **dev mode**, not here.
+- Header CTAs (WhatsApp vs Call vs quote), social icons, and section layout: decide in **UI designing mode**; track in `TASKS.md`.
 
 ## Upcoming features (do not build yet)
 
