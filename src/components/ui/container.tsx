@@ -8,7 +8,7 @@ const containerVariants = cva('mx-auto', {
   },
   variants: {
     variant: {
-      default: 'mx-auto max-w-8xl px-4 py-16 sm:px-6 md:py-24 lg:px-8',
+      default: 'mx-auto max-w-8xl px-4 py-16 sm:px-6 md:py-20 lg:px-8 lg:py-24',
     },
   },
 })
