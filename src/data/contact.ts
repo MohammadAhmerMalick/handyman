@@ -2,6 +2,7 @@ const PHONE_RAW = '971545149849'
 
 export const contact = {
   address: 'Marina, Dubai, UAE',
+  addressLink: 'https://maps.app.goo.gl/SGuEqKEkMjryWToN6',
   email: 'mohammadahmermalick@gmail.com',
   hours: {
     friday: '9:00am–11:00am and 4:00pm–9:00pm',

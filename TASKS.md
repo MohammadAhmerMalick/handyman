@@ -8,7 +8,7 @@ Next up is **1**. Work in this order unless the user picks a different item.
 
 - [ ] **1.** Move `Navbar` into the root layout so every page shares it
 - [ ] **2.** Point **Get Quote** at WhatsApp (or Call) until a quote form exists
-- [ ] **3.** Build the **footer**: phone, WhatsApp, email, hours, Marina, nav links
+- [x] **3.** Build the **footer**: phone, WhatsApp, email, hours, Marina, nav links
 - [ ] **4.** Add dummy **Privacy** and **Terms** routes
 - [ ] **5.** **Contact** page: details, hours, map placeholder, UI-only form
 - [ ] **6.** Home **services highlights** (the five trades)
@@ -26,6 +26,7 @@ Next up is **1**. Work in this order unless the user picks a different item.
 Do not rebuild these unless asked.
 
 - Home hero (Call + WhatsApp)
+- Footer (phone, WhatsApp, email, hours, Marina, nav links)
 - Navbar on the home page only
 - Brand color tokens in CSS
 - `src/data/contact.ts`
