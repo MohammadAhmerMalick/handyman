@@ -1,0 +1,23 @@
+When creating a git commit, use a multi-line message (HEREDOC), never a single paragraph.
+
+Format:
+- Line 1: short subject, imperative, max ~72 characters
+- Blank line
+- Body grouped under subheadings with bullet points
+- Group by area (Header, Footer, Data, Tasks, etc.)
+- Each bullet is one concrete change; do not restated the whole diff
+- Skip empty headings
+
+Example:
+
+Add footer, contact links, and brand icons
+
+Footer
+- Add the Footer component with navigation and contact blocks
+- Include brand icons for the contact row
+
+Data
+- Link the address in contact data for accessibility
+
+Tasks
+- Mark the footer item complete in TASKS.md
