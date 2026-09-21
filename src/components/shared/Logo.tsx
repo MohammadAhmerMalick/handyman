@@ -1,11 +1,16 @@
-const Logo = () => (
+type LogoProps = {
+  className?: string
+}
+
+const Logo = ({ className }: LogoProps) => (
   <svg
-    width={241}
+    aria-label="Handyman logo"
+    className={className}
+    fill="none"
     height={57}
     viewBox="0 0 241 57"
-    fill="none"
+    width={241}
     xmlns="http://www.w3.org/2000/svg"
-    aria-label="Handyman logo"
   >
     <g>
       <path

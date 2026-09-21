@@ -30,6 +30,7 @@ Do not rebuild these unless asked.
 - Navbar on the home page only
 - Brand color tokens in CSS
 - `src/data/contact.ts`
+- `src/data/links.ts` (nav, services, contact, legal, social)
 - Logo wordmark
 - Body font: Outfit (heading family still TBD)
 

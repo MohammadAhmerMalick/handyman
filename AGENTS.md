@@ -110,6 +110,8 @@ Do not add an icon library or pick social platforms yet. That happens in dev mod
 
 Do not add extra routes, dashboards, or accounts unless asked.
 
+Nav, footer, legal, and social hrefs/icons live in `src/data/links.ts`. Pages that are not built yet stay `#`.
+
 ## SEO and analytics
 
 Do **not** write a title/description yet and do **not** add meta tags in code. Later: research UAE handyman / renovation search terms and recommend a title + short description.
