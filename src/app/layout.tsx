@@ -14,9 +14,9 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
   return (
     <html
       lang="en"
-      className={cn('h-full', 'antialiased', 'font-sans', outfit.variable)}
+      className={cn('h-full bg-primary font-sans antialiased', outfit.variable)}
     >
-      <body className="flex min-h-full flex-col">{children}</body>
+      <body className="flex min-h-full flex-col bg-white">{children}</body>
     </html>
   )
 }

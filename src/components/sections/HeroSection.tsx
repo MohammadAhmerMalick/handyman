@@ -5,7 +5,7 @@ import { contact } from '@/data/contact'
 
 const HeroSection = () => {
   return (
-    <div className="relative flex h-screen max-h-240 items-center justify-center overflow-hidden">
+    <div className="relative flex h-screen max-h-240 min-h-max items-center justify-center overflow-hidden">
       <div className="absolute inset-0 z-0 bg-black">
         <video
           src="/hero-video.webm"
@@ -15,7 +15,7 @@ const HeroSection = () => {
           className="size-full object-cover"
         />
       </div>
-      <Container className="relative">
+      <Container className="relative md:pt-36">
         <div className="grid items-center gap-8 md:grid-cols-2">
           {/* Left content */}
           <div className="flex flex-col space-y-4">
