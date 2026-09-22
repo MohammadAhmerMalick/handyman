@@ -1,12 +1,12 @@
+import { cn } from 'cn'
 import type { Metadata } from 'next'
 import { Outfit } from 'next/font/google'
-
-import './globals.css'
+import type { ReactNode } from 'react'
 import Footer from '@/components/layout/Footer'
 import Navbar from '@/components/layout/Navbar'
 import ScrollToTop from '@/components/layout/ScrollToTop'
 import TopBar from '@/components/layout/TopBar'
-import { cn } from '@/lib/utils'
+import './globals.css'
 
 const outfit = Outfit({ subsets: ['latin'], variable: '--font-sans' })
 
@@ -15,8 +15,8 @@ export const metadata: Metadata = {
 }
 
 type RootLayoutProps = {
-  children: React.ReactNode
-  pageTitle: React.ReactNode
+  children: ReactNode
+  pageTitle: ReactNode
 }
 
 export default function RootLayout({ children, pageTitle }: RootLayoutProps) {
@@ -26,11 +26,9 @@ export default function RootLayout({ children, pageTitle }: RootLayoutProps) {
       className={cn('h-full bg-primary font-sans antialiased', outfit.variable)}
     >
       <body className="flex min-h-full flex-col bg-white">
-        <div className="relative">
-          <TopBar />
-          <Navbar />
-          {pageTitle}
-        </div>
+        <TopBar />
+        <Navbar />
+        {pageTitle}
         <div className="flex flex-1 flex-col">{children}</div>
         <Footer />
         <ScrollToTop />
