@@ -5,8 +5,8 @@ import { contact } from '@/data/contact'
 
 const TopBar = () => {
   return (
-    <div className="hidden bg-primary sm:block">
-      <Container className="relative z-60 flex items-center justify-between py-2 font-medium text-black md:py-2 lg:py-2">
+    <div className="relative z-60 hidden bg-primary sm:block">
+      <Container className="flex items-center justify-between py-2 font-medium text-black md:py-2 lg:py-2">
         <SocialLinks className="text-sm [&>a]:hover:text-black" size={18} />
 
         <div className="flex items-center gap-2 text-sm">

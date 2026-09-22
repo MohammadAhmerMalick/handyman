@@ -1,12 +1,13 @@
 'use client'
 
 import { cn } from 'cn'
-import { Newspaper } from 'lucide-react'
+import { MessageCircle } from 'lucide-react'
 import Logo from '@/components/shared/Logo'
 import NavigationSheet from '@/components/shared/navbar/NavigationSheet'
 import NavMenu from '@/components/shared/navbar/NavMenu'
 import { Button } from '@/components/ui/button'
 import { Container } from '@/components/ui/container'
+import { contact } from '@/data/contact'
 import { useScrolledPast } from '@/hooks/useScrolledPast'
 
 const Navbar = () => {
@@ -14,7 +15,7 @@ const Navbar = () => {
   const isCompact = useScrolledPast(50, 40)
 
   return (
-    <nav
+    <header
       className={cn(
         'sticky top-0 right-0 left-0 z-50 border-primary border-b bg-linear-to-b from-black shadow-xl backdrop-blur-xs duration-300 [overflow-anchor:none]',
         isCompact ? 'bg-black/60' : 'bg-linear-to-b from-black to-black/10'
@@ -31,11 +32,23 @@ const Navbar = () => {
         </div>
 
         {/* Desktop Menu */}
-        <NavMenu className="hidden md:block" />
+        <nav>
+          <NavMenu className="hidden md:block" />
+        </nav>
 
         <div className="flex items-center gap-3">
-          <Button size="lg">
-            <Newspaper className="size-5" data-icon="inline-center" />
+          <Button
+            size="lg"
+            render={
+              <a
+                href={contact.whatsapp.href}
+                target="_blank"
+                rel="noreferrer"
+              />
+            }
+            nativeButton={false}
+          >
+            <MessageCircle className="size-5" data-icon="inline-center" />
             Get Quote
           </Button>
 
@@ -45,7 +58,7 @@ const Navbar = () => {
           </div>
         </div>
       </Container>
-    </nav>
+    </header>
   )
 }
 
