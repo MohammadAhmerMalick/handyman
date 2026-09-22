@@ -14,15 +14,23 @@ export const metadata: Metadata = {
   title: 'Handyman',
 }
 
-export default function RootLayout({ children }: LayoutProps<'/'>) {
+type RootLayoutProps = {
+  children: React.ReactNode
+  pageTitle: React.ReactNode
+}
+
+export default function RootLayout({ children, pageTitle }: RootLayoutProps) {
   return (
     <html
       lang="en"
       className={cn('h-full bg-primary font-sans antialiased', outfit.variable)}
     >
       <body className="flex min-h-full flex-col bg-white">
-        <TopBar />
-        <Navbar />
+        <div className="relative">
+          <TopBar />
+          <Navbar />
+          {pageTitle}
+        </div>
         <div className="flex flex-1 flex-col">{children}</div>
         <Footer />
         <ScrollToTop />

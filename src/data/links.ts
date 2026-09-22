@@ -26,6 +26,7 @@ import {
 import { contact } from '@/data/contact'
 
 export type SiteLink = {
+  description?: string
   external?: boolean
   href: string
   icon: LucideIcon
@@ -46,22 +47,45 @@ export type FooterLinkGroup = {
 }
 
 export const navLinks: SiteLink[] = [
-  { href: '/', icon: Home, title: 'Home' },
-  { href: '#', icon: Info, title: 'About Us' },
-  { href: '#', icon: Wrench, title: 'Services' },
-  { href: '#', icon: Phone, title: 'Contact Us' },
+  {
+    description: 'Renovation, maintenance, and trade services across the UAE.',
+    href: '/',
+    icon: Home,
+    title: 'Home',
+  },
+  {
+    description:
+      'Dummy about copy for layout. Replace with the real Handyman story later.',
+    href: '/about',
+    icon: Info,
+    title: 'About Us',
+  },
+  {
+    description:
+      'Renovation and maintenance trades across the UAE. No fixed prices — ask for a quote by call or WhatsApp.',
+    href: '/services',
+    icon: Wrench,
+    title: 'Services',
+  },
+  {
+    description:
+      'Call or WhatsApp for the fastest reply. Based in Marina, Dubai.',
+    href: '/contact',
+    icon: Phone,
+    title: 'Contact Us',
+  },
 ]
 
 export const serviceLinks: SiteLink[] = [
   {
-    href: '#',
+    href: '/services',
     icon: Building2,
     title: 'Villa, Flat, Office & Shop Renovation',
   },
-  { href: '#', icon: AirVent, title: 'Air Conditioning Services' },
-  { href: '#', icon: Droplets, title: 'Plumbing & Carpentry' },
-  { href: '#', icon: Paintbrush, title: 'Masonry & Painting' },
-  { href: '#', icon: Hammer, title: 'Handyman & General Maintenance' },
+  { href: '/services', icon: AirVent, title: 'Air Conditioning Services' },
+  { href: '/services', icon: Droplets, title: 'Plumbing & Carpentry' },
+  { href: '/services', icon: Paintbrush, title: 'Masonry & Painting' },
+  { href: '/services', icon: Hammer, title: 'Handyman & General Maintenance' },
 ]
 
 export const contactLinks: SiteLink[] = [
@@ -86,9 +110,34 @@ export const contactLinks: SiteLink[] = [
 ]
 
 export const legalLinks: SiteLink[] = [
-  { href: '#', icon: Shield, title: 'Privacy Policy' },
-  { href: '#', icon: FileText, title: 'Terms of Use' },
+  {
+    description:
+      'Dummy policy for layout only. Replace when the legal company name and trade license are known.',
+    href: '/privacy',
+    icon: Shield,
+    title: 'Privacy Policy',
+  },
+  {
+    description:
+      'Dummy terms for layout only. Replace when the legal company name and trade license are known.',
+    href: '/terms',
+    icon: FileText,
+    title: 'Terms of Use',
+  },
 ]
+
+export const pageLinks: SiteLink[] = [...navLinks, ...legalLinks]
+
+export function getPageLink(pathname: string) {
+  if (!pathname) return
+
+  const href =
+    pathname.length > 1 && pathname.endsWith('/')
+      ? pathname.slice(0, -1)
+      : pathname
+
+  return pageLinks.find((link) => link.href === href)
+}
 
 export const socialLinks: SocialLink[] = [
   { href: 'https://facebook.com', icon: FacebookIcon, label: 'Facebook' },
