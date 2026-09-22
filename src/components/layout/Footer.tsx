@@ -10,11 +10,12 @@ import {
   type FooterLinkGroup,
   footerLinkGroups,
   legalLinks,
+  pages,
 } from '@/data/links'
 
 const FooterBrand = () => (
   <div className="lg:col-span-2">
-    <Link href="/" className="flex items-center space-x-2">
+    <Link href={pages.home.href} className="flex items-center space-x-2">
       <Logo />
     </Link>
     <p className="mt-4">

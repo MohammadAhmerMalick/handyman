@@ -2,12 +2,14 @@
 
 import { cn } from 'cn'
 import { MessageCircle } from 'lucide-react'
+import Link from 'next/link'
 import Logo from '@/components/shared/Logo'
 import NavigationSheet from '@/components/shared/navbar/NavigationSheet'
 import NavMenu from '@/components/shared/navbar/NavMenu'
 import { Button } from '@/components/ui/button'
 import { Container } from '@/components/ui/container'
 import { contact } from '@/data/contact'
+import { pages } from '@/data/links'
 import { useScrolledPast } from '@/hooks/useScrolledPast'
 
 const Navbar = () => {
@@ -27,9 +29,9 @@ const Navbar = () => {
           isCompact ? 'py-2 md:py-2 lg:py-2' : 'py-6 md:py-6 lg:py-6'
         )}
       >
-        <div className="w-60">
+        <Link href={pages.home.href} className="block w-60">
           <Logo className={cn('duration-300', isCompact ? 'w-52' : 'w-60')} />
-        </div>
+        </Link>
 
         {/* Desktop Menu */}
         <nav>

@@ -46,46 +46,85 @@ export type FooterLinkGroup = {
   title: string
 }
 
-export const navLinks: SiteLink[] = [
-  {
-    description: 'Renovation, maintenance, and trade services across the UAE.',
-    href: '/',
-    icon: Home,
-    title: 'Home',
-  },
-  {
+export const pages = {
+  about: {
     description:
       'Dummy about copy for layout. Replace with the real Handyman story later.',
     href: '/about',
     icon: Info,
     title: 'About Us',
   },
-  {
-    description:
-      'Renovation and maintenance trades across the UAE. No fixed prices — ask for a quote by call or WhatsApp.',
-    href: '/services',
-    icon: Wrench,
-    title: 'Services',
-  },
-  {
+  contact: {
     description:
       'Call or WhatsApp for the fastest reply. Based in Marina, Dubai.',
     href: '/contact',
     icon: Phone,
     title: 'Contact Us',
   },
+  home: {
+    description: 'Renovation, maintenance, and trade services across the UAE.',
+    href: '/',
+    icon: Home,
+    title: 'Home',
+  },
+  privacy: {
+    description:
+      'Dummy policy for layout only. Replace when the legal company name and trade license are known.',
+    href: '/privacy',
+    icon: Shield,
+    title: 'Privacy Policy',
+  },
+  services: {
+    description:
+      'Renovation and maintenance trades across the UAE. No fixed prices — ask for a quote by call or WhatsApp.',
+    href: '/services',
+    icon: Wrench,
+    title: 'Services',
+  },
+  terms: {
+    description:
+      'Dummy terms for layout only. Replace when the legal company name and trade license are known.',
+    href: '/terms',
+    icon: FileText,
+    title: 'Terms of Use',
+  },
+} satisfies Record<string, SiteLink>
+
+export const navLinks: SiteLink[] = [
+  pages.home,
+  pages.about,
+  pages.services,
+  pages.contact,
 ]
+
+export const legalLinks: SiteLink[] = [pages.privacy, pages.terms]
 
 export const serviceLinks: SiteLink[] = [
   {
-    href: '/services',
+    href: pages.services.href,
     icon: Building2,
     title: 'Villa, Flat, Office & Shop Renovation',
   },
-  { href: '/services', icon: AirVent, title: 'Air Conditioning Services' },
-  { href: '/services', icon: Droplets, title: 'Plumbing & Carpentry' },
-  { href: '/services', icon: Paintbrush, title: 'Masonry & Painting' },
-  { href: '/services', icon: Hammer, title: 'Handyman & General Maintenance' },
+  {
+    href: pages.services.href,
+    icon: AirVent,
+    title: 'Air Conditioning Services',
+  },
+  {
+    href: pages.services.href,
+    icon: Droplets,
+    title: 'Plumbing & Carpentry',
+  },
+  {
+    href: pages.services.href,
+    icon: Paintbrush,
+    title: 'Masonry & Painting',
+  },
+  {
+    href: pages.services.href,
+    icon: Hammer,
+    title: 'Handyman & General Maintenance',
+  },
 ]
 
 export const contactLinks: SiteLink[] = [
@@ -106,23 +145,6 @@ export const contactLinks: SiteLink[] = [
     href: contact.addressLink,
     icon: MapPin,
     title: contact.address,
-  },
-]
-
-export const legalLinks: SiteLink[] = [
-  {
-    description:
-      'Dummy policy for layout only. Replace when the legal company name and trade license are known.',
-    href: '/privacy',
-    icon: Shield,
-    title: 'Privacy Policy',
-  },
-  {
-    description:
-      'Dummy terms for layout only. Replace when the legal company name and trade license are known.',
-    href: '/terms',
-    icon: FileText,
-    title: 'Terms of Use',
   },
 ]
 
