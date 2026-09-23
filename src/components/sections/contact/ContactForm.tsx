@@ -3,10 +3,20 @@
 import type { ReactNode } from 'react'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
+import { Checkbox } from '@/components/ui/checkbox'
 import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
 
 const fieldClassName = 'h-12 px-4 text-base md:text-base'
+
+const helpOptions = [
+  'Commercial',
+  'Residential',
+  'Individual',
+  'Cleaning',
+  'Electrical',
+  'Assembly',
+] as const
 
 const ContactForm = () => {
   return (
@@ -22,23 +32,13 @@ const ContactForm = () => {
           noValidate
           onSubmit={(event) => event.preventDefault()}
         >
-          <Field id="first-name" label="First name">
+          <Field id="name" label="Name">
             <Input
-              autoComplete="given-name"
+              autoComplete="name"
               className={fieldClassName}
-              id="first-name"
-              name="firstName"
-              placeholder="First name"
-              type="text"
-            />
-          </Field>
-          <Field id="last-name" label="Last name">
-            <Input
-              autoComplete="family-name"
-              className={fieldClassName}
-              id="last-name"
+              id="name"
               name="lastName"
-              placeholder="Last name"
+              placeholder="Name"
               type="text"
             />
           </Field>
@@ -65,12 +65,39 @@ const ContactForm = () => {
             />
           </Field>
 
+          <fieldset className="grid gap-3">
+            <legend className="mb-2 font-medium text-heading text-sm">
+              How can we help?
+            </legend>
+            <div className="flex flex-wrap gap-3">
+              {helpOptions.map((option) => {
+                const id = `help-${option.toLowerCase()}`
+
+                return (
+                  <label
+                    className="flex cursor-pointer items-center gap-2 rounded-lg bg-input/50 px-3 py-1"
+                    htmlFor={id}
+                    key={option}
+                  >
+                    <Checkbox
+                      id={id}
+                      name="help"
+                      value={option}
+                      className="border-primary bg-white"
+                    />
+                    {option}
+                  </label>
+                )
+              })}
+            </div>
+          </fieldset>
+
           <Field id="details" label="Details">
             <Textarea
               className="min-h-40 px-4 py-3 text-base md:text-base"
               id="details"
               name="details"
-              placeholder="How can we help?"
+              placeholder="Tell us a bit more"
               rows={6}
             />
           </Field>
