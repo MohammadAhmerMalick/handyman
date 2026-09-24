@@ -2,6 +2,7 @@ import type { LucideIcon } from 'lucide-react'
 import {
   AirVent,
   Building2,
+  CircleHelp,
   Droplets,
   FileText,
   Hammer,
@@ -60,6 +61,13 @@ export const pages = {
     href: '/contact',
     icon: Phone,
     title: 'Contact Us',
+  },
+  faq: {
+    description:
+      'Answers about coverage, trades, hours, and how to ask for a quote.',
+    href: '/faq',
+    icon: CircleHelp,
+    title: 'FAQs',
   },
   home: {
     description: 'Renovation, maintenance, and trade services across the UAE.',
@@ -148,7 +156,7 @@ export const contactLinks: SiteLink[] = [
   },
 ]
 
-export const pageLinks: SiteLink[] = [...navLinks, ...legalLinks]
+export const pageLinks: SiteLink[] = [...navLinks, pages.faq, ...legalLinks]
 
 export function getPageLink(pathname: string) {
   if (!pathname) return
@@ -169,8 +177,16 @@ export const socialLinks: SocialLink[] = [
   { href: 'https://youtube.com', icon: YoutubeIcon, label: 'YouTube' },
 ]
 
+const footerNavLinks: SiteLink[] = [
+  pages.home,
+  pages.about,
+  pages.services,
+  pages.faq,
+  pages.contact,
+]
+
 export const footerLinkGroups: FooterLinkGroup[] = [
-  { icon: Link2, id: 'nav', links: navLinks, title: 'Quick Links' },
+  { icon: Link2, id: 'nav', links: footerNavLinks, title: 'Quick Links' },
   {
     icon: Wrench,
     id: 'services',

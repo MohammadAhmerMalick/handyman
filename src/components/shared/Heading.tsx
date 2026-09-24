@@ -29,7 +29,7 @@ const headingVariants = cva('flex w-full gap-4', {
 })
 
 const headingTextVariants = cva(
-  'text-balance font-bold font-heading tracking-tight',
+  'text-balance font-heading font-semibold tracking-tight',
   {
     defaultVariants: {
       size: 'lg',
@@ -74,22 +74,19 @@ const paragraphVariants = cva('max-w-2xl text-pretty leading-relaxed', {
   },
 })
 
-const eyebrowVariants = cva(
-  'font-semibold text-xs uppercase tracking-[0.2em]',
-  {
-    defaultVariants: {
-      variant: 'default',
+const eyebrowVariants = cva('font-semibold uppercase tracking-[0.2em]', {
+  defaultVariants: {
+    variant: 'default',
+  },
+  variants: {
+    variant: {
+      accent: 'text-primary',
+      default: 'text-foreground',
+      inverted: 'text-primary',
+      muted: 'text-muted-foreground',
     },
-    variants: {
-      variant: {
-        accent: 'text-primary',
-        default: 'text-muted-foreground',
-        inverted: 'text-primary',
-        muted: 'text-muted-foreground',
-      },
-    },
-  }
-)
+  },
+})
 
 const dividerVariants = cva('h-1 w-12 rounded-full', {
   compoundVariants: [

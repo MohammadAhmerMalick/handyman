@@ -17,7 +17,7 @@ const PageTitle = ({ className, pathname }: PageTitleProps) => {
 
   return (
     <section className={cn(className, 'relative bg-primary-foreground')}>
-      <Container className="relative z-10 py-12 md:py-16 lg:py-20 [&_p]:text-white">
+      <Container className="relative z-10 py-12 md:py-16 lg:py-20 [&_p]:min-h-14 [&_p]:text-white">
         <Heading
           as="h1"
           heading={page.title}
