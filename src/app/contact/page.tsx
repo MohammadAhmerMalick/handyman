@@ -2,9 +2,9 @@ import ContactDetails from '@/components/sections/contact/ContactDetails'
 import ContactForm from '@/components/sections/contact/ContactForm'
 import { Container } from '@/components/ui/container'
 
-export default function ContactPage() {
+const ContactPage = () => {
   return (
-    <main>
+    <>
       <Container>
         <div className="grid items-start gap-10 lg:grid-cols-2 lg:gap-16">
           <ContactForm />
@@ -22,6 +22,8 @@ export default function ContactPage() {
         title="Dubai Marina on Google Maps"
         className="w-full"
       />
-    </main>
+    </>
   )
 }
+
+export default ContactPage

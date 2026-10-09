@@ -19,7 +19,7 @@ type RootLayoutProps = {
   pageTitle: ReactNode
 }
 
-export default function RootLayout({ children, pageTitle }: RootLayoutProps) {
+const RootLayout = ({ children, pageTitle }: RootLayoutProps) => {
   return (
     <html
       lang="en"
@@ -29,10 +29,12 @@ export default function RootLayout({ children, pageTitle }: RootLayoutProps) {
         <TopBar />
         <Navbar />
         {pageTitle}
-        <div className="flex flex-1 flex-col">{children}</div>
+        <main className="flex flex-1 flex-col">{children}</main>
         <Footer />
         <ScrollToTop />
       </body>
     </html>
   )
 }
+
+export default RootLayout

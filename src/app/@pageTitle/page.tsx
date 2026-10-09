@@ -1,3 +1,5 @@
-export default function PageTitleSlot() {
+const PageTitleSlot = () => {
   return null
 }
+
+export default PageTitleSlot

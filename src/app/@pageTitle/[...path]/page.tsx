@@ -15,8 +15,10 @@ export function generateStaticParams() {
 
 export const dynamicParams = false
 
-export default async function PageTitleSlot({ params }: PageTitleSlotProps) {
+const PageTitleSlot = async ({ params }: PageTitleSlotProps) => {
   const { path } = await params
 
   return <PageTitle pathname={`/${path.join('/')}`} />
 }
+
+export default PageTitleSlot
