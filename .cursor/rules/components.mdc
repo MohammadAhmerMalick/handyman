@@ -30,4 +30,33 @@ src/components/shared/container.tsx
 src/components/ui/button.tsx // Shadcn CLI only
 ```
 
-Add Shadcn primitives with the Shadcn CLI into `src/components/ui/` only. Compose them from `layout/`, `sections/`, and `shared/`.
+Add Shadcn primitives with the Shadcn CLI into `src/components/ui/` only. Compose them from `layout/`, `sections/`, and `shared/`. Do not rewrite Shadcn CLI files to match the site component export style.
+
+## Component exports
+
+Declare site components as a named `const`, then export. Do not use `export default function` or `export function` for new pages, layouts, or site components.
+
+```tsx
+// ❌ BAD
+export default function AboutPage() {
+  return <AboutHighlightsSection />
+}
+
+export function AppStoreBadge(props: StoreBadgeProps) {
+  return <svg {...props} />
+}
+
+// ✅ GOOD — default export (pages, layouts, section files)
+const AboutPage = () => {
+  return <AboutHighlightsSection />
+}
+
+export default AboutPage
+
+// ✅ GOOD — named exports (shared badges, etc.)
+const AppStoreBadge = (props: StoreBadgeProps) => {
+  return <svg {...props} />
+}
+
+export { AppStoreBadge }
+```

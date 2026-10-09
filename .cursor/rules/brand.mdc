@@ -5,31 +5,36 @@ alwaysApply: true
 
 # Brand colors
 
-Use only this palette. Map to CSS variables / Shadcn theme tokens rather than scattering one-off hex values.
+Use only this palette. Hex values live in `globals.css` as CSS variables — **never** put raw hexes in `className` (no `text-[#222222]`, `bg-[#ffc527]`, etc.).
 
-| Hex | Role |
-| --- | --- |
-| `#ffc527` | Primary buttons; headings sitting on dark backgrounds |
-| `#222222` | Dark surfaces (footer and similar); heading text on light backgrounds |
-| `#434343` | Paragraph / body text on light backgrounds |
+| Hex | Token | Role |
+| --- | --- | --- |
+| `#ffc527` | `primary` | Primary buttons; headings on dark backgrounds |
+| `#222222` | `heading` (text) / `primary-foreground` (dark surfaces) | Heading text on light backgrounds; dark section backgrounds |
+| `#434343` | `foreground` | Paragraph / body text on light backgrounds |
 
 ```tsx
-// ❌ BAD — random accent, light heading on dark footer
+// ❌ BAD — random accent, or raw brand hexes in className
 <button className="bg-blue-600">Get a quote</button>
-<footer className="bg-black text-white">
-  <h2 className="text-white">Our services</h2>
-  <p className="text-white/80">We renovate villas and flats.</p>
-</footer>
-
-// ✅ GOOD
 <button className="bg-[#ffc527] text-[#222222]">Get a quote</button>
 <footer className="bg-[#222222]">
   <h2 className="text-[#ffc527]">Our services</h2>
+</footer>
+
+// ✅ GOOD — theme tokens only
+<button className="bg-primary text-primary-foreground">Get a quote</button>
+<footer className="bg-primary-foreground">
+  <h2 className="text-primary">Our services</h2>
   <p className="text-white/80">We renovate villas and flats.</p>
 </footer>
 ```
 
-Prefer theme tokens (`bg-primary`, `text-foreground`) once they are wired to these hex values. Until then, use the hexes above.
+Prefer semantic usage:
+
+- Page / section titles: use the shared `Heading` (or `PageTitle`) component — it already applies `text-heading`
+- Raw `h1`–`h6`: inherit `text-heading` from the base layer in `globals.css`; do not restate the color
+- Body copy: inherit `text-foreground` from `body`; use `text-muted-foreground` for secondary notes
+- Do not invent a second palette
 
 # Fonts
 

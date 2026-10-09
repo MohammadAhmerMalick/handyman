@@ -23,7 +23,7 @@ type FaqSectionProps = {
   showAll?: boolean
 }
 
-export default function FaqSection({ showAll = false }: FaqSectionProps) {
+const FaqSection = ({ showAll = false }: FaqSectionProps) => {
   const [query, setQuery] = useState('')
 
   const visibleFaqs = useMemo(() => {
@@ -148,3 +148,5 @@ export default function FaqSection({ showAll = false }: FaqSectionProps) {
     </section>
   )
 }
+
+export default FaqSection

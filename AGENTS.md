@@ -34,6 +34,7 @@ We are in **UI designing mode**. Build page by page / section by section. Follow
 - Shadcn UI + Tailwind CSS
 - Prefer existing Shadcn components; add new ones with the Shadcn CLI when needed
 - Component folders (`src/components/`): `ui/` Shadcn only; `layout/` header/footer/shell; `sections/<name>/` page blocks; `shared/` logo, container, and other reused site pieces (see `.cursor/rules/components.mdc`)
+- Component exports: declare a named `const`, then `export default Name` (or `export { Name }` for named exports). Do not use `export default function` / `export function` for new site components. Leave Shadcn CLI files in `ui/` as generated. Next.js route helpers such as `generateStaticParams` stay as named functions.
 - Domain: `handyman.ae`
 - Hosting now: Vercel
 - Hosting later: Contabo with Docker and database services (upcoming; do not set up now)
@@ -57,10 +58,10 @@ Marketing site for **Handyman** — renovation, maintenance, and trade services 
 | Token | Hex | Use |
 | --- | --- | --- |
 | Accent / primary | `#ffc527` | Primary buttons; headings on dark backgrounds |
-| Dark surface | `#222222` | Footer and other dark sections; heading text on light backgrounds |
-| Body text | `#434343` | Paragraphs on light backgrounds |
+| Dark surface / heading | `#222222` | Footer and other dark sections; heading text on light backgrounds (`heading` / `primary-foreground`) |
+| Body text | `#434343` | Paragraphs on light backgrounds (`foreground`) |
 
-Map these to CSS variables / Shadcn theme tokens. Do not introduce a second palette.
+Hex values live in `globals.css` only. In components use theme tokens (`bg-primary`, `text-heading`, `text-foreground`, …) — never raw hexes in `className`. Prefer the shared `Heading` / `PageTitle` components for titles. Do not introduce a second palette.
 
 ### Fonts
 
@@ -105,12 +106,13 @@ Do not add an icon library or pick social platforms yet. That happens in dev mod
 2. About us
 3. Contact
 4. Services list
-5. Privacy Policy (dummy)
-6. Terms of Use (dummy)
+5. FAQs
+6. Privacy Policy (dummy)
+7. Terms of Use (dummy)
 
 Do not add extra routes, dashboards, or accounts unless asked.
 
-Nav, footer, legal, and social hrefs/icons live in `src/data/links.ts`. Pages that are not built yet stay `#`.
+Nav, footer, legal, and social hrefs/icons live in `src/data/links.ts`. Pages that are not built yet stay `#`. Live routes: `/`, `/about`, `/services`, `/faq`, `/contact`, `/privacy`, `/terms`.
 
 ## SEO and analytics
 

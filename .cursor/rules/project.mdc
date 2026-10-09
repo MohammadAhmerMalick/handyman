@@ -15,6 +15,7 @@ We are in **UI designing mode**. Build UI from `TASKS.md` (read that file first)
 - Shadcn UI + Tailwind CSS
 - Reuse Shadcn components; add new ones via the Shadcn CLI into `src/components/ui/` only
 - Other UI: `src/components/layout/`, `sections/<name>/`, `shared/` (see `.cursor/rules/components.mdc`)
+- New site components: `const Name = () => { ... }` then `export default Name` (or `export { Name }`). Do not use `export default function`.
 - Domain: `handyman.ae`
 - Host now on Vercel; later Contabo + Docker + DB (upcoming)
 - Repo: public GitHub [MohammadAhmerMalick/handyman](https://github.com/MohammadAhmerMalick/handyman) (`git@github.com:MohammadAhmerMalick/handyman.git`)
@@ -36,7 +37,7 @@ We are in **UI designing mode**. Build UI from `TASKS.md` (read that file first)
 
 ## Pages
 
-Home, About us, Contact, Services, Privacy (dummy), Terms (dummy). No extra routes unless asked.
+Home, About us, Contact, Services, FAQs, Privacy (dummy), Terms (dummy). No extra routes unless asked.
 
 Do not write SEO title/description or add analytics in code yet.
 

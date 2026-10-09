@@ -40,7 +40,7 @@ const headingTextVariants = cva(
         lg: 'text-3xl leading-tight md:text-4xl',
         md: 'text-2xl leading-snug md:text-3xl',
         sm: 'text-xl leading-snug md:text-2xl',
-        xl: 'text-4xl leading-tight md:text-5xl',
+        xl: 'text-4xl leading-tight md:text-[40px]',
       },
       variant: {
         accent: 'text-heading',
@@ -152,7 +152,7 @@ const Heading = ({
     <header className={cn(headingVariants({ layout, variant }), className)}>
       <div
         className={cn(
-          'flex flex-col gap-3',
+          'flex flex-col gap-2',
           layout === 'center' && 'items-center',
           layout === 'right' && 'items-end',
           layout === 'split' && 'min-w-0 flex-1'
