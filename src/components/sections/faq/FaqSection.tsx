@@ -115,14 +115,8 @@ const FaqSection = ({ showAll = false }: FaqSectionProps) => {
             ) : (
               <Accordion className="gap-3 overflow-visible rounded-none border-0">
                 {visibleFaqs.map((faq) => (
-                  <AccordionItem
-                    key={faq.question}
-                    value={faq.question}
-                    className="rounded-xl border border-border bg-background px-2 last:border-b data-open:border-primary/50 data-open:bg-primary/10"
-                  >
-                    <AccordionTrigger className="py-4 font-medium text-base text-heading hover:no-underline">
-                      {faq.question}
-                    </AccordionTrigger>
+                  <AccordionItem key={faq.question} value={faq.question}>
+                    <AccordionTrigger>{faq.question}</AccordionTrigger>
                     <AccordionContent>
                       <p>{faq.answer}</p>
                     </AccordionContent>
