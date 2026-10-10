@@ -2,6 +2,7 @@ import { cn } from 'cn'
 import { Clock } from 'lucide-react'
 import Link from 'next/link'
 import { Fragment } from 'react'
+import { ApplicationStoreLinks } from '@/components/shared/ApplicationStoreLinks'
 import Logo from '@/components/shared/Logo'
 import SocialLinks from '@/components/shared/SocialLinks'
 import { Container } from '@/components/ui/container'
@@ -61,7 +62,12 @@ const FooterLinkColumn = ({ group }: { group: FooterLinkGroup }) => (
       ))}
     </ul>
 
-    {group.id === 'contact' && <SocialLinks className="mt-6" />}
+    {group.id === 'contact' && (
+      <>
+        <SocialLinks className="mt-6" />
+        <ApplicationStoreLinks className="mt-6" />
+      </>
+    )}
   </div>
 )
 
