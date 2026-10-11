@@ -23,7 +23,10 @@ const RootLayout = ({ children, pageTitle }: RootLayoutProps) => {
   return (
     <html
       lang="en"
-      className={cn('h-full bg-primary font-sans antialiased', outfit.variable)}
+      className={cn(
+        'h-full scroll-smooth bg-primary font-sans antialiased',
+        outfit.variable
+      )}
     >
       <body className="flex min-h-full flex-col bg-white">
         <TopBar />

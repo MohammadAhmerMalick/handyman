@@ -28,23 +28,23 @@ const ServiceCard = ({ service }: ServiceCardProps) => {
   return (
     <li className="h-full">
       <Link
-        className="group flex h-full gap-4 rounded-2xl border border-border bg-card p-4 shadow-muted shadow-sm transition-shadow duration-300 hover:shadow-md md:p-5"
+        className="group flex h-full gap-4 rounded-2xl border border-border bg-card p-4 text-foreground shadow-muted shadow-sm transition-[background-color,box-shadow,border-color,color] duration-500 hover:border-primary hover:bg-primary hover:text-heading hover:shadow-md md:p-5"
         href={serviceHref(service.slug)}
       >
-        <span className="inline-flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary text-primary-foreground">
+        <span className="inline-flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary text-primary-foreground transition-colors duration-500 group-hover:bg-primary-foreground group-hover:text-primary">
           <service.icon aria-hidden className="size-5" />
         </span>
         <span className="flex min-w-0 flex-1 flex-col gap-1.5">
           <span className="flex items-start justify-between gap-3">
-            <h3 className="font-semibold text-base text-heading leading-snug transition-colors group-hover:text-primary">
+            <h3 className="font-semibold text-base text-heading leading-snug duration-500 group-hover:text-black">
               {service.title}
             </h3>
             <ArrowRight
               aria-hidden
-              className="mt-0.5 size-4 shrink-0 text-heading transition-transform duration-300 group-hover:translate-x-1 group-hover:text-primary"
+              className="mt-0.5 size-4 shrink-0 text-heading transition-transform duration-500 group-hover:translate-x-1 group-hover:text-black"
             />
           </span>
-          <p className="line-clamp-2 text-sm leading-relaxed">
+          <p className="line-clamp-2 text-sm leading-relaxed duration-500 group-hover:text-black">
             {serviceSummary(service.description)}
           </p>
         </span>
@@ -56,10 +56,10 @@ const ServiceCard = ({ service }: ServiceCardProps) => {
 const ServicesCatalog = () => {
   return (
     <div>
-      <div className="sticky top-[4.625rem] z-40 border-border border-b bg-white/95 backdrop-blur">
+      <div className="sticky top-18.5 z-40 border-border border-b bg-white/95 backdrop-blur">
         <Container className="py-3 md:py-3 lg:py-3">
           <nav aria-label="Service categories">
-            <ul className="flex gap-2 overflow-x-auto">
+            <ul className="flex gap-2 overflow-x-auto scroll-smooth [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
               {catalogByCategory.map(({ category }) => (
                 <li className="shrink-0" key={category.id}>
                   <a

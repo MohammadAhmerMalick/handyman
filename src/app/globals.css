@@ -142,6 +142,28 @@ body {
   }
   html {
     @apply font-sans;
+    scrollbar-color: var(--primary) var(--muted);
+    scrollbar-width: thin;
+  }
+
+  *::-webkit-scrollbar {
+    height: 0.5rem;
+    width: 0.5rem;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: var(--muted);
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background: var(--primary);
+    border-radius: 9999px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
   }
   h1,
   h2,
