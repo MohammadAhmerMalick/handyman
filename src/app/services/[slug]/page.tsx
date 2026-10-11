@@ -6,13 +6,13 @@ type ServiceDetailPageProps = {
   params: Promise<{ slug: string }>
 }
 
-export function generateStaticParams() {
+export const generateStaticParams = () => {
   return publishedServices.map((service) => ({ slug: service.slug }))
 }
 
 export const dynamicParams = false
 
-export async function generateMetadata({ params }: ServiceDetailPageProps) {
+export const generateMetadata = async ({ params }: ServiceDetailPageProps) => {
   const { slug } = await params
   const service = getServiceBySlug(slug)
 

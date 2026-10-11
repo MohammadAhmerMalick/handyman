@@ -133,7 +133,7 @@ export const contactLinks: SiteLink[] = [
 
 export const pageLinks: SiteLink[] = [...navLinks, pages.faq, ...legalLinks]
 
-export function getPageLink(pathname: string) {
+export const getPageLink = (pathname: string) => {
   if (!pathname) return
 
   const href =

@@ -6,7 +6,7 @@ type PageTitleSlotProps = {
   params: Promise<{ slug: string }>
 }
 
-export function generateStaticParams() {
+export const generateStaticParams = () => {
   return publishedServices.map((service) => ({ slug: service.slug }))
 }
 

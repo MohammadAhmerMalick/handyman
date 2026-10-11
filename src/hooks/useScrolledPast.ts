@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react'
 
-export function useScrolledPast(threshold: number, hysteresis = 0) {
+export const useScrolledPast = (threshold: number, hysteresis = 0) => {
   const [isPast, setIsPast] = useState(false)
 
   useEffect(() => {
@@ -21,6 +21,6 @@ export function useScrolledPast(threshold: number, hysteresis = 0) {
   return isPast
 }
 
-export function scrollToTop() {
+export const scrollToTop = () => {
   window.scrollTo({ behavior: 'smooth', top: 0 })
 }

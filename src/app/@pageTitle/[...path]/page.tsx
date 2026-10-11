@@ -5,7 +5,7 @@ type PageTitleSlotProps = {
   params: Promise<{ path: string[] }>
 }
 
-export function generateStaticParams() {
+export const generateStaticParams = () => {
   return pageLinks
     .filter((link) => link.href !== '/')
     .map((link) => ({
