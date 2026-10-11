@@ -128,6 +128,7 @@ const FaqSection = ({ showAll = false }: FaqSectionProps) => {
             {showAll ? null : (
               <Button
                 size="lg"
+                variant="outline"
                 className="w-full sm:w-fit"
                 render={<Link href={pages.faq.href} />}
                 nativeButton={false}
