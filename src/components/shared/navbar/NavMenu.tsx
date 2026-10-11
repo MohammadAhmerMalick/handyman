@@ -30,7 +30,7 @@ const NavMenu = ({ orientation, ...props }: NavMenuProps) => {
               className={cn(
                 navigationMenuTriggerStyle(),
                 'gap-2 border border-transparent text-white text-xl duration-500 hover:border-primary/30 hover:bg-transparent hover:text-primary hover:shadow-md focus:bg-transparent',
-                pathname === link.href
+                pathname === link.href || pathname.startsWith(`${link.href}/`)
                   ? 'bg-black/10 text-primary hover:bg-black/40'
                   : ''
               )}

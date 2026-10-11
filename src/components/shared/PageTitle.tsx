@@ -7,22 +7,31 @@ import { getPageLink } from '@/data/links'
 
 type PageTitleProps = {
   className?: string
-  pathname: string
+  description?: string
+  pathname?: string
+  title?: string
 }
 
-const PageTitle = ({ className, pathname }: PageTitleProps) => {
-  const page = getPageLink(pathname)
+const PageTitle = ({
+  className,
+  description,
+  pathname,
+  title,
+}: PageTitleProps) => {
+  const page = pathname ? getPageLink(pathname) : undefined
+  const heading = title ?? page?.title
+  const paragraph = description ?? page?.description
 
-  if (!page?.description || !page?.title) return null
+  if (!heading || !paragraph) return null
 
   return (
     <section className={cn(className, 'relative bg-primary-foreground')}>
       <Container className="relative z-10 py-12 md:py-16 lg:py-20 [&_p]:min-h-14 [&_p]:text-white">
         <Heading
           as="h1"
-          heading={page.title}
+          heading={heading}
           layout="left"
-          paragraph={page.description}
+          paragraph={paragraph}
           size="xl"
           variant="inverted"
         />

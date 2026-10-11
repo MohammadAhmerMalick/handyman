@@ -1,18 +1,14 @@
 import type { LucideIcon } from 'lucide-react'
 import {
-  AirVent,
-  Building2,
   CircleHelp,
-  Droplets,
   FileText,
-  Hammer,
+  Handshake,
   Home,
   Info,
   Link2,
   Mail,
   MapPin,
   MessageCircle,
-  Paintbrush,
   Phone,
   Shield,
   Wrench,
@@ -25,6 +21,7 @@ import {
   YoutubeIcon,
 } from '@/components/ui/brand-icons'
 import { contact } from '@/data/contact'
+import { highlightServices, serviceHref } from '@/data/services'
 
 export type SiteLink = {
   description?: string
@@ -107,33 +104,11 @@ export const navLinks: SiteLink[] = [
 
 export const legalLinks: SiteLink[] = [pages.privacy, pages.terms]
 
-export const serviceLinks: SiteLink[] = [
-  {
-    href: pages.services.href,
-    icon: Building2,
-    title: 'Villa, Flat, Office & Shop Renovation',
-  },
-  {
-    href: pages.services.href,
-    icon: AirVent,
-    title: 'Air Conditioning Services',
-  },
-  {
-    href: pages.services.href,
-    icon: Droplets,
-    title: 'Plumbing & Carpentry',
-  },
-  {
-    href: pages.services.href,
-    icon: Paintbrush,
-    title: 'Masonry & Painting',
-  },
-  {
-    href: pages.services.href,
-    icon: Hammer,
-    title: 'Handyman & General Maintenance',
-  },
-]
+export const serviceLinks: SiteLink[] = highlightServices.map((service) => ({
+  href: serviceHref(service.slug),
+  icon: service.icon,
+  title: service.title,
+}))
 
 export const contactLinks: SiteLink[] = [
   {
@@ -194,7 +169,7 @@ export const footerLinkGroups: FooterLinkGroup[] = [
     title: 'Our Services',
   },
   {
-    icon: Phone,
+    icon: Handshake,
     id: 'contact',
     links: contactLinks,
     title: 'Quick Contact',

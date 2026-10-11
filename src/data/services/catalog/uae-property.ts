@@ -1,0 +1,434 @@
+import type { ServiceSeed } from '@/data/services/buildService'
+import { createSeed } from '@/data/services/catalog/createSeed'
+
+const category = 'uae-property' as const
+
+export const uaePropertySeeds: ServiceSeed[] = [
+  createSeed(category, {
+    angle:
+      'handyman services tuned to Dubai apartment towers and community rules',
+    benefits: [
+      'Experience with high-rise logistics',
+      'Clear communication for tenant-occupied units',
+      'Marina and urban community familiarity',
+    ],
+    includes: [
+      'repairs coordinated with security and access desks',
+      'quiet-hour scheduling for noisy tasks',
+      'typical flat fixes across wet areas and joinery',
+      'photo reports for overseas landlords',
+    ],
+    keywords: ['apartment handyman Dubai', 'flat maintenance Dubai Marina'],
+    outcome:
+      'work completes with minimal disruption and documentation for remote owners',
+    problems: [
+      'body corporate repair approval delays',
+      'service lift booking missed',
+      'neighbour noise complaints from drilling',
+      'humidity affecting built-in wardrobes',
+    ],
+    slug: 'apartment-maintenance-in-dubai',
+    tips: [
+      'Book parking or loading bay when required',
+      'Provide NOC copies before structural fixes',
+      'Notify neighbours for short noisy windows',
+    ],
+    title: 'Apartment Maintenance in Dubai',
+    whenNeeded:
+      'Use when Dubai flat owners need repairs that respect building access and quiet hours.',
+  }),
+  createSeed(category, {
+    angle: 'whole-home maintenance for Dubai villas and townhouses',
+    benefits: [
+      'Single visit covers more ground than flat-only teams',
+      'Understands villa access and staff room areas',
+      'Documentation for landlord clients',
+    ],
+    includes: [
+      'multi-zone inspection inside the home',
+      'minor gate, door, and fixture repairs',
+      'coordination with garden or pool contractors when needed',
+      'humidity and dust advice for unused wings',
+    ],
+    outcome:
+      'living areas and entrances stay functional with outdoor notes for seasonal follow-up',
+    problems: [
+      'compound gate alignment issues',
+      'multiple AC units with uneven service history',
+      'utility room leaks',
+      'garden irrigation overspray on walls',
+    ],
+    related: ['villa-maintenance', 'outdoor-and-villa-maintenance'],
+    slug: 'villa-maintenance-in-dubai',
+    tips: [
+      'Share gate and alarm instructions securely',
+      'Rinse outdoor hardware after sandstorms',
+      'Schedule visits before summer guest peaks',
+    ],
+    title: 'Villa Maintenance in Dubai',
+    whenNeeded:
+      'Arrange for family villas needing indoor and limited outdoor upkeep.',
+  }),
+  createSeed(category, {
+    angle:
+      'maintenance for Sharjah apartments and villas within UAE service area',
+    benefits: [
+      'UAE-wide service without claiming other emirates offices',
+      'Honest travel planning in quotes',
+      'Consistent quality across emirates',
+    ],
+    includes: [
+      'travel-confirmed scheduling from Dubai base',
+      'repairs adapted to common Sharjah construction types',
+      'tenant coordination via agents',
+      'clear scope on follow-up visits if needed',
+    ],
+    keywords: ['handyman Sharjah', 'home maintenance Sharjah UAE'],
+    outcome:
+      'repairs respect community norms with travel time confirmed in quotes',
+    problems: [
+      'longer travel affecting scheduling expectations',
+      'older buildings with mixed wall types',
+      'Friday prayer quiet preferences',
+      'parking constraints in dense blocks',
+    ],
+    slug: 'residential-maintenance-in-sharjah',
+    tips: [
+      'Confirm community gate passes early',
+      'Allow extra time for Friday schedules',
+      'Share exact pin locations for new areas',
+    ],
+    title: 'Residential Maintenance in Sharjah',
+    whenNeeded:
+      'Book when Sharjah properties need the same handyman support as Dubai sites.',
+  }),
+  createSeed(category, {
+    angle:
+      'basic AC upkeep tasks within handyman scope alongside specialist HVAC partners',
+    benefits: [
+      'Bridges gaps between full service visits',
+      'Reduces overflow stains on ceilings',
+      'Documents when licensed service is due',
+    ],
+    includes: [
+      'filter cleaning or replacement where owner supplies filters',
+      'visual condensate line checks within reach',
+      'grille and vent cover cleaning coordination',
+      'referral notes for licensed HVAC technicians',
+    ],
+    outcome:
+      'units run more efficiently with clean filters and clear condensate paths where accessible',
+    problems: [
+      'weak cooling before summer peaks',
+      'water stains from blocked condensate trays',
+      'musty smells from dirty filters',
+      'no record of last filter change',
+    ],
+    related: [
+      'air-conditioning-services',
+      'ac-drainage-and-condensation-troubleshooting',
+    ],
+    slug: 'ac-maintenance-for-uae-properties',
+    tips: [
+      'Change filters on a calendar rhythm',
+      'Keep condensate paths clear of storage',
+      'Report unusual noises to HVAC specialists',
+    ],
+    title: 'AC Maintenance for UAE Properties',
+    whenNeeded:
+      'Schedule between formal HVAC service contracts for filters, drains, and visible checks.',
+  }),
+  createSeed(category, {
+    angle:
+      'addressing visible AC drips, blocked drains, and condensation stains',
+    benefits: [
+      'Limits spread of water damage quickly',
+      'Clear handover to HVAC when refrigerant work needed',
+      'Useful in stacked apartments',
+    ],
+    includes: [
+      'inspection of accessible drain lines and trays',
+      'clearing of reachable blockages within scope',
+      'advice on isolation until HVAC attends if needed',
+      'minor stain drying guidance for ceilings',
+    ],
+    outcome:
+      'active drips are traced to accessible causes and temporary damage is stabilised',
+    problems: [
+      'ceiling bulges under upstairs units',
+      'balcony tiles slippery from condensate',
+      'musty cupboards below wall-mounted units',
+      'DIY wet-vac attempts pushing debris deeper',
+    ],
+    related: ['humidity-related-maintenance', 'minor-water-damage-repairs'],
+    slug: 'ac-drainage-and-condensation-troubleshooting',
+    tips: [
+      'Never ignore recurring drips after clears',
+      'Keep area below units clear for access',
+      'Photograph stains for landlord records',
+    ],
+    title: 'AC Drainage and Condensation Troubleshooting',
+    whenNeeded:
+      'Call when water marks appear below indoor units or balcony drips persist.',
+  }),
+  createSeed(category, {
+    angle:
+      'fixes triggered by UAE humidity such as sticking doors and mould-prone seals',
+    benefits: [
+      'Addresses root habits not just symptoms',
+      'Reduces repeat callbacks same season',
+      'Practical for coastal properties',
+    ],
+    includes: [
+      'planing or adjustment of sticking doors within limits',
+      'silicone and seal inspections in wet areas',
+      'ventilation recommendations for closed rooms',
+      'coordination with dehumidifier placement advice',
+    ],
+    outcome:
+      'movement and seals improve with humidity-aware adjustments and ventilation advice',
+    problems: [
+      'doors latching only in winter',
+      'wardrobe backs smelling musty',
+      'peeling paint in poorly ventilated baths',
+      'condensation on cold pipes',
+    ],
+    related: ['draught-proofing', 'sealant-and-grout-maintenance'],
+    slug: 'humidity-related-maintenance',
+    tips: [
+      'Run exhaust fans during showers',
+      'Leave wardrobe doors ajar occasionally',
+      'Fix leaks before treating mould cosmetically',
+    ],
+    title: 'Humidity-Related Maintenance',
+    whenNeeded:
+      'Book when seasonal humidity swells timber or darkens silicone.',
+  }),
+  createSeed(category, {
+    angle:
+      'localised sealing and repair of balcony waterproofing within handyman scope',
+    benefits: [
+      'Stabilises situation until major works scheduled',
+      'Documents issues for body corporate',
+      'Suited to tenant-occupied flats',
+    ],
+    includes: [
+      'inspection of visible cracks and joints',
+      'localised sealant and grout repair',
+      'temporary containment of active drips where safe',
+      'referral guidance for certified waterproofing contractors',
+    ],
+    outcome:
+      'accessible cracks and junctions are sealed with appropriate products pending full specialist works',
+    problems: [
+      'cracked tile grout letting water sideways',
+      'failed door thresholds onto balconies',
+      'planter overflow staining downstairs facades',
+      'uncertainty whether full membrane retile is needed',
+    ],
+    related: ['waterproofing', 'window-and-door-weather-sealing'],
+    slug: 'balcony-and-terrace-waterproofing',
+    tips: [
+      'Avoid flooding balconies when testing drains',
+      'Do not cover weep holes inadvertently',
+      'Report structural cracks immediately',
+    ],
+    title: 'Balcony and Terrace Waterproofing',
+    whenNeeded:
+      'Arrange when neighbours report drips or tiles lift after rain.',
+  }),
+  createSeed(category, {
+    angle: 'seals to reduce dust, noise, and AC loss around glazing and frames',
+    benefits: [
+      'Comfort upgrade without full window replacement',
+      'Pairs with draught proofing on doors',
+      'Helps AC efficiency measurably in gaps',
+    ],
+    includes: [
+      'replacement of accessible gaskets and brushes',
+      'silicone renewal at frame junctions',
+      'alignment tweaks on hinges and rollers',
+      'operation test through full travel',
+    ],
+    outcome: 'seals compress evenly and doors still lock securely',
+    problems: [
+      'failed rubber gaskets on aluminium sliders',
+      'hard sun cracking exterior sealant',
+      'double doors misaligned after carpet changes',
+      'noise from busy roads through gaps',
+    ],
+    related: ['draught-proofing', 'doors-windows'],
+    slug: 'window-and-door-weather-sealing',
+    tips: [
+      'Clean tracks before new brushes',
+      'Lubricate rollers with appropriate products',
+      'Inspect seals after major dust storms',
+    ],
+    title: 'Window and Door Weather Sealing',
+    whenNeeded:
+      'Use when sand enters around sliders or balcony doors whistle in wind.',
+  }),
+  createSeed(category, {
+    angle: 'removal and renewal of silicone at sinks, baths, and counters',
+    benefits: [
+      'Pass handover inspections more reliably',
+      'Protects cabinets from hidden rot',
+      'Quick uplift before photography',
+    ],
+    includes: [
+      'cut-out of failed silicone sections',
+      'surface prep and mould treatment where needed',
+      'application of sanitary-grade silicone',
+      'cure time signage for occupants',
+    ],
+    outcome:
+      'fresh silicone lines are continuous with proper cure times communicated',
+    problems: [
+      'blackened bath corners despite cleaning',
+      'sink silicone letting water to base units',
+      'tenant move-out failing inspection on seals',
+      'wrong product used previously peeling fast',
+    ],
+    related: ['sealant-and-grout-maintenance', 'bathroom-deep-cleaning'],
+    slug: 'kitchen-and-bathroom-silicone-resealing',
+    tips: [
+      'Keep areas dry during cure window',
+      'Ventilate well when removing old silicone',
+      'Do not use baths until full cure',
+    ],
+    title: 'Kitchen and Bathroom Silicone Resealing',
+    whenNeeded:
+      'Book when mould returns quickly after cleaning or water creeps to cabinets.',
+  }),
+  createSeed(category, {
+    angle:
+      'rental upkeep for UAE landlords across Dubai, Sharjah, and wider emirates',
+    benefits: [
+      'One partner for multi-emirate portfolios within UAE',
+      'Clear boundaries on specialist referrals',
+      'Supports agency maintenance workflows',
+    ],
+    includes: [
+      'standardised snag triage process',
+      'repairs within agreed landlord scope',
+      'photo closure for each ticket',
+      'travel-aware scheduling from Dubai base',
+    ],
+    outcome:
+      'units receive comparable repair quality with travel and access planned upfront',
+    problems: [
+      'inconsistent vendor quality between emirates',
+      'tenant expectations differing by community',
+      'remote owners needing photo proof',
+      'mix of villa and apartment snags',
+    ],
+    related: ['rental-property-maintenance', 'landlord-repair-services'],
+    slug: 'uae-rental-property-maintenance',
+    tips: [
+      'Batch visits by geography when possible',
+      'Keep master keys secure and logged',
+      'Align with tenancy repair timelines',
+    ],
+    title: 'UAE Rental Property Maintenance',
+    whenNeeded:
+      'Schedule when portfolios need consistent repair standards without multiple vendors.',
+  }),
+  createSeed(category, {
+    angle: 'combined maintenance for tenancy changes anywhere in the UAE',
+    benefits: [
+      'Shorter void periods',
+      'Less miscommunication between tenants',
+      'Photographic trail for deposits',
+    ],
+    includes: [
+      'outgoing repair pass from inspection list',
+      'incoming snag closure before key handover',
+      'priority ordering for beds, curtains, and safety items',
+      'single communication line for agents',
+    ],
+    outcome:
+      'outgoing make-good and incoming snags are handled in a coordinated plan',
+    problems: [
+      'overlap days too tight for separate contractors',
+      'agents issuing conflicting lists',
+      'paint not dry before new move-in',
+      'utility activation before safety checks',
+    ],
+    related: ['move-in-handyman-services', 'move-out-repairs'],
+    slug: 'move-in-and-move-out-maintenance',
+    tips: [
+      'Share both inspection lists early',
+      'Clarify who funds each item',
+      'Allow drying times in scheduling',
+    ],
+    title: 'Move-In and Move-Out Maintenance',
+    whenNeeded:
+      'Use at both ends of a lease when time between tenants is short.',
+  }),
+  createSeed(category, {
+    angle: 'snag closure for new builds and secondary sales in the UAE',
+    benefits: [
+      'Reduces stress during handover week',
+      'Clear split between handyman and developer scopes',
+      'Useful for investor buyers',
+    ],
+    includes: [
+      'review of supplied snag documentation',
+      'on-site fixes for eligible items',
+      'escalation tagging for warranty MEP',
+      'final photo pack for owners',
+    ],
+    outcome:
+      'snags within scope are completed with photo sign-off suitable for warranty teams',
+    problems: [
+      'developer deadlines approaching fast',
+      'mixed cosmetic and MEP items on one list',
+      'owners overseas relying on photos',
+      'custom joinery adjustments needed post-handover',
+    ],
+    related: [
+      'snagging-and-defect-repairs',
+      'property-inspection-and-snagging',
+    ],
+    slug: 'property-snagging-and-handover-repairs',
+    tips: [
+      'Attend with power and water on',
+      'Open every cabinet and shutter',
+      'Keep developer reference numbers on photos',
+    ],
+    title: 'Property Snagging and Handover Repairs',
+    whenNeeded:
+      'Book after developer or inspector lists are issued at handover.',
+  }),
+  createSeed(category, {
+    angle: 'planned upkeep for occasionally used UAE homes',
+    benefits: [
+      'Protects asset value while abroad',
+      'Guest-ready without owner travel',
+      'Pairs with holiday home preparation visits',
+    ],
+    includes: [
+      'checklist visit with photo report',
+      'basic tests of doors, lights, and wet areas',
+      'coordination with cleaning and AC contractors',
+      'owner summary with recommended next dates',
+    ],
+    outcome:
+      'property stays ventilated, secure, and ready with issues caught early',
+    problems: [
+      'AC off for months leading to musty interiors',
+      'balcony drains blocked before rains',
+      'battery devices flat on arrival',
+      'pests attracted to stagnant water',
+    ],
+    related: ['holiday-home-maintenance', 'home-maintenance-plans'],
+    slug: 'preventive-maintenance-for-holiday-homes',
+    tips: [
+      'Share preferred vendors for escalations',
+      'Maintain running calendar of visits',
+      'Keep spare remotes and bulbs on site',
+    ],
+    title: 'Preventive Maintenance for Holiday Homes',
+    whenNeeded: 'Schedule quarterly or before peak guest seasons.',
+  }),
+]

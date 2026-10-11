@@ -1,0 +1,656 @@
+import type { ServiceSeed } from '@/data/services/buildService'
+import { createSeed } from '@/data/services/catalog/createSeed'
+
+const category = 'furniture-installation' as const
+
+export const furnitureInstallationSeeds: ServiceSeed[] = [
+  createSeed(category, {
+    angle:
+      'accurate flat-pack and kit assembly with stable fixings for everyday use',
+    benefits: [
+      'Saves a full day deciphering diagrams and hunting tools',
+      'Reduces risk of stripped fixings from incorrect order of assembly',
+      'Stable units safer for families and home offices',
+    ],
+    includes: [
+      'sorting components and verifying hardware against the manual',
+      'assembly of carcasses, shelves, and doors with correct torque',
+      'wall anchoring where the manual requires anti-tip fixings',
+      'packaging cleared from the room and basic adjustment of hinges or runners',
+    ],
+    outcome:
+      'furniture stands level, drawers and doors align, and fixings match the manufacturer instructions',
+    problems: [
+      'misaligned panels and visible gaps after self-assembly',
+      'missing dowels or cam locks halting progress',
+      'wobbling bookcases or desks on uneven floors',
+      'instructions unclear for dual-purpose rooms',
+    ],
+    related: [
+      'wardrobe-assembly',
+      'office-furniture-assembly',
+      'furniture-disassembly-and-reassembly',
+    ],
+    slug: 'furniture-assembly',
+    tips: [
+      'Clear floor space larger than the assembled footprint',
+      'Keep small parts in labelled trays until needed',
+      'Do not discard spare brackets until wall fixing is confirmed',
+    ],
+    title: 'Furniture Assembly',
+    whenNeeded:
+      'Book when flat-pack cartons arrive, parts are missing from a previous attempt, or units wobble after DIY assembly.',
+  }),
+  createSeed(category, {
+    angle:
+      'built-in and freestanding wardrobe assembly with aligned doors and secure wall fixing',
+    benefits: [
+      'Proper alignment extends runner and hinge life',
+      'Wall fixing improves safety for tall units',
+      'One visit covers multiple bedroom units where access allows',
+    ],
+    includes: [
+      'frame assembly and squaring on protective mats',
+      'door and drawer fitting with runner adjustment',
+      'wall fixing to studs or suitable anchors when specified',
+      'handle and soft-close hardware installation',
+    ],
+    outcome:
+      'wardrobe carcasses are square, doors slide or hinge smoothly, and anti-tip fixings are fitted where required',
+    problems: [
+      'heavy panels difficult to lift safely in apartments',
+      'sliding tracks misaligned causing derailment',
+      'uneven ceilings leaving top gaps visible',
+      'internal drawers catching on frames',
+    ],
+    slug: 'wardrobe-assembly',
+    tips: [
+      'Confirm lift dimensions before delivery day',
+      'Vacuum tracks lightly to keep sliders smooth',
+      'Leave wardrobe doors ajar briefly after humid weather',
+    ],
+    title: 'Wardrobe Assembly',
+    whenNeeded:
+      'Arrange when new bedroom storage arrives or sliding doors stick after delivery.',
+  }),
+  createSeed(category, {
+    angle:
+      'bed frame and headboard assembly with quiet, stable joints for nightly use',
+    benefits: [
+      'Correct slat spacing protects mattress support',
+      'Tight joints reduce night-time noise in apartments',
+      'Faster setup before mattress delivery windows',
+    ],
+    includes: [
+      'frame and slat assembly per manufacturer layout',
+      'headboard and side rail connection with thread-lock where advised',
+      'centre support leg adjustment on larger frames',
+      'quick stability check on all corners',
+    ],
+    outcome:
+      'the bed frame is rigid, slats are evenly supported, and headboard fixings are secure',
+    problems: [
+      'squeaking slats or loose bolts after move-in',
+      'headboards leaning away from the wall',
+      'storage lift mechanisms binding',
+      'incorrect slat spacing voiding mattress warranties',
+    ],
+    slug: 'bed-assembly',
+    tips: [
+      'Assemble in the room where the bed will stay',
+      'Retighten fixings after the first week of use',
+      'Use felt pads if metal contacts hard flooring',
+    ],
+    title: 'Bed Assembly',
+    whenNeeded:
+      'Use when a new bed is delivered, a guest room is refreshed, or squeaks develop at joints.',
+  }),
+  createSeed(category, {
+    angle:
+      'home and office desk assembly with cable-friendly layout and level work surfaces',
+    benefits: [
+      'Stable surface for screens and video calls',
+      'Neater cable paths reduce trip hazards',
+      'Drawers operate smoothly for daily stationery use',
+    ],
+    includes: [
+      'leg and frame assembly with levelling feet adjusted',
+      'desktop attachment and edge protection during handling',
+      'modest cable grommet alignment where built in',
+      'drawer pedestal connection and runner tuning',
+    ],
+    outcome:
+      'desk tops sit level, legs are firmly joined, and cable routes are ready for tidy setup',
+    problems: [
+      'monitor wobble from loose leg brackets',
+      'grommets misaligned with power outlets',
+      'height-adjustable legs uneven after shipping',
+      'drawer units not flush with desk tops',
+    ],
+    slug: 'desk-assembly',
+    tips: [
+      'Mark which leg belongs to each corner before tightening',
+      'Route cables before bolting back panels fully closed',
+      'Avoid overloading centre spans on long desks',
+    ],
+    title: 'Desk Assembly',
+    whenNeeded:
+      'Book when remote-work desks arrive or wobble affects monitors and typing comfort.',
+  }),
+  createSeed(category, {
+    angle:
+      'dining table assembly including extension leaves and sturdy leg connections',
+    benefits: [
+      'Flat surfaces protect glassware and tableware',
+      'Smooth extensions simplify hosting in villas and flats',
+      'Combined visit covers table and seating kits',
+    ],
+    includes: [
+      'leg and apron assembly with even torque',
+      'extension rail lubrication and alignment checks',
+      'protective pads applied to floor contact points',
+      'optional matching bench or chair assembly within the same visit',
+    ],
+    outcome:
+      'table tops sit flat, leaves store neatly, and legs remain rigid under daily meals',
+    problems: [
+      'extension rails stiff or misaligned',
+      'table rock on tile floors without adjustable feet',
+      'heavy tops difficult to manoeuvre in lifts',
+      'bench or chair kits left half assembled',
+    ],
+    slug: 'dining-table-assembly',
+    tips: [
+      'Extend and collapse the table once after assembly',
+      'Use place mats on high-gloss tops to limit micro-scratches',
+      'Store leaves flat and dry when not in use',
+    ],
+    title: 'Dining Table Assembly',
+    whenNeeded:
+      'Arrange when a new dining set arrives or extension mechanisms stick before hosting.',
+  }),
+  createSeed(category, {
+    angle:
+      'workplace desks, storage, and meeting furniture assembled for staff use',
+    benefits: [
+      'Faster occupancy after lease handover',
+      'Consistent desk heights and cable holes across teams',
+      'Safer storage with correct anchoring',
+    ],
+    includes: [
+      'batch assembly of desks, pedestals, and storage units',
+      'cluster layout to match floor plans where provided',
+      'anti-tip fixing to partitions or walls when required',
+      'recycling of cardboard to keep corridors clear',
+    ],
+    outcome:
+      'workstations are stable, storage is labelled-ready, and staff can occupy desks safely the same day',
+    problems: [
+      'backlog of flat-pack units delaying move-in dates',
+      'mismatched desk clusters in open-plan areas',
+      'filing cabinets missing anti-tip anchors',
+      'meeting tables too large for service lifts',
+    ],
+    related: ['office-maintenance', 'office-partition-repairs'],
+    slug: 'office-furniture-assembly',
+    tips: [
+      'Provide a marked floor plan before the visit',
+      'Stage cartons near final desk positions',
+      'Schedule assembly outside peak footfall if possible',
+    ],
+    title: 'Office Furniture Assembly',
+    whenNeeded:
+      'Use during office moves, tenant fit-outs, or when flat-pack storage backs up operations.',
+  }),
+  createSeed(category, {
+    angle:
+      'careful dismantling and rebuild of furniture for moves or room changes',
+    benefits: [
+      'Reduces damage risk compared with improvised dismantling',
+      'Hardware labelling speeds reassembly after moves',
+      'Same team understands how pieces originally fitted together',
+    ],
+    includes: [
+      'labelled dismantling with hardware sorted into bags',
+      'protection of panels during transit within the property',
+      'reassembly and adjustment in the destination room',
+      'basic touch-up of loose fittings discovered during rebuild',
+    ],
+    outcome:
+      'furniture is dismantled with hardware bagged, then reassembled square and functional in the new location',
+    problems: [
+      'lost cam locks after previous moves',
+      'items too large for lifts when fully built',
+      'fragile veneers cracking during rushed DIY dismantling',
+      'reassembly instructions missing from old purchases',
+    ],
+    related: ['furniture-assembly', 'move-in-handyman-services'],
+    slug: 'furniture-disassembly-and-reassembly',
+    tips: [
+      'Photograph cable routes and shelf heights before dismantling',
+      'Keep mattress off the frame until rebuild is complete',
+      'Store bags of fixings taped inside a drawer carcass during transit',
+    ],
+    title: 'Furniture Disassembly and Reassembly',
+    whenNeeded:
+      'Book before home moves, flooring works, or when large pieces must pass narrow doorways.',
+  }),
+  createSeed(category, {
+    angle: 'fixed shelving mounted level on masonry, block, or stud walls',
+    benefits: [
+      'Storage without sacrificing floor space in compact flats',
+      'Correct anchors reduce damage to painted walls',
+      'Neat alignment suits display and utility shelving alike',
+    ],
+    includes: [
+      'wall type assessment and anchor selection',
+      'layout marking with laser level alignment',
+      'bracket and shelf installation with concealed fixings where possible',
+      'load guidance based on bracket specifications',
+    ],
+    outcome:
+      'shelves sit level, rated fixings suit the wall type, and loads are within safe limits',
+    problems: [
+      'shelves pulling away from hollow partitions',
+      'uneven spacing ruining visual lines in living rooms',
+      'no stud finder leading to repeated failed holes',
+      'heavy books or plants exceeding bracket rating',
+    ],
+    slug: 'wall-shelf-installation',
+    tips: [
+      'Confirm what sits behind tiles before drilling',
+      'Distribute weight evenly on long spans',
+      'Avoid storing liquids above electronics without trays',
+    ],
+    title: 'Wall Shelf Installation',
+    whenNeeded:
+      'Arrange when storage is needed above desks, in kitchens, or when old brackets fail.',
+  }),
+  createSeed(category, {
+    angle:
+      'concealed-bracket floating shelves for minimalist storage and display',
+    benefits: [
+      'Minimalist look suited to modern UAE apartments',
+      'Hidden fixings keep focus on display items',
+      'Professional drilling reduces patchwork on feature walls',
+    ],
+    includes: [
+      'rod or bracket system installation per product design',
+      'precision drilling with dust control measures',
+      'shelf seating and front-edge levelling',
+      'aftercare on maximum load and cleaning around brackets',
+    ],
+    outcome:
+      'floating shelves appear flush to the wall with hidden fixings rated for the agreed load',
+    problems: [
+      'visible bracket plates clashing with décor',
+      'shelves sagging when rods are not fully seated',
+      'mis-drilled holes in featured accent walls',
+      'unclear weight limits for decorative ceramics',
+    ],
+    slug: 'floating-shelf-installation',
+    tips: [
+      'Choose shelf depth to match intended items before ordering',
+      'Use two people to seat long floating shelves',
+      'Do not cut shelves shorter without checking rod placement',
+    ],
+    title: 'Floating Shelf Installation',
+    whenNeeded:
+      'Use when you want clean lines in living areas or need display ledges without visible brackets.',
+  }),
+  createSeed(category, {
+    angle:
+      'curtain poles and tracks fitted level with secure brackets for daily use',
+    benefits: [
+      'Smooth opening reduces fabric wear',
+      'Secure brackets suit daily use in bedrooms and living rooms',
+      'Level lines complement full-height glazing common in UAE homes',
+    ],
+    includes: [
+      'width measurement and bracket spacing to manufacturer guidance',
+      'ceiling or wall fixing with suitable plugs or anchors',
+      'pole assembly with rings or gliders fitted',
+      'simple alignment of double-pole setups for sheers and blackouts',
+    ],
+    outcome:
+      'rods are level, brackets are anchored correctly, and curtains glide without catching',
+    problems: [
+      'rods bowing under heavy blackout fabric',
+      'brackets too close to ceiling coves',
+      'finials unscrewing from daily handling',
+      'tile drilling cracking adjacent grout',
+    ],
+    slug: 'curtain-rod-installation',
+    tips: [
+      'Steam or air curtains before final length checks',
+      'Leave slight overlap at centre joins for privacy',
+      'Retighten finials after the first month of use',
+    ],
+    title: 'Curtain Rod Installation',
+    whenNeeded:
+      'Book when new curtains arrive, rods sag in humid seasons, or brackets pull from walls.',
+  }),
+  createSeed(category, {
+    angle:
+      'window blind fitting for light control and privacy in apartments and villas',
+    benefits: [
+      'Better sleep and privacy in bright coastal light',
+      'Professional fixing reduces fall risk from loose brackets',
+      'Consistent mounting across multiple windows',
+    ],
+    includes: [
+      'mount type confirmation and bracket positioning',
+      'secure fixing to frame, reveal, or face',
+      'chain or wand shortening and tension adjustment',
+      'operation test across full drop',
+    ],
+    outcome:
+      'blinds are square in the reveal, operate smoothly, and child-safety devices are fitted where supplied',
+    problems: [
+      'blinds skewed in deep window reveals',
+      'chains too long creating tangling hazards',
+      'screws hitting steel lintels without suitable bits',
+      'mismatched widths after measuring inside versus outside mount',
+    ],
+    slug: 'blind-installation',
+    tips: [
+      'Decide inside or outside mount before purchase',
+      'Keep manufacturer child-safety clips installed',
+      'Dust slats gently to preserve mechanisms',
+    ],
+    title: 'Blind Installation',
+    whenNeeded:
+      'Arrange when new blinds are delivered or existing units no longer raise evenly.',
+  }),
+  createSeed(category, {
+    angle: 'roller blind mounting with even tension and clean fabric roll',
+    benefits: [
+      'Compact profile suits floor-to-ceiling glazing',
+      'Even roll reduces edge fray over time',
+      'Quick operation for daily office shading',
+    ],
+    includes: [
+      'bracket alignment across the width',
+      'fabric seating and chain or spring tension tuning',
+      'bottom bar levelling and stop setting',
+      'guidance on cleaning without removing the fabric',
+    ],
+    outcome:
+      'fabric rolls evenly without tracking sideways and stops at the agreed height',
+    problems: [
+      'fabric tracking to one side after DIY install',
+      'headboxes not level causing light gaps',
+      'spring tension too tight to lift safely',
+      'brackets obstructing window handles',
+    ],
+    slug: 'roller-blind-installation',
+    tips: [
+      'Fully lower blinds before dusting fabric',
+      'Do not force chains if resistance appears—report sticking early',
+      'Note fire egress rules for office installations',
+    ],
+    title: 'Roller Blind Installation',
+    whenNeeded:
+      'Use for office glare control or bedrooms needing compact headboxes.',
+  }),
+  createSeed(category, {
+    angle: 'roman blind fitting with even folds and reliable lift mechanisms',
+    benefits: [
+      'Tailored look for dining and living spaces',
+      'Safe cord management for family homes',
+      'Even folds improve long-term fabric appearance',
+    ],
+    includes: [
+      'headrail fixing with spreader brackets on wide spans',
+      'cord safety cleat placement at regulated height',
+      'fold dressing and initial steam guidance where suitable',
+      'clearance check against sills and handles',
+    ],
+    outcome:
+      'folds stack neatly, cords are secured safely, and blinds clear window sills',
+    problems: [
+      'uneven pleats after first installation',
+      'cord cleats missing from kit',
+      'headrail heavier than standard brackets support',
+      'fabric touching AC vents causing mildew smell',
+    ],
+    slug: 'roman-blind-installation',
+    tips: [
+      'Allow fabric to acclimatise before final dressing',
+      'Use cleats every time blinds are lowered',
+      'Keep fabric away from direct AC airflow where possible',
+    ],
+    title: 'Roman Blind Installation',
+    whenNeeded:
+      'Book when decorative fabric blinds arrive or folds hang unevenly after humidity.',
+  }),
+  createSeed(category, {
+    angle: 'secure hanging of frames, canvases, and gallery layouts',
+    benefits: [
+      'Protects walls from repeated trial holes',
+      'Heavy pieces hung with appropriate rated fixings',
+      'Gallery layouts look intentional in entrance areas',
+    ],
+    includes: [
+      'weight assessment and anchor selection',
+      'layout marking including gallery spacing templates',
+      'hanging with D-rings, wire, or cleat systems',
+      'minor adjustment until lines look true to the eye',
+    ],
+    outcome:
+      'artwork hangs level, fixings suit wall type and weight, and layouts match agreed spacing',
+    problems: [
+      'frames crooked on textured walls',
+      'heavy mirrors using inadequate hooks',
+      'gallery walls drifting off centre lines',
+      'drilling into concealed services without checks',
+    ],
+    slug: 'wall-art-installation',
+    tips: [
+      'Group paper templates on the floor first for large sets',
+      'Use two hooks on wide frames to prevent tilting',
+      'Avoid hanging directly above radiators or heat sources',
+    ],
+    title: 'Wall Art Installation',
+    whenNeeded:
+      'Arrange after redecoration or when heavy pieces need more than picture hooks.',
+  }),
+  createSeed(category, {
+    angle:
+      'mirror mounting with safety fixings for bathrooms, bedrooms, and halls',
+    benefits: [
+      'Safer mounting than generic adhesive hooks',
+      'Proper fixings suit frequent cleaning in bathrooms',
+      'Professional lifting reduces edge damage risk',
+    ],
+    includes: [
+      'mirror weight assessment and fixing method selection',
+      'cleat, channel, or screw-fix installation as appropriate',
+      'silicone sealing at wet-area perimeters when agreed',
+      'protective film removal and smear-free finish check',
+    ],
+    outcome:
+      'mirrors sit flat and secure with fixings suited to moisture and daily cleaning',
+    problems: [
+      'adhesive-only mounts failing in humid bathrooms',
+      'mirrors flexing in thin frames',
+      'incorrect placement relative to vanity lighting',
+      'edge chips from impact during DIY lifting',
+    ],
+    slug: 'mirror-installation',
+    tips: [
+      'Confirm vanity lighting positions before drilling',
+      'Use non-abrasive cleaners on coated mirrors',
+      'Report any flexing in frames promptly',
+    ],
+    title: 'Mirror Installation',
+    whenNeeded:
+      'Use when large mirrors must be fixed flush or old adhesive mounts fail.',
+  }),
+  createSeed(category, {
+    angle:
+      'TV mounting with viewing height, ventilation, and cable routes planned',
+    benefits: [
+      'Frees floor space in compact apartments',
+      'Secure fixing reduces tip risk compared with stands',
+      'Neater appearance for living and meeting rooms',
+    ],
+    includes: [
+      'bracket selection check against VESA and weight',
+      'stud or anchor fixing with torque verification',
+      'screen hang and minor tilt adjustment',
+      'basic cable routing or concealment within agreed scope',
+    ],
+    outcome:
+      'the TV is mounted securely at a comfortable height with tidy cable routing where agreed',
+    problems: [
+      'screens too low or high for sofa viewing',
+      'cables dangling across painted walls',
+      'uncertainty about hollow wall anchors',
+      'heat buildup behind panels without clearance',
+    ],
+    related: ['tv-bracket-installation', 'cable-concealment'],
+    slug: 'wall-mounted-tv-installation',
+    tips: [
+      'Confirm HDMI lengths before hiding cables',
+      'Leave ventilation gap per manufacturer guidance',
+      'Photograph serial numbers before mounting',
+    ],
+    title: 'Wall-Mounted TV Installation',
+    whenNeeded:
+      'Book when a new screen arrives or stands take too much space in living or bedroom areas.',
+  }),
+  createSeed(category, {
+    angle:
+      'supply-ready bracket fitting with safe anchors and articulation checks',
+    benefits: [
+      'Correct anchors suit UAE block and drywall mixes',
+      'Smooth articulation for glare control through the day',
+      'Bracket-only visits when screens are already on site',
+    ],
+    includes: [
+      'wall plate fixing with rated bolts and washers',
+      'arm assembly and torque checks on pivot points',
+      'screen attachment with helper lift where needed',
+      'range-of-motion test without cable strain',
+    ],
+    outcome:
+      'bracket arms move smoothly within range and the plate remains firmly anchored',
+    problems: [
+      'artic arms drooping under screen weight',
+      'fixings too shallow for block walls',
+      'brackets incompatible with curved screens',
+      'wall plates misaligned with hidden studs',
+    ],
+    related: ['wall-mounted-tv-installation', 'cable-concealment'],
+    slug: 'tv-bracket-installation',
+    tips: [
+      'Do not exceed bracket weight ratings',
+      'Retighten pivot bolts if movement feels loose',
+      'Route power through approved channels only',
+    ],
+    title: 'TV Bracket Installation',
+    whenNeeded:
+      'Arrange when you already own a bracket or need a tilt/swivel mount aligned to seating.',
+  }),
+  createSeed(category, {
+    angle:
+      'neat routing of TV and desk cables using trunking and in-wall options within scope',
+    benefits: [
+      'Cleaner walls for rentals and sales viewings',
+      'Labelled runs simplify later upgrades',
+      'Reduced trip hazards in home offices',
+    ],
+    complianceNote:
+      'New electrical circuits, concealed mains wiring, and certified data cabling are referred to licensed electricians or data installers.',
+    includes: [
+      'surface trunking or conduit alignment to architectural lines',
+      'labelling of HDMI and power runs at both ends',
+      'grommet installation in desks or partitions where agreed',
+      'tie-down and slack management behind units',
+    ],
+    outcome:
+      'cables follow agreed routes with accessible points for future device changes',
+    problems: [
+      'HDMI leads too short after wall mounting',
+      'trunking colours clashing with décor',
+      'power extensions hidden unsafely behind furniture',
+      'no spare capacity for soundbars or consoles',
+    ],
+    related: ['wall-mounted-tv-installation', 'office-furniture-assembly'],
+    slug: 'cable-concealment',
+    tips: [
+      'Leave service loops at both ends for upgrades',
+      'Avoid sharp bends on HDMI cables',
+      'Keep power and signal paths separated where possible',
+    ],
+    title: 'Cable Concealment',
+    whenNeeded:
+      'Use after mounting screens or desks when exposed cables spoil finished rooms.',
+  }),
+  createSeed(category, {
+    angle: 'office and classroom whiteboards mounted level with secure fixings',
+    benefits: [
+      'Stable writing surface for daily office use',
+      'Correct height improves ergonomics in training rooms',
+      'Secure fixing suits frequent erasing pressure',
+    ],
+    includes: [
+      'layout relative to chairs and screens',
+      'heavy-duty anchor selection for board weight',
+      'mounting of trays and pen holders',
+      'protective film removal and surface wipe-down',
+    ],
+    outcome:
+      'writing surfaces are level, fixings are rated for board weight, and markers erase cleanly after install',
+    problems: [
+      'boards vibrating when written on due to loose fixings',
+      'incorrect height for seated meetings',
+      'heavy steel boards stressing drywall',
+      'ghosting from protective film left too long',
+    ],
+    related: ['noticeboard-installation', 'office-maintenance'],
+    slug: 'whiteboard-installation',
+    tips: [
+      'Use manufacturer-approved cleaners only',
+      'Allow adhesive-backed boards full cure time if applicable',
+      'Plan camera sightlines in hybrid meeting rooms',
+    ],
+    title: 'Whiteboard Installation',
+    whenNeeded:
+      'Book for new meeting rooms, training spaces, or when boards pull away from walls.',
+  }),
+  createSeed(category, {
+    angle:
+      'fabric and cork noticeboards fitted for lobbies, schools, and back-office areas',
+    benefits: [
+      'Neat communal areas in residential towers',
+      'Lockable options suit HR and compliance postings',
+      'Professional alignment suits reception areas',
+    ],
+    includes: [
+      'positioning to respect clearance and visibility',
+      'anchor installation for board weight and frame type',
+      'door alignment on lockable units',
+      'handover with pinning guidance for fabric faces',
+    ],
+    outcome:
+      'boards are centred, pinned cleanly, and edges protected from daily knocks',
+    problems: [
+      'boards skewed in busy corridors',
+      'fixings too weak for frequent pinning',
+      'glass-front units misaligned so locks do not catch',
+      'conflict with fire equipment clearance zones',
+    ],
+    related: ['whiteboard-installation', 'office-maintenance'],
+    slug: 'noticeboard-installation',
+    tips: [
+      'Use correct pins for cork versus fabric faces',
+      'Avoid overloading glass doors when opening',
+      'Check building rules on corridor postings',
+    ],
+    title: 'Noticeboard Installation',
+    whenNeeded:
+      'Arrange when community boards are needed in lifts lobbies or staff kitchens.',
+  }),
+]

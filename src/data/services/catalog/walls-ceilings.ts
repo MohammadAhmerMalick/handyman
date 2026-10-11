@@ -1,0 +1,472 @@
+import type { ServiceSeed } from '@/data/services/buildService'
+
+export const wallsCeilingsSeeds: ServiceSeed[] = [
+  {
+    angle: 'new plasterboard linings for partitions and bulkheads',
+    benefits: [
+      'Quote based on what we see on site',
+      'Scheduling within Handyman working hours',
+      'Practical finish for local climate and use',
+    ],
+    category: 'walls-ceilings',
+    includes: [
+      'Framing or direct fix as designed',
+      'Board hang and screw pattern',
+      'Joint taping ready for skim',
+      'Cleanup of gypsum dust',
+    ],
+    outcome:
+      'Drywall Installation is completed to an agreed standard so the area is tidy, usable, and easier to maintain',
+    problems: [
+      'Open-plan changes needing new rooms',
+      'Damaged boards after leaks',
+      'Services requiring boxing-in',
+      'Uneven masonry needing dry lining',
+    ],
+    related: ['partition-wall-installation', 'gypsum-and-false-ceiling'],
+    slug: 'drywall-installation',
+    tips: [
+      'Clear access and move fragile items before the visit',
+      'Send photos when enquiring to speed up quoting',
+      'Fix active leaks or movement issues before cosmetic work',
+    ],
+    title: 'Drywall Installation',
+    whenNeeded:
+      'Book drywall installation when wear, damage, or outdated finishes affect how you use the space. Properties across the UAE—from Marina flats to family villas—benefit when finishes are matched to local humidity and use.',
+  },
+  {
+    angle: 'board replacement and joint repair after damage or access',
+    benefits: [
+      'Quote based on what we see on site',
+      'Scheduling within Handyman working hours',
+      'Practical finish for local climate and use',
+    ],
+    category: 'walls-ceilings',
+    includes: [
+      'Cut-out of damaged sections',
+      'New board patches',
+      'Tape and compound feathering',
+      'Ready for paint or texture',
+    ],
+    outcome:
+      'Plasterboard Repairs is completed to an agreed standard so the area is tidy, usable, and easier to maintain',
+    problems: [
+      'Doorknob holes in corridors',
+      'Water-stained ceiling panels',
+      'Cut-outs left after AC relocations',
+      'Crushed corners on moves',
+    ],
+    slug: 'plasterboard-repairs',
+    tips: [
+      'Clear access and move fragile items before the visit',
+      'Send photos when enquiring to speed up quoting',
+      'Fix active leaks or movement issues before cosmetic work',
+    ],
+    title: 'Plasterboard Repairs',
+    whenNeeded:
+      'Book plasterboard repairs when wear, damage, or outdated finishes affect how you use the space. Properties across the UAE—from Marina flats to family villas—benefit when finishes are matched to local humidity and use.',
+  },
+  {
+    angle: 'neat patches for small to medium holes in gypsum walls',
+    benefits: [
+      'Quote based on what we see on site',
+      'Scheduling within Handyman working hours',
+      'Practical finish for local climate and use',
+    ],
+    category: 'walls-ceilings',
+    includes: [
+      'Backing or patch plates as needed',
+      'Compound build and sand',
+      'Primer spot coat',
+      'Texture blending where existing',
+    ],
+    outcome:
+      'Drywall Hole Repairs is completed to an agreed standard so the area is tidy, usable, and easier to maintain',
+    problems: [
+      'TV mount holes oversized',
+      'Plumbing access cuts not patched',
+      'Impact holes from furniture',
+      'Multiple anchor holes in one area',
+    ],
+    slug: 'drywall-hole-repairs',
+    tips: [
+      'Clear access and move fragile items before the visit',
+      'Send photos when enquiring to speed up quoting',
+      'Fix active leaks or movement issues before cosmetic work',
+    ],
+    title: 'Drywall Hole Repairs',
+    whenNeeded:
+      'Book drywall hole repairs when wear, damage, or outdated finishes affect how you use the space. Properties across the UAE—from Marina flats to family villas—benefit when finishes are matched to local humidity and use.',
+  },
+  {
+    angle: 'crack stitching and filling before decorating',
+    benefits: [
+      'Quote based on what we see on site',
+      'Scheduling within Handyman working hours',
+      'Practical finish for local climate and use',
+    ],
+    category: 'walls-ceilings',
+    includes: [
+      'V-groove and clean cracks',
+      'Flexible fillers or tape systems',
+      'Feathered sanding',
+      'Guidance when structural review is advised',
+    ],
+    outcome:
+      'Wall Crack Repairs is completed to an agreed standard so the area is tidy, usable, and easier to maintain',
+    problems: [
+      'Cracks above door heads',
+      'Diagonal cracks after minor settlement',
+      'Cracks at beam interfaces',
+      'Recurrent cracks from flexing partitions',
+    ],
+    slug: 'wall-crack-repairs',
+    tips: [
+      'Clear access and move fragile items before the visit',
+      'Send photos when enquiring to speed up quoting',
+      'Fix active leaks or movement issues before cosmetic work',
+    ],
+    title: 'Wall Crack Repairs',
+    whenNeeded:
+      'Book wall crack repairs when wear, damage, or outdated finishes affect how you use the space. Properties across the UAE—from Marina flats to family villas—benefit when finishes are matched to local humidity and use.',
+  },
+  {
+    angle: 'ceiling board and skim repairs after leaks or access',
+    benefits: [
+      'Quote based on what we see on site',
+      'Scheduling within Handyman working hours',
+      'Practical finish for local climate and use',
+    ],
+    category: 'walls-ceilings',
+    includes: [
+      'Local board removal and replace',
+      'Joint finishing',
+      'Spot skim where quoted',
+      'Coordination with painters for stains',
+    ],
+    outcome:
+      'Ceiling Repairs is completed to an agreed standard so the area is tidy, usable, and easier to maintain',
+    problems: [
+      'Sagging boards near bathrooms',
+      'Patchy textures after downlight moves',
+      'Cracks following vibration',
+      'Stains needing board cut-out',
+    ],
+    related: ['ceiling-crack-repairs', 'ceiling-painting'],
+    slug: 'ceiling-repairs',
+    tips: [
+      'Clear access and move fragile items before the visit',
+      'Send photos when enquiring to speed up quoting',
+      'Fix active leaks or movement issues before cosmetic work',
+    ],
+    title: 'Ceiling Repairs',
+    whenNeeded:
+      'Book ceiling repairs when wear, damage, or outdated finishes affect how you use the space. Properties across the UAE—from Marina flats to family villas—benefit when finishes are matched to local humidity and use.',
+  },
+  {
+    angle: 'focused crack treatment on ceilings before repainting',
+    benefits: [
+      'Quote based on what we see on site',
+      'Scheduling within Handyman working hours',
+      'Practical finish for local climate and use',
+    ],
+    category: 'walls-ceilings',
+    includes: [
+      'Crack opening and cleaning',
+      'Tape or compound systems',
+      'Sanding to flat plane',
+      'Primer recommendation',
+    ],
+    outcome:
+      'Ceiling Crack Repairs is completed to an agreed standard so the area is tidy, usable, and easier to maintain',
+    problems: [
+      'Straight cracks along joints',
+      'Micro-cracks visible in raking light',
+      'Cracks around ceiling roses',
+      'Movement at bulkhead corners',
+    ],
+    slug: 'ceiling-crack-repairs',
+    tips: [
+      'Clear access and move fragile items before the visit',
+      'Send photos when enquiring to speed up quoting',
+      'Fix active leaks or movement issues before cosmetic work',
+    ],
+    title: 'Ceiling Crack Repairs',
+    whenNeeded:
+      'Book ceiling crack repairs when wear, damage, or outdated finishes affect how you use the space. Properties across the UAE—from Marina flats to family villas—benefit when finishes are matched to local humidity and use.',
+  },
+  {
+    angle: 'suspended gypsum ceilings for lighting, AC, and level finishes',
+    benefits: [
+      'Quote based on what we see on site',
+      'Scheduling within Handyman working hours',
+      'Practical finish for local climate and use',
+    ],
+    category: 'walls-ceilings',
+    includes: [
+      'Grid or direct-hung framing',
+      'Board installation and joints',
+      'Cut-outs for lights and diffusers',
+      'Access hatches where specified',
+    ],
+    outcome:
+      'False Ceiling Installation is completed to an agreed standard so the area is tidy, usable, and easier to maintain',
+    problems: [
+      'Uneven concrete soffits',
+      'Need to hide ducting',
+      'Updating office grids',
+      'Acoustic improvement in meeting rooms',
+    ],
+    related: ['gypsum-and-false-ceiling', 'false-ceiling-installation'],
+    slug: 'false-ceiling-installation',
+    tips: [
+      'Clear access and move fragile items before the visit',
+      'Send photos when enquiring to speed up quoting',
+      'Fix active leaks or movement issues before cosmetic work',
+    ],
+    title: 'False Ceiling Installation',
+    whenNeeded:
+      'Book false ceiling installation when wear, damage, or outdated finishes affect how you use the space. Properties across the UAE—from Marina flats to family villas—benefit when finishes are matched to local humidity and use.',
+  },
+  {
+    angle: 'tile, grid, and board repairs on existing false ceilings',
+    benefits: [
+      'Quote based on what we see on site',
+      'Scheduling within Handyman working hours',
+      'Practical finish for local climate and use',
+    ],
+    category: 'walls-ceilings',
+    includes: [
+      'Tile replacement and colour match as close as practical',
+      'Grid clip and hanger adjustment',
+      'Local board patches in gypsum ceilings',
+      'Advice on drying after leaks',
+    ],
+    outcome:
+      'Suspended Ceiling Repairs is completed to an agreed standard so the area is tidy, usable, and easier to maintain',
+    problems: [
+      'Water-stained ceiling tiles',
+      'Bent T-bar grids',
+      'Missing tiles after maintenance',
+      'Sagging sections near leaks',
+    ],
+    slug: 'suspended-ceiling-repairs',
+    tips: [
+      'Clear access and move fragile items before the visit',
+      'Send photos when enquiring to speed up quoting',
+      'Fix active leaks or movement issues before cosmetic work',
+    ],
+    title: 'Suspended Ceiling Repairs',
+    whenNeeded:
+      'Book suspended ceiling repairs when wear, damage, or outdated finishes affect how you use the space. Properties across the UAE—from Marina flats to family villas—benefit when finishes are matched to local humidity and use.',
+  },
+  {
+    angle: 'non-load-bearing partitions to subdivide rooms',
+    benefits: [
+      'Quote based on what we see on site',
+      'Scheduling within Handyman working hours',
+      'Practical finish for local climate and use',
+    ],
+    category: 'walls-ceilings',
+    complianceNote:
+      'Load-bearing wall removal, fire-rated compartment changes, or authority submissions for area changes require structural engineers and approved contractors—we install non-load-bearing partitions within agreed scope.',
+    includes: [
+      'Track fixing to floor and ceiling',
+      'Stud framing and insulation if quoted',
+      'Board both sides and joints',
+      'Cut-outs for doors within scope',
+    ],
+    outcome:
+      'Partition Wall Installation is completed to an agreed standard so the area is tidy, usable, and easier to maintain',
+    problems: [
+      'Home office needs within open plans',
+      'Retail fit-out reconfiguration',
+      'Sound bleed between bedrooms',
+      'Need for rental demountable walls',
+    ],
+    slug: 'partition-wall-installation',
+    tips: [
+      'Clear access and move fragile items before the visit',
+      'Send photos when enquiring to speed up quoting',
+      'Fix active leaks or movement issues before cosmetic work',
+    ],
+    title: 'Partition Wall Installation',
+    whenNeeded:
+      'Book partition wall installation when wear, damage, or outdated finishes affect how you use the space. Properties across the UAE—from Marina flats to family villas—benefit when finishes are matched to local humidity and use.',
+  },
+  {
+    angle:
+      'small openings, closings, and adjustments without major structural work',
+    benefits: [
+      'Quote based on what we see on site',
+      'Scheduling within Handyman working hours',
+      'Practical finish for local climate and use',
+    ],
+    category: 'walls-ceilings',
+    includes: [
+      'Framing adjustments in gypsum partitions',
+      'Board patch and finish',
+      'Coordination with electricians if openings only',
+      'Dust control during work',
+    ],
+    outcome:
+      'Minor Wall Modifications is completed to an agreed standard so the area is tidy, usable, and easier to maintain',
+    problems: [
+      'Wider doorways within stud walls',
+      'Blocking up redundant openings',
+      'Relocating light switch positions in board walls',
+      'Niche creation for displays',
+    ],
+    slug: 'minor-wall-modifications',
+    tips: [
+      'Clear access and move fragile items before the visit',
+      'Send photos when enquiring to speed up quoting',
+      'Fix active leaks or movement issues before cosmetic work',
+    ],
+    title: 'Minor Wall Modifications',
+    whenNeeded:
+      'Book minor wall modifications when wear, damage, or outdated finishes affect how you use the space. Properties across the UAE—from Marina flats to family villas—benefit when finishes are matched to local humidity and use.',
+  },
+  {
+    angle: 'discreet panels for valves, meters, and maintenance points',
+    benefits: [
+      'Quote based on what we see on site',
+      'Scheduling within Handyman working hours',
+      'Practical finish for local climate and use',
+    ],
+    category: 'walls-ceilings',
+    includes: [
+      'Panel sizing and placement',
+      'Frame fix to boards or tiles',
+      'Finish to match surroundings',
+      'Labelling for future access',
+    ],
+    outcome:
+      'Access Panel Installation is completed to an agreed standard so the area is tidy, usable, and easier to maintain',
+    problems: [
+      'Hidden stops behind tiled walls',
+      'AC drain access needed',
+      'Inspection points in false ceilings',
+      'Poor past cuts left open',
+    ],
+    slug: 'access-panel-installation',
+    tips: [
+      'Clear access and move fragile items before the visit',
+      'Send photos when enquiring to speed up quoting',
+      'Fix active leaks or movement issues before cosmetic work',
+    ],
+    title: 'Access Panel Installation',
+    whenNeeded:
+      'Book access panel installation when wear, damage, or outdated finishes affect how you use the space. Properties across the UAE—from Marina flats to family villas—benefit when finishes are matched to local humidity and use.',
+  },
+  {
+    angle: 'safe fixings for TVs, shelves, and heavy wall items',
+    benefits: [
+      'Quote based on what we see on site',
+      'Scheduling within Handyman working hours',
+      'Practical finish for local climate and use',
+    ],
+    category: 'walls-ceilings',
+    includes: [
+      'Stud detection or probe drilling',
+      'Selection of anchors rated for load',
+      'Installation of client-supplied brackets',
+      'Patching of mis-drilled holes if quoted',
+    ],
+    outcome:
+      'Wall Anchoring and Fixings is completed to an agreed standard so the area is tidy, usable, and easier to maintain',
+    problems: [
+      'Uncertain wall build-up behind tiles',
+      'Heavy mirrors on plasterboard',
+      'Pull-out failures in hollow walls',
+      'Multiple retries leaving damaged walls',
+    ],
+    related: ['drywall-hole-repairs', 'bathroom-mirror-installation'],
+    slug: 'wall-anchoring-and-fixings',
+    tips: [
+      'Clear access and move fragile items before the visit',
+      'Send photos when enquiring to speed up quoting',
+      'Fix active leaks or movement issues before cosmetic work',
+    ],
+    title: 'Wall Anchoring and Fixings',
+    whenNeeded:
+      'Book wall anchoring and fixings when wear, damage, or outdated finishes affect how you use the space. Properties across the UAE—from Marina flats to family villas—benefit when finishes are matched to local humidity and use.',
+  },
+  {
+    angle: 'practical noise reduction upgrades within rooms and partitions',
+    benefits: [
+      'Quote based on what we see on site',
+      'Scheduling within Handyman working hours',
+      'Practical finish for local climate and use',
+    ],
+    category: 'walls-ceilings',
+    complianceNote:
+      'Specialist acoustic design, studio-grade isolation, or changes to fire-rated assemblies may need acoustic consultants and approved systems—we offer practical upgrades within standard partition builds.',
+    includes: [
+      'Insulation infill in accessible stud walls',
+      'Acoustic sealant at perimeters',
+      'Door sweep or threshold coordination',
+      'Realistic expectations on STC improvements',
+    ],
+    outcome:
+      'Soundproofing Improvements is completed to an agreed standard so the area is tidy, usable, and easier to maintain',
+    problems: [
+      'Noise between adjoining bedrooms',
+      'Home office echo',
+      'Media room bleed to neighbours',
+      'Thin doors undermining partitions',
+    ],
+    slug: 'soundproofing-improvements',
+    tips: [
+      'Clear access and move fragile items before the visit',
+      'Send photos when enquiring to speed up quoting',
+      'Fix active leaks or movement issues before cosmetic work',
+    ],
+    title: 'Soundproofing Improvements',
+    whenNeeded:
+      'Book soundproofing improvements when wear, damage, or outdated finishes affect how you use the space. Properties across the UAE—from Marina flats to family villas—benefit when finishes are matched to local humidity and use.',
+  },
+  {
+    angle: 'gypsum partitions, bulkheads, and false ceilings for UAE interiors',
+    benefits: [
+      'Quote based on what we see on site',
+      'Scheduling within Handyman working hours',
+      'Practical finish for local climate and use',
+    ],
+    category: 'walls-ceilings',
+    includes: [
+      'Site inspection and confirmation of scope',
+      'Hands-on gypsum & false ceiling using suitable materials',
+      'Protection of nearby surfaces where practical',
+      'Review of finished work and aftercare guidance',
+    ],
+    keywords: [
+      'Gypsum false ceiling',
+      'Gypsum UAE',
+      'false ceiling Dubai',
+      'partition walls',
+    ],
+    outcome:
+      'you can link installation, repairs, and access panels in one project conversation',
+    problems: [
+      'Everyday wear affecting gypsum & false ceiling',
+      'Previous repairs that need neatening or correction',
+      'Finishes that clash with neighbouring areas',
+      'Access or timing constraints in flats and villas',
+    ],
+    related: [
+      'false-ceiling-installation',
+      'drywall-installation',
+      'partition-wall-installation',
+    ],
+    slug: 'gypsum-and-false-ceiling',
+    tips: [
+      'Clear access and move fragile items before the visit',
+      'Send photos when enquiring to speed up quoting',
+      'Fix active leaks or movement issues before cosmetic work',
+    ],
+    title: 'Gypsum & False Ceiling',
+    whenNeeded:
+      'Use this overview when planning ceiling drops, feature bulkheads, or office gypsum works.',
+  },
+]

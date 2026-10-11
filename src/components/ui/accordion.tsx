@@ -20,7 +20,7 @@ function AccordionItem({ className, ...props }: AccordionPrimitive.Item.Props) {
     <AccordionPrimitive.Item
       data-slot="accordion-item"
       className={cn(
-        'overflow-hidden rounded-xl border border-border not-last:border-b bg-background last:border-b data-open:border-muted data-open:bg-white',
+        'overflow-hidden rounded-xl border border-border not-last:border-b bg-background shadow-md shadow-muted last:border-b data-open:border-muted data-open:bg-white',
         className
       )}
       {...props}
@@ -65,12 +65,12 @@ function AccordionContent({
   return (
     <AccordionPrimitive.Panel
       data-slot="accordion-content"
-      className="overflow-hidden px-4 data-closed:animate-accordion-up data-open:animate-accordion-down"
+      className="overflow-hidden data-closed:animate-accordion-up data-open:animate-accordion-down"
       {...props}
     >
       <div
         className={cn(
-          'h-(--accordion-panel-height) py-4 data-ending-style:h-0 data-starting-style:h-0 [&_a]:underline [&_a]:underline-offset-3 [&_a]:hover:text-foreground [&_p:not(:last-child)]:mb-4',
+          'h-(--accordion-panel-height) p-4 data-ending-style:h-0 data-starting-style:h-0 [&_a]:underline [&_a]:underline-offset-3 [&_a]:hover:text-foreground [&_p:not(:last-child)]:mb-4',
           className
         )}
       >
