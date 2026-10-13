@@ -90,7 +90,7 @@ const CategoryCard = ({ category }: CategoryCardProps) => {
         <Button
           nativeButton={false}
           render={<Link href={category.href} />}
-          className="mt-2 w-full"
+          className="mt-auto w-full"
         >
           View services
         </Button>

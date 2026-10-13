@@ -50,14 +50,14 @@ export const pages = {
       'Dummy about copy for layout. Replace with the real Handyman story later.',
     href: '/about',
     icon: Info,
-    title: 'About Us',
+    title: 'About',
   },
   contact: {
     description:
       'Call or WhatsApp for the fastest reply. Based in Marina, Dubai.',
     href: '/contact',
     icon: Phone,
-    title: 'Contact Us',
+    title: 'Contact',
   },
   faq: {
     description:
