@@ -4,10 +4,15 @@ import { socialLinks } from '@/data/links'
 
 type SocialLinksProps = {
   className?: string
+  onNavigate?: () => void
   size?: number
 }
 
-const SocialLinks = ({ className, size = 20 }: SocialLinksProps) => (
+const SocialLinks = ({
+  className,
+  onNavigate,
+  size = 20,
+}: SocialLinksProps) => (
   <div className={cn('flex items-center gap-4', className)}>
     {socialLinks.map((link) => (
       <Link
@@ -15,6 +20,7 @@ const SocialLinks = ({ className, size = 20 }: SocialLinksProps) => (
         className="transition-colors duration-300 hover:text-primary"
         href={link.href}
         key={link.label}
+        onClick={onNavigate}
         rel="noreferrer"
         target="_blank"
       >

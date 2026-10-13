@@ -26,11 +26,16 @@ const Navbar = () => {
       <Container
         className={cn(
           'flex items-center justify-between gap-4 duration-300',
-          isCompact ? 'py-2 md:py-2 lg:py-2' : 'py-6 md:py-6 lg:py-6'
+          isCompact ? 'py-2 md:py-2 lg:py-2' : 'py-4 md:py-6 lg:py-6'
         )}
       >
         <Link href={pages.home.href} className="block w-60">
-          <Logo className={cn('duration-300', isCompact ? 'w-52' : 'w-60')} />
+          <Logo
+            className={cn(
+              'w-48 duration-300',
+              isCompact ? 'w-md-52' : 'w-md-60'
+            )}
+          />
         </Link>
 
         {/* Desktop Menu */}
@@ -41,6 +46,7 @@ const Navbar = () => {
         <div className="flex items-center gap-3">
           <Button
             size="lg"
+            className="hidden md:flex"
             render={
               <a
                 href={contact.whatsapp.href}
