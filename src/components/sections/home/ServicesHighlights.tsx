@@ -90,7 +90,7 @@ const ServicesHighlights = () => {
             className="w-fit shrink-0"
             nativeButton={false}
             render={<Link href={pages.services.href} />}
-            variant="outline"
+            size="lg"
           >
             View all services
             <ArrowRight aria-hidden data-icon="inline-end" />

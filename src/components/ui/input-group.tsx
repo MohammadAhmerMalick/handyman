@@ -9,6 +9,7 @@ import { Textarea } from '@/components/ui/textarea'
 
 function InputGroup({ className, ...props }: React.ComponentProps<'div'>) {
   return (
+    // biome-ignore lint/a11y/useSemanticElements: input group uses role=group, not fieldset
     <div
       data-slot="input-group"
       role="group"
@@ -46,6 +47,8 @@ function InputGroupAddon({
   ...props
 }: React.ComponentProps<'div'> & VariantProps<typeof inputGroupAddonVariants>) {
   return (
+    // biome-ignore lint/a11y/useKeyWithClickEvents: click focuses sibling input; keyboard users tab to the control
+    // biome-ignore lint/a11y/useSemanticElements: addon uses role=group, not fieldset
     <div
       role="group"
       data-slot="input-group-addon"

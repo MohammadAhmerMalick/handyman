@@ -1,5 +1,4 @@
 import { Quote } from 'lucide-react'
-import Image from 'next/image'
 import Link from 'next/link'
 import Heading from '@/components/shared/Heading'
 import {
@@ -20,20 +19,20 @@ type TestimonialCardProps = {
 const TestimonialCard = ({ testimonial }: TestimonialCardProps) => {
   return (
     <figure className="flex h-full flex-col rounded-2xl border border-border bg-card p-6 shadow-md shadow-muted md:p-7">
-      <Quote aria-hidden className="size-10 text-heading" strokeWidth={1.75} />
+      <Quote
+        aria-hidden
+        className="size-10 fill-primary text-heading"
+        strokeWidth={1.75}
+      />
       <blockquote className="mt-4 flex-1 text-[15px] leading-relaxed">
         <p>“{testimonial.quote}”</p>
       </blockquote>
       <figcaption className="mt-6">
         <div className="flex items-center gap-3">
-          <Image
-            alt=""
-            className="size-12 rounded-full object-cover"
-            height={96}
-            src={testimonial.avatarSrc}
-            unoptimized
-            width={96}
-          />
+          <p className="flex size-12 items-center justify-center rounded-full border-2 border-primary bg-primary-foreground font-semibold text-primary text-xl">
+            {testimonial.name.charAt(0)}
+            {testimonial.role.charAt(0)}
+          </p>
           <div className="min-w-0">
             <p className="font-semibold text-heading leading-tight">
               {testimonial.name}

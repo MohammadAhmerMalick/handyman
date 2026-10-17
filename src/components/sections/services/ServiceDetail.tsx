@@ -46,7 +46,7 @@ const ServiceGallery = ({ service }: ServiceColumnProps) => {
             index === 0 ? 'object-left' : 'object-right'
           )}
           image={image}
-          key={`${image.src}-${index}`}
+          key={image.src}
         />
       ))}
     </div>
