@@ -24,12 +24,12 @@ const AboutHighlightsSection = () => {
         <div className="grid items-stretch gap-10 lg:grid-cols-2 lg:gap-16">
           <div className="relative min-h-80 overflow-hidden bg-muted lg:min-h-full">
             <Image
-              src="https://placehold.co/600x400"
-              alt="Placeholder image"
-              fill
+              src="/about-installation.jpg"
+              alt="Wall-mounted air conditioner and open toolbox in a Dubai apartment"
               sizes="(min-width: 1024px) 50vw, 100vw"
-              className="object-cover"
-              unoptimized
+              className="size-full rounded-2xl object-cover"
+              width={705}
+              height={530}
             />
           </div>
 

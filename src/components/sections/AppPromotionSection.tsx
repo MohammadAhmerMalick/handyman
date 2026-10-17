@@ -7,8 +7,6 @@ import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
 import { Container } from '@/components/ui/container'
 
-const placeholder = 'https://placehold.co/280x580'
-
 const AppPromotionSection = () => {
   return (
     <section>
@@ -85,31 +83,29 @@ const AppPromotionSection = () => {
               <div className="absolute top-1/2 left-1/2 h-75 w-75 -translate-x-1/2 -translate-y-1/2 rounded-full bg-linear-to-r from-primary/20 to-primary/10 opacity-70 blur-[100px] lg:h-125 lg:w-125" />
             </div>
 
-            <div className="relative mt-4 max-w-70 lg:mt-0 lg:max-w-full">
-              <div className="relative z-30 overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-lg">
+            <div className="relative mt-4 lg:mt-0 lg:max-w-full">
+              <div className="relative z-30 max-w-70 overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-lg">
                 <Image
-                  src={placeholder}
+                  src="/app-promo/tasks-hd.png"
                   alt="App screenshot showing task management interface"
                   width={280}
                   height={580}
-                  className="h-auto max-w-full bg-muted object-cover"
-                  unoptimized
+                  className="w-full bg-muted"
                 />
               </div>
 
-              <div className="absolute top-24 -right-20 z-20 hidden rotate-6 transform overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-lg lg:-right-32 lg:block">
+              <div className="absolute top-24 -right-20 z-20 hidden max-w-70 rotate-6 overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-lg lg:-right-32 lg:block">
                 <Image
-                  src={placeholder}
+                  src="/app-promo/calendar-hd.png"
                   alt="App screenshot showing calendar interface"
-                  width={240}
-                  height={520}
-                  className="h-auto max-w-full bg-muted object-cover"
-                  unoptimized
+                  height={580}
+                  width={280}
+                  className="w-full bg-muted"
                 />
               </div>
 
               <Card
-                className="absolute top-16 -left-8 z-40 hidden sm:block lg:-left-16"
+                className="absolute top-4/6 -left-8 z-40 hidden sm:block lg:-left-16"
                 size="sm"
               >
                 <CardContent className="flex items-center gap-2">
