@@ -6,7 +6,7 @@ alwaysApply: true
 # Upcoming (do not build)
 
 - Arabic + RTL
-- Real logo (PNG/SVG) and favicon (keep Next.js favicon until then)
+- Real logo file beyond the in-app wordmark (favicon is generated from `public/icon.svg`)
 - Icon library + social icons and real profile URLs
 - Trade license / legal company name
 - Real Privacy / Terms copy (dummy pages are in scope)

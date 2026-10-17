@@ -25,7 +25,8 @@ We are in **UI designing mode**. Build UI from `TASKS.md` (read that file first)
 
 - Name: **Handyman** (text wordmark until a logo file exists)
 - Typography: multiple fonts (heading + body). Families TBD.
-- Favicon: keep the Next.js default until the logo exists
+- Favicon / touch: `generateImageMetadata` in `src/app/icon.tsx` (16, 32, 48, 192, 512) and `src/app/apple-icon.tsx` (120, 152, 167, 180), from `public/icon.svg`
+- Social / SEO: `generateImageMetadata` in `src/app/opengraph-image.tsx` (1200×630 OG, 1200×600 Twitter, 1080×1080 square)
 - Service area: UAE
 - Address: Marina, Dubai, UAE
 - Phone / WhatsApp: `+971 54 514 9849`
@@ -37,13 +38,13 @@ We are in **UI designing mode**. Build UI from `TASKS.md` (read that file first)
 
 ## Pages
 
-Home, About us, Contact, Services, FAQs, Privacy (dummy), Terms (dummy). No extra routes unless asked.
+Home, About us, Contact, Services (list and detail), FAQs, Privacy (dummy), Terms (dummy). No extra routes unless asked.
 
 Do not write SEO title/description or add analytics in code yet.
 
 ## Services
 
-The five highlight services are not the full list. Services page should include a broad UAE trades catalog. No prices; quote CTAs come later.
+The five highlight services are not the full list. Full catalogue and detail copy live in `src/data/services/` (category seeds). Services page groups by category. No prices; quote CTAs come later.
 
 ## Content
 
@@ -54,4 +55,4 @@ The five highlight services are not the full list. Services page should include 
 
 ## Do not build yet
 
-Arabic, real logo, social URLs, quote popup/form wiring, contact form email sending, analytics, SEO meta, Contabo/Docker.
+Arabic, real logo, social URLs, quote popup/form wiring, contact form email sending, analytics, researched SEO title/description, Contabo/Docker.

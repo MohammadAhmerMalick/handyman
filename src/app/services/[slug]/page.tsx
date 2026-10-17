@@ -20,7 +20,7 @@ export const generateMetadata = async ({ params }: ServiceDetailPageProps) => {
 
   return {
     description: service.metaDescription,
-    title: service.metaTitle,
+    title: { absolute: service.metaTitle },
   }
 }
 

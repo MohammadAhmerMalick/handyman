@@ -49,7 +49,7 @@ Marketing site for **Handyman** — renovation, maintenance, and trade services 
 
 - Business name: Handyman
 - Logo: text wordmark **Handyman** until a PNG/SVG is supplied
-- Favicon: keep the default Next.js favicon until the real logo exists
+- Favicon / touch icons: `src/app/icon.tsx` uses `generateImageMetadata` for 16, 32, 48, 192, and 512 px from `public/icon.svg`. `src/app/apple-icon.tsx` generates 120, 152, 167, and 180 px Apple touch icons. Next.js emits the link tags. `favicon.ico` is not generated in code.
 - Language shipping now: English only
 - Arabic: upcoming (site should be structured so `ar` can be added later; do not build i18n yet)
 
@@ -105,24 +105,24 @@ Do not add an icon library or pick social platforms yet. That happens in dev mod
 1. Home
 2. About us
 3. Contact
-4. Services list
+4. Services list and service detail (`/services/[slug]`)
 5. FAQs
 6. Privacy Policy (dummy)
 7. Terms of Use (dummy)
 
 Do not add extra routes, dashboards, or accounts unless asked.
 
-Nav, footer, legal, and social hrefs/icons live in `src/data/links.ts`. Pages that are not built yet stay `#`. Live routes: `/`, `/about`, `/services`, `/faq`, `/contact`, `/privacy`, `/terms`.
+Nav, footer, legal, and social hrefs/icons live in `src/data/links.ts`. Pages that are not built yet stay `#`. Live routes: `/`, `/about`, `/services`, `/services/[slug]`, `/faq`, `/contact`, `/privacy`, `/terms`.
 
 ## SEO and analytics
 
-Do **not** write a title/description yet and do **not** add meta tags in code. Later: research UAE handyman / renovation search terms and recommend a title + short description.
+Social / SEO images: `src/app/opengraph-image.tsx` uses `generateImageMetadata` for 1200×630 (OG), 1200×600 (Twitter), and 1080×1080 (square) from `public/icon.svg`. Root metadata in `src/app/layout.tsx` sets `metadataBase` (`https://handyman.ae`), title template, description, keywords, canonical URL, Open Graph, and Twitter card. The description is the existing site line.
 
-Analytics (upcoming, do not add now): Google Analytics and Meta Pixel.
+Researched title and description copy is still later. Do not add analytics yet.
 
 ## Services
 
-The five labels below are highlights, not the full offering. The services page should list **as many relevant trades as is reasonable** for a UAE renovation / handyman business. Expand from this starter set; do not treat it as a closed list.
+The five labels below are highlights for home/footer. The full catalogue lives in `src/data/services/` (category seed modules + `buildService`), with detail pages at `/services/[slug]`. The services list page groups entries by category.
 
 Highlights:
 
@@ -132,7 +132,7 @@ Highlights:
 - Masonry & Painting
 - Handyman & General Maintenance
 
-Starter catalog to expand from (edit later): electrical, tiling, gypsum / false ceiling, waterproofing, kitchen & bathroom renovation, flooring, aluminum & glass, welding & fabrication, furniture assembly, appliance installation, CCTV & smart locks, plastering, wallpaper, outdoor / villa maintenance.
+Catalogue covers general handyman, plumbing, electrical, carpentry, AC, painting, masonry/tiling, flooring, doors/windows, kitchen, bathroom, walls/ceilings, waterproofing, outdoor, furniture installation, smart home, commercial, rental/move-in, cleaning support, specialist/seasonal, and UAE-focused property maintenance. Electrical, refrigerant HVAC, and major roofing/waterproofing copy notes licensing or specialist limits where required. Emergency-labelled services mean priority visits within working hours — not 24/7.
 
 No per-service prices. Quotes only (CTA / banner / popup / form section later).
 
@@ -146,7 +146,7 @@ No per-service prices. Quotes only (CTA / banner / popup / form section later).
 ## Upcoming features (do not build yet)
 
 - Arabic language / RTL
-- Real logo (PNG or SVG) and favicon
+- Real logo file beyond the in-app wordmark (favicon is generated from `public/icon.svg`)
 - Icon library + social icons and real profile URLs
 - Trade license / legal company name
 - Real Privacy / Terms copy
@@ -154,7 +154,7 @@ No per-service prices. Quotes only (CTA / banner / popup / form section later).
 - Real about / trust / testimonial copy and photos
 - Quote CTA, banner, popup, and quote form section
 - Contact form submission (see recommendation below)
-- Per-service pages or pricing, if ever needed
+- Per-service pricing, if ever needed
 - SEO research + recommended title/description (then implement meta tags)
 - Google Analytics
 - Meta Pixel
