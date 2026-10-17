@@ -13,8 +13,8 @@ const AppPromotionSection = () => {
   return (
     <section>
       <Container>
-        <div className="grid items-center gap-10 md:grid-cols-2 md:gap-12">
-          <div className="order-2 flex flex-col gap-6 md:order-1">
+        <div className="grid items-center gap-10 lg:grid-cols-2 lg:gap-12">
+          <div className="order-2 flex flex-col gap-6 lg:order-1">
             <div className="flex items-center gap-1 text-sm">
               <div className="flex">
                 <Star className="size-4 fill-current text-primary" />
@@ -80,13 +80,13 @@ const AppPromotionSection = () => {
             <ApplicationStoreLinks className="gap-4 pt-2" />
           </div>
 
-          <div className="relative order-1 flex justify-center md:order-2 md:h-150">
+          <div className="relative order-1 flex justify-center lg:order-2 lg:h-150">
             <div className="absolute inset-0 -z-10">
-              <div className="absolute top-1/2 left-1/2 h-75 w-75 -translate-x-1/2 -translate-y-1/2 rounded-full bg-linear-to-r from-primary/20 to-primary/10 opacity-70 blur-[100px] md:h-125 md:w-125" />
+              <div className="absolute top-1/2 left-1/2 h-75 w-75 -translate-x-1/2 -translate-y-1/2 rounded-full bg-linear-to-r from-primary/20 to-primary/10 opacity-70 blur-[100px] lg:h-125 lg:w-125" />
             </div>
 
-            <div className="relative mt-4 max-w-70 md:mt-0 md:max-w-full">
-              <div className="relative z-30 overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-md">
+            <div className="relative mt-4 max-w-70 lg:mt-0 lg:max-w-full">
+              <div className="relative z-30 overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-lg">
                 <Image
                   src={placeholder}
                   alt="App screenshot showing task management interface"
@@ -97,7 +97,7 @@ const AppPromotionSection = () => {
                 />
               </div>
 
-              <div className="absolute top-24 -right-20 z-20 hidden rotate-6 transform overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-md md:-right-32 md:block">
+              <div className="absolute top-24 -right-20 z-20 hidden rotate-6 transform overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-lg lg:-right-32 lg:block">
                 <Image
                   src={placeholder}
                   alt="App screenshot showing calendar interface"
@@ -109,7 +109,7 @@ const AppPromotionSection = () => {
               </div>
 
               <Card
-                className="absolute top-16 -left-8 z-40 hidden sm:block md:-left-16"
+                className="absolute top-16 -left-8 z-40 hidden sm:block lg:-left-16"
                 size="sm"
               >
                 <CardContent className="flex items-center gap-2">

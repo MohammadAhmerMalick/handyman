@@ -2,7 +2,6 @@ import { cn } from 'cn'
 import Image from 'next/image'
 import Heading from '@/components/shared/Heading'
 import { Container } from '@/components/ui/container'
-import { navbarHeight } from '@/data/constants'
 import { getPageLink } from '@/data/links'
 
 type PageTitleProps = {
@@ -39,8 +38,8 @@ const PageTitle = ({
       <Image
         className={cn('absolute inset-0 w-full object-cover')}
         style={{
-          height: `calc(100% + ${navbarHeight.desktop.expanded}px)`,
-          top: `-${navbarHeight.desktop.expanded}px`,
+          height: `calc(100% + 106px)`,
+          top: `-106px`,
         }}
         src="/page-title-bg.jpg"
         alt="Page Title Background"

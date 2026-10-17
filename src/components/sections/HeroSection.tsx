@@ -16,7 +16,7 @@ const HeroSection = () => {
         />
       </div>
       <Container className="relative md:pt-36">
-        <div className="grid items-center gap-8 md:grid-cols-2">
+        <div className="grid items-center gap-8 lg:grid-cols-2">
           {/* Left content */}
           <div className="flex flex-col space-y-4">
             <div className="inline-flex w-fit items-center rounded-full border border-transparent bg-primary px-2.5 py-0.5 font-semibold text-primary-foreground text-xs transition-colors hover:bg-primary/80 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2">

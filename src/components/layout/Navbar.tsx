@@ -40,13 +40,13 @@ const Navbar = () => {
 
         {/* Desktop Menu */}
         <nav>
-          <NavMenu className="hidden md:block" />
+          <NavMenu className="hidden lg:block" />
         </nav>
 
         <div className="flex items-center gap-3">
           <Button
             size="lg"
-            className="hidden md:flex"
+            className="hidden lg:flex"
             render={
               <a
                 href={contact.whatsapp.href}
@@ -61,7 +61,7 @@ const Navbar = () => {
           </Button>
 
           {/* Mobile Menu */}
-          <div className="md:hidden">
+          <div className="lg:hidden">
             <NavigationSheet />
           </div>
         </div>

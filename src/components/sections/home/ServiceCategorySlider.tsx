@@ -59,11 +59,12 @@ const CategoryCard = ({ category }: CategoryCardProps) => {
         href={category.href}
       >
         <Image
-          alt=""
-          className="object-cover transition-transform duration-300 group-hover:scale-[1.03]"
-          fill
-          sizes="(max-width: 768px) 90vw, (max-width: 1200px) 45vw, 30vw"
+          width={400}
+          height={220}
           src={category.imageSrc}
+          alt={`${category.title} category image`}
+          sizes="(max-width: 768px) 90vw, (max-width: 1200px) 45vw, 30vw"
+          className="size-full object-cover transition-transform duration-300 group-hover:scale-[1.03]"
         />
       </Link>
 

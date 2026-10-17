@@ -28,19 +28,15 @@ const highlightSummary = (service: ServiceItem) => {
 const HighlightCard = ({ featured = false, service }: HighlightCardProps) => {
   return (
     <Link
-      className="group flex h-full flex-col overflow-hidden rounded-3xl border border-border bg-card shadow-muted shadow-sm transition-shadow duration-300 hover:shadow-md"
+      className="group flex h-full flex-col overflow-hidden rounded-3xl border border-border bg-card shadow-muted shadow-xl transition-[background-color,border-color,box-shadow,color] duration-300 hover:bg-primary-foreground hover:shadow-md"
       href={serviceHref(service.slug)}
     >
-      <div
-        className={cn(
-          'relative overflow-hidden bg-muted',
-          featured ? 'aspect-video' : 'aspect-16/10'
-        )}
-      >
+      <div className={cn('relative overflow-hidden bg-muted')}>
         <Image
-          alt=""
-          className="object-cover transition-transform duration-500 group-hover:scale-105"
-          fill
+          alt={`${service.title} service image`}
+          className="size-full object-cover transition-transform duration-500 group-hover:scale-105"
+          width={725}
+          height={410}
           priority={featured}
           sizes={
             featured
@@ -60,13 +56,13 @@ const HighlightCard = ({ featured = false, service }: HighlightCardProps) => {
       </div>
 
       <div className="flex flex-1 flex-col gap-3 p-5 md:p-6">
-        <h3 className="font-semibold text-heading text-xl leading-snug transition-colors group-hover:text-primary">
+        <h3 className="font-semibold text-heading text-xl leading-snug transition-colors duration-300 group-hover:text-primary">
           {service.title}
         </h3>
-        <p className="line-clamp-3 text-sm leading-relaxed">
+        <p className="line-clamp-3 text-sm leading-relaxed transition-colors duration-300 group-hover:text-white">
           {highlightSummary(service)}
         </p>
-        <span className="mt-auto inline-flex items-center gap-1.5 pt-2 font-medium text-heading text-sm transition-colors group-hover:text-primary">
+        <span className="mt-auto inline-flex items-center gap-1.5 pt-2 font-medium text-heading text-sm transition-colors duration-300 group-hover:text-primary">
           View service
           <ArrowRight
             aria-hidden
