@@ -117,71 +117,69 @@ const ServiceCategorySlider = () => {
   }, [deferredQuery])
 
   return (
-    <section className="border-border border-t bg-white">
-      <Container className="space-y-8">
-        <div className="flex max-w-2xl flex-col gap-3">
-          <h2 className="font-bold text-3xl md:text-4xl">Browse by category</h2>
-          <p className="md:text-lg">
-            Explore our maintenance and trade categories, then open the full
-            service list for that area of work.
-          </p>
-        </div>
+    <Container className="space-y-8">
+      <div className="flex max-w-2xl flex-col gap-3">
+        <h2 className="font-bold text-3xl md:text-4xl">Browse by category</h2>
+        <p className="md:text-lg">
+          Explore our maintenance and trade categories, then open the full
+          service list for that area of work.
+        </p>
+      </div>
 
-        <Carousel
-          className="w-full"
-          key={deferredQuery}
-          opts={{ align: 'start', loop: false }}
-        >
-          <div className="mb-4 flex items-center gap-3">
-            <div className="relative min-w-0 flex-1 sm:max-w-80">
-              <label className="sr-only" htmlFor="category-slider-search">
-                Search categories
-              </label>
-              <Search
-                aria-hidden
-                className="pointer-events-none absolute top-1/2 left-3 size-4 -translate-y-1/2"
-              />
-              <Input
-                className="h-10 rounded-3xl border-border bg-background pl-9"
-                id="category-slider-search"
-                onChange={(event) => setQuery(event.target.value)}
-                placeholder="Search categories..."
-                type="search"
-                value={query}
-              />
-            </div>
-
-            <div className="ml-auto flex shrink-0 items-center gap-2">
-              <CarouselPrevious
-                className="translate-none static size-9 rounded-2xl disabled:opacity-40"
-                size="icon"
-              />
-              <CarouselNext
-                className="translate-none static size-9 rounded-2xl disabled:opacity-40"
-                size="icon"
-              />
-            </div>
+      <Carousel
+        className="w-full"
+        key={deferredQuery}
+        opts={{ align: 'start', loop: false }}
+      >
+        <div className="mb-4 flex items-center gap-3">
+          <div className="relative min-w-0 flex-1 sm:max-w-80">
+            <label className="sr-only" htmlFor="category-slider-search">
+              Search categories
+            </label>
+            <Search
+              aria-hidden
+              className="pointer-events-none absolute top-1/2 left-3 size-4 -translate-y-1/2"
+            />
+            <Input
+              className="h-10 rounded-3xl border-border bg-background pl-9"
+              id="category-slider-search"
+              onChange={(event) => setQuery(event.target.value)}
+              placeholder="Search categories..."
+              type="search"
+              value={query}
+            />
           </div>
 
-          {filteredCategories.length === 0 ? (
-            <p className="rounded-2xl border border-border bg-muted/40 px-5 py-10 text-center text-muted-foreground">
-              No categories match your search. Try another term.
-            </p>
-          ) : (
-            <CarouselContent className="-ml-6">
-              {filteredCategories.map((category) => (
-                <CarouselItem
-                  className="basis-full py-2 pl-6 sm:basis-1/2 lg:basis-1/3 xl:basis-1/4"
-                  key={category.id}
-                >
-                  <CategoryCard category={category} />
-                </CarouselItem>
-              ))}
-            </CarouselContent>
-          )}
-        </Carousel>
-      </Container>
-    </section>
+          <div className="ml-auto flex shrink-0 items-center gap-2">
+            <CarouselPrevious
+              className="translate-none static size-9 rounded-2xl disabled:opacity-40"
+              size="icon"
+            />
+            <CarouselNext
+              className="translate-none static size-9 rounded-2xl disabled:opacity-40"
+              size="icon"
+            />
+          </div>
+        </div>
+
+        {filteredCategories.length === 0 ? (
+          <p className="rounded-2xl border border-border bg-background px-5 py-10 text-center text-muted-foreground">
+            No categories match your search. Try another term.
+          </p>
+        ) : (
+          <CarouselContent className="-ml-6">
+            {filteredCategories.map((category) => (
+              <CarouselItem
+                className="basis-full py-2 pl-6 sm:basis-1/2 lg:basis-1/3 xl:basis-1/4"
+                key={category.id}
+              >
+                <CategoryCard category={category} />
+              </CarouselItem>
+            ))}
+          </CarouselContent>
+        )}
+      </Carousel>
+    </Container>
   )
 }
 

@@ -58,49 +58,44 @@ const TestimonialCard = ({ testimonial }: TestimonialCardProps) => {
 
 const TestimonialsSection = () => {
   return (
-    <section
-      aria-label="Customer reviews"
-      className="border-border border-t bg-muted/40"
-    >
-      <Container>
-        <Carousel
-          aria-label="Customer reviews"
-          className="w-full"
-          opts={{ align: 'start', loop: true }}
-        >
-          <div className="mb-8 grid items-end gap-4 sm:grid-cols-[minmax(0,1fr)_auto]">
-            <Heading
-              eyebrow="Testimonials"
-              heading="What our customers say"
-              layout="left"
-              paragraph="Homeowners and workplaces across the UAE, after renovation, air conditioning, plumbing, and day-to-day maintenance."
-              size="xl"
+    <Container>
+      <Carousel
+        aria-label="Customer reviews"
+        className="w-full"
+        opts={{ align: 'start', loop: true }}
+      >
+        <div className="mb-8 grid items-end gap-4 sm:grid-cols-[minmax(0,1fr)_auto]">
+          <Heading
+            eyebrow="Testimonials"
+            heading="What our customers say"
+            layout="left"
+            paragraph="Homeowners and workplaces across the UAE, after renovation, air conditioning, plumbing, and day-to-day maintenance."
+            size="xl"
+          />
+          <div className="flex shrink-0 gap-2">
+            <CarouselPrevious
+              className="translate-none static size-9 rounded-2xl disabled:opacity-40"
+              size="icon"
             />
-            <div className="flex shrink-0 gap-2">
-              <CarouselPrevious
-                className="translate-none static size-9 rounded-2xl disabled:opacity-40"
-                size="icon"
-              />
-              <CarouselNext
-                className="translate-none static size-9 rounded-2xl disabled:opacity-40"
-                size="icon"
-              />
-            </div>
+            <CarouselNext
+              className="translate-none static size-9 rounded-2xl disabled:opacity-40"
+              size="icon"
+            />
           </div>
+        </div>
 
-          <CarouselContent className="-ml-6">
-            {testimonials.map((testimonial) => (
-              <CarouselItem
-                className="flex basis-full py-2 pl-6 sm:basis-1/2 lg:basis-1/3"
-                key={testimonial.id}
-              >
-                <TestimonialCard testimonial={testimonial} />
-              </CarouselItem>
-            ))}
-          </CarouselContent>
-        </Carousel>
-      </Container>
-    </section>
+        <CarouselContent className="-ml-6">
+          {testimonials.map((testimonial) => (
+            <CarouselItem
+              className="flex basis-full py-2 pl-6 sm:basis-1/2 lg:basis-1/3"
+              key={testimonial.id}
+            >
+              <TestimonialCard testimonial={testimonial} />
+            </CarouselItem>
+          ))}
+        </CarouselContent>
+      </Carousel>
+    </Container>
   )
 }
 

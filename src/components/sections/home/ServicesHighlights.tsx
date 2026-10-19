@@ -76,42 +76,40 @@ const HighlightCard = ({ featured = false, service }: HighlightCardProps) => {
 
 const ServicesHighlights = () => {
   return (
-    <section className="border-border border-t bg-white">
-      <Container className="space-y-10">
-        <div className="flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
-          <div className="max-w-2xl space-y-3">
-            <h2 className="font-bold text-3xl md:text-4xl">Our services</h2>
-            <p className="md:text-lg">
-              Core trades for homes and businesses across the UAE. See the full
-              list on our services page.
-            </p>
-          </div>
-          <Button
-            className="w-fit shrink-0"
-            nativeButton={false}
-            render={<Link href={pages.services.href} />}
-            size="lg"
-          >
-            View all services
-            <ArrowRight aria-hidden data-icon="inline-end" />
-          </Button>
+    <Container className="space-y-10">
+      <div className="flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
+        <div className="max-w-2xl space-y-3">
+          <h2 className="font-bold text-3xl md:text-4xl">Our services</h2>
+          <p className="md:text-lg">
+            Core trades for homes and businesses across the UAE. See the full
+            list on our services page.
+          </p>
         </div>
+        <Button
+          className="w-fit shrink-0"
+          nativeButton={false}
+          render={<Link href={pages.services.href} />}
+          size="lg"
+        >
+          View all services
+          <ArrowRight aria-hidden data-icon="inline-end" />
+        </Button>
+      </div>
 
-        <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-6">
-          {highlightServices.map((service, index) => (
-            <li
-              className={cn(
-                index < 2 ? 'lg:col-span-3' : 'lg:col-span-2',
-                index === highlightServices.length - 1 && 'sm:col-span-2'
-              )}
-              key={service.slug}
-            >
-              <HighlightCard featured={index < 2} service={service} />
-            </li>
-          ))}
-        </ul>
-      </Container>
-    </section>
+      <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-6">
+        {highlightServices.map((service, index) => (
+          <li
+            className={cn(
+              index < 2 ? 'lg:col-span-3' : 'lg:col-span-2',
+              index === highlightServices.length - 1 && 'sm:col-span-2'
+            )}
+            key={service.slug}
+          >
+            <HighlightCard featured={index < 2} service={service} />
+          </li>
+        ))}
+      </ul>
+    </Container>
   )
 }
 
