@@ -2,6 +2,7 @@ import { cn } from 'cn'
 import { ArrowRight } from 'lucide-react'
 import Image from 'next/image'
 import Link from 'next/link'
+import Heading from '@/components/shared/Heading'
 import { Button } from '@/components/ui/button'
 import { Container } from '@/components/ui/container'
 import { pages } from '@/data/links'
@@ -28,7 +29,7 @@ const highlightSummary = (service: ServiceItem) => {
 const HighlightCard = ({ featured = false, service }: HighlightCardProps) => {
   return (
     <Link
-      className="group flex h-full flex-col overflow-hidden rounded-3xl border border-border bg-card shadow-muted shadow-xl transition-[background-color,border-color,box-shadow,color] duration-300 hover:bg-primary-foreground hover:shadow-md"
+      className="group flex h-full flex-col overflow-hidden rounded-3xl border border-border shadow-muted shadow-xl backdrop-blur-xs transition-[background-color,border-color,box-shadow,color] duration-300 hover:bg-primary-foreground hover:shadow-md"
       href={serviceHref(service.slug)}
     >
       <div className={cn('relative overflow-hidden bg-muted')}>
@@ -77,14 +78,12 @@ const HighlightCard = ({ featured = false, service }: HighlightCardProps) => {
 const ServicesHighlights = () => {
   return (
     <Container className="space-y-10">
-      <div className="flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
-        <div className="max-w-2xl space-y-3">
-          <h2 className="font-bold text-3xl md:text-4xl">Our services</h2>
-          <p className="md:text-lg">
-            Core trades for homes and businesses across the UAE. See the full
-            list on our services page.
-          </p>
-        </div>
+      <div className="grid items-end gap-6 sm:grid-cols-[minmax(0,1fr)_auto]">
+        <Heading
+          heading="Our services"
+          layout="left"
+          paragraph="Core trades for homes and businesses across the UAE. See the full list on our services page."
+        />
         <Button
           className="w-fit shrink-0"
           nativeButton={false}

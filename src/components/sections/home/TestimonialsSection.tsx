@@ -18,7 +18,7 @@ type TestimonialCardProps = {
 
 const TestimonialCard = ({ testimonial }: TestimonialCardProps) => {
   return (
-    <figure className="flex h-full flex-col rounded-2xl border border-border bg-card p-6 shadow-md shadow-muted md:p-7">
+    <figure className="flex h-full flex-col rounded-2xl border border-border p-6 shadow-md shadow-muted backdrop-blur-xs md:p-7">
       <Quote
         aria-hidden
         className="size-10 fill-primary text-heading"

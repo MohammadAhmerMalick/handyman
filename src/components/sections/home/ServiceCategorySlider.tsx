@@ -4,6 +4,7 @@ import { Search, Wrench } from 'lucide-react'
 import Image from 'next/image'
 import Link from 'next/link'
 import { useDeferredValue, useMemo, useState } from 'react'
+import Heading from '@/components/shared/Heading'
 import { Button } from '@/components/ui/button'
 import {
   Carousel,
@@ -52,7 +53,7 @@ const CategoryCard = ({ category }: CategoryCardProps) => {
       : `${category.serviceCount} ${category.title} Services`
 
   return (
-    <article className="group flex h-full flex-col overflow-hidden rounded-2xl border border-border bg-background shadow-md shadow-muted">
+    <article className="group flex h-full flex-col overflow-hidden rounded-2xl border border-border shadow-md shadow-muted backdrop-blur-xs">
       <Link
         aria-label={`View ${category.title} services`}
         className="relative block aspect-16/10 overflow-hidden bg-muted"
@@ -118,13 +119,11 @@ const ServiceCategorySlider = () => {
 
   return (
     <Container className="space-y-8">
-      <div className="flex max-w-2xl flex-col gap-3">
-        <h2 className="font-bold text-3xl md:text-4xl">Browse by category</h2>
-        <p className="md:text-lg">
-          Explore our maintenance and trade categories, then open the full
-          service list for that area of work.
-        </p>
-      </div>
+      <Heading
+        heading="Browse by category"
+        layout="left"
+        paragraph="Explore our maintenance and trade categories, then open the full service list for that area of work."
+      />
 
       <Carousel
         className="w-full"

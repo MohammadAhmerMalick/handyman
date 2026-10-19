@@ -4,6 +4,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import type { ReactNode } from 'react'
 import ServiceFaqs from '@/components/sections/services/ServiceFaqs'
+import Heading from '@/components/shared/Heading'
 import SocialLinks from '@/components/shared/SocialLinks'
 import { Container } from '@/components/ui/container'
 import { contact } from '@/data/contact'
@@ -91,8 +92,11 @@ const ServiceArticle = ({ service }: ServiceColumnProps) => {
   return (
     <article className="space-y-6 lg:col-span-2">
       <ServiceImageBlock className="aspect-2/1" image={service.heroImage} />
-      <h2 className="font-bold text-3xl md:text-4xl">{service.heroTitle}</h2>
-      <p className="leading-relaxed">{service.introduction}</p>
+      <Heading
+        heading={service.heroTitle}
+        layout="left"
+        paragraph={service.introduction}
+      />
       {service.mainDescription.map((paragraph) => (
         <p className="leading-relaxed" key={paragraph}>
           {paragraph}

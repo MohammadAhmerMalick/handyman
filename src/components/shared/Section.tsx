@@ -23,7 +23,7 @@ const Section = ({
     <section
       className={cn(
         'relative',
-        banded ? 'bg-muted/40' : 'bg-background',
+        banded ? 'bg-muted/50' : 'bg-background',
         background &&
           'pb-16 before:pointer-events-none before:absolute before:inset-0 before:bg-size-[auto_150px] before:bg-no-repeat before:opacity-20 before:content-[""] md:before:bg-size-[auto_350px] before:[background-image:var(--section-bg)]',
         background &&

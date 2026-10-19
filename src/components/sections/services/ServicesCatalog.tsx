@@ -1,6 +1,7 @@
 import { ArrowRight } from 'lucide-react'
 import Image from 'next/image'
 import Link from 'next/link'
+import Heading from '@/components/shared/Heading'
 import { Container } from '@/components/ui/container'
 import { catalogByCategory, serviceHref } from '@/data/services'
 import { categoryIcons } from '@/data/services/icons'
@@ -105,10 +106,12 @@ const ServicesCatalog = () => {
                     <p className="font-medium text-muted-foreground text-sm">
                       {countLabel(services.length)}
                     </p>
-                    <h2 className="font-bold text-2xl md:text-3xl">
-                      {category.title}
-                    </h2>
-                    <p className="max-w-2xl">{category.description}</p>
+                    <Heading
+                      heading={category.title}
+                      layout="left"
+                      paragraph={category.description}
+                      size="md"
+                    />
                   </div>
                 </div>
               </div>

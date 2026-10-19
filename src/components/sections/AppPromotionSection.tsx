@@ -50,31 +50,37 @@ const AppPromotionSection = () => {
             </Button>
           </div>
 
-          <div className="flex flex-col gap-3 pt-2">
-            <h3 className="font-semibold text-lg">Why users love our app</h3>
-            <div className="grid gap-2">
-              <div className="flex items-center gap-2">
-                <BadgeCheck className="size-4 text-primary" />
-                <span className="text-sm">
-                  Intuitive interface with minimal learning curve
-                </span>
+          <Card className="bg-transparent shadow-muted shadow-xl backdrop-blur-xs">
+            <CardContent>
+              <div className="flex flex-col gap-3">
+                <h3 className="font-semibold text-lg">
+                  Why users love our app
+                </h3>
+                <div className="grid gap-2">
+                  <div className="flex items-center gap-2">
+                    <BadgeCheck className="size-4 text-primary" />
+                    <span className="text-sm">
+                      Intuitive interface with minimal learning curve
+                    </span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <BadgeCheck className="size-4 text-primary" />
+                    <span className="text-sm">
+                      Seamless cross-device syncing and offline support
+                    </span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <BadgeCheck className="size-4 text-primary" />
+                    <span className="text-sm">
+                      Advanced organizational tools with zero complexity
+                    </span>
+                  </div>
+                </div>
               </div>
-              <div className="flex items-center gap-2">
-                <BadgeCheck className="size-4 text-primary" />
-                <span className="text-sm">
-                  Seamless cross-device syncing and offline support
-                </span>
-              </div>
-              <div className="flex items-center gap-2">
-                <BadgeCheck className="size-4 text-primary" />
-                <span className="text-sm">
-                  Advanced organizational tools with zero complexity
-                </span>
-              </div>
-            </div>
-          </div>
 
-          <ApplicationStoreLinks className="gap-4 pt-2" />
+              <ApplicationStoreLinks className="gap-4 pt-8" />
+            </CardContent>
+          </Card>
         </div>
 
         <div className="relative order-1 flex justify-center lg:order-2 lg:h-150">
@@ -104,7 +110,7 @@ const AppPromotionSection = () => {
             </div>
 
             <Card
-              className="absolute top-4/6 -left-8 z-40 hidden sm:block lg:-left-16"
+              className="absolute top-4/6 -left-8 z-40 hidden bg-white/70 backdrop-blur-sm sm:block lg:-left-16"
               size="sm"
             >
               <CardContent className="flex items-center gap-2">
@@ -121,7 +127,7 @@ const AppPromotionSection = () => {
             </Card>
 
             <Card
-              className="absolute -right-12 -bottom-6 z-40 hidden sm:block"
+              className="absolute -right-12 -bottom-6 z-40 hidden bg-white/70 backdrop-blur-sm sm:block"
               size="sm"
             >
               <CardContent className="flex flex-col">
