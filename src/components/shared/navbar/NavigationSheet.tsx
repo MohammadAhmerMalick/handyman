@@ -25,7 +25,7 @@ const NavigationSheet = () => {
     <Sheet onOpenChange={setOpen} open={open}>
       <SheetTrigger
         aria-label={open ? 'Close menu' : 'Open menu'}
-        render={<Button size="icon" variant="outline" />}
+        render={<Button size="icon" />}
       >
         <Menu />
       </SheetTrigger>
