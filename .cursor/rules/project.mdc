@@ -24,7 +24,7 @@ We are in **UI designing mode**. Build UI from `TASKS.md` (read that file first)
 ## Identity
 
 - Name: **Handyman** (text wordmark until a logo file exists)
-- Typography: multiple fonts (heading + body). Families TBD.
+- Typography: headings **Bricolage Grotesque**, body **Outfit**. Script fonts are in `.cursor/rules/brand.mdc`.
 - Favicon / touch: `generateImageMetadata` in `src/app/icon.tsx` (16, 32, 48, 192, 512) and `src/app/apple-icon.tsx` (120, 152, 167, 180), from `public/icon.svg`
 - Social / SEO: `generateImageMetadata` in `src/app/opengraph-image.tsx` (1200×630 OG, 1200×600 Twitter, 1080×1080 square)
 - Service area: UAE

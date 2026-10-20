@@ -13,7 +13,7 @@ Do not put a new business fact only in a component. Add it to `src/data` (and to
 
 A component typically maps an id list from `src/data` and calls `t(\`items.${id}.…\`)` for the text. Placeholders such as `{phone}` and `{address}` are filled from `contact` at render time.
 
-`src/data/privacy.ts` and `src/data/terms.ts` still hold English section arrays. The live Privacy and Terms pages do not import them. Those pages read `Privacy` and `Terms` in `messages/*.json`, plus `contact` for the closing line.
+Privacy and Terms pages read `Privacy` and `Terms` in `messages/*.json`, plus `contact` for the closing line.
 
 ## Site facts
 
