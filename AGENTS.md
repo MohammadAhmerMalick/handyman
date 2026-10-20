@@ -28,6 +28,12 @@ This repo description is for GitHub/Cursor/`package.json` only. Do not use it as
 
 We are in **UI designing mode**. Build page by page / section by section. Follow `TASKS.md` for the queue (read that file first). Keep recording new business facts here. Do not invent missing details. Deferred features stay unbuilt until asked (see Upcoming).
 
+## Docs
+
+- Repo layout: `docs/structure.md`
+- `src/data` and how components read it: `docs/data.md`
+- Adding, removing, or editing a language: `docs/i18n.md`
+
 ## Stack
 
 - Next.js (App Router) with TypeScript
@@ -50,8 +56,8 @@ Marketing site for **Handyman** — renovation, maintenance, and trade services 
 - Business name: Handyman
 - Logo: text wordmark **Handyman** until a PNG/SVG is supplied
 - Favicon / touch icons: `src/app/icon.tsx` uses `generateImageMetadata` for 16, 32, 48, 192, and 512 px from `public/icon.svg`. `src/app/apple-icon.tsx` generates 120, 152, 167, and 180 px Apple touch icons. Next.js emits the link tags. `favicon.ico` is not generated in code.
-- Languages: English (default, unprefixed URLs), Arabic (`/ar/...`), Urdu (`/ur/...`), Hindi (`/hi/...`), Chinese (`/zh/...`), and French (`/fr/...`) via `next-intl`
-- Scripts: Arabic and Urdu are RTL with Noto Sans Arabic; Hindi uses Noto Sans Devanagari; Chinese uses Noto Sans SC. UI copy is in `messages/*.json`; service catalogue overlays are in `src/data/services/i18n/<locale>/`.
+- Languages: English (default, unprefixed URLs), Arabic (`/ar/...`), Urdu (`/ur/...`), Hindi (`/hi/...`), Chinese (`/zh/...`), and French (`/fr/...`) via `next-intl`. To add, remove, or edit a language, follow `docs/i18n.md`.
+- Scripts: Arabic and Urdu are RTL with Noto Sans Arabic; Hindi uses Noto Sans Devanagari; Chinese uses Noto Sans SC. UI copy is in `messages/*.json`; service catalogue overlays are in `src/data/services/i18n/<locale>/`; catalogue sentence templates are in `src/data/services/copy.ts`.
 
 ## Brand colors
 
@@ -113,7 +119,7 @@ Do not add an icon library or pick social platforms yet. That happens in dev mod
 
 Do not add extra routes, dashboards, or accounts unless asked.
 
-Nav, footer, legal, and social hrefs/icons live in `src/data/links.ts`. Pages that are not built yet stay `#`. Live routes: `/`, `/about`, `/services`, `/services/[slug]`, `/faq`, `/contact`, `/privacy`, `/terms`, plus the same paths under `/ar`, `/ur`, `/hi`, `/zh`, and `/fr`.
+Nav, footer, legal, and social hrefs/icons live in `src/data/links.ts`. Pages that are not built yet stay `#`. Live routes: `/`, `/about`, `/services`, `/services/[slug]`, `/faq`, `/contact`, `/privacy`, `/terms`, plus the same paths under `/ar`, `/ur`, `/hi`, `/zh`, and `/fr`. Folder map: `docs/structure.md`.
 
 ## SEO and analytics
 
@@ -123,7 +129,7 @@ GA4 and Meta Pixel load from `src/components/shared/Analytics.tsx` only when `NE
 
 ## Services
 
-The five labels below are highlights for home/footer. The full catalogue lives in `src/data/services/` (category seed modules + `buildService`), with detail pages at `/services/[slug]`. The services list page groups entries by category.
+The five labels below are highlights for home/footer. The full catalogue lives in `src/data/services/` (category seed modules + `buildService`), with detail pages at `/services/[slug]`. The services list page groups entries by category. How that data reaches components: `docs/data.md`.
 
 Highlights:
 

@@ -34,7 +34,7 @@ We are in **UI designing mode**. Build UI from `TASKS.md` (read that file first)
 - Hours: Sat–Thu 8:00am–9:00pm; Friday 9:00am–11:00am and 4:00pm–9:00pm. No 24h/emergency for now.
 - Map: placeholder until a real embed is added
 - Trade license / legal company name: TBD
-- Locales: **English** (default, no URL prefix), **Arabic** (`/ar/...`), **Urdu** (`/ur/...`), **Hindi** (`/hi/...`), **Chinese** (`/zh/...`), and **French** (`/fr/...`) via `next-intl`. UI copy lives in `messages/*.json`; service catalogue overlays in `src/data/services/i18n/<locale>/`. Do not invent business facts.
+- Locales: **English** (default, no URL prefix), **Arabic** (`/ar/...`), **Urdu** (`/ur/...`), **Hindi** (`/hi/...`), **Chinese** (`/zh/...`), and **French** (`/fr/...`) via `next-intl`. UI copy lives in `messages/*.json`; service catalogue overlays in `src/data/services/i18n/<locale>/`. To add, remove, or edit a language, follow `docs/i18n.md`. Do not invent business facts.
 
 ## Pages
 
