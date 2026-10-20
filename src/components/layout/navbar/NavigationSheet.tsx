@@ -3,7 +3,6 @@
 import { Menu, MessageCircle } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 import { useState } from 'react'
-import LocaleSwitcher from '@/components/layout/LocaleSwitcher'
 import NavMenu from '@/components/layout/navbar/NavMenu'
 import Logo from '@/components/shared/Logo'
 import SocialLinks from '@/components/shared/SocialLinks'
@@ -40,7 +39,6 @@ const NavigationSheet = () => {
           <Link className="block w-fit" href={pages.home.href} onClick={close}>
             <Logo className="h-auto w-44" />
           </Link>
-          <LocaleSwitcher className="mt-4" />
         </div>
         <NavMenu
           className="px-3 pt-3"

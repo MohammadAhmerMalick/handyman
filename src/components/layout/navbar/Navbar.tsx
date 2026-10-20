@@ -46,7 +46,7 @@ const Navbar = () => {
         </nav>
 
         <div className="flex items-center gap-3">
-          <LocaleSwitcher className="hidden lg:flex" />
+          <LocaleSwitcher />
           <Button
             size="lg"
             className="hidden lg:flex"
