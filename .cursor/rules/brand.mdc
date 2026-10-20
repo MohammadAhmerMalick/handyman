@@ -38,4 +38,14 @@ Prefer semantic usage:
 
 # Fonts
 
-Use **two typefaces** (heading vs body/UI). Do not ship the finished site on a single family. Family names are TBD — do not invent them. Starter Geist is a placeholder until named.
+Use **two typefaces** (heading vs body/UI). Do not ship the finished site on a single family.
+
+| Role | Family | Token / class |
+| --- | --- | --- |
+| Body / UI | Outfit | `--font-sans` / `font-sans` |
+| Headings | Bricolage Grotesque | `--font-heading` / `font-heading` |
+| Arabic / Urdu | Noto Sans Arabic | `--font-arabic` (used when `lang` is `ar` or `ur`) |
+| Hindi | Noto Sans Devanagari | `--font-devanagari` (used when `lang="hi"`) |
+| Chinese | Noto Sans SC | `--font-chinese` (used when `lang="zh"`) |
+
+Wire Latin fonts via `next/font` in the locale layout. Prefer the shared `Heading` / `PageTitle` components for titles (they already use `font-heading`). Arabic and Urdu are RTL (`dir="rtl"`).

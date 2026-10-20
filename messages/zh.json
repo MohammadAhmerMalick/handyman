@@ -1,0 +1,519 @@
+{
+  "About": {
+    "booking": "致电预约",
+    "eyebrow": "可靠安装",
+    "heading": "住宅与商业安装服务",
+    "imageAlt": "迪拜公寓内的壁挂式空调和打开的工具箱",
+    "items": {
+      "allInOne": {
+        "body": "同一团队可以在一次上门中完成相关工种，您不必为同一个房间分别协调多家承包商。",
+        "title": "一站式服务"
+      },
+      "consultation": {
+        "body": "工具拿出来之前，我们会先沟通工作内容、通行安排和营业时间，让上门方式符合您实际使用这个空间的习惯。",
+        "title": "先行咨询"
+      },
+      "customized": {
+        "body": "建议会结合物业本身、已经安装的材料，以及一次预约内能够合理完成的范围。",
+        "title": "量身方案"
+      },
+      "pricing": {
+        "body": "不设目录价。您会收到针对眼前这项工作的报价，额外项目在开工前另行说明。",
+        "title": "报价清晰"
+      }
+    },
+    "readMore": "了解更多"
+  },
+  "AppPromo": {
+    "calendarAlt": "显示日历界面的应用截图",
+    "completeTasks": "完成待办",
+    "dailyReminder": "每日提醒",
+    "download": "下载应用",
+    "featureOffline": "跨设备无缝同步，并支持离线使用",
+    "featureOrg": "整理工具很强，用起来却不复杂",
+    "featureUi": "界面直观，几乎不用学习",
+    "heading": "生活井井有条，简单省心",
+    "paragraph": "我们的应用帮您整理任务、管理项目、达成目标，界面精致，让人专注不被打扰。",
+    "rating": "4.8/5，来自2,945条评价",
+    "seeFeatures": "查看功能",
+    "tasksAlt": "显示任务管理界面的应用截图",
+    "weeklyProgress": "每周进度",
+    "whyLove": "用户喜欢这款应用的原因"
+  },
+  "Catalog": {
+    "count": "{count, plural, other {{count}项服务}}",
+    "navLabel": "服务分类"
+  },
+  "Categories": {
+    "empty": "没有符合搜索的分类，请换个词试试。",
+    "heading": "按分类浏览",
+    "imageAlt": "{title}分类图片",
+    "paragraph": "浏览维修和工种分类，再打开该工作范围的完整服务列表。",
+    "searchLabel": "搜索分类",
+    "searchPlaceholder": "搜索分类…",
+    "serviceCount": "{count, plural, other {{count}项{title}服务}}",
+    "viewAria": "查看{title}服务",
+    "viewServices": "查看服务"
+  },
+  "Common": {
+    "call": "致电",
+    "handyman": "Handyman",
+    "scrollToTop": "回到顶部",
+    "servingUae": "服务阿联酋",
+    "whatsapp": "WhatsApp"
+  },
+  "Contact": {
+    "addressDescription": "位于{address}。服务区域：{serviceArea}。",
+    "addressTitle": "地址",
+    "callDescription": "请在营业时间内致电。",
+    "callTitle": "致电",
+    "emailDescription": "给我们发一封邮件。",
+    "emailTitle": "电子邮箱",
+    "formDetails": "详情",
+    "formEmail": "电子邮箱",
+    "formHelp": "我们可以如何帮助您？",
+    "formName": "姓名",
+    "formNote": "此表单目前不会发送。如需回复，请致电或通过 WhatsApp 联系。",
+    "formPhone": "电话",
+    "formPlaceholderDetails": "请再补充一些情况",
+    "formPlaceholderEmail": "you@example.com",
+    "formPlaceholderName": "姓名",
+    "formPlaceholderPhone": "+971 …",
+    "formSubmit": "发送咨询",
+    "formTitle": "发送消息",
+    "helpAssembly": "组装",
+    "helpCleaning": "清洁",
+    "helpCommercial": "商业",
+    "helpElectrical": "电气",
+    "helpIndividual": "个人",
+    "helpResidential": "住宅",
+    "hoursDescription": "仅在营业时间内。",
+    "hoursTitle": "营业时间",
+    "mapTitle": "Google 地图上的迪拜码头",
+    "whatsappDescription": "通过 WhatsApp 给我们发消息。",
+    "whatsappTitle": "WhatsApp"
+  },
+  "Faq": {
+    "call": "致电",
+    "empty": "没有符合该搜索的问题。试试翻新、空调、水管或营业时间。",
+    "eyebrow": "帮助与资源",
+    "heading": "常见问题",
+    "imageAlt": "常见问题",
+    "items": {
+      "ac": {
+        "answer": "可以。我们为住宅和商业场所安装、保养和维修空调。",
+        "question": "你们做空调保养和维修吗？"
+      },
+      "base": {
+        "answer": "{address}。我们前往{serviceArea}各地上门服务。",
+        "question": "公司在哪里？"
+      },
+      "coverage": {
+        "answer": "我们在{serviceArea}各地工作，公司位于{address}。",
+        "question": "你们覆盖哪些地区？"
+      },
+      "email": {
+        "answer": "请发邮件至 {email}，或在营业时间内致电及通过 WhatsApp 联系。",
+        "question": "如何通过电子邮件联系你们？"
+      },
+      "emergency": {
+        "answer": "不提供。上门和来电只按已公布的营业时间安排。",
+        "question": "你们提供24小时或紧急上门服务吗？"
+      },
+      "hours": {
+        "answer": "周六至周四 {saturdayThursday}；周五 {friday}。",
+        "question": "营业时间是怎样的？"
+      },
+      "kitchens": {
+        "answer": "可以。厨房和浴室翻新属于服务范围，同时包括贴砖、防水及相关饰面。",
+        "question": "你们做厨房和浴室吗？"
+      },
+      "otherTrades": {
+        "answer": "电气、贴砖、石膏板和吊顶、防水、地板、铝合金和玻璃、焊接与金属加工、家具组装、家电安装、CCTV 和智能锁、抹灰、墙纸，以及别墅户外维护。",
+        "question": "还可以安排哪些工种？"
+      },
+      "painting": {
+        "answer": "可以。包括砌砖、抹灰修补，以及室内外油漆。",
+        "question": "你们做油漆和泥瓦吗？"
+      },
+      "plumbing": {
+        "answer": "可以。涵盖水管、洁具、渗漏、橱柜、门及一般木作。",
+        "question": "你们能处理水管和木工吗？"
+      },
+      "quote": {
+        "answer": "致电或 WhatsApp {phone}，并说明具体工作。本站不列出价格，每项工作单独报价。",
+        "question": "如何询价？"
+      },
+      "renovate": {
+        "answer": "可以。我们在阿联酋各地承接住宅和商业空间的整体翻新。",
+        "question": "你们翻新别墅、公寓、办公室和商铺吗？"
+      },
+      "whatsapp": {
+        "answer": "可以。WhatsApp 使用同一号码：{phone}。",
+        "question": "可以在 WhatsApp 上联系你们吗？"
+      },
+      "workTypes": {
+        "answer": "别墅、公寓、办公室及商铺翻新，空调，水管及木工，泥瓦及油漆，以及日常综合维修。服务页面列出更完整的范围，包括电气、贴砖、石膏板、防水、厨房和浴室，以及地板。",
+        "question": "你们承接哪些工作？"
+      }
+    },
+    "searchLabel": "搜索常见问题",
+    "searchPlaceholder": "搜索问题",
+    "sidebarHeading": "还有疑问？",
+    "sidebarParagraph": "如有任何问题或咨询，请联系我们。",
+    "viewAll": "查看全部问题",
+    "whatsapp": "WhatsApp"
+  },
+  "Footer": {
+    "blurb": "在{serviceArea}各地提供翻新、空调、水管及维修保养。位于{address}。",
+    "copyright": "© {year} Handyman. 保留所有权利。",
+    "ourServices": "我们的服务",
+    "quickContact": "快速联系",
+    "quickLinks": "快捷链接"
+  },
+  "Hero": {
+    "badge": "服务阿联酋",
+    "call": "致电 {phone}",
+    "heading": "诚实可靠的翻新与维修，值得托付。",
+    "highlightAc": "空调服务",
+    "highlightMaintenance": "泥瓦、油漆及维修",
+    "highlightPlumbing": "水管及木工",
+    "highlightRenovation": "别墅、公寓、办公室及商铺翻新",
+    "intro": "从别墅、公寓到办公室和商铺，Handyman 承接翻新、空调、水管、木工、泥瓦、油漆及日常维修，公司位于{address}。",
+    "trusted": "深受阿联酋各地业主和企业信赖"
+  },
+  "Highlights": {
+    "heading": "我们的服务",
+    "imageAlt": "{title}服务图片",
+    "paragraph": "面向阿联酋各地住宅与职场的核心工种。完整列表请见服务页面。",
+    "viewAll": "查看全部服务",
+    "viewService": "查看服务"
+  },
+  "Hours": {
+    "fridayLabel": "周五",
+    "fridayValue": "9:00–11:00 及 16:00–21:00",
+    "saturdayThursdayLabel": "周六至周四",
+    "saturdayThursdayValue": "8:00–21:00"
+  },
+  "Legal": {
+    "contactHeading": "联系我们",
+    "privacyContact": "有关本隐私政策的问题，可发邮件至 {email}，致电 {phone}，或按{address}地址联系 Handyman。",
+    "termsContact": "有关本使用条款的问题，可发邮件至 {email}，致电 {phone}，或按{address}地址联系 Handyman。"
+  },
+  "LocaleSwitcher": {
+    "ar": "العربية",
+    "en": "English",
+    "fr": "Français",
+    "hi": "हिन्दी",
+    "label": "语言",
+    "ur": "اردو",
+    "zh": "中文"
+  },
+  "Logo": {
+    "label": "Handyman 标志"
+  },
+  "Metadata": {
+    "category": "家居服务",
+    "description": "面向阿联酋各地的翻新、维修及工种服务。",
+    "keywords": "Handyman, 阿联酋家居维修, 迪拜家居维修, 翻新, 空调, 水管, 木工, 泥瓦, 油漆, 物业维护, 迪拜码头",
+    "titleDefault": "Handyman",
+    "titleTemplate": "%s | Handyman"
+  },
+  "Nav": {
+    "about": "关于我们",
+    "closeMenu": "关闭菜单",
+    "contact": "联系我们",
+    "getQuote": "获取报价",
+    "home": "首页",
+    "menu": "导航菜单",
+    "openMenu": "打开菜单",
+    "services": "服务"
+  },
+  "Pages": {
+    "about": {
+      "description": "关于页面的占位文案，仅用于版式。日后将替换为 Handyman 的真实介绍。",
+      "title": "关于我们"
+    },
+    "contact": {
+      "description": "致电或通过 WhatsApp 可最快得到回复。位于{address}。",
+      "title": "联系我们"
+    },
+    "faq": {
+      "description": "关于服务范围、工种、营业时间以及如何询价的解答。",
+      "title": "常见问题"
+    },
+    "home": {
+      "description": "面向{serviceArea}各地的翻新、维修及工种服务。",
+      "title": "首页"
+    },
+    "privacy": {
+      "description": "隐私政策占位文案，仅用于版式。待法律主体名称和贸易执照确定后替换。",
+      "title": "隐私政策"
+    },
+    "services": {
+      "description": "面向{serviceArea}各地的翻新和维修工种。不设固定价格——请致电或通过 WhatsApp 询价。",
+      "title": "服务"
+    },
+    "terms": {
+      "description": "使用条款占位文案，仅用于版式。待法律主体名称和贸易执照确定后替换。",
+      "title": "使用条款"
+    }
+  },
+  "PageTitle": {
+    "backgroundAlt": "页面标题背景"
+  },
+  "Privacy": {
+    "sections": [
+      {
+        "body": "本占位隐私政策说明：当您访问 handyman.ae，或就阿联酋境内的服务与我们联系时，Handyman 可能如何收集、使用和共享信息。待法律主体名称和贸易执照确定后，请替换本段文字。",
+        "heading": "引言"
+      },
+      {
+        "body": "我们可能收集您提供的资料（例如姓名、电话、电子邮箱和留言内容）、您浏览网站时的使用数据，以及设备类型、大致位置等技术信息。仅为占位示例。",
+        "heading": "我们收集的信息"
+      },
+      {
+        "body": "我们可能使用这些信息来回复咨询、安排报价或上门、改进网站，以及沟通翻新和维修保养服务。仅为占位示例。",
+        "heading": "我们如何使用您的信息"
+      },
+      {
+        "body": "网站可能使用 Cookie 或类似工具来实现基本功能，并在接入分析后用于统计。仅为占位示例。",
+        "heading": "Cookie 与类似技术"
+      },
+      {
+        "body": "我们不出售个人信息。我们可能与协助运营网站或交付服务的服务商共享资料，或在阿联酋法律要求时进行共享。仅为占位示例。",
+        "heading": "信息共享"
+      },
+      {
+        "body": "我们仅在实现上述目的所需的期限内，或在适用法律要求的期限内保留信息。仅为占位示例。",
+        "heading": "数据保留"
+      },
+      {
+        "body": "在适用法律允许的范围内，您可以要求查阅、更正或删除我们持有的您的个人信息。请通过下方联系方式与我们联系。仅为占位示例。",
+        "heading": "您的权利"
+      },
+      {
+        "body": "我们会采取合理措施保护信息，但任何传输或存储方式都无法做到绝对安全。仅为占位示例。",
+        "heading": "数据安全"
+      },
+      {
+        "body": "本网站不以儿童为对象，我们也不会在知情的情况下收集未成年人的个人信息。仅为占位示例。",
+        "heading": "未成年人隐私"
+      },
+      {
+        "body": "我们可能不时更新本页。政策变更后您继续使用网站，即表示接受更新后的政策。仅为占位示例。",
+        "heading": "本政策的变更"
+      }
+    ]
+  },
+  "Service": {
+    "altFinished": "{title}——{category}完工效果",
+    "altHero": "{title}——阿联酋{category}服务",
+    "altOnSite": "{title}——现场{category}作业",
+    "altSidebar": "{title}——Handyman {category}服务",
+    "benefits": "服务优势",
+    "call": "致电 ",
+    "commonProblems": "我们常处理的问题",
+    "faqs": "常见问题",
+    "getInTouch": "与我们联系",
+    "includes": "本服务包含的内容",
+    "navLabel": "相关服务",
+    "process": "我们如何开展工作",
+    "related": "相关服务",
+    "tips": "养护建议",
+    "whatsapp": "WhatsApp ",
+    "whyChoose": "为什么选择 Handyman",
+    "workingHours": "营业时间"
+  },
+  "ServiceCategories": {
+    "air-conditioning": {
+      "description": "空调安装配合、保养、排水检查及气流排查。",
+      "title": "空调与通风"
+    },
+    "bathroom": {
+      "description": "洁具安装、重新密封、配件及浴室小幅翻新。",
+      "title": "浴室服务"
+    },
+    "carpentry": {
+      "description": "门、橱柜、置物架、木材修复及定制木作。",
+      "title": "木工与细木工"
+    },
+    "cleaning": {
+      "description": "维修后清洁、深度清洁及表面保养支持。",
+      "title": "清洁与维护支持"
+    },
+    "commercial": {
+      "description": "面向阿联酋各地职场的办公室、零售及房东物业维护。",
+      "title": "商业物业维护"
+    },
+    "doors-windows": {
+      "description": "门窗维修、密封条、纱窗及玻璃维护。",
+      "title": "门窗与玻璃"
+    },
+    "electrical": {
+      "description": "在具备相应资质的范围内进行灯具、开关、插座及固定装置作业。",
+      "title": "电气"
+    },
+    "flooring": {
+      "description": "复合地板、塑胶地板、木地板安装及地面修复。",
+      "title": "地板"
+    },
+    "furniture-installation": {
+      "description": "家具组装、上墙安装、百叶帘及电视支架安装。",
+      "title": "家具与室内安装"
+    },
+    "general-handyman": {
+      "description": "面向住宅与职场的日常维修、安装及预防性维护。",
+      "title": "综合维修"
+    },
+    "kitchen": {
+      "description": "面向忙碌厨房的橱柜、台面、水槽及抽油烟机维护。",
+      "title": "厨房服务"
+    },
+    "masonry-tiling": {
+      "description": "砌砖修补、抹灰修复、贴砖及填缝维护。",
+      "title": "泥瓦与贴砖"
+    },
+    "outdoor": {
+      "description": "围栏、大门、户外木平台、露台及户外装置维护。",
+      "title": "户外与庭院"
+    },
+    "painting": {
+      "description": "室内外油漆、墙纸及基层处理。",
+      "title": "油漆与装饰"
+    },
+    "plumbing": {
+      "description": "面向厨房和浴室的渗漏、洁具、排水及供水维修。",
+      "title": "水管"
+    },
+    "renovation": {
+      "description": "面向阿联酋各地的别墅、公寓、办公室及商铺翻新。",
+      "title": "翻新"
+    },
+    "rental-move": {
+      "description": "入住与退租维修、收房缺陷检查（snagging）及租赁物业维护。",
+      "title": "租赁与入住服务"
+    },
+    "smart-home": {
+      "description": "在合适范围内安装智能锁、门铃、传感器及摄像头。",
+      "title": "智能家居与安防"
+    },
+    "specialist-seasonal": {
+      "description": "无障碍配件、安全锚固及季节性维护计划。",
+      "title": "专项与季节性服务"
+    },
+    "uae-property": {
+      "description": "侧重迪拜和沙迦的公寓、别墅及度假屋维护。",
+      "title": "阿联酋物业维护"
+    },
+    "walls-ceilings": {
+      "description": "石膏板墙、吊顶、隔断及墙面固定作业。",
+      "title": "墙体、天花与隔断"
+    },
+    "waterproofing": {
+      "description": "渗漏密封、湿区防水修复及天沟维护。",
+      "title": "屋面、防水与密封"
+    }
+  },
+  "Store": {
+    "appStore": "在 App Store 下载",
+    "googlePlay": "在 Google Play 获取"
+  },
+  "Terms": {
+    "sections": [
+      {
+        "body": "访问 handyman.ae 或在阿联酋申请 Handyman 服务，即表示您同意本使用条款。本文仅为版式占位。待法律主体名称和贸易执照确定后替换。",
+        "heading": "同意本条款"
+      },
+      {
+        "body": "Handyman 在阿联酋各地提供翻新、维修保养及各工种服务。本网站信息仅供一般推广和咨询使用。仅为占位示例。",
+        "heading": "关于 Handyman"
+      },
+      {
+        "body": "您仅可将本网站用于合法目的。不得滥用网站、试图未经授权访问，或通过表单及其他渠道提交虚假或有害内容。仅为占位示例。",
+        "heading": "网站使用"
+      },
+      {
+        "body": "网站上的服务说明仅为概述。本站不列出价格，工作按需报价。报价或咨询在书面确认或按其他约定确认之前，不构成具有约束力的合同。仅为占位示例。",
+        "heading": "服务与报价"
+      },
+      {
+        "body": "具体工作的档期、订金和取消规则，将在您预约时确认。仅为占位示例。",
+        "heading": "预约与取消"
+      },
+      {
+        "body": "您有责任提供准确的联系方式和现场通行信息，并确保自己有权要求在该物业开展工作。仅为占位示例。",
+        "heading": "用户责任"
+      },
+      {
+        "body": "本网站内容（文字、品牌、版式和媒体）归 Handyman 或其许可方所有，未经许可不得复制或再使用。仅为占位示例。",
+        "heading": "知识产权"
+      },
+      {
+        "body": "本网站可能链接到第三方网站（例如地图或即时通讯应用）。我们不对其内容或做法负责。仅为占位示例。",
+        "heading": "第三方链接"
+      },
+      {
+        "body": "本网站按“现状”提供。我们不保证网站不中断或没有错误。服务质保（如有）将针对具体工作另行约定。仅为占位示例。",
+        "heading": "免责声明"
+      },
+      {
+        "body": "在阿联酋法律允许的最大范围内，Handyman 不对因使用本网站产生的间接损失或后果性损失承担责任。已签约服务的责任，以该项工作的协议为准。仅为占位示例。",
+        "heading": "责任限制"
+      },
+      {
+        "body": "您同意就因滥用本网站或违反本条款而引起的索赔，向 Handyman 作出赔偿。仅为占位示例。",
+        "heading": "赔偿"
+      },
+      {
+        "body": "本条款受阿拉伯联合酋长国法律管辖。除法律另有规定外，争议可由迪拜法院管辖。仅为占位示例。",
+        "heading": "适用法律"
+      },
+      {
+        "body": "我们可随时在本页发布修订版本，以更新本使用条款。条款变更后您继续使用网站，即表示接受更新后的条款。仅为占位示例。",
+        "heading": "本条款的变更"
+      }
+    ]
+  },
+  "Testimonials": {
+    "eyebrow": "客户评价",
+    "heading": "客户怎么说",
+    "items": {
+      "aisha-khan": {
+        "quote": "浴室密封胶失效，厨房门也下垂了，都没有整体拆除就处理好了。湿区重新做了密封，橱柜也重新装好，两个房间又能用了。",
+        "role": "公寓业主，阿尔巴沙"
+      },
+      "daniel-okonkwo": {
+        "quote": "磨损的开关和商铺灯具安排在我们较安静的时段更换。收工前每个点位都测试过，地面照明又均匀了。",
+        "role": "商铺业主，德拉"
+      },
+      "fatima-al-mazrouei": {
+        "quote": "我们发了一份简短的办公室清单：松动的配件、卡住的门扣，还有几处墙面固定。当天全部完成，房间也收拾得很整齐。",
+        "role": "设施协调员，沙迦"
+      },
+      "james-whitfield": {
+        "quote": "开裂的抹灰和旧漆面一起处理了。墙面基层做得扎实，新颜色从一个房间到下一个房间都很均匀。",
+        "role": "别墅业主，阿拉伯牧场"
+      },
+      "layla-hassan": {
+        "quote": "和 Handyman 合作之后，我们在迪拜码头的公寓完全不一样了。每个阶段都有说明，没在施工的房间也做了保护，完成后的空间比我们预期更好。",
+        "role": "业主，迪拜码头"
+      },
+      "michael-santos": {
+        "quote": "会议室的平板包装办公桌和置物架已经组装好，高柜也固定到了墙上。第二天员工到岗前，空间就已经就绪。",
+        "role": "办公室行政，商业湾"
+      },
+      "omar-al-farsi": {
+        "quote": "他们这么快就弄清我们的空调问题，确实出乎我的意料。机组做了保养，排水也疏通了，在约定的上门时间内，公寓又恢复了制冷。",
+        "role": "物业经理，朱美拉"
+      },
+      "priya-nair": {
+        "quote": "厨房水龙头滴水，衣柜门也关不上，一次上门都解决了。门现在关得平齐，水龙头也一直不滴水。",
+        "role": "住户，阿布扎比"
+      }
+    },
+    "label": "客户评价",
+    "paragraph": "来自阿联酋各地的业主和职场，涵盖翻新、空调、水管及日常维修之后的反馈。",
+    "service": "服务："
+  }
+}

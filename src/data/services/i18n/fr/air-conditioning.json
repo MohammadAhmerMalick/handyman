@@ -1,0 +1,408 @@
+{
+  "ac-drain-line-cleaning": {
+    "angle": "le dégagement des conduits de condensats bouchés, qui provoquent des fuites au plafond et font remplir les bacs de trop-plein",
+    "benefits": [
+      "Protège les dressings intégrés et les sols des fuites lentes",
+      "Réduit le risque de moisissures pendant les mois d’été humides",
+      "Corrige souvent des signalements « la clim est en panne » qui viennent en réalité d’évacuations bouchées",
+      "Se combine bien avec l’entretien des filtres dans le même rendez-vous"
+    ],
+    "includes": [
+      "Accès aux sorties d’évacuation et contrôle de la pente",
+      "Débouchage à l’air comprimé ou à l’aspirateur eau et poussière lorsque c’est adapté",
+      "Rinçage avec un traitement anti-algues approuvé si convenu",
+      "Contrôle du bac à condensats et du tuyau de sécurité secondaire",
+      "Conseils pour ajouter des points d’accès en vue des nettoyages futurs"
+    ],
+    "outcome": "les condensats s’écoulent librement vers l’évacuation prévue, et les parcours de trop-plein sont testés",
+    "problems": [
+      "Des taches brunes qui s’étendent sur les plaques de plâtre sous les unités murales",
+      "Des placards qui sentent le renfermé sous des unités dissimulées qui fuient",
+      "Des algues qui bouchent les flexibles d’évacuation étroits",
+      "Des essuyages en urgence à chaque hausse d’humidité",
+      "Des plaintes de l’immeuble parce que l’eau tombe sur les balcons du dessous"
+    ],
+    "tips": [
+      "Versez une tasse d’eau dans le bac une fois par saison pour vérifier l’écoulement",
+      "Éloignez les meubles des sorties de tuyaux de trop-plein",
+      "Signalez les gargouillis tôt, avant que les plafonds aient besoin d’être repeints"
+    ],
+    "title": "Nettoyage des conduits d’évacuation de climatisation",
+    "whenNeeded": "Intervenez lorsque vous voyez des traces d’eau sous les unités, des évacuations qui gargouillent, ou des tuyaux de trop-plein qui gouttent sur les façades."
+  },
+  "ac-filter-cleaning": {
+    "angle": "un entretien rapide des filtres qui rétablit le débit d’air et la qualité de l’air intérieur entre deux entretiens complets",
+    "benefits": [
+      "Une amélioration peu coûteuse avant d’appeler pour des réparations plus poussées",
+      "Aide la climatisation à atteindre plus vite la consigne dans les appartements de Marina",
+      "Réduit les odeurs piégées dans le matériau filtrant poussiéreux",
+      "Peut être regroupé sur plusieurs pièces en une seule visite"
+    ],
+    "includes": [
+      "Retrait et lavage des filtres lavables avec un détergent doux",
+      "Mesure et remplacement des filtres jetables lorsqu’ils sont fournis",
+      "Contrôle rapide du bon logement des filtres et de l’alignement des flèches avec le sens de l’air",
+      "Essuyage des surfaces de grille accessibles",
+      "Calendrier de rappel selon l’occupation et la présence d’animaux"
+    ],
+    "outcome": "les filtres sont lavés ou remplacés, pour que l’air circule librement et que les échangeurs restent plus propres entre les grands entretiens",
+    "problems": [
+      "Des traînées de poussière visibles sous les grilles de soufflage",
+      "Des locataires asthmatiques qui réagissent aux particules recirculées",
+      "Des travaux de peinture ou de ponçage qui laissent les filtres bouchés",
+      "Des cycles courts parce que l’air de reprise est restreint",
+      "Des filtres oubliés dans des chambres d’amis peu utilisées"
+    ],
+    "tips": [
+      "Notez les dimensions de filtre sur la porte de l’unité pour faciliter les commandes",
+      "Aspirez les grilles au sol chaque semaine dans les zones côtières sableuses",
+      "Remplacez les filtres plus tôt si vous brûlez de l’encens ou si vous fumez sur les balcons"
+    ],
+    "title": "Nettoyage des filtres de climatisation",
+    "whenNeeded": "Organisez le nettoyage des filtres lorsque vous voyez de la poussière grise sur les bouches, que les allergies s’aggravent à l’intérieur, ou que la climatisation peine après la poussière d’une rénovation."
+  },
+  "ac-thermostat-replacement": {
+    "angle": "le remplacement des thermostats et commandes défaillants ou dépassés, pour que les consignes correspondent au confort de la pièce",
+    "benefits": [
+      "Des factures plus prévisibles lorsque les consignes tiennent avec précision",
+      "Moins de réveils nocturnes à cause de chambres trop chaudes",
+      "Des interfaces modernes plus simples pour les invités et les locations de courte durée",
+      "Peut s’aligner sur d’autres poses d’appareils connectés dans le périmètre"
+    ],
+    "includes": [
+      "Isolation du circuit de commande avant le remplacement",
+      "Pose du nouveau thermostat de niveau et à l’écart des sources de chaleur",
+      "Repérage des fils et serrage des bornes selon la notice du fabricant",
+      "Appairage à l’unité intérieure ou à la passerelle lorsque c’est prévu",
+      "Présentation des modes, des minuteries et des fonctions de verrouillage"
+    ],
+    "outcome": "la régulation de température est fiable, le câblage est vérifié, et la programmation de base est expliquée",
+    "problems": [
+      "Un écran de thermostat éteint malgré des piles neuves",
+      "Une pièce qui semble froide alors que l’afficheur indique une consigne élevée",
+      "D’anciens thermostats à molette, peu précis, dans les chambres de villa",
+      "Des commandes Wi‑Fi qui se déconnectent du réseau domestique",
+      "Un bailleur qui veut des thermostats homogènes dans plusieurs appartements"
+    ],
+    "tips": [
+      "Photographiez le câblage existant avant de débrancher",
+      "Gardez le micrologiciel à jour sur les thermostats pilotés par application",
+      "Évitez une pose près des sorties de four ou des vitrages ensoleillés"
+    ],
+    "title": "Remplacement de thermostat de climatisation",
+    "whenNeeded": "Remplacez les thermostats lorsque les afficheurs tombent en panne, que la température varie fortement, ou que vous passez à une commande connectée compatible."
+  },
+  "ac-water-leakage-troubleshooting": {
+    "angle": "le traçage des fuites intérieures jusqu’aux évacuations, à l’isolation ou aux défauts de pose, avant de remplacer l’équipement",
+    "benefits": [
+      "Évite les rappels répétés du peintre pour la même tache",
+      "Distingue les problèmes d’évacuation des fuites de toiture ou de salle de bains",
+      "Aide les bailleurs à choisir sereinement entre réparation et remplacement",
+      "Limite les dégâts aux affaires du locataire pendant le diagnostic"
+    ],
+    "includes": [
+      "Inspection visuelle pendant que l’unité tourne en mode froid",
+      "Essai à l’air de l’évacuation et contrôles au colorant ou par versement d’eau",
+      "Examen de l’isolation et des supports de tuyaux sur les parcours apparents",
+      "Protection temporaire des finitions pendant les essais",
+      "Explication écrite si un accès au plafond est nécessaire plus tard"
+    ],
+    "outcome": "la source de la fuite est identifiée, avec des mesures correctives réalisées ou cadrées pour les corps de métier de suivi",
+    "problems": [
+      "De l’eau claire qui goutte des coins de l’unité intérieure",
+      "De la glace qui fond et déborde après un givrage de l’échangeur",
+      "Des bacs à condensats fissurés sur d’anciennes unités dissimulées",
+      "Une isolation insuffisante qui condense sur de longues liaisons frigorifiques",
+      "Une mauvaise pente sur des tuyaux d’évacuation nouvellement posés"
+    ],
+    "tips": [
+      "Notez si les fuites n’apparaissent qu’après de longs cycles de froid",
+      "Conservez des photos datées des taches pour les échanges sur la garantie",
+      "Évitez de percer les plafonds avant la fin des essais d’évacuation"
+    ],
+    "title": "Diagnostic des fuites d’eau de climatisation",
+    "whenNeeded": "Demandez un diagnostic lorsque les fuites continuent après le nettoyage des filtres, ou que des installations neuves gouttent dès la mise en service."
+  },
+  "air-conditioning-installation": {
+    "angle": "la pose d’unités intérieures et extérieures, avec un cheminement soigné des liaisons dans le périmètre d’installation convenu",
+    "benefits": [
+      "Des passages de câbles et de tuyaux plus nets, conformes aux règles des appartements à Dubaï",
+      "Moins de risque d’abîmer les murs avec des supports improvisés",
+      "Une séparation claire entre la pose et la mise en service spécialisée",
+      "Un meilleur accès pour l’entretien futur des filtres et des évacuations"
+    ],
+    "complianceNote": "La charge en fluide frigorigène, les essais de pression et certaines connexions électriques doivent être réalisés par des techniciens CVC dûment agréés lorsque la réglementation des Émirats l’exige.",
+    "includes": [
+      "Positionnement des unités intérieures et extérieures avec l’accord du propriétaire",
+      "Perçage et préparation des fourreaux pour les liaisons frigorifiques et d’évacuation",
+      "Pose des supports, des plots antivibratoires et du cheminement des condensats",
+      "Coordination du sectionneur électrique lorsqu’il est déjà en place",
+      "Notes de remise pour la charge en fluide et le démarrage par un personnel CVC agréé"
+    ],
+    "outcome": "les unités neuves ou de remplacement sont fixées solidement, avec les liaisons et l’évacuation prêtes pour la mise en service par des techniciens qualifiés",
+    "problems": [
+      "Des pièces sans refroidissement dédié dans une extension de villa",
+      "D’anciennes unités trop peu efficaces pour qu’un entretien reste rentable",
+      "Un mauvais dimensionnement, source de cycles courts et d’humidité",
+      "D’anciennes poses avec câbles apparents ou chemins de câbles sans support",
+      "Des demandes de bailleur pour des mises à niveau de climatisation documentées entre deux locations"
+    ],
+    "tips": [
+      "Vérifiez les règles de chiller ou de district cooling de l’immeuble avant de percer les façades",
+      "Laissez un dégagement de service autour des unités extérieures pour un nettoyage sûr",
+      "Convenez d’un emplacement de thermostat à l’écart du soleil direct et des appareils chauds"
+    ],
+    "title": "Installation de climatisation",
+    "whenNeeded": "Réservez l’installation lorsque vous posez de nouveaux splits, remplacez des unités vieillissantes, ou ajoutez le froid dans une pièce qui n’a jamais eu de climatisation dédiée."
+  },
+  "air-conditioning-maintenance": {
+    "angle": "des entretiens planifiés qui protègent les performances de refroidissement et l’évacuation des condensats",
+    "benefits": [
+      "Moins de risque d’auréoles au plafond à cause d’évacuations bouchées",
+      "Un refroidissement plus stable lorsque les températures extérieures montent",
+      "Une alerte précoce sur les pièces qui peuvent lâcher en pleine saison",
+      "Une documentation utile pour les gestionnaires de biens et les bailleurs"
+    ],
+    "includes": [
+      "Lavage ou remplacement du filtre et contrôle visuel de l’état des échangeurs",
+      "Rinçage du bac à condensats et du conduit d’évacuation lorsqu’ils sont accessibles",
+      "Nettoyage des pales de ventilateur et contrôle des fixations desserrées",
+      "Vérification des piles et des réglages du thermostat",
+      "Notes simples de performance et intervalle de revisite recommandé"
+    ],
+    "outcome": "les unités tournent plus régulièrement, avec des échangeurs plus propres, des évacuations dégagées, et les pièces d’usure notées pour un suivi",
+    "problems": [
+      "Une perte progressive de débit d’air à cause de filtres et d’échangeurs encrassés",
+      "Des fuites d’eau intermittentes pendant les nuits humides",
+      "Du givre sur les échangeurs intérieurs lorsque le débit d’air est restreint",
+      "Des odeurs désagréables lorsque des moisissures se forment sur les bacs d’évacuation humides",
+      "Des locataires qui signalent des températures inégales d’un étage à l’autre"
+    ],
+    "tips": [
+      "Réservez l’entretien avant le Ramadan et les vacances scolaires d’été si les pièces seront très utilisées",
+      "Gardez les portes de balcon fermées lorsque la climatisation tourne, pour réduire la charge",
+      "Notez toute nouvelle trace d’eau après une forte pluie, en vue d’un contrôle des évacuations"
+    ],
+    "title": "Entretien de climatisation",
+    "whenNeeded": "Planifiez l’entretien avant le pic de l’été, après les tempêtes de sable, ou lorsque plusieurs pièces partagent des unités qui n’ont pas été entretenues depuis plus de six mois."
+  },
+  "air-conditioning-repair": {
+    "angle": "la recherche de panne et les réparations au niveau des composants, pour rétablir le froid sans remplacements inutiles",
+    "benefits": [
+      "Moins d’interruption dans les chambres et les bureaux à domicile pendant les vagues de chaleur",
+      "Évite de remplacer une unité entière lorsqu’une pièce ciblée suffit",
+      "Une explication claire des travaux sensibles pour la garantie",
+      "Une planification coordonnée pendant les heures d’ouverture annoncées"
+    ],
+    "complianceNote": "Les réparations qui portent sur la récupération de fluide frigorigène, la réparation de fuites sur des circuits scellés ou les appoints de gaz doivent être effectuées par des techniciens qualifiés, autorisés à manipuler les fluides frigorigènes.",
+    "includes": [
+      "Contrôles électriques et de commande, dans le respect d’une mise hors tension sûre",
+      "Vérification de l’évacuation et du débit d’air avant de supposer une perte de fluide",
+      "Évaluation du condensateur, de la sonde et du moteur de ventilateur lorsqu’ils sont accessibles",
+      "Remplacement des pièces d’usure courantes lorsque le stock est convenu sur place",
+      "Synthèse des points qui exigent une manipulation de fluide frigorigène sous agrément"
+    ],
+    "outcome": "la cause première est identifiée, avec des réparations pratiques réalisées ou une voie claire vers un travail spécialisé sur le fluide frigorigène",
+    "problems": [
+      "Une unité qui souffle de l’air à température ambiante alors que le compresseur tourne",
+      "Des déclenchements répétés du disjoncteur au démarrage de l’unité extérieure",
+      "Un bruit de ventilateur continu ou un grincement dû à des roulements usés",
+      "Une télécommande ou une commande murale qui ne se synchronise plus avec l’unité intérieure",
+      "De l’eau qui stagne sous l’unité après d’anciens bricolages"
+    ],
+    "tips": [
+      "Photographiez les codes d’erreur des afficheurs avant toute réinitialisation",
+      "Coupez l’appareil et notez si du givre apparaît avant l’arrivée du technicien",
+      "Laissez les trappes de visite dégagées sur les unités dissimulées au plafond"
+    ],
+    "title": "Réparation de climatisation",
+    "whenNeeded": "Appelez pour une réparation lorsque la climatisation ne refroidit plus, enchaîne les cycles de façon irrégulière, continue de fuir après un nettoyage, ou lorsque les commandes ne répondent plus."
+  },
+  "air-conditioning-services": {
+    "angle": "le maintien d’un refroidissement intérieur fiable, par l’aide à l’installation, l’entretien et les réparations pratiques",
+    "benefits": [
+      "Moins de fuites imprévues qui abîment la peinture et les dressings intégrés",
+      "Un refroidissement plus prévisible avant les invités ou les inspections de remise des clés",
+      "Un avis clair sur ce qui exige une visite spécialisée en fluide frigorigène, plutôt qu’un entretien courant",
+      "Une seule visite coordonnée pour les problèmes liés de débit d’air et de ventilateur"
+    ],
+    "includes": [
+      "Examen sur place des splits ou des systèmes gainables et des tuyauteries accessibles",
+      "Nettoyage ou remplacement des filtres lorsque les dimensions sont disponibles sur place",
+      "Rinçage de l’évacuation des condensats et recherche simple de fuite au niveau de l’unité",
+      "Contrôle du thermostat et isolement des pannes simples de commande",
+      "Conseils écrits sur l’entretien courant des filtres et des évacuations"
+    ],
+    "outcome": "le confort intérieur est plus frais et plus régulier, avec les problèmes d’évacuation et de débit d’air traités dans le périmètre convenu",
+    "problems": [
+      "Un refroidissement faible alors que le thermostat est déjà baissé",
+      "De l’eau qui goutte des unités intérieures ou tache les plafonds",
+      "Des odeurs de moisi lorsque la climatisation redémarre après une longue pause",
+      "Une consommation électrique plus élevée sans baisse sensible de la température",
+      "Des unités extérieures qui vibrent fort ou font disjoncter le disjoncteur"
+    ],
+    "tips": [
+      "Rincez ou remplacez les filtres chaque mois en période de forte utilisation",
+      "Dégagez le pourtour des condenseurs extérieurs des objets entreposés et de la végétation",
+      "Faites tourner la climatisation brièvement chaque semaine pendant les mois plus frais, pour garder les évacuations actives"
+    ],
+    "title": "Services de climatisation",
+    "whenNeeded": "Planifiez des travaux de climatisation si les pièces se refroidissent de façon inégale, si les unités gouttent, si les filtres s’encrassent vite, ou si vous préparez un bien avant une occupation estivale."
+  },
+  "exhaust-fan-repair": {
+    "angle": "la réparation des ventilateurs d’extraction bruyants ou hors service, sans remplacer inutilement tout le système de ventilation",
+    "benefits": [
+      "Rétablit une ventilation discrète, sans ouvrir les fenêtres",
+      "Réduit la réapparition de moisissures après un nettoyage en profondeur",
+      "Souvent moins coûteux que d’ignorer les dégâts d’humidité sur les menuiseries",
+      "Une réparation rapide possible avant les états des lieux de sortie"
+    ],
+    "includes": [
+      "Retrait du capot et nettoyage des débris sur les pales",
+      "Lubrification ou contrôle des roulements lorsqu’ils sont réparables",
+      "Contrôle du condensateur et de l’interrupteur dans des limites sûres",
+      "Réalignement des raccords de gaine qui vibrent",
+      "Recommandation lorsque le remplacement complet est plus économique"
+    ],
+    "outcome": "l’extraction tourne régulièrement, et les pannes électriques et mécaniques sont traitées lorsque les pièces sont disponibles",
+    "problems": [
+      "Des ventilateurs de plafond qui claquent au-dessus des cabines de douche",
+      "Des moteurs chauds au toucher après un court fonctionnement",
+      "Des clapets anti-retour bloqués ouverts, qui laissent entrer l’air chaud",
+      "Des tirettes cassées sur d’anciens ventilateurs",
+      "Des blocs éclairage-ventilation dont seul le ventilateur a lâché"
+    ],
+    "tips": [
+      "Coupez au sectionneur avant de nettoyer les pales vous-même",
+      "Écoutez les cognements de gaine qui signalent un flexible desserré",
+      "Remplacez les grilles anti-retour fissurées sur les gaines en toiture"
+    ],
+    "title": "Réparation de ventilateur d’extraction",
+    "whenNeeded": "Réservez une réparation lorsque les ventilateurs bourdonnent, vibrent, ne démarrent plus, ou brassent peu d’air alors qu’ils tournent sans cesse."
+  },
+  "indoor-airflow-troubleshooting": {
+    "angle": "la recherche des raisons pour lesquelles certaines pièces semblent étouffantes alors que d’autres sont trop froides, en split comme en gainable",
+    "benefits": [
+      "Un meilleur confort sans augmenter la puissance de climatisation",
+      "Explique les plaintes de locataires qui viennent de l’agencement",
+      "Se combine avec les réparations de filtres et de ventilateurs dans la même intervention",
+      "Utile avant d’ajouter d’autres splits"
+    ],
+    "includes": [
+      "Parcours des grilles, des filtres et des obstructions évidentes",
+      "Contrôles ponctuels de température et de débit d’air aux soufflages",
+      "Inspection des raccords de gaine et des flexibles accessibles",
+      "Conseils sur l’agencement du mobilier et les jeux sous les portes",
+      "Notes d’orientation si une refonte complète des gaines sort du périmètre"
+    ],
+    "outcome": "des recommandations d’équilibrage sont données, et les corrections simples sont appliquées lorsque les gaines et les grilles sont accessibles",
+    "problems": [
+      "Des couloirs trop froids alors que les chambres principales restent chaudes",
+      "Un air faible à une seule grille dans une villa en gainable",
+      "Du mobilier qui bloque les reprises après une redécoration",
+      "Des manettes de registres manquantes sur les gaines secondaires",
+      "Une dépression qui aspire l’air poussiéreux des couloirs"
+    ],
+    "tips": [
+      "Laissez les portes de chambre légèrement entrouvertes lorsque le système n’a pas de parcours de reprise",
+      "Ne bloquez pas les reprises au sol avec des cartons de rangement",
+      "Nettoyez les grilles de soufflage lorsque vous peignez les murs à proximité"
+    ],
+    "title": "Diagnostic du débit d’air intérieur",
+    "whenNeeded": "Faites diagnostiquer le débit d’air lorsque la fermeture des portes change fortement les températures, ou que la climatisation tourne en continu sans améliorer le confort."
+  },
+  "split-ac-installation": {
+    "angle": "des systèmes split pièce par pièce, posés avec des traversées nettes et une fixation extérieure sûre",
+    "benefits": [
+      "Des pièces plus silencieuses qu’avec des appareils mobiles ou de fenêtre",
+      "Un froid par zones, adapté à l’usage des villas à Dubaï",
+      "Des finitions plus nettes autour des tuyaux qui traversent les murs carrelés",
+      "Un entretien futur plus simple grâce aux emplacements d’unités documentés"
+    ],
+    "complianceNote": "Le tirage au vide final, la charge en fluide frigorigène et certaines terminaisons électriques exigent un personnel CVC dûment agréé, selon les exigences des Émirats.",
+    "includes": [
+      "Dimensionnement des supports et contrôle de la solidité du mur pour les unités extérieures",
+      "Carottage avec fourreau et préparation du joint d’étanchéité",
+      "Acheminement des condensats vers les évacuations de sol existantes lorsque c’est possible",
+      "Mise de niveau de l’unité intérieure et dissimulation des goulottes si convenu",
+      "Liste de coordination pour le démarrage sous agrément et la charge en gaz"
+    ],
+    "outcome": "les unités intérieures et extérieures sont alignées pour un débit d’air efficace, avec des traversées étanchées et prêtes pour la mise en service spécialisée",
+    "problems": [
+      "Des climatiseurs de fenêtre interdits ou trop bruyants pour les immeubles d’appartements",
+      "Des extensions ajoutées sans prolonger les gaines existantes",
+      "Des accords de bailleur qui exigent un impact minimal sur la façade",
+      "Un ancien locataire qui laisse des cages extérieures sans support",
+      "Le besoin de séparer les zones de froid des chambres et du séjour"
+    ],
+    "tips": [
+      "Confirmez les règles de bruit avec la gestion de l’immeuble avant une pose en extérieur",
+      "Évitez de placer les unités extérieures juste au-dessus des passages piétons si des gouttes sont possibles",
+      "Prévoyez l’agencement du mobilier pour que l’air de reprise ne soit pas bloqué par des meubles hauts"
+    ],
+    "title": "Installation de climatiseur split",
+    "whenNeeded": "Choisissez l’installation split pour de nouvelles chambres, des chambres de service ou des surfaces de magasin, lorsque la centrale de froid est indisponible ou peu pratique."
+  },
+  "split-ac-servicing": {
+    "angle": "un entretien pratique adapté aux splits muraux et dissimulés, courants dans les logements des Émirats",
+    "benefits": [
+      "Un meilleur confort de sommeil, sans air nocturne chargé d’odeurs de moisi",
+      "Moins de taches sur les plafonds en plaques de plâtre sous les unités",
+      "Un relevé clair pour les bailleurs qui comparent l’usure liée aux locataires",
+      "Un regroupement avec d’autres travaux de la pièce dans la même visite"
+    ],
+    "includes": [
+      "Nettoyage du filtre et de l’habillage, avec protection du mobilier proche",
+      "Lavage de l’échangeur intérieur lorsque l’accès prévu par le fabricant le permet",
+      "Rinçage du condenseur extérieur et léger redressement des ailettes",
+      "Rinçage de l’évacuation et essai de l’interrupteur à flotteur s’il est présent",
+      "Essai de fonctionnement et contrôle de l’écart de température aux bouches"
+    ],
+    "outcome": "les splits sont plus propres, avec des évacuations rincées et un compte rendu des pièces qui peuvent demander une réparation avant le pic de chaleur",
+    "problems": [
+      "Une unité de chambre bruyante au démarrage après des mois d’inactivité",
+      "Des grilles décolorées par la poussière aspirée à travers les filtres",
+      "Des codes sonores intermittents sur l’afficheur intérieur",
+      "Un ventilateur extérieur encrassé de sable après un épisode de shamal",
+      "Une unité de chambre de service jamais entretenue depuis la remise des clés"
+    ],
+    "tips": [
+      "Passez en mode ventilation seule après le lavage, pour sécher les échangeurs avant le froid",
+      "Éloignez les rideaux des grilles d’aspiration",
+      "Demandez un contrôle des évacuations si vous utilisez des humidificateurs à proximité"
+    ],
+    "title": "Entretien de climatiseur split",
+    "whenNeeded": "Planifiez l’entretien lorsque le débit d’air baisse, que les factures d’électricité montent, ou que des odeurs apparaissent à chaque démarrage de l’unité de chambre."
+  },
+  "ventilation-fan-installation": {
+    "angle": "la pose de ventilateurs d’extraction qui évacuent l’air humide des cuisines, des salles de bains et des pièces de service",
+    "benefits": [
+      "Un air plus sain dans les pièces, sans ouvrir les fenêtres sur le bruit de la circulation",
+      "Moins de peinture qui s’écaille à cause d’une humidité chronique",
+      "Soutient l’efficacité de la climatisation en retirant l’humidité de l’air",
+      "Peut être combiné avec des blocs éclairage et ventilation en une seule visite"
+    ],
+    "includes": [
+      "Discussion du dimensionnement selon le volume et l’usage de la pièce",
+      "Découpe au plafond ou au mur, avec maîtrise de la poussière lorsque c’est possible",
+      "Cheminement des gaines vers les sorties existantes ou de nouvelles grilles",
+      "Coordination du raccordement électrique dans le périmètre convenu",
+      "Essai de fonctionnement pour le bruit et le sens du flux d’air"
+    ],
+    "outcome": "les ventilateurs sont posés avec des gaines dirigées vers l’extérieur ou vers les conduits prévus, selon les règles du bien",
+    "problems": [
+      "Des miroirs de salle de bains qui restent embués pendant des heures après la douche",
+      "De l’air gras qui recircule faute d’extraction vers l’extérieur",
+      "Aucun ventilateur dans d’anciennes salles de bains de Marina, réaménagées avec des douches",
+      "Des buanderies qui font surchauffer les sèche-linge et déforment les portes",
+      "Des plaintes de locataires à cause des odeurs de cuisine dans les chambres"
+    ],
+    "tips": [
+      "Laissez les ventilateurs tourner plusieurs minutes après la fin de la douche",
+      "Nettoyez les grilles lorsque la poussière des travaux de voirie est importante",
+      "Confirmez à qui appartient le conduit dans les tours avant de percer"
+    ],
+    "title": "Installation de ventilateur d’aération",
+    "whenNeeded": "Installez une ventilation lorsque la vapeur persiste, que des moisissures apparaissent aux plafonds, ou que les odeurs de cuisine se répandent dans un appartement ouvert."
+  }
+}

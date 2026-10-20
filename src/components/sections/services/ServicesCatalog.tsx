@@ -1,12 +1,14 @@
 import { ArrowRight } from 'lucide-react'
 import Image from 'next/image'
-import Link from 'next/link'
+import { getLocale, getTranslations } from 'next-intl/server'
+import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
-import { Container } from '@/components/ui/container'
-import { catalogByCategory, serviceHref } from '@/data/services'
+import { getCatalogByCategory, serviceHref } from '@/data/services'
 import { categoryIcons } from '@/data/services/icons'
 import { categoryImageSrc } from '@/data/services/images'
 import type { ServiceItem } from '@/data/services/types'
+import { Link } from '@/i18n/navigation'
+import type { AppLocale } from '@/i18n/routing'
 
 const serviceSummary = (description: string) => {
   const separator = ' — '
@@ -15,10 +17,6 @@ const serviceSummary = (description: string) => {
     splitAt === -1 ? description : description.slice(splitAt + separator.length)
 
   return summary.charAt(0).toUpperCase() + summary.slice(1)
-}
-
-const countLabel = (count: number) => {
-  return count === 1 ? '1 service' : `${count} services`
 }
 
 type ServiceCardProps = {
@@ -42,7 +40,7 @@ const ServiceCard = ({ service }: ServiceCardProps) => {
             </h3>
             <ArrowRight
               aria-hidden
-              className="mt-0.5 size-4 shrink-0 text-heading transition-transform duration-500 group-hover:translate-x-1 group-hover:text-black"
+              className="mt-0.5 size-4 shrink-0 text-heading transition-transform duration-500 group-hover:translate-x-1 group-hover:text-black rtl:rotate-180 rtl:group-hover:-translate-x-1"
             />
           </span>
           <p className="line-clamp-2 text-sm leading-relaxed duration-500 group-hover:text-black">
@@ -54,20 +52,25 @@ const ServiceCard = ({ service }: ServiceCardProps) => {
   )
 }
 
-const ServicesCatalog = () => {
+const ServicesCatalog = async () => {
+  const locale = (await getLocale()) as AppLocale
+  const t = await getTranslations('Catalog')
+  const categories = await getTranslations('ServiceCategories')
+  const catalog = getCatalogByCategory(locale)
+
   return (
     <div>
       <div className="sticky top-18.5 z-40 border-border border-b bg-white/95 backdrop-blur">
         <Container className="py-3 md:py-3 lg:py-3">
-          <nav aria-label="Service categories">
+          <nav aria-label={t('navLabel')}>
             <ul className="flex gap-2 overflow-x-auto scroll-smooth [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-              {catalogByCategory.map(({ category }) => (
+              {catalog.map(({ category }) => (
                 <li className="shrink-0" key={category.id}>
                   <a
                     className="inline-flex rounded-full border border-border bg-card px-3.5 py-1.5 font-medium text-heading text-sm transition-colors hover:border-primary hover:bg-primary hover:text-primary-foreground"
                     href={`#${category.slug}`}
                   >
-                    {category.title}
+                    {categories(`${category.id}.title`)}
                   </a>
                 </li>
               ))}
@@ -77,7 +80,7 @@ const ServicesCatalog = () => {
       </div>
 
       <Container className="space-y-16 pt-8 pb-16 md:space-y-20 md:pt-12 md:pb-20 lg:pt-14 lg:pb-24">
-        {catalogByCategory.map(({ category, services }, index) => {
+        {catalog.map(({ category, services }, index) => {
           const Icon = categoryIcons[category.id]
 
           return (
@@ -98,18 +101,18 @@ const ServicesCatalog = () => {
                       src={categoryImageSrc(category.id)}
                     />
                     <span className="pointer-events-none absolute inset-x-0 bottom-0 h-20 bg-linear-to-t from-primary-foreground/45 to-transparent" />
-                    <span className="absolute bottom-4 left-4 inline-flex size-12 items-center justify-center rounded-2xl bg-primary text-primary-foreground shadow-sm">
+                    <span className="absolute inset-s-4 bottom-4 inline-flex size-12 items-center justify-center rounded-2xl bg-primary text-primary-foreground shadow-sm">
                       <Icon aria-hidden className="size-5" />
                     </span>
                   </div>
                   <div className="flex flex-col justify-center gap-3 p-5 md:p-8">
                     <p className="font-medium text-muted-foreground text-sm">
-                      {countLabel(services.length)}
+                      {t('count', { count: services.length })}
                     </p>
                     <Heading
-                      heading={category.title}
+                      heading={categories(`${category.id}.title`)}
                       layout="left"
-                      paragraph={category.description}
+                      paragraph={categories(`${category.id}.description`)}
                       size="md"
                     />
                   </div>

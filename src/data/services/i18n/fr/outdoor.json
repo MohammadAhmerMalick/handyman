@@ -1,0 +1,508 @@
+{
+  "decking-maintenance": {
+    "angle": "des lames, vis et finitions de platelage entretenues pour une marche sûre",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Resserage ou remplacement des vis",
+      "Remplacement de lames sur de petites zones",
+      "Nettoyage et léger ponçage dans le périmètre prévu",
+      "Conseils de traitement antidérapant"
+    ],
+    "outcome": "l’entretien de platelage est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Têtes de vis qui dépassent",
+      "Lames qui s’échardent près des piscines",
+      "Taches laissées par les jardinières",
+      "Algues glissantes dans les zones ombragées"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Entretien de platelage",
+    "whenNeeded": "Prévoyez l’entretien de platelage lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "driveway-cleaning": {
+    "angle": "le nettoyage des allées et des seuils de garage, pour l’aspect et l’adhérence",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Prétraitement des taches lorsque c’est sans risque",
+      "Lavage haute pression des zones accessibles",
+      "Recharge de sable de joint si prévu au devis",
+      "Conseils sur les hydrofuges si vous le souhaitez"
+    ],
+    "outcome": "le nettoyage d’allées carrossables est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Traces de pneus sur les pavés autobloquants",
+      "Sable accumulé dans les joints",
+      "Gouttes d’huile sous les véhicules",
+      "Rampes glissantes"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Nettoyage d’allées carrossables",
+    "whenNeeded": "Prévoyez le nettoyage d’allées carrossables lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "exterior-fixture-installation": {
+    "angle": "la fixation de luminaires, de boîtiers et d’accessoires sur les murs extérieurs",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "complianceNote": "Les nouveaux circuits électriques extérieurs exigent un électricien agréé. Nous fixons les équipements et nous coordonnons lorsque le câblage existe déjà, ou que les appareils se branchent.",
+    "includes": [
+      "Implantation et perçage avec des chevilles adaptées",
+      "Pose des équipements fournis par le client",
+      "Étanchéité des percements",
+      "Coordination avec les électriciens pour les luminaires câblés"
+    ],
+    "outcome": "la pose d’équipements en façade est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Allées sombres qui ont besoin d’appliques",
+      "Numéros de maison desserrés",
+      "Boîtes à colis qui se décrochent",
+      "Supports de caméra qui demandent des fixations solides"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose d’équipements en façade",
+    "whenNeeded": "Prévoyez la pose d’équipements en façade lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "fence-repair": {
+    "angle": "des panneaux, poteaux et chapeaux de clôture stabilisés face au vent",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Resserrage des poteaux ou doublage dans le périmètre prévu",
+      "Refixation des panneaux",
+      "Remplacement des chapeaux",
+      "Alignement avec les loquets de portail"
+    ],
+    "outcome": "la réparation de clôtures est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Panneaux de limite desserrés",
+      "Pourriture au pied des poteaux dans les massifs irrigués",
+      "Chapeaux manquants qui laissent entrer l’eau",
+      "Sections de portail désalignées"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparation de clôtures",
+    "whenNeeded": "Prévoyez la réparation de clôtures lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "garden-maintenance": {
+    "angle": "un entretien léger du jardin, adapté aux climats des Émirats et à l’irrigation",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Taille dans le périmètre d’un homme à tout faire",
+      "Réglage simple des têtes d’arrosage",
+      "Évacuation des débris",
+      "Conseils de plantation sous la chaleur"
+    ],
+    "outcome": "l’entretien de jardin est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Arbustes trop développés qui bloquent les allées",
+      "Lignes de goutte-à-goutte cassées",
+      "Zones de végétation morte près des murs",
+      "Jardinières à rafraîchir"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Entretien de jardin",
+    "whenNeeded": "Prévoyez l’entretien de jardin lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "garden-shed-assembly": {
+    "angle": "des abris en kit montés d’équerre sur des dalles préparées",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Montage selon la notice du fabricant",
+      "Ancrage sur la dalle lorsque c’est au devis",
+      "Réglage des portes et des fenêtres",
+      "Inventaire des pièces restantes pour le propriétaire"
+    ],
+    "outcome": "le montage d’abris de jardin est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Achats neufs à assembler",
+      "Fixations manquantes dans les kits",
+      "Portes qui coincent sur des dalles imparfaites",
+      "Panneaux de toit à étancher"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Montage d’abris de jardin",
+    "whenNeeded": "Prévoyez le montage d’abris de jardin lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "garden-shed-repairs": {
+    "angle": "des réparations de portes, de toits et de sols sur les abris existants",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Reprise des joints de toiture",
+      "Remplacement de la quincaillerie",
+      "Remplacement localisé de panneaux",
+      "Conseils pour améliorer la ventilation"
+    ],
+    "outcome": "les réparations d’abris de jardin sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Fuites de toit qui tachent les outils",
+      "Portes gonflées après la pluie",
+      "Pourriture du plancher dans les angles",
+      "Vitres fissurées"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations d’abris de jardin",
+    "whenNeeded": "Prévoyez les réparations d’abris de jardin lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "gate-hinge-replacement": {
+    "angle": "des charnières renforcées pour les portails de villa très sollicités",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Dépose des charnières hors service",
+      "Pose de remplacements de charge adaptée",
+      "Alignement avec la quincaillerie du loquet",
+      "Conseils de graissage périodique"
+    ],
+    "outcome": "le remplacement de charnières de portail est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Portails affaissés qui raclent l’allée",
+      "Axes usés qui provoquent un jeu",
+      "Rouille dans les résidences côtières",
+      "Fermeture automatique défaillante"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Remplacement de charnières de portail",
+    "whenNeeded": "Prévoyez le remplacement de charnières de portail lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "gate-repair": {
+    "angle": "des portails qui s’enclenchent nettement, sans racler le sol",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Réglage des charnières et des loquets",
+      "Remplacement de la quincaillerie accessible",
+      "Prévision du jeu en partie basse",
+      "Lubrification des pivots"
+    ],
+    "outcome": "la réparation de portails est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Portails qui s’affaissent sur leurs charnières",
+      "Loquets dont la gâche manque",
+      "Débrayages manuels d’automatisme bloqués",
+      "Frottement sur un nouveau niveau d’allée"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparation de portails",
+    "whenNeeded": "Prévoyez la réparation de portails lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "minor-landscaping-maintenance": {
+    "angle": "un léger rangement des massifs, des bordures et des limites de sols durs",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Désherbage manuel et reprise des bordures dans le temps prévu",
+      "Ratissage et mise à niveau du gravier",
+      "Dégagement et remise en place des pièces d’irrigation simples",
+      "Évacuation des déchets verts selon les règles locales"
+    ],
+    "outcome": "le petit entretien paysager est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Bordures envahies par l’herbe",
+      "Mauvaises herbes dans les allées de gravier",
+      "Paillis qui s’amincit autour des palmiers",
+      "Coffrets d’irrigation enfouis"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Petit entretien paysager",
+    "whenNeeded": "Prévoyez le petit entretien paysager lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "outdoor-and-villa-maintenance": {
+    "angle": "un entretien suivi des extérieurs et de la villa, jardins, façades et équipements compris",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Visite du site et confirmation du périmètre",
+      "Intervention concrète d’entretien extérieur et de villa, avec des matériaux adaptés",
+      "Protection des surfaces voisines lorsque c’est possible",
+      "Contrôle du travail terminé et conseils d’entretien"
+    ],
+    "outcome": "vous pouvez regrouper les travaux de jardin, de clôture, de nettoyage et de fixations dans un ordre cohérent",
+    "problems": [
+      "Usure quotidienne qui touche l’entretien extérieur et de villa",
+      "Réparations antérieures à reprendre ou à corriger",
+      "Finitions qui jurent avec les zones voisines",
+      "Contraintes d’accès ou de planning dans les appartements et les villas"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Entretien extérieur et de villa",
+    "whenNeeded": "Choisissez cette prestation lorsque vous gérez une villa ou une grande terrasse et souhaitez regrouper plusieurs travaux extérieurs dans un même plan d’entretien."
+  },
+  "outdoor-furniture-assembly": {
+    "angle": "des salons de jardin, transats et jeux montés en sécurité",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Montage des éléments fournis",
+      "Contrôles de stabilité sur platelage et carrelage",
+      "Réglage des patins",
+      "Conseils pour l’évacuation des emballages"
+    ],
+    "outcome": "le montage de mobilier d’extérieur est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Notices complexes et outils manquants",
+      "Instabilité sur un carrelage irrégulier",
+      "Pieds de parasol non lestés",
+      "Embouts manquants qui laissent des arêtes vives"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Montage de mobilier d’extérieur",
+    "whenNeeded": "Prévoyez le montage de mobilier d’extérieur lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "outdoor-handyman-services": {
+    "angle": "des réparations extérieures concrètes pour villas, terrasses et espaces communs",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Tour du périmètre pour lister les travaux extérieurs",
+      "Réparations groupées en une visite lorsque c’est sans risque",
+      "Petites réparations de quincaillerie et de joints d’étanchéité",
+      "Conseils prioritaires vers les métiers spécialisés"
+    ],
+    "outcome": "les services d’homme à tout faire en extérieur sont réalisés selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Plusieurs petites tâches extérieures en attente",
+      "Préparation saisonnière avant l’arrivée d’invités",
+      "Réserves extérieures pour le propriétaire",
+      "Usure due au sable et au soleil"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Services d’homme à tout faire en extérieur",
+    "whenNeeded": "Prévoyez des services d’homme à tout faire en extérieur lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "outdoor-tap-installation": {
+    "angle": "des robinets extérieurs pour l’irrigation et le nettoyage",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "complianceNote": "Une refonte importante de l’irrigation ou le prolongement de canalisations enterrées peut exiger des plombiers agréés et des autorisations des autorités. Nous posons des robinets sur les alimentations existantes et accessibles, dans le périmètre prévu.",
+    "includes": [
+      "Raccordement dans le périmètre de la plomberie existante",
+      "Fixation murale et platine",
+      "Essai d’étanchéité",
+      "Vérification de la compatibilité du raccord de tuyau"
+    ],
+    "outcome": "la pose de robinets extérieurs est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Aucun point pour le tuyau d’arrosage dans les jardins arrière",
+      "Robinets de jardin qui fuient et gaspillent l’eau",
+      "Besoin de doubles sorties",
+      "Robinets de type antigel difficiles à manœuvrer"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de robinets extérieurs",
+    "whenNeeded": "Prévoyez la pose de robinets extérieurs lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "outdoor-tile-repairs": {
+    "angle": "des réparations de carrelage et de pierre en extérieur, sur terrasses et allées",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Dépose et recollage des carreaux sur de petites zones",
+      "Remplacement avec un stock assorti lorsque c’est possible",
+      "Reprise du joint et de l’hydrofuge",
+      "Contrôle antiglisse après les travaux"
+    ],
+    "outcome": "les réparations de carrelage extérieur sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Carreaux de plage de piscine fissurés",
+      "Efflorescences sur les allées",
+      "Marches extérieures descellées",
+      "Carreaux sonnant creux après les pluies d’hiver"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations de carrelage extérieur",
+    "whenNeeded": "Prévoyez les réparations de carrelage extérieur lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "patio-repairs": {
+    "angle": "des patios et sols extérieurs repris et remis de niveau localement",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Recalage des pavés ou carreaux accessibles",
+      "Recharge de sable de joint ou reprise du jointoiement",
+      "Reprise localisée de dalles",
+      "Suggestions d’amélioration du drainage"
+    ],
+    "outcome": "les réparations de patio sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Pavés descellés qui font trébucher",
+      "Joints disparus entre les carreaux",
+      "Taches dans les zones de barbecue",
+      "Points bas qui retiennent l’eau"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations de patio",
+    "whenNeeded": "Prévoyez les réparations de patio lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "pergola-maintenance": {
+    "angle": "le resserrage, les retouches de lasure et l’entretien des toiles d’ombrage",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Serrage des boulons accessibles depuis le sol ou une échelle",
+      "Ponçage localisé et retouche de finition",
+      "Réglage de la quincaillerie d’ombrage",
+      "Orientation vers une reprise structurelle si nécessaire"
+    ],
+    "outcome": "l’entretien de pergolas est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Chevrons desserrés par le vent",
+      "Bois délavé à huiler",
+      "Voiles d’ombrage déchirées",
+      "Corrosion des platines de pied"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Entretien de pergolas",
+    "whenNeeded": "Prévoyez l’entretien de pergolas lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "pressure-washing": {
+    "angle": "un lavage maîtrisé des façades, des allées et des platelages",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Mise en place du matériel et protection de la zone",
+      "Pression adaptée au type de surface",
+      "Rinçage et rangement de la zone de travail",
+      "Conseils de fréquence dans les zones sableuses"
+    ],
+    "outcome": "le nettoyage haute pression est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Algues sur les allées ombragées",
+      "Poussière accumulée sur l’enduit des villas",
+      "Traces d’huile sur les allées carrossables",
+      "Moisissures sur les zones de mobilier extérieur"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Nettoyage haute pression",
+    "whenNeeded": "Prévoyez le nettoyage haute pression lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  }
+}

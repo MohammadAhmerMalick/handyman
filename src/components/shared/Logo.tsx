@@ -1,10 +1,11 @@
 type LogoProps = {
   className?: string
+  label?: string
 }
 
-const Logo = ({ className }: LogoProps) => (
+const Logo = ({ className, label = 'Handyman logo' }: LogoProps) => (
   <svg
-    aria-label="Handyman logo"
+    aria-label={label}
     className={className}
     fill="none"
     height={57}

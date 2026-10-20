@@ -1,19 +1,22 @@
 import { Phone } from 'lucide-react'
 import Image from 'next/image'
-import Link from 'next/link'
+import { getTranslations } from 'next-intl/server'
+import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
 import { Button } from '@/components/ui/button'
-import { Container } from '@/components/ui/container'
-import { aboutHighlights } from '@/data/about'
+import { aboutHighlightIcons, aboutHighlightIds } from '@/data/about'
 import { contact } from '@/data/contact'
 import { pages } from '@/data/links'
+import { Link } from '@/i18n/navigation'
 
-const AboutHighlightsSection = () => {
+const AboutHighlightsSection = async () => {
+  const t = await getTranslations('About')
+
   return (
     <Container className="space-y-12">
       <Heading
-        eyebrow="24/7 hassle-free"
-        heading="Home And Businesses  Installation Services"
+        eyebrow={t('eyebrow')}
+        heading={t('heading')}
         layout="center"
         size="xl"
       />
@@ -21,7 +24,7 @@ const AboutHighlightsSection = () => {
         <div className="relative min-h-80 overflow-hidden bg-muted lg:min-h-full">
           <Image
             src="/about-installation.jpg"
-            alt="Wall-mounted air conditioner and open toolbox in a Dubai apartment"
+            alt={t('imageAlt')}
             sizes="(min-width: 1024px) 50vw, 100vw"
             className="size-full rounded-2xl object-cover"
             width={705}
@@ -31,20 +34,28 @@ const AboutHighlightsSection = () => {
 
         <div className="flex flex-col justify-center gap-8">
           <ul className="space-y-7">
-            {aboutHighlights.map((item) => (
-              <li key={item.title} className="group flex gap-4">
-                <span className="flex size-16 shrink-0 items-center justify-center rounded-full bg-muted duration-500 group-hover:bg-primary">
-                  <item.icon
-                    className="size-8 text-heading duration-300 group-hover:scale-110"
-                    strokeWidth={1.5}
-                  />
-                </span>
-                <div className="space-y-1.5">
-                  <h3 className="font-semibold text-lg">{item.title}</h3>
-                  <p className="text-sm leading-relaxed">{item.body}</p>
-                </div>
-              </li>
-            ))}
+            {aboutHighlightIds.map((id) => {
+              const Icon = aboutHighlightIcons[id]
+
+              return (
+                <li key={id} className="group flex gap-4">
+                  <span className="flex size-16 shrink-0 items-center justify-center rounded-full bg-muted duration-500 group-hover:bg-primary">
+                    <Icon
+                      className="size-8 text-heading duration-300 group-hover:scale-110"
+                      strokeWidth={1.5}
+                    />
+                  </span>
+                  <div className="space-y-1.5">
+                    <h3 className="font-semibold text-lg">
+                      {t(`items.${id}.title`)}
+                    </h3>
+                    <p className="text-sm leading-relaxed">
+                      {t(`items.${id}.body`)}
+                    </p>
+                  </div>
+                </li>
+              )
+            })}
           </ul>
 
           <div className="flex flex-wrap items-center gap-6">
@@ -54,7 +65,7 @@ const AboutHighlightsSection = () => {
               render={<Link href={pages.services.href} />}
               size="lg"
             >
-              Read More
+              {t('readMore')}
             </Button>
 
             <a className="flex items-center gap-3" href={contact.phone.href}>
@@ -64,7 +75,7 @@ const AboutHighlightsSection = () => {
                   {contact.phone.display}
                 </span>
                 <span className="block text-muted-foreground text-sm">
-                  Call For Booking
+                  {t('booking')}
                 </span>
               </span>
             </a>

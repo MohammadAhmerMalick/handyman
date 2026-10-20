@@ -1,0 +1,746 @@
+{
+  "architrave-installation": {
+    "angle": "des chambranles de porte et de fenêtre, posés pour reprendre les profils existants ou un dessin neuf",
+    "benefits": [
+      "Cadre visuellement les portes dans les plans ouverts",
+      "Couvre les chants rugueux après la dépose du carrelage",
+      "Relooking rapide pour les photos de location",
+      "S’associe aux plinthes pour une menuiserie cohérente"
+    ],
+    "includes": [
+      "Recherche du profil ou validation d’un échantillon",
+      "Onglets précis en tête de porte et de fenêtre",
+      "Fixation par colle et pointes",
+      "Rebouchage des jeux aux jonctions d’enduit",
+      "Ponçage prêt à peindre ou à teinter"
+    ],
+    "outcome": "les chambranles sont coupés d’onglet proprement, avec des largeurs de traverse et de montants régulières",
+    "problems": [
+      "Angles ébréchés par le déplacement de meubles",
+      "Profil arrêté après une rénovation partielle",
+      "Traverses désalignées après un changement de niveau de plafond",
+      "Fissures qui reviennent aux jonctions avec les plaques de plâtre",
+      "Couloirs d’hôtel qui exigent des habillages uniformes"
+    ],
+    "tips": [
+      "Commandez une longueur supplémentaire pour les chutes d’assortiment de profil",
+      "Protégez les onglets pendant le passage des autres corps de métier",
+      "Utilisez un mastic de peintre avant les couches de finition"
+    ],
+    "title": "Pose de chambranles",
+    "whenNeeded": "Posez lorsque vous remplacez des habillages abîmés, après une mise à niveau de portes, ou pour finir des ouvertures en plaques de plâtre."
+  },
+  "built-in-wardrobes": {
+    "angle": "un rangement du sol au plafond, intégré à l’architecture de la pièce",
+    "benefits": [
+      "Valeur perçue plus élevée pour la vente et la location",
+      "Pièces plus calmes, sans meubles indépendants qui claquent",
+      "Exploite les niches irrégulières fréquentes dans les typologies de Dubaï",
+      "Intérieurs adaptés au rangement des chaussures et des bagages"
+    ],
+    "includes": [
+      "Relevé sur place, y compris les retombées de plafond",
+      "Pose des caissons et des façades avec filets de raccord ajustés",
+      "Mise en place des tringles, tablettes et tiroirs intérieurs",
+      "Alignement de la fermeture amortie et des poignées",
+      "Notes de coordination pour les électriciens qui ajoutent des lumières"
+    ],
+    "outcome": "les dressings sont posés avec des jeux réguliers et des aménagements intérieurs convenus à l’avance",
+    "problems": [
+      "Armoires indépendantes qui basculent sur la moquette",
+      "Retombées qui laissent des vides maladroits",
+      "Pas assez de hauteur de penderie pour les vêtements longs",
+      "Éclairage mal prévu à l’intérieur des meubles profonds",
+      "Décalage avec les profils de plinthe existants"
+    ],
+    "tips": [
+      "Placez les miroirs à l’écart de l’éblouissement du soleil direct",
+      "Laissez un accès d’entretien aux climatiseurs encastrés dans le mur",
+      "Utilisez des dos respirants sur les murs extérieurs"
+    ],
+    "title": "Dressings intégrés",
+    "whenNeeded": "Faites construire lorsque les chambres n’ont pas de placard, que les plafonds en pente gaspillent de l’espace, ou que les locations ont besoin d’un rangement plus soigné."
+  },
+  "cabinet-door-adjustment": {
+    "angle": "le réglage fin des charnières pour que les portes pendent de niveau, avec des jeux réguliers autour du cadre",
+    "benefits": [
+      "Amélioration visuelle immédiate avant les photos",
+      "Réduit la contrainte sur les poignées et la casse des charnières",
+      "Cuisines plus silencieuses dans les appartements ouverts",
+      "Intervention rapide pour les gestionnaires de biens"
+    ],
+    "includes": [
+      "Réglage sur trois axes des charnières compatibles",
+      "Remplacement des charnières voilées si elles sont repérées",
+      "Calage des embases sur des caissons irréguliers",
+      "Réglage ou remplacement de l’amortisseur de fermeture",
+      "Contrôle final avec les tablettes chargées"
+    ],
+    "outcome": "les portes sont alignées, avec une fermeture fluide et des jeux réguliers de haut en bas",
+    "problems": [
+      "Portes hautes qui s’entrouvrent avec la chaleur",
+      "Portes basses qui frottent sur le carrelage",
+      "Panneaux de réfrigérateur intégré désalignés par rapport à la ligne",
+      "Poignées saillantes qui accrochent les portes voisines",
+      "Tassement après rénovation qui dérègle les jeux"
+    ],
+    "tips": [
+      "Repérez la position des charnières avant de déposer les portes pour peindre",
+      "Réglez après la pose de l’épaisseur finale du carrelage",
+      "N’accrochez pas de serviettes mouillées aux poignées"
+    ],
+    "title": "Réglage de portes de meuble",
+    "whenNeeded": "Réglez lorsque les portes se touchent, que les jeux paraissent inégaux, ou que la fermeture amortie ne fonctionne plus correctement."
+  },
+  "cabinet-hinge-replacement": {
+    "angle": "le remplacement des charnières défaillantes par des modèles invisibles compatibles, pour une tenue solide",
+    "benefits": [
+      "Redonne confiance dans les portes lourdes de garde-manger",
+      "Évite qu’une porte vitrée reste suspendue de façon dangereuse",
+      "Occasion de passer à la fermeture amortie",
+      "Bien moins de gêne qu’un remplacement de meubles"
+    ],
+    "includes": [
+      "Identification de la marque de charnière et du perçage",
+      "Dépose des charnières abîmées sans fendre le caisson",
+      "Pose des charnières fournies ou assorties",
+      "Réglage de la porte après le changement de quincaillerie",
+      "Évacuation de l’ancienne quincaillerie si on le demande"
+    ],
+    "outcome": "les charnières neuves portent le poids de la porte, avec les bons angles d’ouverture",
+    "problems": [
+      "Portes qui tombent pendant les visites de locataires",
+      "Mauvaises charnières à recouvrement qui laissent de grands jeux",
+      "Corrosion due à la vapeur près des bouilloires",
+      "Remplacements bon marché qui lâchent en quelques mois",
+      "Portes vitrées qui exigent un classement de charnière précis"
+    ],
+    "tips": [
+      "Achetez les charnières par paires assorties pour les portes larges",
+      "Soutenez la porte tant que les charnières sont déposées",
+      "Essuyez la vapeur autour des charnières après la cuisson"
+    ],
+    "title": "Remplacement de charnières de meuble",
+    "whenNeeded": "Remplacez lorsque les portes s’affaissent, que les vis foirent, ou que la rouille apparaît près des zones d’éclaboussure."
+  },
+  "cabinet-making": {
+    "angle": "des caissons et des portes neufs, fabriqués pour les cuisines, les salles de bain et les murs de rangement",
+    "benefits": [
+      "Rangement durable, adapté à l’humidité locale",
+      "Jeux réguliers, utiles pour les photos et la remise des clés",
+      "Entretien des appareils plus simple grâce aux vides prévus",
+      "S’associe aux métiers du plan de travail et de la plomberie"
+    ],
+    "includes": [
+      "Confirmation de l’implantation face aux réseaux et aux appareils",
+      "Assemblage des caissons par vis et colle, selon le dessin",
+      "Pose des portes avec charnières réglables",
+      "Mise en place de la quincaillerie à fermeture amortie si elle est fournie",
+      "Protection des sols pendant la pose"
+    ],
+    "outcome": "les meubles sont d’équerre, avec des portes qui pendent régulièrement et des tiroirs qui coulissent sans accroc",
+    "problems": [
+      "Meubles abîmés par l’eau sous des éviers qui fuient",
+      "Meubles d’angle mal conçus qui gaspillent de l’espace",
+      "Odeurs de dégazage de panneaux bon marché dans les chambres",
+      "Rangées désalignées dans les cuisines ouvertes",
+      "Buffets de bureau sans passe-câbles"
+    ],
+    "tips": [
+      "Aérez les caissons neufs avant d’y ranger des vêtements",
+      "Essuyez les éclaboussures tout de suite sur les chants d’aggloméré",
+      "Réglez les charnières selon la saison si les portes coincent"
+    ],
+    "title": "Fabrication de meubles",
+    "whenNeeded": "Choisissez cette option lorsque vous rénovez le rangement, remplacez du MDF gonflé, ou ajoutez des garde-manger dans des villas."
+  },
+  "custom-carpentry": {
+    "angle": "des pièces de bois faites sur mesure, dimensionnées pour les niches difficiles et les plans du client",
+    "benefits": [
+      "Valorise l’espace dans les surfaces premium de Marina",
+      "Reprend les profils de plinthes et de chambranles existants",
+      "S’intègre proprement aux plans électriques et audiovisuels",
+      "Pièces uniques pour l’identité des lieux d’accueil"
+    ],
+    "includes": [
+      "Vérification des mesures sur place",
+      "Discussion des matériaux face à l’humidité des Émirats",
+      "Fabrication en atelier ou sur place, dans le périmètre convenu",
+      "Pose avec mise de niveau et fixation à la structure",
+      "Remise de notes d’entretien pour les finitions"
+    ],
+    "outcome": "les pièces sur mesure sont fabriquées ou ajustées sur place aux cotes convenues, avec des assemblages visibles soignés",
+    "problems": [
+      "Vides sous escalier inutilisés, sans rangement",
+      "Murs média qui exigent des niches de téléviseur précises",
+      "Présentoirs de commerce aux largeurs de module non standard",
+      "Habillages de poteaux malaisés dans les plans ouverts",
+      "Bureaux à domicile qui demandent des plateaux accueillant les câbles"
+    ],
+    "tips": [
+      "Validez les échantillons de finition avant la fabrication complète",
+      "Laissez des jeux de ventilation derrière les meubles intégrés sur les murs extérieurs",
+      "Prévoyez des trappes d’accès pour le câblage futur"
+    ],
+    "title": "Menuiserie sur mesure",
+    "whenNeeded": "Commandez lorsque le mobilier standard ne rentre pas sous un plafond en pente, dans une alcôve, ou dans le plan particulier d’une villa."
+  },
+  "custom-wooden-shelves": {
+    "angle": "des étagères massives ou plaquées, coupées à longueur, avec des chants finis pour les zones visibles",
+    "benefits": [
+      "Aspect soigné pour les présentations de hall et de majlis",
+      "Ajustement exact autour des coffres-forts et des meubles média",
+      "Portées durables pour les bibliothèques lourdes",
+      "Se coordonne avec les projets de menuiserie sur mesure"
+    ],
+    "includes": [
+      "Gabarit ou mesure de l’ouverture",
+      "Découpe et chant thermocollé ou rive massive",
+      "Implantation des équerres selon la charge annoncée",
+      "Pose avec contrôles de niveau et de parallélisme",
+      "Conseils d’huile ou de protection pour les zones humides"
+    ],
+    "outcome": "les étagères sont posées avec des équerres cachées ou décoratives, selon le dessin",
+    "problems": [
+      "Étagères standard trop profondes pour des niches étroites",
+      "Chants de contreplaqué visibles, inacceptables en réception",
+      "Murs en pierre qui exigent des forets particuliers",
+      "Murs courbes qui demandent des étagères en segments",
+      "Chaleur des baies audiovisuelles qui voile les panneaux bon marché"
+    ],
+    "tips": [
+      "Laissez circuler l’air autour des étagères d’équipement audiovisuel",
+      "Huilez chaque année les étagères de teck extérieures",
+      "Ne surchargez pas les porte-à-faux au-delà du dessin"
+    ],
+    "title": "Étagères en bois sur mesure",
+    "whenNeeded": "Commandez lorsque les alcôves exigent une portée exacte, que les bureaux veulent un bois à leur image, ou que les niches refusent les formats standard."
+  },
+  "decking-repair-and-maintenance": {
+    "angle": "des terrasses extérieures en bois revissées en sécurité, avec des lames remplacées et des finitions rafraîchies",
+    "benefits": [
+      "Usage pieds nus plus sûr autour des piscines",
+      "Meilleure présentation pour recevoir à l’extérieur",
+      "Prolonge la vie de la terrasse sous le soleil dur et le sel",
+      "S’associe aux visites d’entretien extérieur et de villa"
+    ],
+    "includes": [
+      "Remplacement de lames avec des fixations inox",
+      "Inspection des solives dans les travées accessibles",
+      "Préparation par ponçage ou nettoyage si c’est au périmètre",
+      "Application d’huile ou de lasure selon l’accord",
+      "Resserrage du garde-corps et remplacement des couvre-joints"
+    ],
+    "outcome": "les surfaces de terrasse sont plus sûres sous le pied, avec des fixations resserrées et des finitions planifiées",
+    "problems": [
+      "Lames molles près des zones d’éclaboussure de piscine",
+      "Clous qui ressortent sur les passages très fréquentés",
+      "Finition grise, délavée par le soleil, qui retient la saleté",
+      "Poteaux de garde-corps vitrés qui bougent",
+      "Jeux trop faibles qui retiennent l’eau"
+    ],
+    "tips": [
+      "Balayez le sable des terrasses après les journées à la plage",
+      "Déplacez de temps en temps les jardinières pour laisser sécher le bois",
+      "Rehuilez chaque année les terrasses exposées en bord de mer"
+    ],
+    "title": "Réparation et entretien de terrasse en bois",
+    "whenNeeded": "Entretenez lorsque des échardes apparaissent, que les lames pourrissent près des jardinières, ou que les garde-corps se desserrent sur une terrasse de toit."
+  },
+  "door-frame-repair": {
+    "angle": "la reprise de montants fendus ou gonflés, pour que la quincaillerie se fixe de nouveau solidement",
+    "benefits": [
+      "Redonne une impression de sécurité lorsque les serrures s’alignent de nouveau",
+      "Arrête le foirage récurrent des vis de charnière",
+      "Prépare les dormants à de nouvelles portes sans dépose complète",
+      "Soutient la qualité d’une remise en état pour l’assurance"
+    ],
+    "includes": [
+      "Diagnostic des problèmes de dormant bois ou métal",
+      "Réparations à l’époxy ou par pièce rapportée sur les montants en bois",
+      "Calage et revissage des positions de charnière",
+      "Rebouchage, ponçage et finition prête à peindre si c’est au périmètre",
+      "Coordination si un mouvement de structure est suspecté"
+    ],
+    "outcome": "les dormants sont d’équerre, avec une prise de vis solide pour les charnières et les serrures",
+    "problems": [
+      "Montants fendus par des mortaises de serrure trop grandes",
+      "Dormants gonflés après des fuites de salle de bain",
+      "Habillages fissurés après des claquements de porte",
+      "Dormants métalliques désalignés dans les tours plus anciennes",
+      "Anciennes reprises qui lâchent sous la charge des charnières"
+    ],
+    "tips": [
+      "Supprimez les arrivées d’eau avant les réparations de bois",
+      "Utilisez des vis longues jusque dans la structure derrière les montants",
+      "Évitez de trop serrer les serrures dans un mastic de rebouchage faible"
+    ],
+    "title": "Réparation de dormant de porte",
+    "whenNeeded": "Réparez après une fuite, une effraction, ou lorsqu’un contrôle de termites révèle du bois tendre autour du dormant."
+  },
+  "door-repair-and-adjustment": {
+    "angle": "la réparation des portes qui coincent, claquent ou se désalignent, sans remplacer l’ensemble",
+    "benefits": [
+      "Réparations rapides avant les états des lieux",
+      "Réduit les pertes de climatisation par de mauvais joints de porte extérieure",
+      "Moins de dégâts dus au forçage des portes coincées",
+      "Améliore l’accessibilité pour les personnes en fauteuil roulant"
+    ],
+    "includes": [
+      "Réglage des charnières et des pivots, ou rabotage si nécessaire",
+      "Repositionnement de la gâche pour les pênes",
+      "Remplacement du joint d’étanchéité ou de la brosse",
+      "Nettoyage des rails des portes coulissantes",
+      "Rebouchage et retouche des petits éclats de chant si c’est convenu"
+    ],
+    "outcome": "les portes se ferment sous une légère pression, et les pênes s’engagent de façon fiable",
+    "problems": [
+      "Portes de chambre qui butent sur des tapis épais neufs",
+      "Portes de balcon qui gonflent avec l’humidité de l’été",
+      "Portes vitrées de bureau désalignées dans leurs rails",
+      "Charnières à ferme-porte qui claquent fort",
+      "Griffures d’animaux près des traverses basses"
+    ],
+    "tips": [
+      "Notez si le problème est saisonnier avant un rabotage trop appuyé",
+      "Gardez les rails libres du sable qui vient des balcons",
+      "Resserrez les vis de poignée lorsque les plaques se desserrent"
+    ],
+    "title": "Réparation et réglage de portes",
+    "whenNeeded": "Réparez lorsque les portes raclent les tapis, que les pênes manquent la gâche, ou que les jeux laissent entrer le bruit du couloir."
+  },
+  "general-carpentry": {
+    "angle": "des réparations et des poses de bois pratiques, qui gardent portes, meubles et habillages en état de fonctionner",
+    "benefits": [
+      "Un seul corps de métier pour les listes de réserves après un déménagement",
+      "Prolonge la vie de la menuiserie avant un remplacement complet",
+      "Escaliers et portes plus sûrs pour les enfants et les personnes âgées",
+      "Se coordonne avec les peintres après les réparations"
+    ],
+    "includes": [
+      "Visite des points de menuiserie signalés",
+      "Réglages sur place des charnières, des loqueteaux et des butées",
+      "Rebouchage et ponçage des petits éclats si c’est convenu",
+      "Avant-trous et fixations pour les habillages desserrés",
+      "Notes écrites pour les pièces sur mesure si elles sont nécessaires"
+    ],
+    "outcome": "la menuiserie est réglée ou réparée, avec une courte liste des éléments qui exigent l’atelier ou un remplacement",
+    "problems": [
+      "Portes qui frottent après les variations d’humidité saisonnières",
+      "Mains courantes desserrées dans les escaliers de villa",
+      "Lames de parquet qui grincent et dérangent les voisins du dessous",
+      "Montants fendus après des réparations d’effraction",
+      "Marques de quincaillerie mélangées qui provoquent un désalignement"
+    ],
+    "tips": [
+      "Notez quelles portes coincent en été plutôt qu’en hiver",
+      "Évitez de forcer les portes gonflées — prévoyez plutôt un ajustement",
+      "Gardez des vis de rechange assorties aux charnières existantes"
+    ],
+    "title": "Menuiserie générale",
+    "whenNeeded": "Réservez lorsque plusieurs éléments en bois coincent, s’affaissent ou claquent, et que vous voulez une seule visite de menuisier pour planifier les réparations."
+  },
+  "kitchen-cabinet-repair": {
+    "angle": "la réparation de meubles de cuisine gonflés, décollés ou désalignés, sans remplacement complet",
+    "benefits": [
+      "Plus économique qu’une dépose complète de la cuisine",
+      "Remet les cuisines locatives au niveau de la liste de contrôle",
+      "Arrête l’arrachement progressif des charnières sur les panneaux faibles",
+      "Peut précéder une simple peinture ou de nouvelles poignées"
+    ],
+    "includes": [
+      "Repositionnement des embases de charnière, avec plaques de réparation si nécessaire",
+      "Remplacement des portes ou des panneaux abîmés s’ils sont fournis",
+      "Recollage des chants décollés",
+      "Remplacement des taquets de tablette et équerres supplémentaires",
+      "Alignement des mécanismes de poubelle intégrée"
+    ],
+    "outcome": "les caissons sont stables, avec des portes qui ferment à fleur et des tablettes de nouveau soutenues",
+    "problems": [
+      "Panneaux de particules qui éclatent aux vis de charnière",
+      "Façades de tiroir qui se détachent sous le poids",
+      "Traces de brûlure près des plaques sur les meubles bas",
+      "Tourniquet d’angle qui bloque les casseroles à l’intérieur",
+      "Vérins de fermeture amortie en panne sur plusieurs portes"
+    ],
+    "tips": [
+      "Réparez les fuites avant de reprendre des caissons gonflés",
+      "Utilisez des nettoyants doux — les produits agressifs font gonfler les chants",
+      "Resserrez les poignées de temps en temps — elles se desserrent à l’usage"
+    ],
+    "title": "Réparation de meubles de cuisine",
+    "whenNeeded": "Réparez après une fuite, des dégâts de locataire, ou des années de contrainte sur les charnières près des fours."
+  },
+  "residential-carpentry": {
+    "angle": "une menuiserie pensée pour la maison, des chambres au majlis, avec des finitions adaptées à la vie de famille",
+    "benefits": [
+      "Adapté aux modes de vie en villa et en appartement",
+      "Améliore la sécurité des éléments muraux dans une conception prévue pour de légers séismes",
+      "Meilleur sommeil lorsque les portes se ferment sans bruit",
+      "Dépannage rapide des bailleurs entre deux locations"
+    ],
+    "includes": [
+      "Évaluation des fixations dans le bloc, l’ossature ou le bois",
+      "Réglage des portes, des tiroirs et des panneaux coulissants",
+      "Renfort des étagères avec des équerres discrètes",
+      "Retouche des têtes de vis visibles si les caches sont fournis",
+      "Conseils d’entretien face aux effets de l’humidité de la climatisation sur le bois"
+    ],
+    "outcome": "la menuiserie du logement est stable, silencieuse et alignée sur l’usage réel des pièces",
+    "problems": [
+      "Armoires de chambre d’enfant désalignées après un déménagement",
+      "Portes de majlis qui raclent les seuils en marbre",
+      "Étagères de garde-manger qui fléchissent sous les produits en vrac",
+      "Portes de rangement de balcon qui gonflent avec l’humidité",
+      "Meubles de chambre d’amis jamais correctement fixés aux murs"
+    ],
+    "tips": [
+      "Laissez la climatisation à un réglage modéré en votre absence pour limiter le gonflement",
+      "Ne faites pas glisser d’objets lourds sur les étagères flottantes",
+      "Aspirez les rails des portes coulissantes après les tempêtes de sable"
+    ],
+    "title": "Menuiserie résidentielle",
+    "whenNeeded": "Faites appel à nous pour meubler des villas neuves, réparer l’usure des logements locatifs, ou adapter des pièces à une famille qui grandit."
+  },
+  "shelving-and-storage-solutions": {
+    "angle": "des étagères et des rangements qui portent de vraies charges, au garage, au garde-manger et au bureau",
+    "benefits": [
+      "Rangement plus sûr pour les courses volumineuses aux Émirats",
+      "Sols plus dégagés pour l’aspirateur et les contrôles de nuisibles",
+      "Hauteurs sur mesure pour les grands bacs de rangement",
+      "S’accorde avec les tâches d’homme à tout faire pour la pose d’étagères"
+    ],
+    "includes": [
+      "Tracé de l’implantation avec le propriétaire, pour les hauteurs et les portées",
+      "Choix d’équerres ou de systèmes invisibles",
+      "Fixation dans la structure ou sur des panneaux de contreplaqué d’appui",
+      "Finition des chants sur le bois visible si c’est convenu",
+      "Étiquettes de charge si on les demande"
+    ],
+    "outcome": "les étagères sont de niveau, avec des fixations dimensionnées pour les charges annoncées",
+    "problems": [
+      "Étagères flottantes qui s’arrachent des plaques de plâtre",
+      "Outils de garage au sol, source de risques de chute",
+      "Stock d’arrière-boutique empilé de façon dangereuse",
+      "Épices de garde-manger qui débordent de clayettes filaires peu profondes",
+      "Livres de bureau à domicile qui cintrent des tablettes en MDF"
+    ],
+    "tips": [
+      "Rangez les objets lourds sur les étagères les plus basses",
+      "Contrôlez les fixations après de légers tremblements",
+      "Évitez d’empiler au-dessus de la hauteur d’épaule sans marchepied"
+    ],
+    "title": "Étagères et solutions de rangement",
+    "whenNeeded": "Posez lorsque le désordre abîme les murs, que le garage a besoin d’un rangement d’outils, ou que les commerces exigent des étagères de stock."
+  },
+  "skirting-board-installation": {
+    "angle": "des plinthes posées avec des joints serrés et ajustées au tracé des sols irréguliers",
+    "benefits": [
+      "Aspect fini pour les pièces fraîchement peintes",
+      "Protège l’enduit des chocs de serpillière et d’aspirateur",
+      "Masque les raccords irréguliers entre sol et mur",
+      "Se coordonne avec la pose des chambranles"
+    ],
+    "includes": [
+      "Dépose des plinthes abîmées si c’est convenu",
+      "Découpe des onglets et des coupes à recouvrement dans les angles",
+      "Fixation aux murs par colle et pointes",
+      "Silicone ou mastic en arête haute si c’est au périmètre",
+      "Rebouchage des trous de pointe, prêt pour la décoration"
+    ],
+    "outcome": "les plinthes sont continues, avec des onglets nets et des joints de mastic prêts à peindre",
+    "problems": [
+      "Jeux après la dépose d’anciennes plinthes épaisses",
+      "Chants de carrelage irréguliers qui exigent une coupe au tracé",
+      "Sections manquantes après des réparations de fuite",
+      "Onglets d’angle qui s’ouvrent dans l’air sec de la climatisation",
+      "Goulottes de câbles qui demandent des couvercles soignés"
+    ],
+    "tips": [
+      "Peignez ou protégez les plinthes avant le retour des meubles lourds",
+      "Évitez de détremper les plinthes en passant la serpillière",
+      "Utilisez un mastic souple là où les sols bougent"
+    ],
+    "title": "Pose de plinthes",
+    "whenNeeded": "Posez après des travaux de sol, des réparations de murs abîmés, ou une mise à jour de style dans une location."
+  },
+  "timber-repair-and-replacement": {
+    "angle": "des sections de bois structurelles et décoratives, remplacées avec des profils assortis",
+    "benefits": [
+      "Arrête la propagation de la pourriture aux pièces voisines",
+      "Rétablit la sécurité des terrasses et des escaliers extérieurs",
+      "Reprend les moulures existantes lorsque c’est possible",
+      "Documente les réparations pour la vente du bien"
+    ],
+    "includes": [
+      "Retrait du bois malsain jusqu’aux chants sains",
+      "Doublage ou enture avec du bois traité",
+      "Reprise du profil sur les éléments visibles",
+      "Impression du bois neuf avant refermeture",
+      "Orientation si une modification de conception porteuse est nécessaire"
+    ],
+    "outcome": "un bois sain est intégré aux finitions voisines, prêt à peindre ou à lasurer",
+    "problems": [
+      "Abouts de chevrons pourris sur les pergolas",
+      "Lames de terrasse molles sous le pied",
+      "Contrôle des poutres après des fuites cachées",
+      "Galeries de termites dans les zones de plinthe",
+      "Trous d’impact après le déplacement d’appareils"
+    ],
+    "tips": [
+      "Traitez les sources d’humidité avant de remplacer le bois",
+      "Inspectez le bois extérieur deux fois par an",
+      "Gardez la terre à l’écart du pied des poteaux"
+    ],
+    "title": "Réparation et remplacement de bois",
+    "whenNeeded": "Intervenez lorsque la pourriture, les termites ou un choc cassent des pièces au-delà d’un simple rebouchage."
+  },
+  "wardrobe-installation": {
+    "angle": "des armoires en kit et modulaires, assemblées et fixées pour rester stables",
+    "benefits": [
+      "Entrée dans les lieux plus rapide pour les locations meublées",
+      "Un montage correct préserve les recours de garantie",
+      "Meubles plus sûrs dans les pièces avec des enfants actifs",
+      "S’associe le même jour à la pose de rideaux et de stores"
+    ],
+    "includes": [
+      "Assemblage sur place selon les étapes du fabricant",
+      "Fixation murale dans le bloc ou l’ossature lorsque c’est possible",
+      "Réglage des portes et des tiroirs après le montage",
+      "Découpes de plinthe si c’est prévu au périmètre",
+      "Retrait des emballages si l’évacuation est organisée"
+    ],
+    "outcome": "les armoires sont d’aplomb, avec des tiroirs qui coulissent et des fixations anti-basculement lorsque c’est convenu",
+    "problems": [
+      "Notices perdues pour des systèmes coulissants complexes",
+      "Retombées de plafond qui empêchent les meubles toute hauteur",
+      "Moquette qui se tasse sous des caissons lourds",
+      "Kits anti-basculement absents dans les chambres d’enfants",
+      "Portes coulissantes qui sautent des rails sur les kits bon marché"
+    ],
+    "tips": [
+      "Laissez des jeux de ventilation derrière les meubles sur les murs extérieurs",
+      "Ne surchargez pas les tablettes hautes au-delà des charges indiquées",
+      "Nettoyez les rails avant que les portes coulissantes coincent"
+    ],
+    "title": "Pose d’armoires",
+    "whenNeeded": "Posez après l’achat d’armoires neuves, ou lorsque vous réorganisez les chambres entre deux locataires."
+  },
+  "window-carpentry": {
+    "angle": "l’entretien des châssis, des habillages et des tableaux de fenêtres en bois, pour une manœuvre fluide",
+    "benefits": [
+      "Meilleure maîtrise de la ventilation, sans laisser la climatisation en permanence",
+      "Préserve le caractère des villas plus anciennes",
+      "Réduit l’entrée de poussière pendant les semaines de shamal",
+      "S’associe à la préparation d’une mise à niveau aluminium et verre"
+    ],
+    "includes": [
+      "Contrôle des cordes de châssis ou de la quincaillerie sur les modèles traditionnels",
+      "Rabotage ou dégagement des chants qui coincent",
+      "Remplacement de petites sections ou d’appuis si c’est convenu",
+      "Pose de joints de calfeutrement aux jeux accessibles",
+      "Conseils sur les cycles d’entretien de la peinture"
+    ],
+    "outcome": "les fenêtres s’ouvrent et se ferment, avec une meilleure étanchéité aux points accessibles",
+    "problems": [
+      "Accumulation de peinture qui scelle les châssis",
+      "Traverses basses pourries sur les villas face à la mer",
+      "Arrêts absents, qui laissent les ouvrants claquer au vent",
+      "Rideaux lourds qui mettent les châssis hors d’équerre",
+      "Ancien silicone qui empêche le bois de bouger"
+    ],
+    "tips": [
+      "Repeignez le bois exposé tous les quelques années près de la côte",
+      "Ne bouchez pas les trous d’évacuation des appuis",
+      "Verrouillez les fenêtres entrouvertes en votre absence si c’est sans danger"
+    ],
+    "title": "Menuiserie de fenêtres",
+    "whenNeeded": "Intervenez lorsque les fenêtres en bois coincent, que les claquements gênent, ou que les tableaux pourrissent dans les angles."
+  },
+  "window-frame-repair": {
+    "angle": "la reprise des montants et des habillages, pour que fermetures, serrures et joints s’alignent de nouveau",
+    "benefits": [
+      "Améliore l’alignement de sécurité des pênes",
+      "Permet une pose de niveau des nouveaux rails de rideaux",
+      "Réduit les fissures visibles aux chambranles",
+      "Prépare les baies à une rénovation aluminium plus tard"
+    ],
+    "includes": [
+      "Découpe des parties pourries et inserts en bois traité",
+      "Vis de renfort et époxy lorsque c’est adapté",
+      "Ajustement de la feuillure pour de nouveaux ensembles de serrure s’ils sont fournis",
+      "Mastic intérieur et extérieur aux interfaces",
+      "Préparation à la peinture si c’est au périmètre"
+    ],
+    "outcome": "les dormants sont rigides, avec des points de fixation de quincaillerie rétablis",
+    "problems": [
+      "Bois tendre là où les gouttes de climatisation atteignent le dormant",
+      "Angles fissurés après un tassement du bâtiment",
+      "Montants de battement désalignés sur les fenêtres à deux vantaux",
+      "Gâche de serrure qui manque après une torsion du dormant",
+      "Anciens rebouchages qui lâchent au soleil"
+    ],
+    "tips": [
+      "Réparez les fuites de toiture ou de climatisation avant de reconstruire le dormant",
+      "Utilisez des mastics souples aux joints mobiles",
+      "Inspectez les dormants après chaque grosse tempête"
+    ],
+    "title": "Réparation de dormant de fenêtre",
+    "whenNeeded": "Réparez lorsque les dormants se ramollissent après une fuite, que des fissures apparaissent dans les angles, ou que de nouvelles serrures ne rentrent plus."
+  },
+  "wooden-door-installation": {
+    "angle": "des portes intérieures en bois, posées avec les bons jeux et des loquets silencieux",
+    "benefits": [
+      "Plus d’intimité et un meilleur sommeil dans les villas partagées",
+      "Appui à la conformité des contrôles de portes coupe-feu lorsque cela s’applique",
+      "Aspect neuf pour les photos de remise des clés",
+      "S’associe à la réparation du dormant lors de la même visite"
+    ],
+    "includes": [
+      "Dépose de l’ancienne porte et de la quincaillerie si c’est convenu",
+      "Pose avec des charnières adaptées au poids",
+      "Mise au point de l’alignement du pêne et de la gâche",
+      "Joints acoustiques ou brosses d’étanchéité s’ils sont fournis",
+      "Réglage des butées et des patins antibruit"
+    ],
+    "outcome": "les portes pivotent librement, avec des jeux réguliers et une quincaillerie qui fonctionne sans accroc",
+    "problems": [
+      "Portes trop recoupées, qui laissent apparaître l’âme alvéolaire",
+      "Portes coupe-feu dont les joints intumescents manquent après peinture",
+      "Pêne désaligné qui oblige à forcer la fermeture",
+      "Sols neufs qui relèvent le niveau et coincent les seuils",
+      "Portes acoustiques lourdes, sans charnières adaptées"
+    ],
+    "tips": [
+      "Laissez les couches de finition sécher avant de poser les portes définitives",
+      "Ne calez pas chaque jour les portes lourdes ouvertes avec des coins",
+      "Huilez légèrement les charnières si les grincements reviennent en saison sèche"
+    ],
+    "title": "Pose de portes en bois",
+    "whenNeeded": "Posez lorsque vous remplacez des portes abîmées, mettez à niveau des blocs coupe-feu, ou terminez de nouvelles cloisons."
+  },
+  "wooden-furniture-repair": {
+    "angle": "des réparations sur place de chaises, de tables et de lits qui boitent ou dont les assemblages lâchent",
+    "benefits": [
+      "Prolonge la vie du mobilier des locations meublées",
+      "Pièces sentimentales sauvées de la décharge",
+      "Assises plus sûres dans les lieux d’accueil",
+      "Souvent plus rapide que d’attendre un créneau d’atelier"
+    ],
+    "includes": [
+      "Démontage si nécessaire pour un recollage sous serre",
+      "Remplacement de tourillons ou d’équerres",
+      "Reprise ou rebouchage du placage sur les faces visibles",
+      "Mise à niveau des pieds de table sur un carrelage irrégulier",
+      "Conseils d’entretien pour l’humidité et le nettoyage"
+    ],
+    "outcome": "les meubles sont stables, avec des assemblages recollés ou renforcés discrètement",
+    "problems": [
+      "Chaises de salle à manger qui se déforment lorsque les invités se penchent en arrière",
+      "Lattes de lit cassées après un déménagement mal fait",
+      "Cloques de placage dues aux variations d’humidité de la climatisation",
+      "Pieds de bureau dont les trous de vis sont foirés",
+      "Teck d’extérieur grisé, aux assemblages desserrés"
+    ],
+    "tips": [
+      "Soulevez les meubles — ne les faites jamais glisser sur les sols en pierre",
+      "Utilisez des dessous de verre sous les boissons froides sur les plateaux plaqués",
+      "Resserrez les boulons accessibles selon la saison"
+    ],
+    "title": "Réparation de meubles en bois",
+    "whenNeeded": "Réparez lorsque le mobilier locatif se desserre, que des pièces de famille se fendent, ou que les bureaux s’affaissent."
+  },
+  "wooden-partition-installation": {
+    "angle": "des cloisons en bois non porteuses, qui séparent les espaces sans une maçonnerie complète",
+    "benefits": [
+      "Reconfiguration plus rapide qu’une maçonnerie de blocs",
+      "Charges plus légères sur les dalles des tours anciennes",
+      "S’associe aux conceptions en plaques de plâtre et faux plafond",
+      "Options démontables pour de futurs changements de plan"
+    ],
+    "includes": [
+      "Tracé de l’ossature, avec semelle et sablière fixées en sécurité",
+      "Entraxe des montants selon le type de plaque choisi",
+      "Pose des plaques et joints affleurants, prêts à peindre",
+      "Découpes pour les prises si c’est coordonné",
+      "Calfeutrement au sol pour un gain acoustique modeste"
+    ],
+    "outcome": "les cloisons sont d’aplomb, avec des portes ou des passages alignés au sol et au plafond",
+    "problems": [
+      "Bruit de plan ouvert dans les installations de télétravail",
+      "Commerces qui ont besoin vite d’une réserve",
+      "Bailleurs qui interdisent la maçonnerie dans les locations",
+      "Hauteurs sous plafond qui varient aux ressauts de dalle",
+      "Réseaux à faire passer dans les vides de cloison"
+    ],
+    "tips": [
+      "Confirmez les règles de l’immeuble sur les types de cloison",
+      "Prévoyez les parcours de câbles avant de refermer les plaques",
+      "Utilisez des plaques adaptées dans les zones humides"
+    ],
+    "title": "Pose de cloisons en bois",
+    "whenNeeded": "Posez lorsque les bureaux ont besoin de zones calmes, que les logements veulent une séparation provisoire, ou que les commerces réorganisent leur plan."
+  },
+  "wooden-stair-repairs": {
+    "angle": "des marches, des nez et des balustrades remis en tenue, pour réduire grincements et jeu",
+    "benefits": [
+      "Usage quotidien plus sûr dans les villas à plusieurs niveaux",
+      "Logements plus calmes dans les volumes ouverts à double hauteur",
+      "Prépare l’escalier à la pose d’une moquette ou d’un chemin",
+      "Traite les réserves avant la remise des clés"
+    ],
+    "includes": [
+      "Renfort par vis et colle depuis le dessous si c’est accessible",
+      "Recollage des nez ou remplacement de sections",
+      "Resserrage des balustres et rebouchage des jeux",
+      "Refixation des supports de main courante dans les montants",
+      "Recommandations d’espacement conforme si les jeux sont dangereux"
+    ],
+    "outcome": "les escaliers semblent plus fermes, avec moins de risques de trébuchement aux nez de marche",
+    "problems": [
+      "Marches grinçantes qui réveillent le foyer la nuit",
+      "Poteaux d’escalier desserrés aux paliers",
+      "Nez de marche usés dans les locations à fort passage",
+      "Jeu qui s’ouvre entre la marche et le limon",
+      "Enfants qui se faufilent dans des écarts de balustres trop larges"
+    ],
+    "tips": [
+      "Réparez les nez desserrés avant qu’ils cassent",
+      "Ne stockez pas d’objets lourds sur les marches ouvertes",
+      "Aspirez le gravillon qui accélère l’usure"
+    ],
+    "title": "Réparations d’escalier en bois",
+    "whenNeeded": "Réparez lorsque l’escalier grince, que les nez se soulèvent, ou que les balustres se desserrent dans une villa familiale."
+  },
+  "wooden-window-repair": {
+    "angle": "des réparations ciblées des châssis, des meneaux et des appuis, sans remplacement complet de la fenêtre",
+    "benefits": [
+      "Prolonge la vie des fenêtres en bois de qualité",
+      "Arrête les dégâts d’enduit intérieur dus aux gouttes",
+      "Conserve l’aspect patrimonial apprécié dans certaines résidences",
+      "Maîtrise du coût face à une rénovation complète en aluminium"
+    ],
+    "includes": [
+      "Stabilisation des assemblages desserrés par vis et colle",
+      "Entures localisées ou réparations au mastic de bois",
+      "Remplacement de la quincaillerie par des modèles résistants à la corrosion s’ils sont fournis",
+      "Mastic extérieur aux joints accessibles",
+      "Notes d’orientation pour le remplacement des vitrages isolants"
+    ],
+    "outcome": "le bois autour du vitrage est sain, avec des châssis manœuvrables et moins de courants d’air",
+    "problems": [
+      "Mastic de vitrier qui s’effrite sur les châssis hauts",
+      "Double vitrage embué qui demande une orientation vers un vitrier",
+      "Meneaux fendus par les mouvements thermiques",
+      "Pourriture d’appui due au débordement d’une jardinière",
+      "Quincaillerie corrodée par l’air salin"
+    ],
+    "tips": [
+      "Éloignez les condensats de climatisation des appuis",
+      "Nettoyez les rigoles d’évacuation après les semaines poussiéreuses",
+      "Ne peignez pas les châssis fermés par mégarde"
+    ],
+    "title": "Réparation de fenêtres en bois",
+    "whenNeeded": "Réparez lorsque le mastic lâche, que le vitrage cliquette, ou que des traces d’eau apparaissent sur les tablettes intérieures."
+  }
+}

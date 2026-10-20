@@ -1,0 +1,379 @@
+{
+  "basic-home-automation-device-setup": {
+    "angle": "la configuration de la passerelle, des capteurs et des routines pour des kits de maison connectée simples",
+    "benefits": [
+      "Une prise en main plus rapide des kits achetés, dès le premier jour",
+      "Un nommage cohérent qui aide les membres du foyer",
+      "Une documentation pour annuler les installations en location"
+    ],
+    "complianceNote": "Le travail se limite à la fixation physique et à la configuration de base de l’appareil. Nous ne contournons pas les systèmes de sécurité, nous ne faisons pas de double de clés sans autorisation, et nous ne réalisons pas de travaux d’alarme ou d’électricité spécialisés au-delà de nos qualifications.",
+    "includes": [
+      "le raccordement de la passerelle au réseau domestique, selon les consignes de VLAN invité ou IoT",
+      "le nommage des appareils et l’affectation aux pièces",
+      "deux ou trois automatisations pratiques, comme l’éclairage d’arrivée",
+      "l’export ou la note des identifiants d’administration pour le propriétaire"
+    ],
+    "outcome": "les appareils apparaissent dans l’application avec des noms clairs, les automatisations de base fonctionnent, et les limites d’intégration sont notées",
+    "problems": [
+      "des noms de pièces en double qui embrouillent les assistants vocaux",
+      "des automatisations qui se déclenchent aux mauvais moments à cause des fuseaux horaires",
+      "des versions de micrologiciel incohérentes d’un capteur à l’autre",
+      "l’isolation Wi‑Fi du bailleur qui bloque les passerelles"
+    ],
+    "tips": [
+      "Utilisez des mots de passe robustes sur les comptes de la passerelle",
+      "Planifiez des créneaux de mise à jour du micrologiciel",
+      "Désactivez les automatisations en voyage si vous le préférez"
+    ],
+    "title": "Configuration de base des appareils connectés",
+    "whenNeeded": "Faites appel à ce service lorsque les appareils sont achetés, mais qu’il faut des noms, des pièces et des automatisations cohérents."
+  },
+  "cctv-and-smart-locks": {
+    "angle": "la pose combinée et la configuration de base des caméras et du matériel d’accès, dans le périmètre de Handyman",
+    "benefits": [
+      "Une seule visite couvre la dissuasion à l’entrée et les bases du contrôle d’accès",
+      "Un périmètre clair, qui évite une survente coûteuse de sécurité",
+      "Adapté aux petits commerces et aux portails de villa"
+    ],
+    "complianceNote": "Le travail se limite à la fixation physique et à la configuration de base de l’appareil. Nous ne contournons pas les systèmes de sécurité, nous ne faisons pas de double de clés sans autorisation, et nous ne réalisons pas de travaux d’alarme ou d’électricité spécialisés au-delà de nos qualifications.",
+    "includes": [
+      "la fixation des supports de caméra et de courts cheminements de câbles",
+      "la pose de serrures connectées avec contrôles d’alignement",
+      "une vérification de base de l’enregistrement ou de l’application sur le matériel fourni",
+      "une note écrite des points qui exigent des entreprises de sécurité ou d’électricité agréées"
+    ],
+    "outcome": "les caméras et les serrures sont posées physiquement, les fonctions de base fonctionnent, et les limites du travail spécialisé sont clairement indiquées",
+    "problems": [
+      "le mélange de tensions incompatibles entre DVR et caméras",
+      "des serrures posées sans aligner les gâches",
+      "aucun plan de cheminement de câbles en façade",
+      "une attente de contrats de télésurveillance au-delà du périmètre d’entretien"
+    ],
+    "tips": [
+      "Étiquetez les emplacements de NVR et conservez les identifiants en lieu sûr",
+      "Testez les serrures après les coupures de courant",
+      "Revoyez les angles de caméra au fil des saisons, à mesure que les plantes poussent"
+    ],
+    "title": "CCTV et serrures connectées",
+    "whenNeeded": "Réservez lorsque des bailleurs ou de petits bureaux veulent une dissuasion visible et un accès contrôlé, sans contrat de sécurité complet."
+  },
+  "digital-lock-installation": {
+    "angle": "la pose de serrures numériques à clavier et à badge, avec une préparation de porte soignée",
+    "benefits": [
+      "Convient au renouvellement du personnel, sans changement de cylindre",
+      "Une préparation de porte soignée, qui limite les dégâts sur les placages",
+      "Un déverrouillage manuel par clé, conservé lorsqu’il est fourni"
+    ],
+    "complianceNote": "Le travail se limite à la fixation physique et à la configuration de base de l’appareil. Nous ne contournons pas les systèmes de sécurité, nous ne faisons pas de double de clés sans autorisation, et nous ne réalisons pas de travaux d’alarme ou d’électricité spécialisés au-delà de nos qualifications.",
+    "includes": [
+      "la pose d’une serrure à mortaiser ou en applique, dans les limites du produit",
+      "une hauteur de clavier convenue avec les utilisateurs",
+      "la programmation des premiers codes maître et utilisateur",
+      "le contrôle du débattement de la porte après la pose"
+    ],
+    "outcome": "les codes fonctionnent de façon fiable, les portes se ferment sans frotter, et les codes maîtres sont documentés",
+    "problems": [
+      "des claviers posés trop bas pour un usage confortable",
+      "des portes qui frottent après la pose de corps de serrure plus épais",
+      "une distinction peu claire entre code maître et code utilisateur",
+      "une exposition aux intempéries sur les portes extérieures sans joints"
+    ],
+    "tips": [
+      "Changez immédiatement les codes d’usine par défaut",
+      "Essuyez les claviers après avoir partagé des codes temporaires",
+      "Contrôlez les cosses de piles pendant les saisons humides"
+    ],
+    "title": "Installation de serrure à code",
+    "whenNeeded": "Organisez la pose lorsque des bureaux ou des logements ont besoin d’un accès par code, sans intégration complète à la maison connectée."
+  },
+  "door-closer-installation": {
+    "angle": "la pose de ferme-portes réglés pour une fermeture douce, sans claquement",
+    "benefits": [
+      "Une fermeture plus sûre dans les couloirs passants",
+      "Moins de bruit pour les appartements voisins",
+      "Un réglage compatible avec les règles de l’immeuble lorsqu’elles s’appliquent"
+    ],
+    "complianceNote": "Le travail se limite à la fixation physique et à la configuration de base de l’appareil. Nous ne contournons pas les systèmes de sécurité, nous ne faisons pas de double de clés sans autorisation, et nous ne réalisons pas de travaux d’alarme ou d’électricité spécialisés au-delà de nos qualifications.",
+    "includes": [
+      "la pose du corps de ferme-porte alignée sur les gabarits du fabricant",
+      "le raccordement du bras et le réglage du débattement",
+      "le réglage de l’accroche et du frein d’ouverture",
+      "le retrait du maintien ouvert lorsqu’il n’est pas autorisé"
+    ],
+    "outcome": "les portes s’enclenchent de façon fiable, la vitesse de fermeture convient au passage quotidien, et les maintiens ouverts sont désactivés lorsque c’est exigé",
+    "problems": [
+      "des portes qui claquent à cause des écarts de pression de la climatisation",
+      "des ferme-portes qui fuient de l’huile sur les revêtements de sol",
+      "une force de ferme-porte inadaptée aux lourdes portes vitrées",
+      "des bras de maintien ouvert contraires à la réglementation incendie"
+    ],
+    "tips": [
+      "Signalez immédiatement les fuites de fluide",
+      "Ne calez pas les portes coupe-feu ouvertes avec des meubles",
+      "Retestez après les variations saisonnières d’humidité"
+    ],
+    "title": "Installation de ferme-porte",
+    "whenNeeded": "Réservez la pose pour les couloirs coupe-feu, les suites de bureaux ou les portes de balcon exposées au vent, qui doivent se fermer de façon contrôlée."
+  },
+  "door-viewer-installation": {
+    "angle": "la pose de judas et de judas numériques à une hauteur de vision confortable",
+    "benefits": [
+      "Un contrôle visuel rapide avant d’ouvrir à des inconnus",
+      "Une pose nette qui limite les dégâts sur la face de la porte",
+      "Des modèles numériques adaptés aux halls peu éclairés"
+    ],
+    "complianceNote": "Le travail se limite à la fixation physique et à la configuration de base de l’appareil. Nous ne contournons pas les systèmes de sécurité, nous ne faisons pas de double de clés sans autorisation, et nous ne réalisons pas de travaux d’alarme ou d’électricité spécialisés au-delà de nos qualifications.",
+    "includes": [
+      "le marquage de la hauteur pour les utilisateurs principaux et secondaires",
+      "un avant-trou et un perçage net pour le canon du judas",
+      "l’étanchéité à la poussière et à la pluie fine sur la face extérieure",
+      "la mise en place des piles et l’essai de l’afficheur sur les modèles numériques"
+    ],
+    "outcome": "les judas sont centrés, les lentilles sont nettes, et l’intégrité de la porte est préservée",
+    "problems": [
+      "des judas posés hors axe par rapport aux panneaux de porte",
+      "une focale trop courte, inadaptée aux portes coupe-feu épaisses",
+      "un perçage qui éclate les faces en stratifié",
+      "des judas numériques livrés avec des piles à plat"
+    ],
+    "tips": [
+      "Nettoyez les lentilles uniquement avec un chiffon doux",
+      "Remplacez les piles lorsque l’afficheur faiblit",
+      "Apprenez aux enfants à ne pas appuyer sur les lentilles avec des objets"
+    ],
+    "title": "Installation de judas",
+    "whenNeeded": "Faites appel à ce service lorsque vous complétez les chaînes de sécurité par des judas grand angle dans les appartements."
+  },
+  "motion-sensor-installation": {
+    "angle": "la pose de détecteurs de mouvement intérieurs et extérieurs, placés pour limiter les déclenchements intempestifs",
+    "benefits": [
+      "Moins d’éclairage gaspillé dans les locaux de service",
+      "Moins de déclenchements intempestifs grâce à une sensibilité réglée",
+      "Des modèles à piles placés pour un accès sûr à l’échelle"
+    ],
+    "complianceNote": "Le travail se limite à la fixation physique et à la configuration de base de l’appareil. Nous ne contournons pas les systèmes de sécurité, nous ne faisons pas de double de clés sans autorisation, et nous ne réalisons pas de travaux d’alarme ou d’électricité spécialisés au-delà de nos qualifications.",
+    "includes": [
+      "le marquage de la hauteur et de l’angle pour la couverture",
+      "la fixation aux murs ou aux plafonds avec des chevilles adaptées",
+      "le réglage de la sensibilité et de la temporisation",
+      "l’appairage aux lumières ou aux alarmes, dans le périmètre de configuration de base"
+    ],
+    "outcome": "les détecteurs couvrent les zones convenues, sans déclenchements gênants venant des bouches de climatisation ou des rideaux",
+    "problems": [
+      "des détecteurs orientés vers des fenêtres ensoleillées, source de fausses alertes",
+      "un chevauchement dans les couloirs qui fait clignoter les lumières",
+      "des modèles à piles posés hors de portée pour l’entretien",
+      "des appareils extérieurs sans casquette qui lâchent trop tôt"
+    ],
+    "tips": [
+      "Gardez les détecteurs à l’écart des portes qui battent",
+      "Nettoyez les lentilles en douceur pour conserver la détection",
+      "Revoyez les temporisations au changement d’heure, selon la saison"
+    ],
+    "title": "Installation de détecteur de mouvement",
+    "whenNeeded": "Réservez la pose pour l’éclairage des couloirs, des réserves, ou des déclenchements simples d’éclairage de sécurité."
+  },
+  "security-camera-mounting": {
+    "angle": "la fixation des supports de caméra et le cheminement des câbles, sans configuration réseau au-delà de l’essentiel",
+    "benefits": [
+      "Une fixation sûre qui réduit le vol et le flou dû aux vibrations",
+      "Des angles pensés pour le soleil et l’éblouissement nocturne aux Émirats",
+      "Des câbles rangés, adaptés aux inspections de bailleur"
+    ],
+    "complianceNote": "Le travail se limite à la fixation physique et à la configuration de base de l’appareil. Nous ne contournons pas les systèmes de sécurité, nous ne faisons pas de double de clés sans autorisation, et nous ne réalisons pas de travaux d’alarme ou d’électricité spécialisés au-delà de nos qualifications.",
+    "includes": [
+      "la fixation des supports avec des chevilles résistantes à la corrosion en extérieur",
+      "le réglage d’inclinaison et d’orientation pour couvrir les accès",
+      "le cheminement des câbles en apparent ou de courts passages dissimulés",
+      "des contrôles de base de l’alimentation ou du PoE lorsque le précâblage existe"
+    ],
+    "outcome": "les caméras sont orientées vers les zones convenues, les fixations tiennent compte du climat, et les câbles sont rangés dans le périmètre",
+    "problems": [
+      "des caméras trop hautes pour l’accès d’entretien",
+      "une profondeur de fixation insuffisante sur des murs en blocs tendres",
+      "un éblouissement d’éclairages proches qui gâche les images de nuit",
+      "des câbles laissés exposés au débattement de la porte"
+    ],
+    "tips": [
+      "Confirmez les limites de vie privée avec les voisins et les règles de l’immeuble",
+      "Utilisez des fixations prévues pour l’extérieur près de l’air marin",
+      "Prévoyez le nettoyage des lentilles sur les caméras au niveau du sol"
+    ],
+    "title": "Pose de caméra de sécurité",
+    "whenNeeded": "Organisez la pose lorsque les caméras sont fournies et doivent être placées de façon sûre aux portes, aux allées ou dans les halls."
+  },
+  "smart-doorbell-installation": {
+    "angle": "la pose de sonnettes vidéo, avec une portée Wi‑Fi stable et des angles de vue dégagés",
+    "benefits": [
+      "Une meilleure visibilité des livraisons et des visiteurs",
+      "Une pose qui tient compte des angles du soleil aux Émirats lorsque c’est possible",
+      "Des notes claires lorsqu’un électricien est nécessaire pour un problème de transformateur"
+    ],
+    "complianceNote": "Le travail se limite à la fixation physique et à la configuration de base de l’appareil. Nous ne contournons pas les systèmes de sécurité, nous ne faisons pas de double de clés sans autorisation, et nous ne réalisons pas de travaux d’alarme ou d’électricité spécialisés au-delà de nos qualifications.",
+    "includes": [
+      "le marquage de la hauteur et de l’angle de pose",
+      "la fixation sur la maçonnerie ou le dormant, avec traversées étanchées",
+      "le raccordement au câblage de sonnette existant ou la mise en place sur piles, dans le périmètre",
+      "la présentation de l’application pour les zones de détection de mouvement"
+    ],
+    "outcome": "la sonnette est de niveau, le champ de vision couvre le paillasson, et les options d’alimentation sont expliquées",
+    "problems": [
+      "un Wi‑Fi faible à la porte, source de coupures",
+      "un éblouissement solaire qui délave la vidéo en journée",
+      "une tension de sonnette existante incompatible avec le nouvel appareil",
+      "des règles d’immeuble qui limitent les caméras extérieures"
+    ],
+    "tips": [
+      "Testez la vision nocturne une fois les éclairages extérieurs réglés",
+      "Ajustez les zones de mouvement pour éviter les couloirs passants",
+      "Confirmez les règles de copropriété avant de percer les portes des parties communes"
+    ],
+    "title": "Installation de sonnette connectée",
+    "whenNeeded": "Faites appel à ce service lorsque vous voulez des alertes de visiteurs aux portails de villa ou aux portes d’appartement, dans le respect des règles de l’immeuble."
+  },
+  "smart-lighting-installation": {
+    "angle": "la pose d’ampoules, de rubans et de luminaires connectés, avec des ambiances adaptées au quotidien",
+    "benefits": [
+      "Un éclairage d’accueil plus simple au retour de voyage",
+      "Des ambiances qui réduisent les réglages quotidiens d’interrupteurs",
+      "Une pose soignée des rubans sous les meubles ou dans les corniches"
+    ],
+    "complianceNote": "Le travail se limite à la fixation physique et à la configuration de base de l’appareil. Nous ne contournons pas les systèmes de sécurité, nous ne faisons pas de double de clés sans autorisation, et nous ne réalisons pas de travaux d’alarme ou d’électricité spécialisés au-delà de nos qualifications.",
+    "includes": [
+      "l’accès aux luminaires et la pose sûre des ampoules ou des modules",
+      "la fixation de la passerelle ou du pont près de l’alimentation et du signal",
+      "la création d’ambiances pour les pièces courantes",
+      "le repérage des circuits qui restent en commande manuelle uniquement"
+    ],
+    "outcome": "les lumières répondent aux commandes de l’application et des interrupteurs, les ambiances sont enregistrées, et les limites de charge sûres sont respectées",
+    "problems": [
+      "des circuits surchargés lorsque trop d’ampoules connectées sont ajoutées",
+      "un emplacement de passerelle qui bloque le maillage Wi‑Fi ou Zigbee",
+      "un scintillement lorsque les variateurs sont incompatibles avec les ampoules connectées",
+      "des rubans extérieurs exposés à l’humidité sans indice IP adapté"
+    ],
+    "tips": [
+      "Faites correspondre les types d’ampoules aux listes de compatibilité des variateurs",
+      "Inscrivez les mises à jour de micrologiciel dans un calendrier d’entretien",
+      "Utilisez des produits prévus pour l’extérieur sur les balcons"
+    ],
+    "title": "Installation d’éclairage connecté",
+    "whenNeeded": "Organisez la pose lorsque vous automatisez l’éclairage pour les arrivées, les soirées ou les modes d’accueil en location."
+  },
+  "smart-lock-installation": {
+    "angle": "la pose en rénovation de serrures connectées, avec pênes alignés et appairage de base de l’application",
+    "benefits": [
+      "Une entrée sans clé, adaptée aux foyers occupés et aux locations",
+      "Un alignement soigné qui réduit les blocages et la fatigue du moteur",
+      "Des consignes claires sur les clés de secours et les codes invités"
+    ],
+    "complianceNote": "Le travail se limite à la fixation physique et à la configuration de base de l’appareil. Nous ne contournons pas les systèmes de sécurité, nous ne faisons pas de double de clés sans autorisation, et nous ne réalisons pas de travaux d’alarme ou d’électricité spécialisés au-delà de nos qualifications.",
+    "includes": [
+      "la préparation de la porte et les contrôles d’alignement du pêne",
+      "la pose du corps de serrure selon le gabarit du fabricant",
+      "l’appairage de base de l’application et l’essai du déverrouillage manuel",
+      "la remise sur le type de piles et la procédure de réinitialisation"
+    ],
+    "outcome": "la serrure s’enclenche sans à-coup, les piles sont en place, et vous savez gérer les codes utilisateurs en toute sécurité",
+    "problems": [
+      "un mauvais alignement du pêne qui empêche la sortie du pêne dormant",
+      "d’anciens perçages incompatibles avec les plaques des serrures connectées",
+      "une incertitude sur l’évacuation incendie avec le verrouillage automatique",
+      "des applications qui n’arrivent pas à s’appairer sans les étapes de réinitialisation d’usine"
+    ],
+    "tips": [
+      "Gardez les clés de secours accessibles, mais séparées des sacs du quotidien",
+      "Remplacez les piles dès les alertes de tension faible",
+      "Communiquez les règles d’accès de l’immeuble pour le perçage ou les modifications de porte"
+    ],
+    "title": "Installation de serrure connectée",
+    "whenNeeded": "Réservez la pose lorsque vous voulez une entrée sans clé, ou qu’une serrure doit être remplacée après un changement de locataire."
+  },
+  "smart-switch-installation": {
+    "angle": "le remplacement d’interrupteurs et de variateurs connectés, dans un périmètre électrique adapté",
+    "benefits": [
+      "Une commande connectée homogène aux points muraux",
+      "Des plaques nettes dans les couloirs très passants",
+      "Une remise claire lorsqu’un électricien agréé doit poursuivre"
+    ],
+    "complianceNote": "Le travail se limite à la fixation physique et à la configuration de base de l’appareil. Nous ne contournons pas les systèmes de sécurité, nous ne faisons pas de double de clés sans autorisation, et nous ne réalisons pas de travaux d’alarme ou d’électricité spécialisés au-delà de nos qualifications. Les électriciens agréés prennent en charge les circuits neufs et les travaux de tableau.",
+    "includes": [
+      "la mise hors tension et le remplacement des interrupteurs lorsque le périmètre le permet",
+      "l’alignement des plaques et le contrôle du serrage des vis",
+      "l’appairage à l’application ou à la passerelle fournie",
+      "le repérage des circuits concernés pour l’entretien futur"
+    ],
+    "outcome": "les interrupteurs affleurent, les plaques s’alignent, et la commande manuelle fonctionne encore pendant les coupures",
+    "problems": [
+      "des boîtes d’encastrement profondes nécessaires, mais absentes",
+      "des fils de neutre manquants sur d’anciens circuits",
+      "des plaques métalliques qui perturbent les modèles tactiles",
+      "des montages à plusieurs postes qui embrouillent le câblage navette"
+    ],
+    "tips": [
+      "Ne mélangez pas des variateurs et des charges LED incompatibles",
+      "Photographiez le câblage avant les modifications",
+      "Testez la bascule manuelle après l’appairage de l’application"
+    ],
+    "title": "Installation d’interrupteur connecté",
+    "whenNeeded": "Faites appel à ce service lorsque vous voulez piloter l’éclairage depuis une application, sans changer chaque ampoule."
+  },
+  "smart-thermostat-installation": {
+    "angle": "la pose et la configuration de base d’un thermostat connecté sur les commandes de climatisation existantes",
+    "benefits": [
+      "Un confort et des cycles de marche plus prévisibles",
+      "Des plaques murales plus nettes dans les pièces de vie",
+      "Une documentation pour les bailleurs sur les poses réversibles"
+    ],
+    "complianceNote": "Le travail se limite à la fixation physique et à la configuration de base de l’appareil. Nous ne contournons pas les systèmes de sécurité, nous ne faisons pas de double de clés sans autorisation, et nous ne réalisons pas de travaux d’alarme ou d’électricité spécialisés au-delà de nos qualifications.",
+    "includes": [
+      "la mise hors tension sûre des fils de commande en basse tension lorsqu’ils sont accessibles",
+      "la pose de la platine et le raccordement des fils selon le schéma",
+      "la configuration de base des programmations et des modes",
+      "l’identification des points qui exigent un suivi par un spécialiste CVC"
+    ],
+    "outcome": "le thermostat s’affiche correctement, les programmations sont en place, et les limites d’intégration CVC sont documentées",
+    "problems": [
+      "des repères de l’ancien câblage absents derrière les vieux thermostats",
+      "des installations à plusieurs zones qui exigent des thermostats séparés",
+      "Wi‑Fi qui coupe dans les locaux techniques ou les couloirs",
+      "une compatibilité incertaine avec un équipement appartenant au bailleur"
+    ],
+    "tips": [
+      "Photographiez les repères des fils avant de débrancher les anciens thermostats",
+      "Conservez les listes de compatibilité du fabricant",
+      "Évitez de forcer des connexions sur des cartes de commande inconnues"
+    ],
+    "title": "Installation de thermostat connecté",
+    "whenNeeded": "Réservez la pose lorsque vous modernisez les commandes pour une meilleure programmation dans les villas équipées de splits."
+  },
+  "window-security-lock-installation": {
+    "angle": "la pose de verrous secondaires et de limiteurs de fenêtre, pour la sécurité des enfants et l’aération",
+    "benefits": [
+      "Plus de tranquillité pour les maisons familiales",
+      "Des positions d’aération sans ouvrir complètement les fenêtres",
+      "Adapté aux profils aluminium courants aux Émirats"
+    ],
+    "complianceNote": "Le travail se limite à la fixation physique et à la configuration de base de l’appareil. Nous ne contournons pas les systèmes de sécurité, nous ne faisons pas de double de clés sans autorisation, et nous ne réalisons pas de travaux d’alarme ou d’électricité spécialisés au-delà de nos qualifications.",
+    "includes": [
+      "le positionnement du verrou ou du limiteur sur les ouvrants coulissants ou battants",
+      "des avant-trous aux bords sans bavure",
+      "des options à clé ou à bouton, posées telles que fournies",
+      "une démonstration d’usage pour le nettoyage et l’évacuation d’urgence"
+    ],
+    "outcome": "les fenêtres se verrouillent solidement, tout en gardant les jeux d’aération convenus",
+    "problems": [
+      "des loquets d’origine qui lâchent sur les profils coulissants en aluminium",
+      "des limiteurs absents sur les fenêtres de chambre",
+      "des clés perdues pour les verrous de fenêtre existants",
+      "des dormants qui fléchissent, si bien que les verrous n’accrochent plus"
+    ],
+    "tips": [
+      "Gardez les clés étiquetées, mais hors de portée des enfants",
+      "Lubrifiez légèrement les rails après un temps sableux",
+      "Ne neutralisez pas les limiteurs de façon durable"
+    ],
+    "title": "Installation de verrou de fenêtre",
+    "whenNeeded": "Organisez la pose lorsque les fenêtres du rez-de-chaussée ont besoin d’un verrouillage supplémentaire ou de limiteurs pour enfants."
+  }
+}

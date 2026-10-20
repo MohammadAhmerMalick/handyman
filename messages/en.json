@@ -1,0 +1,519 @@
+{
+  "About": {
+    "booking": "Call For Booking",
+    "eyebrow": "Reliable installation",
+    "heading": "Home and business installation services",
+    "imageAlt": "Wall-mounted air conditioner and open toolbox in a Dubai apartment",
+    "items": {
+      "allInOne": {
+        "body": "One team can cover related trades on the same visit, so you are not coordinating several contractors for a single room.",
+        "title": "All-In-One Service"
+      },
+      "consultation": {
+        "body": "We talk through the job, access, and working hours before tools come out, so the visit matches how you actually use the space.",
+        "title": "Earliest Consultation"
+      },
+      "customized": {
+        "body": "Recommendations follow the property, the materials already installed, and what can sensibly be finished in one appointment.",
+        "title": "Customized Solution"
+      },
+      "pricing": {
+        "body": "There are no catalogue prices. You receive a quote for the work in front of us, with extras discussed before they start.",
+        "title": "Clear Quotes"
+      }
+    },
+    "readMore": "Read More"
+  },
+  "AppPromo": {
+    "calendarAlt": "App screenshot showing calendar interface",
+    "completeTasks": "Complete your tasks",
+    "dailyReminder": "Daily Reminder",
+    "download": "Download App",
+    "featureOffline": "Seamless cross-device syncing and offline support",
+    "featureOrg": "Advanced organizational tools with zero complexity",
+    "featureUi": "Intuitive interface with minimal learning curve",
+    "heading": "Your life, organized and simplified",
+    "paragraph": "Our app helps you organize tasks, manage projects, and achieve your goals with a beautifully designed, distraction-free interface.",
+    "rating": "4.8/5 from 2,945 reviews",
+    "seeFeatures": "See Features",
+    "tasksAlt": "App screenshot showing task management interface",
+    "weeklyProgress": "Weekly Progress",
+    "whyLove": "Why users love our app"
+  },
+  "Catalog": {
+    "count": "{count, plural, one {1 service} other {{count} services}}",
+    "navLabel": "Service categories"
+  },
+  "Categories": {
+    "empty": "No categories match your search. Try another term.",
+    "heading": "Browse by category",
+    "imageAlt": "{title} category image",
+    "paragraph": "Explore our maintenance and trade categories, then open the full service list for that area of work.",
+    "searchLabel": "Search categories",
+    "searchPlaceholder": "Search categories...",
+    "serviceCount": "{count, plural, one {{title} service} other {{count} {title} services}}",
+    "viewAria": "View {title} services",
+    "viewServices": "View services"
+  },
+  "Common": {
+    "call": "Call",
+    "handyman": "Handyman",
+    "scrollToTop": "Scroll to top",
+    "servingUae": "Serving the UAE",
+    "whatsapp": "WhatsApp"
+  },
+  "Contact": {
+    "addressDescription": "Based in {address}. Service area: {serviceArea}.",
+    "addressTitle": "Address",
+    "callDescription": "Call during opening hours.",
+    "callTitle": "Call",
+    "emailDescription": "Send us an email.",
+    "emailTitle": "Email",
+    "formDetails": "Details",
+    "formEmail": "Email",
+    "formHelp": "How can we help?",
+    "formName": "Name",
+    "formNote": "This form does not send yet. Call or WhatsApp for a reply.",
+    "formPhone": "Phone",
+    "formPlaceholderDetails": "Tell us a bit more",
+    "formPlaceholderEmail": "you@example.com",
+    "formPlaceholderName": "Name",
+    "formPlaceholderPhone": "+971 …",
+    "formSubmit": "Send inquiry",
+    "formTitle": "Send a message",
+    "helpAssembly": "Assembly",
+    "helpCleaning": "Cleaning",
+    "helpCommercial": "Commercial",
+    "helpElectrical": "Electrical",
+    "helpIndividual": "Individual",
+    "helpResidential": "Residential",
+    "hoursDescription": "Opening hours only.",
+    "hoursTitle": "Hours",
+    "mapTitle": "Dubai Marina on Google Maps",
+    "whatsappDescription": "Message us on WhatsApp.",
+    "whatsappTitle": "WhatsApp"
+  },
+  "Faq": {
+    "call": "Call",
+    "empty": "No questions match that search. Try renovation, AC, plumbing, or hours.",
+    "eyebrow": "Help And Resources",
+    "heading": "Frequently Asked Questions",
+    "imageAlt": "Frequently asked questions",
+    "items": {
+      "ac": {
+        "answer": "Yes. We install, service, and repair residential and commercial air conditioning.",
+        "question": "Do you service and repair air conditioning?"
+      },
+      "base": {
+        "answer": "{address}. We travel for jobs across the {serviceArea}.",
+        "question": "Where are you based?"
+      },
+      "coverage": {
+        "answer": "We work across the {serviceArea} and are based in {address}.",
+        "question": "Which areas do you cover?"
+      },
+      "email": {
+        "answer": "Email {email}, or call and WhatsApp during opening hours.",
+        "question": "How do I reach you by email?"
+      },
+      "emergency": {
+        "answer": "No. Visits and calls follow the published hours only.",
+        "question": "Do you offer a 24-hour or emergency call-out?"
+      },
+      "hours": {
+        "answer": "Saturday to Thursday, {saturdayThursday}. Friday, {friday}.",
+        "question": "What are your working hours?"
+      },
+      "kitchens": {
+        "answer": "Yes. Kitchen and bathroom renovation is part of the catalog, along with tiling, waterproofing, and related finishes.",
+        "question": "Do you work on kitchens and bathrooms?"
+      },
+      "otherTrades": {
+        "answer": "Electrical, tiling, gypsum and false ceilings, waterproofing, flooring, aluminum and glass, welding and fabrication, furniture assembly, appliance installation, CCTV and smart locks, plastering, wallpaper, and outdoor villa maintenance.",
+        "question": "What other trades can you arrange?"
+      },
+      "painting": {
+        "answer": "Yes. Brickwork, plaster touch-ups, and interior and exterior painting.",
+        "question": "Do you do painting and masonry?"
+      },
+      "plumbing": {
+        "answer": "Yes. That covers pipes, fixtures, leaks, cabinetry, doors, and general woodwork.",
+        "question": "Can you handle plumbing and carpentry?"
+      },
+      "quote": {
+        "answer": "Call or WhatsApp {phone} and describe the job. We do not list prices on the site; every job is quoted.",
+        "question": "How do I ask for a quote?"
+      },
+      "renovate": {
+        "answer": "Yes. We take full renovations for homes and commercial spaces across the UAE.",
+        "question": "Do you renovate villas, flats, offices, and shops?"
+      },
+      "whatsapp": {
+        "answer": "Yes. WhatsApp uses the same number: {phone}.",
+        "question": "Can I message you on WhatsApp?"
+      },
+      "workTypes": {
+        "answer": "Villa, flat, office, and shop renovation, air conditioning, plumbing and carpentry, masonry and painting, and general handyman maintenance. The services page lists the wider catalog, including electrical, tiling, gypsum, waterproofing, kitchens and bathrooms, and flooring.",
+        "question": "What kind of work do you take on?"
+      }
+    },
+    "searchLabel": "Search frequently asked questions",
+    "searchPlaceholder": "Search questions",
+    "sidebarHeading": "Still have questions?",
+    "sidebarParagraph": "Contact us for any questions or inquiries.",
+    "viewAll": "View all questions",
+    "whatsapp": "WhatsApp"
+  },
+  "Footer": {
+    "blurb": "Renovation, air conditioning, plumbing, and maintenance across the {serviceArea}. Based in {address}.",
+    "copyright": "© {year} Handyman. All rights reserved.",
+    "ourServices": "Our Services",
+    "quickContact": "Quick Contact",
+    "quickLinks": "Quick Links"
+  },
+  "Hero": {
+    "badge": "Serving the UAE",
+    "call": "Call {phone}",
+    "heading": "Honest renovation and maintenance you can trust.",
+    "highlightAc": "Air conditioning services",
+    "highlightMaintenance": "Masonry, painting & maintenance",
+    "highlightPlumbing": "Plumbing & carpentry",
+    "highlightRenovation": "Villa, flat, office & shop renovation",
+    "intro": "From villas and flats to offices and shops, Handyman handles renovation, air conditioning, plumbing, carpentry, masonry, painting, and general maintenance — based in {address}.",
+    "trusted": "Trusted by homeowners and businesses across the UAE"
+  },
+  "Highlights": {
+    "heading": "Our services",
+    "imageAlt": "{title} service image",
+    "paragraph": "Core trades for homes and businesses across the UAE. See the full list on our services page.",
+    "viewAll": "View all services",
+    "viewService": "View service"
+  },
+  "Hours": {
+    "fridayLabel": "Friday",
+    "fridayValue": "9:00am–11:00am and 4:00pm–9:00pm",
+    "saturdayThursdayLabel": "Saturday–Thursday",
+    "saturdayThursdayValue": "8:00am–9:00pm"
+  },
+  "Legal": {
+    "contactHeading": "Contact us",
+    "privacyContact": "Questions about this Privacy Policy can be sent to {email}, called on {phone}, or addressed to Handyman at {address}.",
+    "termsContact": "Questions about these Terms of Use can be sent to {email}, called on {phone}, or addressed to Handyman at {address}."
+  },
+  "LocaleSwitcher": {
+    "ar": "العربية",
+    "en": "English",
+    "fr": "Français",
+    "hi": "हिन्दी",
+    "label": "Language",
+    "ur": "اردو",
+    "zh": "中文"
+  },
+  "Logo": {
+    "label": "Handyman logo"
+  },
+  "Metadata": {
+    "category": "Home services",
+    "description": "Renovation, maintenance, and trade services across the UAE.",
+    "keywords": "Handyman, handyman UAE, handyman Dubai, renovation, air conditioning, plumbing, carpentry, masonry, painting, property maintenance, Marina Dubai",
+    "titleDefault": "Handyman",
+    "titleTemplate": "%s | Handyman"
+  },
+  "Nav": {
+    "about": "About",
+    "closeMenu": "Close menu",
+    "contact": "Contact",
+    "getQuote": "Get Quote",
+    "home": "Home",
+    "menu": "Navigation menu",
+    "openMenu": "Open menu",
+    "services": "Services"
+  },
+  "Pages": {
+    "about": {
+      "description": "Dummy about copy for layout. Replace with the real Handyman story later.",
+      "title": "About"
+    },
+    "contact": {
+      "description": "Call or WhatsApp for the fastest reply. Based in {address}.",
+      "title": "Contact"
+    },
+    "faq": {
+      "description": "Answers about coverage, trades, hours, and how to ask for a quote.",
+      "title": "FAQs"
+    },
+    "home": {
+      "description": "Renovation, maintenance, and trade services across the {serviceArea}.",
+      "title": "Home"
+    },
+    "privacy": {
+      "description": "Dummy policy for layout only. Replace when the legal company name and trade license are known.",
+      "title": "Privacy Policy"
+    },
+    "services": {
+      "description": "Renovation and maintenance trades across the {serviceArea}. No fixed prices — ask for a quote by call or WhatsApp.",
+      "title": "Services"
+    },
+    "terms": {
+      "description": "Dummy terms for layout only. Replace when the legal company name and trade license are known.",
+      "title": "Terms of Use"
+    }
+  },
+  "PageTitle": {
+    "backgroundAlt": "Page title background"
+  },
+  "Privacy": {
+    "sections": [
+      {
+        "body": "This dummy Privacy Policy describes how Handyman may collect, use, and share information when you visit handyman.ae or contact us about services in the UAE. Replace this text when the legal company name and trade license are known.",
+        "heading": "Introduction"
+      },
+      {
+        "body": "We may collect details you provide (such as name, phone, email, and message content), usage data about how you browse the site, and technical information such as device type and approximate location. Dummy placeholder only.",
+        "heading": "Information we collect"
+      },
+      {
+        "body": "We may use information to respond to enquiries, arrange quotes or visits, improve the website, and communicate about our renovation and maintenance services. Dummy placeholder only.",
+        "heading": "How we use your information"
+      },
+      {
+        "body": "The site may use cookies or similar tools for basic functionality and analytics once analytics are added. Dummy placeholder only.",
+        "heading": "Cookies and similar technologies"
+      },
+      {
+        "body": "We do not sell personal information. We may share details with service providers who help us operate the site or deliver services, or when required by UAE law. Dummy placeholder only.",
+        "heading": "Sharing of information"
+      },
+      {
+        "body": "We keep information only as long as needed for the purposes above or as required by applicable law. Dummy placeholder only.",
+        "heading": "Data retention"
+      },
+      {
+        "body": "Depending on applicable law, you may ask to access, correct, or delete personal information we hold about you. Contact us using the details below. Dummy placeholder only.",
+        "heading": "Your rights"
+      },
+      {
+        "body": "We take reasonable steps to protect information, but no method of transmission or storage is fully secure. Dummy placeholder only.",
+        "heading": "Data security"
+      },
+      {
+        "body": "This website is not directed at children, and we do not knowingly collect personal information from minors. Dummy placeholder only.",
+        "heading": "Children’s privacy"
+      },
+      {
+        "body": "We may update this page from time to time. Continued use of the site after changes means you accept the updated policy. Dummy placeholder only.",
+        "heading": "Changes to this policy"
+      }
+    ]
+  },
+  "Service": {
+    "altFinished": "{title} — finished {category} result",
+    "altHero": "{title} — {category} services in the UAE",
+    "altOnSite": "{title} — on-site {category} work",
+    "altSidebar": "{title} — Handyman {category} services",
+    "benefits": "Benefits",
+    "call": "Call ",
+    "commonProblems": "Common problems we help with",
+    "faqs": "Frequently asked questions",
+    "getInTouch": "Get in touch",
+    "includes": "What this service includes",
+    "navLabel": "Related services",
+    "process": "How we carry out the work",
+    "related": "Related services",
+    "tips": "Maintenance tips",
+    "whatsapp": "WhatsApp ",
+    "whyChoose": "Why choose Handyman",
+    "workingHours": "Working hours"
+  },
+  "ServiceCategories": {
+    "air-conditioning": {
+      "description": "AC installation support, servicing, drainage checks, and airflow troubleshooting.",
+      "title": "Air Conditioning & Ventilation"
+    },
+    "bathroom": {
+      "description": "Fixture installs, resealing, accessories, and minor bathroom refreshes.",
+      "title": "Bathroom Services"
+    },
+    "carpentry": {
+      "description": "Doors, cabinets, shelving, timber repairs, and custom woodwork.",
+      "title": "Carpentry & Joinery"
+    },
+    "cleaning": {
+      "description": "Post-maintenance cleaning, deep cleans, and surface upkeep support.",
+      "title": "Cleaning & Maintenance Support"
+    },
+    "commercial": {
+      "description": "Office, retail, and landlord maintenance for workplaces across the UAE.",
+      "title": "Commercial Property Maintenance"
+    },
+    "doors-windows": {
+      "description": "Door and window repairs, seals, screens, and glazing maintenance.",
+      "title": "Doors, Windows & Glazing"
+    },
+    "electrical": {
+      "description": "Lighting, switches, sockets, and fixture work carried out where appropriately licensed.",
+      "title": "Electrical"
+    },
+    "flooring": {
+      "description": "Laminate, vinyl, wood flooring installs, and floor surface repairs.",
+      "title": "Flooring"
+    },
+    "furniture-installation": {
+      "description": "Furniture assembly, wall mounting, blinds, and TV bracket installs.",
+      "title": "Furniture & Interior Installation"
+    },
+    "general-handyman": {
+      "description": "Everyday repairs, fittings, and preventive maintenance for homes and workplaces.",
+      "title": "General Handyman"
+    },
+    "kitchen": {
+      "description": "Cabinet, worktop, sink, and extractor maintenance for busy kitchens.",
+      "title": "Kitchen Services"
+    },
+    "masonry-tiling": {
+      "description": "Brickwork touch-ups, plaster repairs, tiling, and grout maintenance.",
+      "title": "Masonry & Tiling"
+    },
+    "outdoor": {
+      "description": "Fence, gate, decking, patio, and outdoor fixture maintenance.",
+      "title": "Outdoor & Garden"
+    },
+    "painting": {
+      "description": "Interior and exterior painting, wallpaper, and surface preparation.",
+      "title": "Painting & Decorating"
+    },
+    "plumbing": {
+      "description": "Leaks, fixtures, drains, and water-supply repairs for kitchens and bathrooms.",
+      "title": "Plumbing"
+    },
+    "renovation": {
+      "description": "Villa, flat, office, and shop renovation projects across the UAE.",
+      "title": "Renovation"
+    },
+    "rental-move": {
+      "description": "Move-in and move-out repairs, snagging, and rental property upkeep.",
+      "title": "Rental & Move-In Services"
+    },
+    "smart-home": {
+      "description": "Smart locks, doorbells, sensors, and camera mounting within suitable scope.",
+      "title": "Smart Home & Security"
+    },
+    "specialist-seasonal": {
+      "description": "Accessibility fittings, safety anchoring, and seasonal maintenance plans.",
+      "title": "Specialist & Seasonal"
+    },
+    "uae-property": {
+      "description": "Dubai and Sharjah-focused apartment, villa, and holiday-home maintenance.",
+      "title": "UAE Property Maintenance"
+    },
+    "walls-ceilings": {
+      "description": "Drywall, false ceilings, partitions, and wall fixing work.",
+      "title": "Walls, Ceilings & Partitions"
+    },
+    "waterproofing": {
+      "description": "Leak sealing, wet-area waterproofing repairs, and gutter maintenance.",
+      "title": "Roofing, Waterproofing & Sealing"
+    }
+  },
+  "Store": {
+    "appStore": "Download on the App Store",
+    "googlePlay": "Get it on Google Play"
+  },
+  "Terms": {
+    "sections": [
+      {
+        "body": "By accessing handyman.ae or requesting Handyman services in the UAE, you agree to these Terms of Use. This is dummy copy for layout only. Replace when the legal company name and trade license are known.",
+        "heading": "Agreement to these terms"
+      },
+      {
+        "body": "Handyman provides renovation, maintenance, and trade services across the UAE. Information on this website is for general marketing and enquiry purposes. Dummy placeholder only.",
+        "heading": "About Handyman"
+      },
+      {
+        "body": "You may use the site for lawful purposes only. You must not misuse the site, attempt unauthorized access, or submit false or harmful content through forms or other channels. Dummy placeholder only.",
+        "heading": "Use of the website"
+      },
+      {
+        "body": "Service descriptions on the site are summaries only. Prices are not listed; work is quoted on request. A quote or enquiry does not create a binding contract until confirmed in writing or as otherwise agreed. Dummy placeholder only.",
+        "heading": "Services and quotes"
+      },
+      {
+        "body": "Scheduling, deposits, and cancellation rules for specific jobs will be confirmed when you book. Dummy placeholder only.",
+        "heading": "Bookings and cancellations"
+      },
+      {
+        "body": "You are responsible for providing accurate contact and site-access details and for ensuring you have authority to request work at the property. Dummy placeholder only.",
+        "heading": "User responsibilities"
+      },
+      {
+        "body": "Content on this website (text, branding, layout, and media) belongs to Handyman or its licensors and may not be copied or reused without permission. Dummy placeholder only.",
+        "heading": "Intellectual property"
+      },
+      {
+        "body": "The site may link to third-party sites (for example maps or messaging apps). We are not responsible for their content or practices. Dummy placeholder only.",
+        "heading": "Third-party links"
+      },
+      {
+        "body": "The website is provided on an “as is” basis. We do not warrant that the site will be uninterrupted or error-free. Service warranties, if any, are set out separately for specific jobs. Dummy placeholder only.",
+        "heading": "Disclaimer of warranties"
+      },
+      {
+        "body": "To the fullest extent permitted by UAE law, Handyman is not liable for indirect or consequential loss arising from use of this website. Liability for contracted services is governed by the agreement for that work. Dummy placeholder only.",
+        "heading": "Limitation of liability"
+      },
+      {
+        "body": "You agree to indemnify Handyman against claims arising from your misuse of the site or breach of these terms. Dummy placeholder only.",
+        "heading": "Indemnity"
+      },
+      {
+        "body": "These terms are governed by the laws of the United Arab Emirates, and disputes may be subject to the courts of Dubai, unless otherwise required by law. Dummy placeholder only.",
+        "heading": "Governing law"
+      },
+      {
+        "body": "We may update these Terms of Use at any time by posting a revised version on this page. Continued use of the site after changes means you accept the updated terms. Dummy placeholder only.",
+        "heading": "Changes to these terms"
+      }
+    ]
+  },
+  "Testimonials": {
+    "eyebrow": "Testimonials",
+    "heading": "What our customers say",
+    "items": {
+      "aisha-khan": {
+        "quote": "Failed bathroom sealant and sagging kitchen doors were sorted without a full strip-out. They resealed the wet areas, refitted the cabinets, and both rooms are usable again.",
+        "role": "Apartment Owner, Al Barsha"
+      },
+      "daniel-okonkwo": {
+        "quote": "Worn switches and a shop light were replaced during our quieter hours. Each point was tested before they packed up, and the floor is evenly lit again.",
+        "role": "Shop Owner, Deira"
+      },
+      "fatima-al-mazrouei": {
+        "quote": "We sent a short office list: loose fittings, a latch that stuck, and a few wall fixings. Everything was finished the same day, and the rooms were left tidy.",
+        "role": "Facilities Coordinator, Sharjah"
+      },
+      "james-whitfield": {
+        "quote": "Cracked plaster and a tired paint finish were handled together. They prepared the walls properly, and the new colour is even from one room to the next.",
+        "role": "Villa Owner, Arabian Ranches"
+      },
+      "layla-hassan": {
+        "quote": "Working with Handyman transformed our Marina flat. They explained each stage, protected the rooms they were not in, and the finished spaces look better than we expected.",
+        "role": "Homeowner, Dubai Marina"
+      },
+      "michael-santos": {
+        "quote": "Flat-packed desks and shelving for our meeting room were assembled, and the tall units were anchored to the wall. The space was ready before staff arrived the next morning.",
+        "role": "Office Admin, Business Bay"
+      },
+      "omar-al-farsi": {
+        "quote": "I was surprised by how quickly they understood our AC problems. They serviced the units, cleared the drains, and the apartments were cooling again within the agreed visit.",
+        "role": "Property Manager, Jumeirah"
+      },
+      "priya-nair": {
+        "quote": "A dripping kitchen tap and a wardrobe door that would not shut were both sorted in one visit. The door closes flush now, and the tap has stayed dry.",
+        "role": "Resident, Abu Dhabi"
+      }
+    },
+    "label": "Customer reviews",
+    "paragraph": "Homeowners and workplaces across the UAE, after renovation, air conditioning, plumbing, and day-to-day maintenance.",
+    "service": "Service: "
+  }
+}

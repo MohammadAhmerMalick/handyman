@@ -1,0 +1,116 @@
+{
+  "appliance-installation": {
+    "angle": "le positionnement sûr, le raccordement et la mise en service de base des appareils domestiques et petits équipements professionnels",
+    "benefits": [
+      "Limite les risques de fuites ou de dégâts liés à une installation amateur",
+      "Fait gagner du temps le jour de la livraison, avec accès et outils prêts",
+      "Des conseils clairs sur ce qui relève d’un spécialiste agréé lorsque les limites sont atteintes"
+    ],
+    "complianceNote": "Les travaux sur les appareils à gaz, la création de circuits électriques dédiés et les réparations frigorifiques complexes sont confiés à des spécialistes dûment agréés.",
+    "includes": [
+      "déballage, positionnement et mise à niveau dans les tolérances du fabricant",
+      "raccordements simples d’eau, d’évacuation ou de ventilation lorsqu’ils relèvent du périmètre d’un homme à tout faire",
+      "fixation des appareils encastrés ou superposés avec des fixations adaptées",
+      "test de fonctionnement et évacuation soignée des emballages de la zone de travail"
+    ],
+    "outcome": "les appareils sont de niveau, bien fixés et prêts à l’emploi, avec des raccordements vérifiés et des conseils d’utilisation simples",
+    "problems": [
+      "des cuisinières, hottes ou appareils de buanderie livrés sans fixations ni accès adaptés",
+      "des oscillations ou vibrations dues à un sol irrégulier ou à des supports manquants",
+      "un doute sur la conformité des arrivées d’eau, des évacuations ou des prises électriques aux recommandations du fabricant",
+      "d’anciens appareils retirés alors que les nouveaux ne s’alignent pas sur les découpes existantes"
+    ],
+    "tips": [
+      "Gardez sur place la notice d’installation et les éventuels gabarits",
+      "Confirmez à l’avance l’accès à l’ascenseur et le stationnement pour les livraisons volumineuses",
+      "Vérifiez rapidement l’absence de fuite ou la bonne circulation de l’air pendant la première semaine d’utilisation"
+    ],
+    "title": "Installation d’électroménager",
+    "whenNeeded": "Prévoyez une intervention à l’arrivée d’un nouvel appareil, lors du remplacement d’un ancien modèle ou lorsque les fixations existantes ne correspondent plus à la notice du fabricant."
+  },
+  "plumbing-and-carpentry": {
+    "angle": "des réparations combinées de tuyauterie, d’équipements sanitaires et de boiserie, typiques des cuisines, salles de bains et pièces de vie très sollicitées aux Émirats",
+    "benefits": [
+      "Associe les réparations des pièces d’eau à la menuiserie qu’elles abîment souvent",
+      "Moins de visites répétées pour des symptômes liés dans la même pièce",
+      "Des conseils pratiques sur l’humidité et la ventilation pour préserver le bois"
+    ],
+    "includes": [
+      "isolement et réparation des fuites accessibles et des raccords d’équipements",
+      "réglage, rabotage et remplacement des charnières des portes et volets",
+      "alignement des meubles, fixation des taquets d’étagère et réglage des amortisseurs lorsque les pièces le permettent",
+      "retouches de silicone et contrôle des joints aux jonctions des pièces d’eau dans le périmètre prévu"
+    ],
+    "outcome": "les défauts liés à l’eau sont maîtrisés, les éléments en bois fonctionnent en douceur et vous savez quels points nécessitent une visite de suivi par un spécialiste",
+    "problems": [
+      "des mitigeurs qui gouttent ou des siphons desserrés qui tachent les meubles et les sols",
+      "des portes de placard gonflées ou désalignées après les variations d’humidité",
+      "des portes intérieures qui grincent ou qui frottent dans les villas et appartements",
+      "de légères vibrations de canalisations ou des colliers desserrés derrière les meubles vasques"
+    ],
+    "tips": [
+      "Coupez l’eau au robinet d’arrêt local avant le rendez-vous si vous pouvez le faire en toute sécurité",
+      "Dégagez l’espace sous l’évier pour l’accès au siphon et aux vannes",
+      "Signalez rapidement les fuites récurrentes pour limiter le gonflement des meubles"
+    ],
+    "title": "Plomberie et menuiserie",
+    "whenNeeded": "Appelez-nous lorsque des fuites, des portes dures à manœuvrer ou des meubles usés apparaissent en même temps et que vous souhaitez stabiliser l’espace en une seule visite."
+  },
+  "villa-flat-office-and-shop-renovation": {
+    "angle": "une rénovation coordonnée des espaces résidentiels et commerciaux, des ajustements d’agencement jusqu’aux finitions",
+    "benefits": [
+      "Un seul cahier des charges couvre plusieurs pièces, sans courir après différents prestataires",
+      "Les travaux sont phasés selon le rythme des locataires, du personnel ou de la famille lorsque c’est possible",
+      "Les finitions et les fixations sont discutées avant la commande des matériaux"
+    ],
+    "includes": [
+      "visite du site et planification du périmètre avec un phasage réaliste",
+      "coordination de la menuiserie, de la plomberie, de la peinture et des métiers associés dans les limites convenues",
+      "protection des zones occupées et nettoyage soigné en fin de journée lorsque c’est possible",
+      "contrôle des réserves (snagging) et liste pratique des points reportés à une phase ultérieure"
+    ],
+    "outcome": "les pièces retrouvent un niveau homogène et fonctionnel, avec les finitions convenues et des notes de remise claires pour l’entretien courant",
+    "problems": [
+      "des agencements datés qui ne correspondent plus à l’usage de l’espace",
+      "des réparations ponctuelles qui laissent des finitions disparates d’une pièce à l’autre",
+      "des dégâts d’eau ou d’usure qui touchent à la fois les murs, les sols et la menuiserie",
+      "des aménagements de commerce ou de bureau à moderniser sans fermeture prolongée"
+    ],
+    "tips": [
+      "Transmettez tôt les plans, les anciennes listes de réserves et les règles d’accès de l’immeuble",
+      "Décidez quelles pièces doivent rester utilisables pendant les travaux",
+      "Photographiez les dégâts existants avant toute démolition ou dépose"
+    ],
+    "title": "Rénovation de villas, appartements, bureaux et commerces",
+    "whenNeeded": "Faites appel à nous lorsqu’un bien a besoin d’un rafraîchissement planifié, d’un changement d’usage ou de réparations qui concernent plusieurs corps de métier et plusieurs pièces."
+  },
+  "welding-and-fabrication": {
+    "angle": "la fabrication métallique légère et la soudure sur site pour portails, cadres, supports et ouvrages en acier sur mesure",
+    "benefits": [
+      "Des solutions métalliques sur mesure plutôt que des dimensions standard imposées",
+      "Les réparations peuvent prolonger la durée de vie des portails et structures existants",
+      "Les travaux sont planifiés en fonction des heures de calme de la résidence lorsque c’est exigé"
+    ],
+    "complianceNote": "Les modifications de charpente métallique, les escaliers de secours certifiés et la soudure d’appareils sous pression nécessitent la validation d’un ingénieur spécialisé et sortent de ce périmètre.",
+    "includes": [
+      "prise de mesures et traçage des découpes, soudures ou nouveaux supports",
+      "soudure et meulage sur site dans les limites pratiques d’accès",
+      "alignement des portails, cadres et éléments coulissants",
+      "préparation de surface simple et retouches de peinture lorsque c’est convenu"
+    ],
+    "outcome": "les ouvrages métalliques sont alignés, soudés là où c’est convenu et finis pour un usage quotidien en toute sécurité, avec des conseils d’entretien adaptés au climat côtier",
+    "problems": [
+      "des gonds et cadres de portail rouillés ou tordus après les saisons humides",
+      "des supports manquants pour les auvents, enseignes ou équipements extérieurs",
+      "des sections de garde-corps ou de grilles qui ne répondent plus aux attentes de sécurité",
+      "des dimensions sur mesure nécessaires lorsque les pièces métalliques standard ne conviennent pas"
+    ],
+    "tips": [
+      "Signalez les finitions thermolaquées qui nécessitent des retouches de couleur assortie",
+      "Tenez les animaux et les passants à l’écart des zones d’étincelles pendant la soudure",
+      "Rincez régulièrement les dépôts de sel sur les ouvrages métalliques en bord de mer"
+    ],
+    "title": "Soudure et fabrication métallique",
+    "whenNeeded": "Faites appel à ce service lorsque des portails, garde-corps ou cadres en acier doivent être réparés, prolongés ou remplacés par une solution fabriquée adaptée au climat des Émirats."
+  }
+}

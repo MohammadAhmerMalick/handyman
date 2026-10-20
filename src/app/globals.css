@@ -47,7 +47,10 @@
   --color-heading: var(--heading);
   --font-sans: var(--font-sans);
   --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-  --font-heading: var(--font-sans);
+  --font-heading: var(--font-heading);
+  --font-arabic: var(--font-arabic);
+  --font-devanagari: var(--font-devanagari);
+  --font-chinese: var(--font-chinese);
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
@@ -144,6 +147,22 @@ body {
     @apply font-sans;
     scrollbar-color: var(--primary) var(--muted);
     scrollbar-width: thin;
+  }
+
+  html[lang="ar"],
+  html[lang="ur"] {
+    --font-sans: var(--font-arabic);
+    --font-heading: var(--font-arabic);
+  }
+
+  html[lang="hi"] {
+    --font-sans: var(--font-devanagari);
+    --font-heading: var(--font-devanagari);
+  }
+
+  html[lang="zh"] {
+    --font-sans: var(--font-chinese);
+    --font-heading: var(--font-chinese);
   }
 
   *::-webkit-scrollbar {

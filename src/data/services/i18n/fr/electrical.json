@@ -1,0 +1,610 @@
+{
+  "bathroom-extractor-fan-installation": {
+    "angle": "des ventilateurs de maîtrise de l’humidité, posés avec des zones adaptées et des options de temporisation",
+    "benefits": [
+      "Air plus sain pour les familles avec de jeunes enfants",
+      "Protège la menuiserie de vasque contre le gonflement des chants",
+      "Soutient les plans de traitement de moisissure des bailleurs",
+      "S’associe au renouvellement du silicone autour des baignoires"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Discussion du modèle selon le volume de la pièce",
+      "Découpe au plafond avec protection contre la poussière",
+      "Câblage depuis l’éclairage ou un circuit dédié, selon le schéma",
+      "Raccordement de la gaine au parcours d’extraction existant",
+      "Réglage de la temporisation si le module est fourni"
+    ],
+    "outcome": "le ventilateur de salle de bain évacue la vapeur en quelques minutes, avec un bruit acceptable à grande vitesse",
+    "problems": [
+      "Peinture qui s’écaille au-dessus des cabines de douche",
+      "Luminaires seuls dans les pièces d’eau",
+      "Ventilateurs qui rejettent dans le plénum au lieu de l’extérieur",
+      "Tirettes trop courtes après un abaissement de faux plafond",
+      "Ensembles ventilateur-lumière dont un côté est en panne"
+    ],
+    "tips": [
+      "Faites tourner le ventilateur pendant la douche et plusieurs minutes après",
+      "Nettoyez les grilles lorsque les produits capillaires s’accumulent",
+      "Entrouvrez la porte si le ventilateur est sous-dimensionné pour une grande baignoire"
+    ],
+    "title": "Pose d’extracteur de salle de bain",
+    "whenNeeded": "Faites poser un extracteur lorsque la moisissure revient après le nettoyage, que les miroirs restent embués, ou qu’une salle d’eau rénovée ajoute une douche."
+  },
+  "ceiling-fan-installation": {
+    "angle": "des ventilateurs à pales équilibrés et câblés pour un fonctionnement silencieux sur des boîtiers renforcés",
+    "benefits": [
+      "Confort à une consigne plus haute, ce qui allège la charge de refroidissement",
+      "Sommeil plus calme qu’avec des ventilateurs portables au sol",
+      "Kits lumineux intégrés qui réduisent le besoin d’un luminaire séparé",
+      "Utile là où les gaines de climatisation n’arrivent pas de façon égale"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Confirmation d’un support de plafond adapté au ventilateur",
+      "Choix de la longueur de la tige selon la hauteur sous plafond",
+      "Câblage pour tirette, commande murale ou kits télécommande",
+      "Montage des pales et contrôle de l’équilibrage",
+      "Sens de rotation réglé pour un flux d’air adapté à la saison"
+    ],
+    "outcome": "le ventilateur tourne régulièrement à toutes les vitesses, avec un balourd dans des limites acceptables",
+    "problems": [
+      "Chambres trop froides en climatisation, mais encore étouffantes",
+      "Point lumineux existant qui a besoin d’un support adapté au ventilateur",
+      "Balourd après qu’un locataire a retiré les clips d’équilibrage",
+      "Récepteurs de télécommande non appairés après un déménagement",
+      "Majlis extérieur qui exige des ventilateurs adaptés à l’humidité"
+    ],
+    "tips": [
+      "Nettoyez les pales chaque mois lorsque les tempêtes de poussière déposent du sable",
+      "Inversez le sens selon la saison si le fabricant l’autorise",
+      "Resserrez les vis des pales après la première semaine d’utilisation"
+    ],
+    "title": "Pose de ventilateurs de plafond",
+    "whenNeeded": "Posez des ventilateurs lorsque les chambres ont besoin de mouvement d’air sans baisser la consigne de climatisation, ou que les vérandas demandent une brise."
+  },
+  "ceiling-light-installation": {
+    "angle": "des plafonniers en saillie et semi-encastrés, posés avec soin sur béton et plaques de plâtre",
+    "benefits": [
+      "Relooking rapide pour les photos de location, sans repeindre entièrement",
+      "Une lumière régulière réduit les risques de chute dans les escaliers",
+      "Des fixations solides, utiles face aux légers balancements du bâtiment",
+      "S’associe à la réparation des plaques de plâtre si les trous sont trop grands"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Repérage des points centraux et contrôle des solives ou de la dalle",
+      "Pose des supports fournis avec le luminaire",
+      "Entrée de câble soigneusement étanchée dans les rosaces",
+      "Essai de commutation depuis tous les points de commande",
+      "Conseils de retouche si de petites réparations de plafond sont nécessaires"
+    ],
+    "outcome": "les plafonniers sont centrés et bien fixés, avec une répartition lumineuse homogène et un câblage rangé en sécurité",
+    "problems": [
+      "Coins sombres dans les longs couloirs de villa",
+      "Taches ovales là où d’anciens luminaires ont été retirés",
+      "Bourdonnement de barres de fixation desserrées",
+      "Chambres d’enfants avec un éclairage de bureau insuffisant",
+      "Chambres de personnel encore équipées de douilles nues"
+    ],
+    "tips": [
+      "Choisissez des diffuseurs faciles à retirer pour le nettoyage",
+      "Gardez des ampoules ou des modules de rechange dans une boîte étiquetée",
+      "Vérifiez les boîtiers prévus pour ventilateur si vous les combinez plus tard avec des ventilateurs à pales"
+    ],
+    "title": "Pose de plafonniers",
+    "whenNeeded": "Recourez-y lorsque les chambres ont besoin d’un éclairage central plus fort, ou que les couloirs manquent d’une lumière régulière."
+  },
+  "chandelier-installation": {
+    "angle": "des luminaires décoratifs lourds, suspendus avec un support renforcé et un réglage soigné de la chaîne",
+    "benefits": [
+      "Réduit le risque de chute de luminaires coûteux accrochés à des crochets insuffisants",
+      "Centrage correct au-dessus des tables pour les photos",
+      "Travail en hauteur plus sûr qu’un bricolage du propriétaire sur échelle",
+      "Pose documentée, utile pour les inventaires d’assurance"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Examen de la structure du plafond et de répartiteurs de charge si nécessaire",
+      "Montage des bras et des cristaux selon les étapes du fabricant",
+      "Réglage de la hauteur pour le passage de tête au-dessus des tables",
+      "Raccordement avec serre-câble sur les suspensions souples",
+      "Polissage final et essai de fonctionnement"
+    ],
+    "outcome": "le lustre est de niveau et bien porté, avec un câblage dissimulé et des ampoules accessibles pour l’entretien",
+    "problems": [
+      "Poids supérieur à la capacité du boîtier d’origine",
+      "Hauts plafonds qui exigent un échafaudage ou du temps sur échelle",
+      "Plusieurs bras qui demandent un remplacement équilibré des ampoules",
+      "Cristaux à retirer avant la pose",
+      "Variateur incompatible qui fait scintiller les lampes décoratives"
+    ],
+    "tips": [
+      "Photographiez la disposition des cristaux avant le démontage pour le nettoyage",
+      "Portez des gants pour éviter de ternir les finitions métalliques",
+      "Planifiez la pose avant que les meubles soient placés en dessous"
+    ],
+    "title": "Pose de lustres",
+    "whenNeeded": "Faites poser un lustre après l’achat de pièces d’apparat pour les salles à manger, les entrées à double hauteur ou les halls de style hôtelier."
+  },
+  "doorbell-installation": {
+    "angle": "des carillons filaires et sans fil, posés pour une couverture sonore claire aux entrées",
+    "benefits": [
+      "Moins de livraisons et de visites d’entretien manquées",
+      "Meilleure vigilance à la sécurité aux rez-de-chaussée",
+      "Finition plus nette que des autocollants sans fil provisoires",
+      "Possibilité d’évoluer ensuite vers des modèles vidéo, dans le périmètre"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Pose du bouton au portail ou sur le dormant",
+      "Placement du carillon pour la couverture acoustique",
+      "Câblage basse tension ou mise en place du module à piles",
+      "Choix du volume et de la tonalité lorsqu’ils sont réglables",
+      "Étiquette pour les visiteurs si plusieurs appareils existent"
+    ],
+    "outcome": "les alertes de visiteurs s’entendent dans les pièces de vie, avec un bouton posé à une hauteur confortable",
+    "problems": [
+      "Sonnettes silencieuses après qu’une peinture a recouvert les boutons",
+      "Carillon trop faible dans les grandes villas ouvertes",
+      "Plusieurs entrées qui exigent des carillons synchronisés",
+      "Bourdonnement de transformateur dans les placards techniques",
+      "Livreurs qui manquent les coups frappés dans les bureaux à domicile"
+    ],
+    "tips": [
+      "Testez le son portes fermées vers les chambres",
+      "Gardez des piles de rechange pour les boutons sans fil",
+      "Protégez les boutons extérieurs du soleil de midi direct"
+    ],
+    "title": "Pose de sonnettes",
+    "whenNeeded": "Posez des sonnettes lorsque les portails de villa reçoivent de nouveaux interphones, que les appartements manquent d’alerte audible, ou que d’anciens boutons lâchent à la chaleur."
+  },
+  "electrical": {
+    "angle": "des travaux d’éclairage, d’alimentation et de luminaires, organisés autour d’une mise hors tension sûre et d’un périmètre agréé",
+    "benefits": [
+      "Un seul interlocuteur pour plusieurs petits travaux électriques",
+      "Des réparations plus sûres que de laisser des accessoires abîmés en place",
+      "Une documentation utile pour les inspections de type municipalité de Dubaï",
+      "Coordination avec les autres corps de métier pendant les rénovations"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Visite des problèmes signalés et des accessoires visibles",
+      "Remplacement d’interrupteurs, de prises et de luminaires dans le périmètre convenu",
+      "Contrôle des circuits concernés par la visite",
+      "Étiquetage des éléments terminés pour les dossiers du bien",
+      "Conseils sur les mises à niveau qui exigent des entreprises agréées"
+    ],
+    "outcome": "les équipements électriques fonctionnent de façon fiable, avec des notes claires sur tout travail qui doit être achevé sous certification agréée",
+    "problems": [
+      "Lumières qui clignotent dans plusieurs pièces après des orages",
+      "Prises chaudes au toucher ou desserrées dans les zones d’éclaboussure de la cuisine",
+      "Détecteurs de fumée absents ou périmés avant la remise des clés",
+      "Luminaires neufs achetés sans points de fixation sûrs",
+      "Locataires qui signalent une alimentation intermittente sur un circuit"
+    ],
+    "tips": [
+      "Coupez au tableau électrique avant de retirer des luminaires inconnus",
+      "Conservez les notices des variateurs et des commandes de ventilateur",
+      "Testez les différentiels chaque mois si votre tableau en est équipé"
+    ],
+    "title": "Électricité",
+    "whenNeeded": "Faites appel à un électricien lorsque des équipements tombent en panne, que vous rafraîchissez une pièce, ou qu’une liste de contrôle du bailleur signale des interrupteurs, des prises et des détecteurs."
+  },
+  "electrical-fault-diagnosis": {
+    "angle": "le repérage logique des disjoncteurs qui déclenchent, des circuits morts et des accessoires intermittents",
+    "benefits": [
+      "Évite le remplacement au hasard de pièces encore en bon état",
+      "Aide les bailleurs à prioriser les mises à niveau agréées du tableau",
+      "Réduit l’arrêt des bureaux à domicile en période d’échéance",
+      "Appuie les dossiers d’assurance avec des notes factuelles"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Mise hors tension sûre et confirmation des circuits concernés",
+      "Contrôle des prises, des interrupteurs et des jonctions visibles",
+      "Discussion de la charge pour les appareils à forte consommation",
+      "Mise en sécurité provisoire lorsqu’un danger immédiat existe",
+      "Synthèse écrite des constats et des prochaines étapes"
+    ],
+    "outcome": "l’emplacement probable de la panne est expliqué, avec un périmètre de réparation ou une orientation vers des entreprises agréées pour les travaux de tableau",
+    "problems": [
+      "Disjoncteur qui saute lorsque la bouilloire et le micro-ondes fonctionnent ensemble",
+      "Circuit d’une chambre hors service après des travaux au plafond",
+      "Éclairages extérieurs qui lâchent lorsque la pluie atteint un raccord précis",
+      "Odeur de brûlé près d’un interrupteur, sans flamme visible",
+      "Alarmes d’onduleur après l’ajout récent de prises"
+    ],
+    "tips": [
+      "Notez quels appareils fonctionnaient au moment du déclenchement",
+      "Ne réarmez pas les disjoncteurs à répétition si l’odeur de brûlé persiste",
+      "Conservez des photos des accessoires décolorés pour les experts"
+    ],
+    "title": "Diagnostic de pannes électriques",
+    "whenNeeded": "Appelez lorsqu’un circuit disjoncte de façon répétée, qu’une pièce perd l’alimentation, ou que de nouvelles installations provoquent des déclenchements inexpliqués."
+  },
+  "electrical-fixture-replacement": {
+    "angle": "des remplacements à l’identique ou améliorés, pour des équipements électriques abîmés ou dépassés",
+    "benefits": [
+      "Remet les pièces rapidement au standard locatif",
+      "Évite les dangers d’un câblage exposé provisoire",
+      "Maintient la cohérence de design sur un portefeuille",
+      "Documente les numéros de série si on le demande"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Dépose de l’appareil défaillant et contrôle du support",
+      "Pose des remplacements fournis par le propriétaire ou convenus",
+      "Contrôle de continuité de terre sur les parties métalliques",
+      "Mastic d’étanchéité aux traversées extérieures si nécessaire",
+      "Essai de fonctionnement et démonstration à la remise"
+    ],
+    "outcome": "les remplacements assortis ou spécifiés sont posés, avec les déchets retirés si c’est convenu",
+    "problems": [
+      "Prises rasoir de salle de bain fissurées",
+      "Douilles abîmées par la chaleur dans les buanderies",
+      "Luminaires volés dans des locations vacantes",
+      "Plaques non assorties après des mises à niveau partielles",
+      "Piquets de jardin corrodés"
+    ],
+    "tips": [
+      "Stockez des plaques de finition de rechange pour chaque type de finition",
+      "Respectez les indices IP dans les zones d’éclaboussure",
+      "Photographiez le câblage avant de retirer des appareils particuliers"
+    ],
+    "title": "Remplacement d’appareillage électrique",
+    "whenNeeded": "Remplacez les appareils après des fuites d’eau, des dégâts de rénovation, ou des mises à jour de style dans des unités hôtelières."
+  },
+  "electrical-switch-replacement": {
+    "angle": "le remplacement d’interrupteurs usés ou dépassés par des accessoires modernes, correctement mis à la terre",
+    "benefits": [
+      "Sensation plus sûre pour les familles avec de jeunes enfants aux doigts collants",
+      "Esthétique homogène dans les appartements rénovés",
+      "Possibilité d’ajouter une variation sans nouveaux câbles si c’est compatible",
+      "Gain rapide pendant les listes de réserves avant remise des clés"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Mise hors tension au disjoncteur avant d’ouvrir les plaques",
+      "Repérage des fils pour les montages va-et-vient et permutateur",
+      "Pose des interrupteurs et variateurs neufs fournis",
+      "Alignement affleurant sur les murs carrelés de cuisine",
+      "Essai de fonctionnement depuis tous les points de commande"
+    ],
+    "outcome": "la commande d’interrupteur est ferme, avec des plaques alignées et des vis serrées sans fissurer la peinture",
+    "problems": [
+      "Étincelle à la commutation du circuit de la bouilloire",
+      "Plastique rendu cassant par des années de soleil sur les interrupteurs de balcon",
+      "Interrupteurs va-et-vient d’escalier désynchronisés",
+      "Interrupteurs connectés qui exigent un fil de neutre",
+      "Mise à jour du nuancier du bailleur vers un blanc mat"
+    ],
+    "tips": [
+      "Photographiez les fils avant de débrancher un escalier complexe",
+      "Ne serrez pas trop les vis sur les plaques de finition cassantes",
+      "Étiquetez les circuits dont dépend le réfrigérateur avant la coupure"
+    ],
+    "title": "Remplacement d’interrupteurs",
+    "whenNeeded": "Remplacez les interrupteurs lorsque les bascules se fissurent, que les lumières restent allumées, ou que vous uniformisez les finitions pendant une peinture."
+  },
+  "exhaust-fan-installation": {
+    "angle": "l’alimentation et la pose de ventilateurs d’extraction, avec la bonne commutation et l’alignement des gaines",
+    "benefits": [
+      "Une commande adaptée évite de laisser les ventilateurs tourner toute la journée",
+      "S’aligne sur le planning des métiers de la climatisation et de la ventilation",
+      "Plus sûr que des piquages improvisés sur le fil de phase d’un luminaire",
+      "Périmètre clair pour les validations du gestionnaire d’immeuble"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Évaluation de l’alimentation selon la charge du ventilateur",
+      "Pose de l’appareil au plafond ou au mur",
+      "Commande depuis un point existant ou neuf",
+      "Raccordement à une gaine préparée par d’autres si nécessaire",
+      "Contrôle du sens du flux d’air et du bruit"
+    ],
+    "outcome": "le ventilateur est alimenté en sécurité, l’interrupteur ou la tirette porte une étiquette et la gaine est raccordée",
+    "problems": [
+      "Nouvelle cuisine qui éloigne la plaque de l’ancienne évacuation",
+      "Circuit d’éclairage surchargé lorsqu’un ventilateur a été ajouté à la va-vite",
+      "Pas de sectionneur près du ventilateur de douche, comme les guides le suggèrent",
+      "Kits de temporisation en panne dans les buanderies",
+      "Toilettes de commerce qui exigent une commande liée du ventilateur et de la lumière"
+    ],
+    "tips": [
+      "Utilisez des minuteries dans les salles de bain d’invités pour limiter les ventilateurs oubliés",
+      "Gardez les parcours de gaine aussi courts et droits que possible",
+      "Confirmez les règles de clapets coupe-feu de gaine dans les tours"
+    ],
+    "title": "Pose de ventilateurs d’extraction",
+    "whenNeeded": "Câblez et posez des extracteurs lorsque vous rénovez une cuisine ou ajoutez une extraction là où il n’y avait que des luminaires."
+  },
+  "general-electrical-maintenance": {
+    "angle": "des contrôles de routine et des remises en ordre qui gardent les accessoires bien fixés et les étiquettes lisibles",
+    "benefits": [
+      "Réduit les risques d’arc électrique liés aux bornes desserrées",
+      "Garde les parties communes présentables pour les visites",
+      "S’associe au contrôle des réserves le jour du départ",
+      "Repère les éléments en fin de vie avant la panne"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Inspection visuelle des accessoires et des cordons accessibles",
+      "Resserrage des connexions de bornes lorsqu’elles sont accessibles et sans danger",
+      "Remplacement des plaques de finition abîmées, convenu sur place",
+      "Remplacement d’ampoules et de starters dans les luminaires fluorescents anciens",
+      "Notes de journal d’entretien pour les gestionnaires de biens"
+    ],
+    "outcome": "les accessoires sont resserrés et propres, et les dangers évidents sont signalés pour un suivi agréé",
+    "problems": [
+      "Plaques de finition fissurées autour des prises de cuisine très sollicitées",
+      "Rosaces de plafond desserrées dans les villas plus anciennes de Jumeirah",
+      "Douilles de lampes extérieures corrodées après l’exposition à l’air salin",
+      "Disjoncteurs non étiquetés qui rendent la mise hors tension difficile",
+      "Éclairage de secours défaillant dans les cages d’escalier"
+    ],
+    "tips": [
+      "Évitez de surcharger les multiprises dans les bureaux à domicile",
+      "Essuyez les prises de cuisine avec douceur — ne vaporisez jamais de nettoyant directement",
+      "Remplacez les variateurs qui bourdonnent plutôt que d’ignorer l’échauffement"
+    ],
+    "title": "Entretien électrique général",
+    "whenNeeded": "Planifiez l’entretien entre deux locations, après une légère infiltration d’eau près des prises, ou lorsque les bureaux reposent sur des goulottes vieillissantes."
+  },
+  "led-lighting-installation": {
+    "angle": "des rénovations et des poses neuves en LED, économes en énergie, avec drivers et variateurs compatibles",
+    "benefits": [
+      "Moins de chaleur à évacuer par la climatisation dans les petites chambres de Marina",
+      "Intervalles plus longs entre les changements d’ampoule sous les hauts plafonds",
+      "Éclairage homogène pour les rayonnages et les vitrines",
+      "Conformité plus simple aux demandes d’efficacité des bailleurs"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Évaluation des transformateurs et des variateurs existants",
+      "Pose de panneaux, de rubans ou de lampes LED selon l’accord",
+      "Contrôle des dégagements thermiques dans les niches fermées",
+      "Alignement de la température de couleur dans les espaces ouverts",
+      "Conseils simples sur la variation et la durée de vie"
+    ],
+    "outcome": "les luminaires LED fonctionnent sans scintillement sur les commandes existantes lorsqu’elles sont compatibles",
+    "problems": [
+      "Spots halogènes qui surchauffent dans les plafonds isolés",
+      "LED qui scintillent sur d’anciens variateurs",
+      "Rails d’éclairage commerciaux avec des températures de couleur mélangées",
+      "Drivers qui lâchent dans les hublots d’escalier",
+      "Locataires qui demandent moins de chaleur dans les dressings"
+    ],
+    "tips": [
+      "Achetez des pièces de rechange des luminaires intégrés si les séries de production changent",
+      "Évitez de mélanger les marques de drivers sur le même circuit de variateur",
+      "Nettoyez les diffuseurs lorsque la poussière du désert réduit le flux"
+    ],
+    "title": "Installation d’éclairage LED",
+    "whenNeeded": "Passez à la LED lorsque les factures sont élevées, que les transformateurs halogènes lâchent, ou que vous voulez un éclairage de vitrine qui chauffe moins."
+  },
+  "light-fixture-installation": {
+    "angle": "la fixation de luminaires neufs avec des ancrages sûrs, adaptés aux plafonds en béton et en plaques de plâtre",
+    "benefits": [
+      "Mise à niveau visuelle immédiate avant les photos ou les visites",
+      "Des ancrages adaptés réduisent le risque de chute des luminaires",
+      "Finition soignée autour des découpes de plafond",
+      "Plusieurs pièces peuvent être traitées en une seule visite"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Mise hors tension et dépose du luminaire existant lorsqu’il est présent",
+      "Choix d’ancrage selon dalle ou plafond creux",
+      "Raccordement à l’alimentation existante, avec terre confirmée",
+      "Alignement et réglage de hauteur des suspensions",
+      "Évacuation de l’ancien appareil si c’est convenu"
+    ],
+    "outcome": "les luminaires sont posés de niveau, avec un câblage raccordé en sécurité et un fonctionnement vérifié",
+    "problems": [
+      "Anciens luminaires en saillie jaunis et cassants",
+      "Nouvelle suspension trop lourde pour l’ancrage d’origine",
+      "Plusieurs drivers défaillants dans des appartements ouverts",
+      "Bailleur qui veut des luminaires uniformes dans tous les logements",
+      "Zones de salle de bain qui exigent des appareils à indice IP adapté"
+    ],
+    "tips": [
+      "Confirmez la profondeur du plénum avant d’acheter des modèles encastrés",
+      "Utilisez des ampoules compatibles avec les caractéristiques du variateur",
+      "Conservez des drivers de rechange pour les panneaux LED intégrés s’ils sont fournis"
+    ],
+    "title": "Pose de luminaires",
+    "whenNeeded": "Faites poser des luminaires lorsque vous modernisez l’éclairage du hall, remplacez des appareils défaillants, ou alignez un nouvel aménagement intérieur."
+  },
+  "minor-electrical-repairs": {
+    "angle": "de petites interventions qui rétablissent l’usage quotidien, sans projet de recâblage complet",
+    "benefits": [
+      "Clôture les listes de contrôle sans planifier plusieurs corps de métier",
+      "Réduit la tentation de bricolages dangereux",
+      "Plus abordable que d’attendre la panne",
+      "Constitue un historique pour les contrats d’entretien récurrents"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Triage des points de la liste de réserves par priorité de sécurité",
+      "Réparations sur place dans le temps et les fournitures convenus",
+      "Mise hors tension provisoire des points dangereux",
+      "Notes de commande pour les pièces spéciales si elles ne sont pas en stock",
+      "Mise à jour de l’état des réserves pour les gestionnaires de biens"
+    ],
+    "outcome": "les petits points listés sont traités, ou clairement marqués pour une escalade vers un professionnel agréé",
+    "problems": [
+      "Vis d’interrupteur de four desserrées qui laissent des traces de chaleur",
+      "Douilles de lampe de chevet cassées après un déménagement",
+      "Lumière de porte de garage qui ne fonctionne plus depuis un seul interrupteur",
+      "Têtes de rail lumineux desserrées, orientées dans le mauvais sens",
+      "Prise de réfrigérateur fissurée derrière l’appareil"
+    ],
+    "tips": [
+      "Regroupez les petits points par pièce pour des visites efficaces",
+      "Signalez-nous les particularités de la bascule sur groupe électrogène",
+      "Laissez l’accès dégagé derrière les appareils"
+    ],
+    "title": "Petites réparations électriques",
+    "whenNeeded": "Réservez lorsqu’un accessoire lâche, qu’un câble souple est abîmé, ou que les listes de réserves citent plusieurs petits points électriques."
+  },
+  "outdoor-lighting-installation": {
+    "angle": "l’éclairage de jardin, de façade et de balcon, posé pour l’exposition aux intempéries et un cheminement sûr des câbles",
+    "benefits": [
+      "Marches et abords de piscine plus sûrs pour les invités",
+      "Dissuasion aux accès du rez-de-chaussée",
+      "Mise en valeur de la signalétique des locaux commerciaux",
+      "Moins de réclamations pour chutes sur un dallage irrégulier"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Pose de hublots, de piquets ou de lèche-murs",
+      "Étanchéité au silicone et aux passe-câbles aux traversées",
+      "Agrafage des câbles le long de parcours discrets",
+      "Réglage de l’orientation des détecteurs de présence",
+      "Essai de fonctionnement aux réglages crépusculaires si c’est accessible"
+    ],
+    "outcome": "les luminaires extérieurs sont bien fixés, avec des joints serrés et des câbles protégés des UV et de la pluie",
+    "problems": [
+      "Places de stationnement sombres, sans bornes lumineuses",
+      "Hublots corrodés sur les terrasses face à la mer",
+      "Minuteries en panne qui laissent les lumières allumées toute la journée",
+      "Traversées de mur mal étanchées qui laissent entrer l’eau",
+      "Règles de la résidence qui limitent l’éblouissement vers les voisins"
+    ],
+    "tips": [
+      "Utilisez des luminaires de qualité marine à moins de 5 km de la côte",
+      "Orientez les détecteurs de présence loin de la chaleur du trafic",
+      "Dégagez les feuilles des caches de lentille après les semaines venteuses"
+    ],
+    "title": "Pose d’éclairage extérieur",
+    "whenNeeded": "Faites poser l’éclairage extérieur pour la sécurité des allées, les entrées de villa, ou la visibilité d’une vitrine après la tombée de la nuit."
+  },
+  "recessed-lighting-installation": {
+    "angle": "des spots affleurants au plafond, pour des lignes architecturales nettes",
+    "benefits": [
+      "Look moderne apprécié dans les annonces immobilières à Dubaï",
+      "Meilleur éclairage de tâche, sans suspensions qui gênent",
+      "Occasion de remplacer les parties de plafond abîmées par la chaleur",
+      "Peut s’intégrer à une rénovation LED lors de la même visite"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Tracé qui respecte les solives et les gaines de climatisation lorsqu’elles sont connues",
+      "Découpe des trous avec maîtrise de la poussière",
+      "Serrage des boîtiers selon l’épaisseur de plaque ou de dalle",
+      "Câblage en boucle ou en dérivation, comme l’existant",
+      "Pose des enjoliveurs et contrôle de l’angle de faisceau"
+    ],
+    "outcome": "les spots sont régulièrement espacés, avec les dégagements adaptés et des enjoliveurs alignés",
+    "problems": [
+      "Anneaux jaunes irréguliers autour d’anciens trous d’halogène",
+      "Trop peu de points lumineux au-dessus des plans de travail",
+      "Boîtiers adaptés à l’isolation (classe IC) exigés près de l’isolant",
+      "Traces d’eau près des spots de salle de bain",
+      "Scintillement lorsqu’ils sont combinés à des variateurs connectés"
+    ],
+    "tips": [
+      "Gardez des enjoliveurs de rechange si les enfants tirent sur les spots orientables",
+      "Évitez de placer les luminaires juste au-dessus des oreillers si vous êtes sensible à l’éblouissement",
+      "Consultez les plans de gaines de climatisation avant de découper dans une villa"
+    ],
+    "title": "Pose d’éclairage encastré",
+    "whenNeeded": "Choisissez l’éclairage encastré pour les rénovations de cuisine, les salles de cinéma, ou le remplacement de rangées de spots endommagées par le feu."
+  },
+  "smart-home-device-installation": {
+    "angle": "la pose et la configuration de base d’interrupteurs, de hubs et de capteurs connectés, dans les consignes du fabricant",
+    "benefits": [
+      "Confort des ambiances lumineuses pendant les rassemblements du Ramadan",
+      "Surveillance à distance pour les bailleurs à l’étranger, dans les limites légales",
+      "Économies d’énergie grâce à la programmation des charges liées à la climatisation",
+      "Finition professionnelle, au-delà des seuls supports adhésifs"
+    ],
+    "complianceNote": "Nous installons et configurons les appareils connectés uniquement pour un accès légitime — sans contournement de serrure ni méthode d’entrée non autorisée. Les modifications électriques respectent les exigences d’agrément des Émirats.",
+    "includes": [
+      "Pose des hubs, des interrupteurs et des capteurs fournis",
+      "Connexion au Wi-Fi du logement ou aux passerelles",
+      "Nommage des pièces et mise en place d’automatisations simples",
+      "Placement des appareils à pile, à l’écart des sources de chaleur",
+      "Notes de remise sur la réinitialisation et les réglages de confidentialité"
+    ],
+    "outcome": "les appareils sont appairés aux applications, avec des réglages sécurisés par défaut et sans contournement des serrures ni des systèmes d’accès",
+    "problems": [
+      "Zones mortes du Wi-Fi qui empêchent l’appairage du hub",
+      "Murs sans neutre, incompatibles avec certains interrupteurs",
+      "Plusieurs marques qui ne communiquent pas",
+      "Locataires bloqués dehors après l’appairage d’un compte précédent",
+      "Capteurs qui se décollent des portes métalliques sans supports adaptés"
+    ],
+    "tips": [
+      "Utilisez un Wi-Fi séparé pour les objets connectés si le routeur gère les VLAN",
+      "Changez les mots de passe par défaut pendant la configuration",
+      "Étiquetez les disjoncteurs qui alimentent les interrupteurs connectés"
+    ],
+    "title": "Installation d’appareils de maison connectée",
+    "whenNeeded": "Faites installer lorsque vous automatisez des ambiances lumineuses, surveillez des portes, ou intégrez des assistants vocaux dans des villas neuves."
+  },
+  "smoke-detector-installation": {
+    "angle": "le positionnement d’alarmes d’alerte précoce, avec piles ou kits secteur selon ce qui est fourni",
+    "benefits": [
+      "Alerte précoce qui protège les occupants endormis",
+      "Conformité aux listes de contrôle pour les remises de clés",
+      "Tranquillité d’esprit pour les propriétaires à l’étranger",
+      "S’associe aux visites d’entretien électrique général"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Placement selon les espacements indiqués par le fabricant",
+      "Pose au plafond, à l’écart des bouches de climatisation",
+      "Raccordement piles ou secteur, dans le périmètre",
+      "Contrôle du câblage d’interconnexion pour les modèles compatibles",
+      "Consigne au locataire sur le calendrier de test"
+    ],
+    "outcome": "les alarmes sont en état de marche sur les issues de secours, avec les boutons de test vérifiés",
+    "problems": [
+      "Détecteurs absents dans les chambres de personnel ou les débarras",
+      "Appareils périmés, jaunis après dix ans",
+      "Amendes du bailleur pour des listes de sécurité incendie incomplètes",
+      "Fausses alarmes de cuisine dues à un mauvais emplacement",
+      "Systèmes interconnectés avec un nœud hors service"
+    ],
+    "tips": [
+      "Testez chaque mois et après les longues vacances",
+      "Aspirez délicatement la poussière des capteurs",
+      "Remplacez les appareils selon les dates de péremption imprimées"
+    ],
+    "title": "Pose de détecteurs de fumée",
+    "whenNeeded": "Posez des détecteurs avant les inspections municipales, lorsque les bips de pile persistent, ou lors de l’ajout d’étages."
+  },
+  "socket-and-outlet-replacement": {
+    "angle": "le renouvellement des points d’alimentation, avec des bornes sûres et le bon type d’obturateur pour chaque pièce",
+    "benefits": [
+      "Réduit le risque d’incendie lié aux connexions à forte résistance",
+      "Les prises USB modernes réduisent l’encombrement des plans de travail",
+      "Conformité plus simple des locataires aux listes de sécurité",
+      "Peut s’aligner sur les changements d’agencement des meubles"
+    ],
+    "complianceNote": "Les travaux d’installation et de modification électriques aux Émirats doivent être réalisés par des professionnels dûment agréés lorsque la réglementation l’exige. Nous confirmons le périmètre sur place et renvoyons vers des travaux certifiés par un spécialiste lorsque c’est nécessaire.",
+    "includes": [
+      "Coupure au disjoncteur et attention à la charge des réfrigérateurs",
+      "Dépose des prises fissurées et inspection des bornes",
+      "Pose de prises neuves au calibre correct",
+      "Prise rasoir ou modules USB si c’est spécifié",
+      "Contrôle visuel d’une décoloration due à la chaleur sur les appareils voisins"
+    ],
+    "outcome": "les prises retiennent fermement les fiches, avec la continuité de terre vérifiée sur les appareils remplacés",
+    "problems": [
+      "Adaptateurs de type G, courants aux Émirats, desserrés et qui surchauffent",
+      "Prises de cuisine abîmées par la vapeur et la graisse",
+      "Obturateurs absents dans les chambres d’enfants",
+      "Bureaux qui ont besoin de prises USB-C",
+      "Prises extérieures sans couvercles adaptés"
+    ],
+    "tips": [
+      "Évitez les rallonges comme solution permanente derrière les téléviseurs",
+      "Testez le comportement du différentiel après des modifications en cuisine",
+      "Conservez les notices d’appareils qui indiquent la puissance de pointe"
+    ],
+    "title": "Remplacement de prises",
+    "whenNeeded": "Changez les prises lorsque les fiches tombent, que des prises USB sont nécessaires aux bureaux, ou que des traces de brûlure apparaissent."
+  }
+}

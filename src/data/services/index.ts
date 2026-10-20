@@ -22,12 +22,15 @@ import { uaePropertySeeds } from '@/data/services/catalog/uae-property'
 import { wallsCeilingsSeeds } from '@/data/services/catalog/walls-ceilings'
 import { waterproofingSeeds } from '@/data/services/catalog/waterproofing'
 import { getCategoryById, serviceCategories } from '@/data/services/categories'
+import { getCopy } from '@/data/services/copy'
+import { overlays } from '@/data/services/i18n/registry'
 import { categoryIcons } from '@/data/services/icons'
 import type {
   ServiceCategoryId,
   ServiceDetail,
   ServiceItem,
 } from '@/data/services/types'
+import type { AppLocale } from '@/i18n/routing'
 
 const allSeeds: ServiceSeed[] = [
   ...renovationSeeds,
@@ -98,33 +101,68 @@ const fillRelatedServices = (
 
 const seedBySlug = new Map(allSeeds.map((seed) => [seed.slug, seed]))
 
-const builtServices: ServiceDetail[] = allSeeds.map((seed) => {
-  const detail = buildService({
+const applyOverlay = (seed: ServiceSeed, locale: AppLocale): ServiceSeed => {
+  const overlay = overlays[locale]?.[seed.category]?.[seed.slug]
+  if (!overlay) return seed
+
+  return {
     ...seed,
-    related: fillRelatedServices(seed, seedBySlug),
-  })
-  return detail
-})
-
-const serviceBySlug = new Map(
-  builtServices.map((service) => [service.slug, service])
-)
-
-for (const service of builtServices) {
-  for (const related of service.relatedServices) {
-    if (!serviceBySlug.has(related)) {
-      throw new Error(
-        `Invalid related service "${related}" on "${service.slug}"`
-      )
-    }
+    ...overlay,
+    category: seed.category,
+    keywords: seed.keywords,
+    related: seed.related,
+    slug: seed.slug,
   }
 }
 
-export const serviceDetails: ServiceDetail[] = builtServices
+type LocaleCatalog = {
+  bySlug: Map<string, ServiceDetail>
+  details: ServiceDetail[]
+}
 
-export const publishedServices: ServiceDetail[] = serviceDetails.filter(
-  (service) => service.published
-)
+const localeCatalogCache = new Map<AppLocale, LocaleCatalog>()
+
+const buildLocaleCatalog = (locale: AppLocale): LocaleCatalog => {
+  const cached = localeCatalogCache.get(locale)
+  if (cached) return cached
+
+  const copy = getCopy(locale)
+  const details = allSeeds.map((seed) =>
+    buildService(
+      {
+        ...applyOverlay(seed, locale),
+        related: fillRelatedServices(seed, seedBySlug),
+      },
+      locale,
+      copy
+    )
+  )
+  const bySlug = new Map(details.map((service) => [service.slug, service]))
+
+  for (const service of details) {
+    for (const related of service.relatedServices) {
+      if (!bySlug.has(related)) {
+        throw new Error(
+          `Invalid related service "${related}" on "${service.slug}"`
+        )
+      }
+    }
+  }
+
+  const catalog = { bySlug, details }
+  localeCatalogCache.set(locale, catalog)
+  return catalog
+}
+
+export const getPublishedServices = (locale: AppLocale = 'en') => {
+  return buildLocaleCatalog(locale).details.filter(
+    (service) => service.published
+  )
+}
+
+export const serviceDetails: ServiceDetail[] = getPublishedServices('en')
+
+export const publishedServices: ServiceDetail[] = serviceDetails
 
 const toServiceItem = (service: ServiceDetail): ServiceItem => {
   return {
@@ -136,10 +174,6 @@ const toServiceItem = (service: ServiceDetail): ServiceItem => {
   }
 }
 
-/** Broad catalog for the Services list and detail routes. */
-export const catalogServices: ServiceItem[] =
-  publishedServices.map(toServiceItem)
-
 const highlightSlugs = [
   'villa-flat-office-and-shop-renovation',
   'air-conditioning-services',
@@ -148,14 +182,22 @@ const highlightSlugs = [
   'handyman-and-general-maintenance',
 ] as const
 
+export const getHighlightServices = (
+  locale: AppLocale = 'en'
+): ServiceItem[] => {
+  const { bySlug } = buildLocaleCatalog(locale)
+
+  return highlightSlugs.map((slug) => {
+    const service = bySlug.get(slug)
+    if (!service) {
+      throw new Error(`Missing highlight service: ${slug}`)
+    }
+    return toServiceItem(service)
+  })
+}
+
 /** Five highlight services shown on the home page and in the footer. */
-export const highlightServices: ServiceItem[] = highlightSlugs.map((slug) => {
-  const service = serviceBySlug.get(slug)
-  if (!service) {
-    throw new Error(`Missing highlight service: ${slug}`)
-  }
-  return toServiceItem(service)
-})
+export const highlightServices: ServiceItem[] = getHighlightServices('en')
 
 export const serviceHref = (slug: string) => {
   return `/services/${slug}`
@@ -165,33 +207,60 @@ export const categoryHref = (slug: string) => {
   return `/services#${slug}`
 }
 
-export const getServiceBySlug = (slug: string) => {
-  return publishedServices.find((service) => service.slug === slug)
+export const getServiceBySlug = (slug: string, locale: AppLocale = 'en') => {
+  return getPublishedServices(locale).find((service) => service.slug === slug)
 }
 
-export const getServiceItemBySlug = (slug: string) => {
-  return catalogServices.find((service) => service.slug === slug)
+export const getServiceItemBySlug = (
+  slug: string,
+  locale: AppLocale = 'en'
+) => {
+  return getCatalogServices(locale).find((service) => service.slug === slug)
 }
 
-export const getRelatedServices = (service: ServiceDetail): ServiceItem[] => {
+export const getRelatedServices = (
+  service: ServiceDetail,
+  locale: AppLocale = 'en'
+): ServiceItem[] => {
+  const { bySlug } = buildLocaleCatalog(locale)
+
   return service.relatedServices
     .map((slug) => {
-      const detail = serviceBySlug.get(slug)
+      const detail = bySlug.get(slug)
       return detail ? toServiceItem(detail) : undefined
     })
     .filter((item): item is ServiceItem => Boolean(item))
 }
 
-export const getServicesByCategory = (category: ServiceCategoryId) => {
-  return catalogServices.filter((service) => service.category === category)
+export const getCatalogServices = (locale: AppLocale = 'en'): ServiceItem[] => {
+  return getPublishedServices(locale).map(toServiceItem)
 }
 
-export const catalogByCategory = serviceCategories
-  .map((category) => ({
-    category,
-    services: getServicesByCategory(category.id),
-  }))
-  .filter((group) => group.services.length > 0)
+export const getServicesByCategory = (
+  category: ServiceCategoryId,
+  locale: AppLocale = 'en'
+) => {
+  return getCatalogServices(locale).filter(
+    (service) => service.category === category
+  )
+}
+
+export const getCatalogByCategory = (locale: AppLocale = 'en') => {
+  return serviceCategories
+    .map((category) => ({
+      category: {
+        ...category,
+        description: category.description,
+        title: category.title,
+      },
+      services: getServicesByCategory(category.id, locale),
+    }))
+    .filter((group) => group.services.length > 0)
+}
+
+export const catalogServices: ServiceItem[] = getCatalogServices('en')
+
+export const catalogByCategory = getCatalogByCategory('en')
 
 export type { ServiceSeed } from '@/data/services/buildService'
 export type { ServiceCategoryId, ServiceDetail, ServiceItem }

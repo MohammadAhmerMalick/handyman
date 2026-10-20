@@ -1,0 +1,563 @@
+{
+  "bed-assembly": {
+    "angle": "le montage de cadres de lit et de têtes de lit, avec des assemblages silencieux et stables pour l’usage nocturne",
+    "benefits": [
+      "Un écartement correct des lattes protège le soutien du matelas",
+      "Des assemblages serrés réduisent le bruit nocturne dans les appartements",
+      "Une mise en place plus rapide avant les créneaux de livraison du matelas"
+    ],
+    "includes": [
+      "le montage du cadre et des lattes selon le schéma du fabricant",
+      "le raccordement de la tête de lit et des longerons, avec frein-filet lorsque c’est conseillé",
+      "le réglage du pied de soutien central sur les grands cadres",
+      "un contrôle rapide de stabilité aux quatre coins"
+    ],
+    "outcome": "le cadre de lit est rigide, les lattes sont soutenues de façon régulière, et les fixations de la tête de lit sont sûres",
+    "problems": [
+      "des lattes qui grincent ou des boulons desserrés après l’emménagement",
+      "des têtes de lit qui s’écartent du mur",
+      "des mécanismes de lit coffre qui coincent",
+      "un écartement de lattes incorrect qui annule la garantie du matelas"
+    ],
+    "tips": [
+      "Montez le lit dans la pièce où il restera",
+      "Resserrez les fixations après la première semaine d’utilisation",
+      "Utilisez des patins en feutre si le métal touche un sol dur"
+    ],
+    "title": "Montage de lit",
+    "whenNeeded": "Faites appel à nous lorsqu’un lit neuf est livré, qu’une chambre d’amis est rafraîchie, ou que des grincements apparaissent aux assemblages."
+  },
+  "blind-installation": {
+    "angle": "la pose de stores pour le contrôle de la lumière et l’intimité, en appartement et en villa",
+    "benefits": [
+      "Un meilleur sommeil et plus d’intimité sous la lumière vive du littoral",
+      "Une fixation professionnelle qui réduit le risque de chute dû à des supports desserrés",
+      "Une pose homogène sur plusieurs fenêtres"
+    ],
+    "includes": [
+      "la confirmation du type de pose et le positionnement des supports",
+      "une fixation sûre sur le cadre, dans l’embrasure ou en applique",
+      "le raccourcissement de la chaînette ou de la tringlette, et le réglage de tension",
+      "un essai de fonctionnement sur toute la course"
+    ],
+    "outcome": "les stores sont d’équerre dans l’embrasure, fonctionnent en douceur, et les dispositifs de sécurité enfant sont posés lorsqu’ils sont fournis",
+    "problems": [
+      "des stores de travers dans des embrasures profondes",
+      "des chaînettes trop longues qui créent des risques d’enchevêtrement",
+      "des vis qui butent sur des linteaux en acier sans foret adapté",
+      "des largeurs inadaptées après une mesure en pose intérieure plutôt qu’en applique"
+    ],
+    "tips": [
+      "Décidez d’une pose intérieure ou en applique avant l’achat",
+      "Laissez en place les clips de sécurité enfant du fabricant",
+      "Dépoussiérez les lames en douceur pour préserver les mécanismes"
+    ],
+    "title": "Pose de stores",
+    "whenNeeded": "Organisez l’intervention lorsque de nouveaux stores sont livrés, ou que les stores en place ne remontent plus de façon régulière."
+  },
+  "cable-concealment": {
+    "angle": "un cheminement net des câbles de téléviseur et de bureau, par goulotte et options encastrées dans le périmètre prévu",
+    "benefits": [
+      "Des murs plus nets pour les visites locatives et les visites de vente",
+      "Des parcours étiquetés qui simplifient les mises à niveau ultérieures",
+      "Moins de risques de trébuchement dans les bureaux à domicile"
+    ],
+    "complianceNote": "Les circuits électriques neufs, le câblage secteur dissimulé et le câblage data certifié sont confiés à des électriciens agréés ou à des installateurs data.",
+    "includes": [
+      "l’alignement des goulottes ou gaines apparentes sur les lignes architecturales",
+      "l’étiquetage des parcours HDMI et d’alimentation aux deux extrémités",
+      "la pose de passe-câbles dans les bureaux ou les cloisons lorsque c’est convenu",
+      "le maintien et la gestion du mou derrière les éléments"
+    ],
+    "outcome": "les câbles suivent les parcours convenus, avec des points accessibles pour les futurs changements d’appareils",
+    "problems": [
+      "Cordons HDMI trop courts après la fixation murale",
+      "des couleurs de goulotte qui jurent avec la décoration",
+      "des rallonges électriques cachées de façon peu sûre derrière les meubles",
+      "aucune réserve pour une barre de son ou des consoles"
+    ],
+    "tips": [
+      "Laissez des boucles de réserve aux deux extrémités pour les mises à niveau",
+      "Évitez les coudes serrés sur les câbles HDMI",
+      "Séparez les parcours d’alimentation et de signal lorsque c’est possible"
+    ],
+    "title": "Dissimulation de câbles",
+    "whenNeeded": "Faites appel à nous après la pose d’écrans ou de bureaux, lorsque des câbles apparents gâchent des pièces terminées."
+  },
+  "curtain-rod-installation": {
+    "angle": "des tringles et des rails de rideaux posés de niveau, avec des supports sûrs pour l’usage quotidien",
+    "benefits": [
+      "Une ouverture fluide qui réduit l’usure du tissu",
+      "Des supports sûrs, adaptés à l’usage quotidien des chambres et des séjours",
+      "Des lignes de niveau qui accompagnent les vitrages toute hauteur, fréquents dans les logements des Émirats"
+    ],
+    "includes": [
+      "la prise de largeur et l’espacement des supports selon les consignes du fabricant",
+      "la fixation au plafond ou au mur, avec chevilles ou ancrages adaptés",
+      "le montage de la tringle, avec anneaux ou glisseurs en place",
+      "l’alignement simple des doubles tringles pour voilages et occultants"
+    ],
+    "outcome": "les tringles sont de niveau, les supports sont correctement ancrés, et les rideaux glissent sans accrocher",
+    "problems": [
+      "des tringles qui cintrent sous un tissu occultant lourd",
+      "des supports trop proches des corniches de plafond",
+      "des embouts qui se dévissent à force de manipulations",
+      "un perçage dans le carrelage qui fissure le joint voisin"
+    ],
+    "tips": [
+      "Défroissez ou aérez les rideaux avant les contrôles de longueur définitifs",
+      "Laissez un léger recouvrement au centre pour préserver l’intimité",
+      "Resserrez les embouts après le premier mois d’utilisation"
+    ],
+    "title": "Pose de tringles à rideaux",
+    "whenNeeded": "Réservez lorsque de nouveaux rideaux arrivent, que les tringles fléchissent en saison humide, ou que les supports s’arrachent des murs."
+  },
+  "desk-assembly": {
+    "angle": "le montage de bureaux pour la maison et le travail, avec un cheminement de câbles pratique et des plateaux de niveau",
+    "benefits": [
+      "Une surface stable pour les écrans et les appels vidéo",
+      "Des chemins de câbles plus nets, qui réduisent les risques de trébuchement",
+      "Des tiroirs qui fonctionnent en douceur pour le petit matériel de bureau au quotidien"
+    ],
+    "includes": [
+      "le montage des pieds et du cadre, avec réglage des pieds de mise à niveau",
+      "la fixation du plateau et la protection des chants pendant la manutention",
+      "l’alignement simple des passe-câbles lorsqu’ils sont intégrés",
+      "le raccordement du caisson de tiroirs et le réglage des coulisses"
+    ],
+    "outcome": "les plateaux sont de niveau, les pieds sont solidement assemblés, et les passages de câbles sont prêts pour une installation nette",
+    "problems": [
+      "un écran qui bouge à cause d’équerres de pieds desserrées",
+      "des passe-câbles mal alignés avec les prises",
+      "des pieds à hauteur réglable désalignés après le transport",
+      "des caissons de tiroirs qui ne sont pas à fleur du plateau"
+    ],
+    "tips": [
+      "Repérez quel pied va à chaque angle avant de serrer",
+      "Faites passer les câbles avant de boulonner complètement les panneaux arrière",
+      "Évitez de surcharger les portées centrales des longs bureaux"
+    ],
+    "title": "Montage de bureau",
+    "whenNeeded": "Réservez lorsque les bureaux de télétravail arrivent, ou qu’un jeu gêne les écrans et le confort de frappe."
+  },
+  "dining-table-assembly": {
+    "angle": "le montage de tables à manger, y compris les allonges et des assemblages de pieds robustes",
+    "benefits": [
+      "Des surfaces planes qui protègent la verrerie et la vaisselle",
+      "Des allonges fluides qui simplifient les réceptions en villa et en appartement",
+      "Une même visite qui couvre la table et les kits d’assise"
+    ],
+    "includes": [
+      "le montage des pieds et de la ceinture, au couple régulier",
+      "la lubrification des rails d’allonge et les contrôles d’alignement",
+      "la pose de patins de protection aux points de contact avec le sol",
+      "le montage éventuel du banc ou des chaises assortis, lors de la même visite"
+    ],
+    "outcome": "les plateaux reposent à plat, les allonges se rangent proprement, et les pieds restent rigides au quotidien",
+    "problems": [
+      "des rails d’allonge durs ou désalignés",
+      "une table qui bascule sur le carrelage, sans pieds réglables",
+      "des plateaux lourds difficiles à manœuvrer dans les ascenseurs",
+      "des kits de banc ou de chaises laissés à moitié montés"
+    ],
+    "tips": [
+      "Déployez et repliez la table une fois après le montage",
+      "Utilisez des sets de table sur les plateaux très brillants pour limiter les micro-rayures",
+      "Rangez les allonges à plat et au sec lorsqu’elles ne servent pas"
+    ],
+    "title": "Montage de table à manger",
+    "whenNeeded": "Organisez l’intervention lorsqu’une nouvelle salle à manger arrive, ou que les mécanismes d’allonge coincent avant de recevoir des invités."
+  },
+  "floating-shelf-installation": {
+    "angle": "des étagères flottantes à équerres cachées, pour un rangement et une présentation épurés",
+    "benefits": [
+      "Un rendu épuré, adapté aux appartements modernes des Émirats",
+      "Des fixations cachées qui laissent la vedette aux objets exposés",
+      "Un perçage professionnel qui limite les reprises sur les murs d’accent"
+    ],
+    "includes": [
+      "la pose du système de tiges ou d’équerres selon la conception du produit",
+      "un perçage précis, avec mesures de maîtrise de la poussière",
+      "la mise en place de la tablette et la mise à niveau du chant avant",
+      "des consignes d’entretien sur la charge maximale et le nettoyage autour des fixations"
+    ],
+    "outcome": "les étagères flottantes paraissent affleurantes au mur, avec des fixations cachées dimensionnées pour la charge convenue",
+    "problems": [
+      "des platines d’équerre visibles qui jurent avec la décoration",
+      "des étagères qui fléchissent lorsque les tiges ne sont pas pleinement engagées",
+      "des trous mal percés dans des murs d’accent",
+      "des limites de poids peu claires pour les céramiques décoratives"
+    ],
+    "tips": [
+      "Choisissez la profondeur de l’étagère selon les objets prévus, avant de commander",
+      "Soyez deux pour engager les longues étagères flottantes",
+      "Ne raccourcissez pas les tablettes sans vérifier le placement des tiges"
+    ],
+    "title": "Pose d’étagères flottantes",
+    "whenNeeded": "Faites appel à nous lorsque vous voulez des lignes nettes dans les pièces de vie, ou des tablettes d’exposition sans équerres visibles."
+  },
+  "furniture-assembly": {
+    "angle": "un montage précis de meubles en kit, avec des fixations stables pour l’usage quotidien",
+    "benefits": [
+      "Évite une journée entière à déchiffrer les schémas et à chercher les outils",
+      "Réduit le risque de fixations foirées par un ordre de montage incorrect",
+      "Des meubles stables, plus sûrs pour les familles et les bureaux à domicile"
+    ],
+    "includes": [
+      "le tri des composants et la vérification de la quincaillerie par rapport à la notice",
+      "le montage des caissons, des tablettes et des portes au couple de serrage adapté",
+      "l’ancrage mural lorsque la notice exige des fixations anti-basculement",
+      "le dégagement des emballages hors de la pièce et le réglage de base des charnières ou des coulisses"
+    ],
+    "outcome": "les meubles sont de niveau, les tiroirs et les portes s’alignent, et les fixations respectent les instructions du fabricant",
+    "problems": [
+      "des panneaux désalignés et des jeux visibles après un montage en autonomie",
+      "des tourillons ou des excentriques manquants qui bloquent l’avancement",
+      "des bibliothèques ou des bureaux qui branlent sur des sols irréguliers",
+      "des notices peu claires pour les pièces à double usage"
+    ],
+    "tips": [
+      "Dégagez au sol une surface plus grande que l’emprise du meuble assemblé",
+      "Gardez les petites pièces dans des bacs étiquetés jusqu’au moment de les utiliser",
+      "Ne jetez pas les équerres de rechange tant que la fixation murale n’est pas confirmée"
+    ],
+    "title": "Montage de meubles",
+    "whenNeeded": "Réservez lorsque les cartons de meubles en kit arrivent, que des pièces manquent après une première tentative, ou que les meubles branlent après un montage en autonomie."
+  },
+  "furniture-disassembly-and-reassembly": {
+    "angle": "un démontage soigné et un remontage des meubles pour les déménagements ou les changements de pièce",
+    "benefits": [
+      "Réduit le risque de dégâts par rapport à un démontage improvisé",
+      "L’étiquetage de la quincaillerie accélère le remontage après un déménagement",
+      "La même équipe sait comment les pièces étaient assemblées à l’origine"
+    ],
+    "includes": [
+      "un démontage étiqueté, avec la quincaillerie triée en sachets",
+      "la protection des panneaux pendant le déplacement dans le logement",
+      "le remontage et le réglage dans la pièce de destination",
+      "une retouche simple des fixations desserrées découvertes au remontage"
+    ],
+    "outcome": "les meubles sont démontés avec la quincaillerie mise en sachet, puis remontés d’équerre et fonctionnels dans le nouvel emplacement",
+    "problems": [
+      "des excentriques perdus après d’anciens déménagements",
+      "des pièces trop grandes pour les ascenseurs lorsqu’elles sont entièrement montées",
+      "des placages fragiles qui se fissurent lors d’un démontage précipité",
+      "des notices de remontage absentes pour d’anciens achats"
+    ],
+    "tips": [
+      "Photographiez les cheminements de câbles et les hauteurs d’étagères avant le démontage",
+      "Laissez le matelas hors du cadre jusqu’à la fin du remontage",
+      "Collez les sachets de fixations à l’intérieur d’un caisson de tiroir pendant le transport"
+    ],
+    "title": "Démontage et remontage de meubles",
+    "whenNeeded": "Réservez avant un déménagement, des travaux de sol, ou lorsque de grandes pièces doivent passer par des portes étroites."
+  },
+  "mirror-installation": {
+    "angle": "la fixation de miroirs avec des ancrages de sécurité, pour salles de bain, chambres et halls",
+    "benefits": [
+      "Une fixation plus sûre que de simples crochets adhésifs",
+      "Des fixations adaptées au nettoyage fréquent des salles de bain",
+      "Un levage professionnel qui réduit le risque d’éclats sur les chants"
+    ],
+    "includes": [
+      "l’évaluation du poids du miroir et le choix de la méthode de fixation",
+      "une pose par tasseau, profilé ou vis, selon le cas",
+      "un joint silicone en périphérie des zones humides lorsque c’est convenu",
+      "le retrait du film de protection et le contrôle d’une finition sans traces"
+    ],
+    "outcome": "les miroirs reposent à plat et en sécurité, avec des fixations adaptées à l’humidité et au nettoyage quotidien",
+    "problems": [
+      "des fixations uniquement adhésives qui lâchent dans les salles de bain humides",
+      "des miroirs qui fléchissent dans des cadres minces",
+      "un placement incorrect par rapport à l’éclairage de vasque",
+      "des éclats de chant dus aux chocs lors d’un levage en autonomie"
+    ],
+    "tips": [
+      "Confirmez la position des éclairages de vasque avant de percer",
+      "Utilisez des nettoyants non abrasifs sur les miroirs traités",
+      "Signalez rapidement tout fléchissement des cadres"
+    ],
+    "title": "Pose de miroirs",
+    "whenNeeded": "Faites appel à nous lorsque de grands miroirs doivent être posés à fleur, ou que d’anciennes fixations adhésives cèdent."
+  },
+  "noticeboard-installation": {
+    "angle": "des tableaux d’affichage en tissu et en liège, posés pour les halls, les écoles et les espaces administratifs",
+    "benefits": [
+      "Des espaces communs nets dans les tours résidentielles",
+      "Des options verrouillables, adaptées aux affichages RH et de conformité",
+      "Un alignement professionnel, adapté aux zones d’accueil"
+    ],
+    "includes": [
+      "un positionnement qui respecte le dégagement et la visibilité",
+      "la pose de chevilles selon le poids du tableau et le type de cadre",
+      "l’alignement des portes sur les modèles verrouillables",
+      "une remise avec des consignes d’épinglage pour les faces en tissu"
+    ],
+    "outcome": "les tableaux sont centrés, l’épinglage est net, et les chants sont protégés des chocs quotidiens",
+    "problems": [
+      "des tableaux de travers dans des couloirs très fréquentés",
+      "des fixations trop faibles pour des épinglages fréquents",
+      "des vitrines mal alignées, dont les serrures ne prennent pas",
+      "un conflit avec les zones de dégagement des équipements incendie"
+    ],
+    "tips": [
+      "Utilisez les bonnes épingles selon une face en liège ou en tissu",
+      "Évitez de surcharger les portes vitrées à l’ouverture",
+      "Vérifiez le règlement de l’immeuble sur les affichages de couloir"
+    ],
+    "title": "Pose de tableaux d’affichage",
+    "whenNeeded": "Organisez l’intervention lorsque des tableaux d’information sont nécessaires dans les halls d’ascenseur ou les cuisines du personnel."
+  },
+  "office-furniture-assembly": {
+    "angle": "des bureaux, du rangement et du mobilier de réunion assemblés pour l’usage du personnel",
+    "benefits": [
+      "Une occupation plus rapide après la remise des locaux",
+      "Des hauteurs de bureau et des passe-câbles homogènes d’une équipe à l’autre",
+      "Un rangement plus sûr grâce à un ancrage correct"
+    ],
+    "includes": [
+      "le montage en série de bureaux, de caissons et d’éléments de rangement",
+      "l’implantation des îlots selon les plans lorsqu’ils sont fournis",
+      "la fixation anti-basculement aux cloisons ou aux murs lorsque c’est exigé",
+      "le recyclage du carton pour garder les couloirs dégagés"
+    ],
+    "outcome": "les postes de travail sont stables, le rangement est prêt à être étiqueté, et le personnel peut occuper les bureaux en sécurité le jour même",
+    "problems": [
+      "un arriéré de meubles en kit qui retarde les dates d’emménagement",
+      "des îlots de bureaux disparates dans les espaces ouverts",
+      "des classeurs sans ancrages anti-basculement",
+      "des tables de réunion trop grandes pour les monte-charges"
+    ],
+    "tips": [
+      "Fournissez un plan de sol annoté avant la visite",
+      "Placez les cartons près des emplacements définitifs des bureaux",
+      "Planifiez le montage en dehors des heures de forte circulation si possible"
+    ],
+    "title": "Montage de mobilier de bureau",
+    "whenNeeded": "Faites appel à nous lors des déménagements de bureaux, des aménagements de locataires, ou lorsque le mobilier en kit en attente freine l’activité."
+  },
+  "roller-blind-installation": {
+    "angle": "la pose de stores enrouleurs, avec une tension régulière et un enroulement net du tissu",
+    "benefits": [
+      "Un profil compact, adapté aux vitrages du sol au plafond",
+      "Un enroulement régulier qui limite l’effilochage des bords dans le temps",
+      "Une manœuvre rapide pour l’ombrage quotidien au bureau"
+    ],
+    "includes": [
+      "l’alignement des supports sur toute la largeur",
+      "la mise en place du tissu et le réglage de la tension de chaînette ou de ressort",
+      "la mise à niveau de la barre basse et le réglage des butées",
+      "des consignes de nettoyage sans retirer le tissu"
+    ],
+    "outcome": "le tissu s’enroule de façon régulière, sans dériver sur le côté, et s’arrête à la hauteur convenue",
+    "problems": [
+      "un tissu qui dérive d’un côté après une pose en autonomie",
+      "des coffres pas de niveau, source de jours lumineux",
+      "une tension de ressort trop forte pour remonter le store en sécurité",
+      "des supports qui gênent les poignées de fenêtre"
+    ],
+    "tips": [
+      "Descendez complètement les stores avant de dépoussiérer le tissu",
+      "Ne forcez pas les chaînettes si une résistance apparaît — signalez le blocage tôt",
+      "Notez les règles d’évacuation incendie pour les poses en bureau"
+    ],
+    "title": "Pose de stores enrouleurs",
+    "whenNeeded": "Prévoyez-le pour limiter l’éblouissement au bureau, ou dans les chambres qui demandent des coffres compacts."
+  },
+  "roman-blind-installation": {
+    "angle": "la pose de stores bateau, avec des plis réguliers et des mécanismes de relevage fiables",
+    "benefits": [
+      "Un rendu sur mesure pour les salles à manger et les pièces de vie",
+      "Une gestion sûre des cordons dans les maisons familiales",
+      "Des plis réguliers qui préservent l’aspect du tissu dans la durée"
+    ],
+    "includes": [
+      "la fixation du caisson, avec équerres de répartition sur les grandes largeurs",
+      "la pose du taquet de sécurité des cordons à la hauteur réglementaire",
+      "le dressage des plis et des conseils de premier défroissage à la vapeur lorsque c’est adapté",
+      "le contrôle du dégagement par rapport aux appuis et aux poignées"
+    ],
+    "outcome": "les plis se superposent proprement, les cordons sont sécurisés, et les stores dégagent les appuis de fenêtre",
+    "problems": [
+      "des plis irréguliers après la première pose",
+      "des taquets de cordon absents du kit",
+      "un caisson plus lourd que ce que supportent les équerres standard",
+      "un tissu qui touche les bouches de climatisation et dégage une odeur de moisissure"
+    ],
+    "tips": [
+      "Laissez le tissu s’acclimater avant le dressage définitif",
+      "Utilisez les taquets à chaque fois que les stores sont baissés",
+      "Éloignez le tissu du flux direct de la climatisation lorsque c’est possible"
+    ],
+    "title": "Pose de stores bateau",
+    "whenNeeded": "Réservez lorsque des stores en tissu décoratif arrivent, ou que les plis pendent de travers après l’humidité."
+  },
+  "tv-bracket-installation": {
+    "angle": "la pose d’un support déjà fourni, avec des ancrages sûrs et le contrôle de l’articulation",
+    "benefits": [
+      "Des ancrages adaptés aux murs mixtes en blocs et en plaques de plâtre des Émirats",
+      "Une articulation fluide pour gérer les reflets au fil de la journée",
+      "Des visites limitées au support lorsque les écrans sont déjà sur place"
+    ],
+    "includes": [
+      "la fixation de la platine murale avec boulons et rondelles de charge adaptée",
+      "le montage des bras et les contrôles de couple aux points de pivot",
+      "la fixation de l’écran, avec aide au levage lorsque c’est nécessaire",
+      "un essai de course, sans contrainte sur les câbles"
+    ],
+    "outcome": "les bras du support se déplacent en douceur dans leur course, et la platine reste fermement ancrée",
+    "problems": [
+      "des bras articulés qui s’affaissent sous le poids de l’écran",
+      "des fixations trop courtes pour les murs en blocs",
+      "des supports incompatibles avec les écrans incurvés",
+      "des platines murales mal alignées avec les montants cachés"
+    ],
+    "tips": [
+      "Ne dépassez pas les charges nominales du support",
+      "Resserrez les boulons de pivot si le mouvement paraît lâche",
+      "Faites passer l’alimentation uniquement par des cheminements homologués"
+    ],
+    "title": "Pose de support de téléviseur",
+    "whenNeeded": "Organisez l’intervention lorsque vous possédez déjà un support, ou qu’il faut un support inclinable ou orientable aligné sur les assises."
+  },
+  "wall-art-installation": {
+    "angle": "l’accrochage sûr de cadres, de toiles et de compositions en galerie",
+    "benefits": [
+      "Protège les murs des trous d’essai à répétition",
+      "Des pièces lourdes accrochées avec des fixations de charge adaptée",
+      "Des compositions en galerie qui ont l’air voulues dans les entrées"
+    ],
+    "includes": [
+      "l’évaluation du poids et le choix des chevilles",
+      "le tracé de l’implantation, y compris les gabarits d’espacement de galerie",
+      "l’accrochage par anneaux en D, fil ou systèmes à tasseau",
+      "un réglage fin jusqu’à ce que les lignes paraissent justes à l’œil"
+    ],
+    "outcome": "les œuvres sont de niveau, les fixations conviennent au type de mur et au poids, et les compositions respectent l’espacement convenu",
+    "problems": [
+      "des cadres de travers sur des murs texturés",
+      "des miroirs lourds sur des crochets insuffisants",
+      "des murs galerie qui s’écartent des axes",
+      "un perçage dans des réseaux dissimulés, sans vérification"
+    ],
+    "tips": [
+      "Groupez d’abord les gabarits papier au sol pour les grands ensembles",
+      "Utilisez deux crochets sur les cadres larges pour éviter le basculement",
+      "Évitez d’accrocher directement au-dessus des radiateurs ou des sources de chaleur"
+    ],
+    "title": "Pose d’œuvres murales",
+    "whenNeeded": "Organisez l’intervention après une remise en décoration, ou lorsque des pièces lourdes demandent plus que de simples crochets à tableau."
+  },
+  "wall-mounted-tv-installation": {
+    "angle": "la fixation de téléviseurs, avec hauteur de vision, ventilation et cheminements de câbles prévus",
+    "benefits": [
+      "Libère le sol dans les appartements compacts",
+      "Une fixation sûre qui réduit le risque de basculement par rapport aux pieds",
+      "Un rendu plus net pour les séjours et les salles de réunion"
+    ],
+    "includes": [
+      "la vérification du choix de support par rapport au standard VESA et au poids",
+      "la fixation dans les montants ou par chevilles, avec contrôle du couple",
+      "l’accrochage de l’écran et un léger réglage d’inclinaison",
+      "un cheminement ou une dissimulation simple des câbles, dans le périmètre convenu"
+    ],
+    "outcome": "le téléviseur est fixé en sécurité à une hauteur confortable, avec un cheminement de câbles net lorsque c’est convenu",
+    "problems": [
+      "des écrans trop bas ou trop hauts pour la vision depuis le canapé",
+      "des câbles qui pendent sur les murs peints",
+      "une incertitude sur les chevilles pour cloisons creuses",
+      "une accumulation de chaleur derrière les panneaux, faute de dégagement"
+    ],
+    "tips": [
+      "Confirmez les longueurs HDMI avant de cacher les câbles",
+      "Laissez l’espace de ventilation indiqué par le fabricant",
+      "Photographiez les numéros de série avant la pose"
+    ],
+    "title": "Pose de téléviseur mural",
+    "whenNeeded": "Réservez lorsqu’un nouvel écran arrive, ou que les pieds prennent trop de place dans le séjour ou la chambre."
+  },
+  "wall-shelf-installation": {
+    "angle": "des étagères fixes montées de niveau sur maçonnerie, parpaing ou cloisons à ossature",
+    "benefits": [
+      "Du rangement sans sacrifier le sol dans les appartements compacts",
+      "Des chevilles adaptées qui limitent les dégâts sur les murs peints",
+      "Un alignement net, aussi bien pour l’exposition que pour le rangement utilitaire"
+    ],
+    "includes": [
+      "l’évaluation du type de mur et le choix des chevilles",
+      "le tracé de l’implantation avec alignement au niveau laser",
+      "la pose des équerres et des tablettes, avec fixations dissimulées lorsque c’est possible",
+      "des conseils de charge fondés sur les spécifications des équerres"
+    ],
+    "outcome": "les étagères sont de niveau, les fixations de charge adaptée conviennent au type de mur, et les charges restent dans des limites sûres",
+    "problems": [
+      "des étagères qui s’arrachent des cloisons creuses",
+      "un espacement irrégulier qui casse les lignes visuelles des séjours",
+      "l’absence de détecteur de montants, source de trous ratés à répétition",
+      "des livres ou des plantes lourds qui dépassent la charge des équerres"
+    ],
+    "tips": [
+      "Confirmez ce qui se trouve derrière le carrelage avant de percer",
+      "Répartissez le poids de façon régulière sur les longues portées",
+      "Évitez de stocker des liquides au-dessus des appareils électroniques sans plateau"
+    ],
+    "title": "Pose d’étagères murales",
+    "whenNeeded": "Organisez l’intervention lorsque du rangement est nécessaire au-dessus des bureaux, en cuisine, ou lorsque d’anciennes équerres cèdent."
+  },
+  "wardrobe-assembly": {
+    "angle": "le montage d’armoires intégrées et autonomes, avec des portes alignées et une fixation murale sûre",
+    "benefits": [
+      "Un bon alignement prolonge la durée de vie des coulisses et des charnières",
+      "La fixation murale améliore la sécurité des éléments hauts",
+      "Une seule visite couvre plusieurs meubles de chambre lorsque l’accès le permet"
+    ],
+    "includes": [
+      "le montage du cadre et la mise d’équerre sur des tapis de protection",
+      "la pose des portes et des tiroirs, avec réglage des coulisses",
+      "la fixation murale dans les montants ou avec des chevilles adaptées lorsque c’est prévu",
+      "la pose des poignées et de la quincaillerie à fermeture amortie"
+    ],
+    "outcome": "les caissons d’armoire sont d’équerre, les portes coulissent ou pivotent sans accroc, et les fixations anti-basculement sont posées lorsque c’est exigé",
+    "problems": [
+      "des panneaux lourds difficiles à soulever en sécurité dans les appartements",
+      "des rails coulissants désalignés qui font dérailler les portes",
+      "des plafonds irréguliers qui laissent des jeux visibles en haut",
+      "des tiroirs intérieurs qui accrochent les cadres"
+    ],
+    "tips": [
+      "Confirmez les dimensions de l’ascenseur avant le jour de livraison",
+      "Aspirez légèrement les rails pour garder les coulisses fluides",
+      "Laissez les portes d’armoire entrouvertes un moment après un temps humide"
+    ],
+    "title": "Montage d’armoires",
+    "whenNeeded": "Organisez l’intervention lorsque le nouveau rangement de chambre arrive, ou que les portes coulissantes coincent après la livraison."
+  },
+  "whiteboard-installation": {
+    "angle": "des tableaux blancs de bureau et de salle de formation, posés de niveau avec des fixations sûres",
+    "benefits": [
+      "Une surface d’écriture stable pour l’usage quotidien au bureau",
+      "Une hauteur correcte qui améliore l’ergonomie des salles de formation",
+      "Une fixation sûre, adaptée à la pression fréquente de l’effaçage"
+    ],
+    "includes": [
+      "l’implantation par rapport aux chaises et aux écrans",
+      "le choix de chevilles renforcées selon le poids du tableau",
+      "la pose des bacs et des porte-feutres",
+      "le retrait du film de protection et l’essuyage de la surface"
+    ],
+    "outcome": "les surfaces d’écriture sont de niveau, les fixations sont dimensionnées pour le poids du tableau, et les marqueurs s’effacent proprement après la pose",
+    "problems": [
+      "des tableaux qui vibrent à l’écriture à cause de fixations desserrées",
+      "une hauteur inadaptée aux réunions assises",
+      "des tableaux en acier lourds qui sollicitent trop les plaques de plâtre",
+      "des traces fantômes lorsque le film de protection est laissé trop longtemps"
+    ],
+    "tips": [
+      "Utilisez uniquement les nettoyants approuvés par le fabricant",
+      "Laissez aux tableaux adhésifs le temps de prise complet, le cas échéant",
+      "Prévoyez les axes de caméra dans les salles de réunion hybrides"
+    ],
+    "title": "Pose de tableaux blancs",
+    "whenNeeded": "Réservez pour de nouvelles salles de réunion, des espaces de formation, ou lorsque les tableaux se désolidarisent des murs."
+  }
+}

@@ -1,0 +1,871 @@
+{
+  "basement-plumbing": {
+    "angle": "lower-level drains, pumps, and utility sinks kept functional in villas and townhouses",
+    "benefits": [
+      "Protects stored belongings from slow seepage",
+      "Clarifies when specialist dewatering is required",
+      "Improves air quality in gym and cinema rooms",
+      "Supports insurance claims with dated observations"
+    ],
+    "includes": [
+      "Visual inspection of pumps, pits, and accessible lines",
+      "Trap priming or seal replacement on unused drains",
+      "Clearing of accessible blockages at floor gullies",
+      "Testing float switches and power supplies within scope",
+      "Notes if excavation or camera survey is needed"
+    ],
+    "outcome": "basement fixtures draining with pump and backflow issues identified clearly",
+    "problems": [
+      "Floor drains backing up after heavy rain",
+      "Sump pump not engaging when pit fills",
+      "Utility sink used for mop water clogging frequently",
+      "Musty smells from dried trap seals",
+      "Storage boxes blocking clean-out covers"
+    ],
+    "tips": [
+      "Pour water into unused floor traps monthly",
+      "Keep pump pits free of debris after gardening",
+      "Do not store chemicals that corrode pump seals nearby"
+    ],
+    "title": "Basement Plumbing",
+    "whenNeeded": "Arrange when basement bathrooms smell, sump pumps fail, or laundry sinks back up after storms."
+  },
+  "basin-installation-and-repair": {
+    "angle": "pedestal and vanity basins mounted with neat wastes and pop-up fittings",
+    "benefits": [
+      "Neater bathrooms for photography and viewings",
+      "Prevents slow damage to vanity carcasses",
+      "Correct anchors important for heavy stone tops",
+      "Pairs with tap upgrades same day"
+    ],
+    "includes": [
+      "Removal and reset with correct brackets",
+      "Waste and trap assembly with fresh washers",
+      "Silicone at deck or wall junction if agreed",
+      "Alignment with mirror and tile joints",
+      "Flow test through overflow paths"
+    ],
+    "outcome": "basins stable with pop-ups operating and no seepage at waste threads",
+    "problems": [
+      "Pedestal basins loose after door slams",
+      "Pop-up wastes stuck closed with hair",
+      "Vanity tops not level causing pooling",
+      "Overflow slots blocked with toothpaste crust",
+      "Wall-hung basins pulling anchors from gypsum"
+    ],
+    "tips": [
+      "Clean pop-up rods monthly in family baths",
+      "Do not stand on pedestal basins when cleaning mirrors",
+      "Use manufacturer recommended sealants on stone"
+    ],
+    "title": "Basin Installation and Repair",
+    "whenNeeded": "Service basins when cracks appear, taps move the whole unit, or vanity refreshes need new bowls."
+  },
+  "bathroom-plumbing": {
+    "angle": "showers, basins, and toilets serviced together for cohesive bathroom reliability",
+    "benefits": [
+      "Single visit for landlord bathroom punch lists",
+      "Less mould from chronic seepage into joinery",
+      "Better guest reviews for holiday homes",
+      "Coordinates with tiling or waterproofing if needed"
+    ],
+    "includes": [
+      "Checks on mixers, wastes, and accessible valves",
+      "Reseating of toilets and pan connectors",
+      "Trap cleaning and seal replacement",
+      "Silicone touch-ups at tubs and showers if agreed",
+      "Water test with shower curtain or screen in place"
+    ],
+    "outcome": "bathroom fixtures sealed, flowing, and draining with silicone and grouts noted if failing",
+    "problems": [
+      "Shower temperature swings when other taps open",
+      "Basin trap leaks staining vanity cabinets",
+      "Bidet spray leaking at wall plate",
+      "Bath waste slow after hair blockages",
+      "Extractor duct drips mistaken for pipe leaks"
+    ],
+    "tips": [
+      "Squeegee screens to reduce limescale on mixers",
+      "Do not store heavy items under fragile traps",
+      "Report rocking toilets before wax seals fail"
+    ],
+    "title": "Bathroom Plumbing",
+    "whenNeeded": "Use when en-suites develop multiple faults or you refresh bathrooms without full renovation."
+  },
+  "bathtub-installation-and-repair": {
+    "angle": "baths set with correct supports, wastes, and access panels for future service",
+    "benefits": [
+      "Luxury bath function without hidden leaks",
+      "Proper supports reduce squeaks and movement",
+      "Access panels planned for future trap cleaning",
+      "Aligns with waterproofing and tile trades"
+    ],
+    "includes": [
+      "Setting tub on frame or mortar bed as designed",
+      "Waste and overflow assembly with new gaskets",
+      "Connection of tap spouts or deck fillers if present",
+      "Silicone at wall and deck joints if agreed",
+      "Fill and drain test with inspection at access"
+    ],
+    "outcome": "bathtub stable with watertight waste and overflow connections tested",
+    "problems": [
+      "Flexing acrylic tubs cracking seals",
+      "Overflow gaskets weeping into ceilings",
+      "Access panels missing after previous repairs",
+      "Pop-up wastes not holding water for soaking",
+      "Jacuzzi jets out of scope but leaking at trim"
+    ],
+    "tips": [
+      "Do not store heavy shampoo racks on tub rims",
+      "Check access panels after every deep clean",
+      "Use non-slip mats that do not cover overflows"
+    ],
+    "title": "Bathtub Installation and Repair",
+    "whenNeeded": "Use when installing new tubs in renovations or fixing leaks at panels and overflows."
+  },
+  "bidet-installation": {
+    "angle": "hygiene sprays and bidet seats connected with backflow protection as supplied",
+    "benefits": [
+      "Improved hygiene without major renovation",
+      "Accessibility aid for limited mobility users",
+      "Modern amenity for premium rentals",
+      "Installed neatly without kinked hoses"
+    ],
+    "includes": [
+      "Assessment of pan compatibility and space",
+      "Installation of supplied bidet or seat kit",
+      "Connection to flex supply with valve",
+      "Seal checks at all joints after pressurising",
+      "User guidance on pressure settings"
+    ],
+    "outcome": "bidet or seat mounted with stable water connection and no leaks at tee points",
+    "problems": [
+      "Cold-only sprays uncomfortable in winter",
+      "Seats incompatible with skirted pans",
+      "Tees leaking in cramped cistern spaces",
+      "Electrical outlets missing for heated seats",
+      "Building rules on additional fixtures unclear"
+    ],
+    "tips": [
+      "Use gentle pressure until familiar",
+      "Dry fittings after cleaning days",
+      "Keep electrical outlets away from direct splash"
+    ],
+    "title": "Bidet Installation",
+    "whenNeeded": "Install when upgrading bathrooms for comfort, accessibility, or regional preferences."
+  },
+  "blocked-drain-clearance": {
+    "angle": "urgent clearance of fully blocked wastes during working hours",
+    "benefits": [
+      "Restores basic hygiene quickly in homes",
+      "Minimises business interruption for F&B units",
+      "Honest escalation when DIY risks pipe damage",
+      "Documents cause for deposit discussions"
+    ],
+    "includes": [
+      "Assessment whether blockage is local or main line",
+      "Auger or plunger work at fixture traps",
+      "Removal of accessible obstructions by hand",
+      "Sanitisation guidance after sewage exposure",
+      "Recommendation for jetting if roots or scale suspected"
+    ],
+    "outcome": "blockage cleared or bypassed temporarily with permanent fix scoped if deeper",
+    "problems": [
+      "Toilet plunger failing repeatedly",
+      "Multiple fixtures backing up together",
+      "Foul surge when washing machine pumps",
+      "Restaurant floor gullies solid with grease",
+      "Tenant items dropped into WC pans"
+    ],
+    "tips": [
+      "Stop using fixtures once backup begins",
+      "Keep children away from contaminated areas",
+      "Do not mix chemical cleaners after manual attempts"
+    ],
+    "title": "Blocked Drain Clearance",
+    "whenNeeded": "Call when toilets near overflow, kitchen sinks do not drain at all, or shops cannot mop floors legally."
+  },
+  "drain-cleaning": {
+    "angle": "restoring flow in sinks, showers, and floor lines without reckless chemical abuse",
+    "benefits": [
+      "Faster showers and dish washing daily",
+      "Less foul air in maid’s rooms and utilities",
+      "Avoids corrosive chemicals harming pipes",
+      "Can combine with several fixtures per visit"
+    ],
+    "includes": [
+      "Manual rodding or hand auger within trap reach",
+      "Trap removal and cleaning where practical",
+      "Flush testing with water volume checks",
+      "Basic advice on strainers and cleaning habits",
+      "Referral if main line needs camera jetting"
+    ],
+    "outcome": "drains flowing freely at accessible sections with advice on preventing repeat blocks",
+    "problems": [
+      "Slow shower trays after hair build-up",
+      "Greasy kitchen lines narrowed over years",
+      "Balcony drains blocked with potting soil",
+      "Office pantry sinks with coffee grounds",
+      "AC condensate tied into sinks causing slime"
+    ],
+    "tips": [
+      "Brush hair before showering in shared baths",
+      "Never pour cooking oil down sinks",
+      "Flush floor traps on balconies after sandstorms"
+    ],
+    "title": "Drain Cleaning",
+    "whenNeeded": "Schedule when water pools in showers, kitchen drains gurgle, or floor wastes smell."
+  },
+  "emergency-plumbing-repairs": {
+    "angle": "priority plumbing response during working hours to contain leaks and restore essentials",
+    "benefits": [
+      "Reduces damage to neighbours in stacked flats",
+      "Works within published hours—no false 24/7 promises",
+      "Clear communication for insurance photographs",
+      "Can escalate to wider repipe scope if required"
+    ],
+    "includes": [
+      "Remote triage by phone or WhatsApp where possible",
+      "Isolation of water at nearest valve",
+      "Temporary containment with mats and buckets",
+      "Permanent repair of accessible burst points",
+      "Guidance on drying and follow-up trades if needed"
+    ],
+    "outcome": "leaks stabilised or isolated with practical repairs completed same day where materials allow",
+    "problems": [
+      "Ceiling bulge from upstairs bathroom leak",
+      "Kitchen sink gushing after hose burst",
+      "Toilet overflow during family gatherings",
+      "No water at all after valve failure",
+      "Shop closure risk without staff toilets working"
+    ],
+    "tips": [
+      "Send photos and video while water is isolated",
+      "Move valuables from under active drips immediately",
+      "Keep building management contacts handy for riser access"
+    ],
+    "title": "Emergency Plumbing Repairs",
+    "whenNeeded": "Request priority help when active leaks threaten ceilings, water must be restored before guests arrive, or toilets cannot flush."
+  },
+  "flush-mechanism-repair": {
+    "angle": "servicing buttons, siphons, and dual-flush cartridges inside cisterns",
+    "benefits": [
+      "Restores confidence in guest bathrooms",
+      "Often fixes weak flush without changing pan",
+      "Reduces overflow stains on cistern lids",
+      "Quick parts swap during snagging visits"
+    ],
+    "includes": [
+      "Cistern lid removal with mat protection",
+      "Identification of mechanism brand and series",
+      "Replacement of cartridges, siphons, or buttons",
+      "Lubrication of push rods where appropriate",
+      "Water level verification after assembly"
+    ],
+    "outcome": "predictable dual and full flushes with internal parts matched to brand",
+    "problems": [
+      "Buttons sinking slowly after heat exposure",
+      "Plastic gears stripped on cheap replacements",
+      "Incompatible aftermarket kits jamming",
+      "Hidden leaks from cracked siphon bells",
+      "Office toilets abused with sanitary items"
+    ],
+    "tips": [
+      "Photograph internals before ordering rare parts",
+      "Keep cistern lids away from foot traffic",
+      "Educate staff on acceptable flush loads"
+    ],
+    "title": "Flush Mechanism Repair",
+    "whenNeeded": "Repair when buttons stay depressed, half-flush never activates, or cisterns need multiple presses."
+  },
+  "general-plumbing": {
+    "angle": "everyday water and waste repairs that keep kitchens and bathrooms usable",
+    "benefits": [
+      "One appointment instead of chasing several trades",
+      "Early catch of flex hose failures before floods",
+      "Clear priorities for renovation budgeting",
+      "Practical advice suited to UAE water quality"
+    ],
+    "includes": [
+      "Inspection of visible supplies and wastes",
+      "Adjustment of loose taps and trap connections",
+      "Replacement of common washers and cartridges where stocked",
+      "Basic drain clearing at accessible traps",
+      "Summary of items needing specialist or access works"
+    ],
+    "outcome": "water flows and drains as expected with follow-up scope noted for hidden pipework",
+    "problems": [
+      "Multiple minor leaks on a snagging list",
+      "Uncertain shut-off locations during emergencies",
+      "Mixing valves delivering lukewarm showers only",
+      "Old flex hoses bulging under sinks",
+      "Landlord turnover with unknown plumbing history"
+    ],
+    "tips": [
+      "Know where your main isolation valve is before travel",
+      "Replace braided hoses every few years as a precaution",
+      "Avoid chemical drain cleaners on old PVC joints"
+    ],
+    "title": "General Plumbing",
+    "whenNeeded": "Book general plumbing when drips, slow drains, or loose fixtures appear and you want one visit to triage several items."
+  },
+  "kitchen-plumbing": {
+    "angle": "sink, dishwasher, and filter connections kept watertight in busy UAE kitchens",
+    "benefits": [
+      "Protects expensive kitchen carcasses from swelling",
+      "Keeps restaurants and cafés serving during service",
+      "Safer than ignoring bulging braided hoses",
+      "Pairs with appliance installation visits"
+    ],
+    "includes": [
+      "Inspection of supply valves and flex lines",
+      "Dishwasher inlet and waste connection checks",
+      "Trap dismantle and clean where accessible",
+      "Installation of simple inline filters if supplied",
+      "Advice on grease habits and strainer use"
+    ],
+    "outcome": "kitchen water connections secure with clearances for appliance servicing",
+    "problems": [
+      "Dishwasher waste overflowing into sink cabinets",
+      "Instant boiling tap leaking at filter head",
+      "Greasy traps clogging weekly",
+      "Loose P-traps after tenant appliance swaps",
+      "Water hammer when washing machine valves slam"
+    ],
+    "tips": [
+      "Use sink strainers and empty grease into bins",
+      "Replace dishwasher hoses when moving units",
+      "Test shut-offs gently—many seize if never used"
+    ],
+    "title": "Kitchen Plumbing",
+    "whenNeeded": "Call when under-sink cabinets smell damp, dishwashers back up, or new appliances need water points."
+  },
+  "leak-detection-and-repair": {
+    "angle": "finding hidden and visible leaks before finishes and electrics are damaged further",
+    "benefits": [
+      "Stops repeat painter and plaster call-outs",
+      "Protects neighbouring units in apartment blocks",
+      "Supports factual discussions with insurers",
+      "Often cheaper than guessing and chasing wrong trades"
+    ],
+    "includes": [
+      "Meter isolation tests where accessible",
+      "Visual and listening survey of wet areas",
+      "Opening of hatches or inspection panels if agreed",
+      "Repair of pinpointed joints or fittings",
+      "Recommendation for thermal or acoustic specialists if inconclusive"
+    ],
+    "outcome": "leak source isolated or narrowed with repair completed on exposed sections",
+    "problems": [
+      "Unexplained DEWA bill increases",
+      "Warm damp patches on tiled walls",
+      "Hissing behind built-in wardrobes",
+      "Irrigation cross-connection suspected on villas",
+      "Repeated ceiling repairs without upstream fix"
+    ],
+    "tips": [
+      "Note times when leaks worsen—often pressure related",
+      "Avoid drilling tiles before tests confirm location",
+      "Photograph meter readings over several days"
+    ],
+    "title": "Leak Detection and Repair",
+    "whenNeeded": "Investigate when water meters spin at idle, stains grow without obvious source, or walls sound hissing."
+  },
+  "leaking-tap-repair": {
+    "angle": "stopping drips and seepage at mixers and pillar taps without unnecessary replacements",
+    "benefits": [
+      "Water savings noticeable on villa meters",
+      "Quieter nights in open-plan flats",
+      "Extends life of expensive designer mixers",
+      "Quick win on long maintenance lists"
+    ],
+    "includes": [
+      "Shut-off at local stops or mains if needed",
+      "Disassembly and inspection of cartridges or washers",
+      "Descaling of aerators and flow restrictors",
+      "Reassembly with new seals where stocked",
+      "Flow and temperature test on mixers"
+    ],
+    "outcome": "taps shutting off cleanly with cartridges or washers renewed as appropriate",
+    "problems": [
+      "Constant drip from kitchen mixer overnight",
+      "Hot side leaking only when geyser pressure rises",
+      "Outdoor hose bib seeping when closed",
+      "Loose handles on guest bathroom basins",
+      "Tenant damage to aerators causing spray mess"
+    ],
+    "tips": [
+      "Wipe mixers dry daily to spot new seepage early",
+      "Do not overtighten handles—cartridges crack",
+      "Use soft cloths on plated finishes"
+    ],
+    "title": "Leaking Tap Repair",
+    "whenNeeded": "Fix taps when drips keep you awake, handles spin loosely, or limescale stains basins."
+  },
+  "pipe-repair-and-replacement": {
+    "angle": "repairing accessible supply and waste pipes with proper joints for UAE conditions",
+    "benefits": [
+      "Stops progressive water damage in walls",
+      "Uses materials suited to local water chemistry",
+      "Clear boundary when full repipe is wiser",
+      "Coordinates with tiling if access panels needed"
+    ],
+    "includes": [
+      "Isolation and draining of affected sections",
+      "Cut-out of damaged pipe with square joints",
+      "Couplers, elbows, or compression fixes as suitable",
+      "Support hanger adjustment to stop stress",
+      "Pressure or flood test after repair"
+    ],
+    "outcome": "sound pipe sections with pressure-tested repairs where scope allows",
+    "problems": [
+      "Pinhole leaks in old copper risers",
+      "PVC waste cracked from overtightened clamps",
+      "Flexible pipes perished in hot utility rooms",
+      "DIY joints leaking at manifold cabinets",
+      "Irrigation lines crossing potable by mistake"
+    ],
+    "tips": [
+      "Do not ignore small green stains on copper",
+      "Support horizontal runs to prevent sagging",
+      "Label irrigation valves separately from potable"
+    ],
+    "title": "Pipe Repair and Replacement",
+    "whenNeeded": "Act when pipes burst, corrode, or leak at fittings after renovations or age."
+  },
+  "plumbing-fixture-replacement": {
+    "angle": "swapping worn fixtures across baths and kitchens with matched finishes",
+    "benefits": [
+      "Cohesive look for marketing photos",
+      "Reduces callbacks from partial DIY swaps",
+      "Opportunity to upgrade to water-saving models",
+      "Efficient multi-room replacements"
+    ],
+    "includes": [
+      "Removal of specified fixtures carefully",
+      "Installation of owner-supplied replacements",
+      "New seals and tapes at all threads",
+      "Operation tests for each replaced item",
+      "Disposal or recycling notes if required"
+    ],
+    "outcome": "matching fixtures installed with old units removed if agreed",
+    "problems": [
+      "Mismatched taps after partial upgrades",
+      "Corroded shower rails in coastal flats",
+      "Broken soap dispensers leaking into walls",
+      "Office toilets with vandalised flush buttons",
+      "Holiday homes needing durable commercial-grade parts"
+    ],
+    "tips": [
+      "Buy spare cartridges when changing brands",
+      "Photograph old setups before removal",
+      "Match finish samples under your lighting"
+    ],
+    "title": "Plumbing Fixture Replacement",
+    "whenNeeded": "Replace when styles update, chrome fails, or move-out lists demand uniform fittings."
+  },
+  "running-toilet-repair": {
+    "angle": "stopping cisterns that never stop filling or seeping into bowls unnoticed",
+    "benefits": [
+      "Immediate savings on water accounts",
+      "Quieter homes and hotel rooms",
+      "Simple fix before replacing entire suites",
+      "Goodwill gesture for long-term tenants"
+    ],
+    "includes": [
+      "Dye or paper test to confirm bowl seepage",
+      "Replacement of flappers, seals, or fill valves",
+      "Adjust float height or convert to modern valves",
+      "Clean sediment from fill valve screens",
+      "Post-repair silence check for an hour"
+    ],
+    "outcome": "fill cycles ending cleanly with flapper or valve seals seating properly",
+    "problems": [
+      "Ghost flushing in vacant rentals",
+      "High DEWA bills with no visible leak",
+      "Overflow tube constantly trickling",
+      "Siphon jets blocked reducing flush power",
+      "Improperly adjusted float arms after DIY fixes"
+    ],
+    "tips": [
+      "Replace flappers when they feel stiff or glossy",
+      "Avoid blue drop-in tablets that corrode rubbers",
+      "Note if building pressure spikes at night"
+    ],
+    "title": "Running Toilet Repair",
+    "whenNeeded": "Act when you hear water cycling at night, bowls shimmer with flow, or meters tick with all taps off."
+  },
+  "shower-head-replacement": {
+    "angle": "quick upgrades to heads and rails for better spray and water efficiency",
+    "benefits": [
+      "Inexpensive refresh before guest seasons",
+      "Water-saving models reduce bills slightly",
+      "Fixes annoying drips without valve work",
+      "Multiple bathrooms done in one visit"
+    ],
+    "includes": [
+      "Removal of old head or rail kit",
+      "Cleaning threads and applying seal tape",
+      "Installation of owner-supplied heads",
+      "Flow test at typical building pressure",
+      "Tips for descaling schedules"
+    ],
+    "outcome": "new heads sealed with thread tape and aligned for comfortable spray",
+    "problems": [
+      "Limescale blocking half the nozzles",
+      "Dripping at swivel joints overnight",
+      "Plastic heads cracked from drops",
+      "Inconsistent spray after low-rise pressure drops",
+      "Short-term rental wear needing refresh"
+    ],
+    "tips": [
+      "Soak heads in vinegar—not on gold finishes",
+      "Hand-tighten then quarter turn with wrench only if needed",
+      "Match thread sizes before buying imports"
+    ],
+    "title": "Shower Head Replacement",
+    "whenNeeded": "Replace when nozzles clog, fittings leak at threads, or you want water-saving models."
+  },
+  "shower-installation-and-repair": {
+    "angle": "showers delivering even pressure with watertight mixes of valves, heads, and trays",
+    "benefits": [
+      "Safer family bathing with stable temps",
+      "Supports holiday rental five-star feel",
+      "Catches leaks before major tile removal",
+      "Coordinates with glass and tiling trades"
+    ],
+    "includes": [
+      "Mounting of rails, heads, and valves as supplied",
+      "Connection to existing supplies with pressure checks",
+      "Replacement of hoses and cartridges where faulty",
+      "Silicone at tray or curb joints if in scope",
+      "Flow and temperature balancing tests"
+    ],
+    "outcome": "showers performing with stable temperature and no leaks at hose or valve entries",
+    "problems": [
+      "Temperature scalding when other taps open",
+      "Concealed valves leaking into walls",
+      "Low pressure on top-floor apartments",
+      "Tray leaks staining ceilings below",
+      "Hand showers dropping from weak mounts"
+    ],
+    "tips": [
+      "Descale shower heads monthly in hard water areas",
+      "Report trickling valves early—cartridges wear",
+      "Use mats that do not block tray drains"
+    ],
+    "title": "Shower Installation and Repair",
+    "whenNeeded": "Install or repair when renovating wet rooms, fixing leaks behind tiles, or upgrading rain heads."
+  },
+  "silicone-sealing-around-sinks-and-baths": {
+    "angle": "fresh sanitary silicone keeping water on the right side of joints",
+    "benefits": [
+      "Stops slow leaks that warp joinery",
+      "Fresh appearance for handover photos",
+      "Healthier bathrooms with less mould regrowth",
+      "Pairs with plumbing fixture swaps same day"
+    ],
+    "includes": [
+      "Removal of loose old sealant where accessible",
+      "Surface degrease and dry time check",
+      "Application of mould-resistant sanitary silicone",
+      "Tooling for consistent bead profile",
+      "Cure time guidance before wet use"
+    ],
+    "outcome": "smooth silicone lines curing to a watertight finish where substrates are sound",
+    "problems": [
+      "Black mould along bath rims",
+      "Peeling caulk letting water into cabinets",
+      "Tenant allergies triggered by bathroom sealants",
+      "Discoloured silicone ruining hotel inspections",
+      "Gaps after vibrating washing machines"
+    ],
+    "tips": [
+      "Ventilate during and after application",
+      "Do not bath until full cure per tube label",
+      "Use exhaust fans to slow mould return"
+    ],
+    "title": "Silicone Sealing Around Sinks and Baths",
+    "whenNeeded": "Reseal when mould wins, gaps open after cleaning, or new fixtures need neat beads."
+  },
+  "sink-installation-and-repair": {
+    "angle": "kitchen and utility sinks set level with reliable wastes and supply connections",
+    "benefits": [
+      "Dry cabinets protect stored goods and electrics",
+      "Proper support reduces noise when washing pots",
+      "Matches new kitchen cabinet installs cleanly",
+      "Fixes odours from dry or cracked traps"
+    ],
+    "includes": [
+      "Removal of old sink if replacement agreed",
+      "Clips or brackets set for top or undermount",
+      "Waste and overflow assembly with new seals",
+      "Hot and cold connection with new flex lines",
+      "Leak test with bowl filled and drained"
+    ],
+    "outcome": "sinks sealed to tops with traps aligned and no weeping at basket strainers",
+    "problems": [
+      "Granite tops needing undermount adjustments",
+      "Stainless sinks flexing and breaking sealant",
+      "Leaks at garbage disposal flanges",
+      "Loose basket strainers cutting gaskets",
+      "Laundry sinks cracking from vibration"
+    ],
+    "tips": [
+      "Avoid storing heavy pots that bang thin sinks",
+      "Use gentle cleaners on composite surfaces",
+      "Run water after long holidays to refill traps"
+    ],
+    "title": "Sink Installation and Repair",
+    "whenNeeded": "Install or repair when countertops renew, sinks crack, or leaks stain cabinets."
+  },
+  "tap-and-faucet-installation": {
+    "angle": "installing new mixers and taps with correct seals for UAE hard water",
+    "benefits": [
+      "Fresh look for kitchen and bath refreshes",
+      "Modern cartridges easier for elderly users",
+      "Correct mounting reduces hidden deck leaks",
+      "Can align with kitchen cabinet installation timing"
+    ],
+    "includes": [
+      "Removal of existing tap and cleaning of deck holes",
+      "Installation of supplied mixer with manufacturer gaskets",
+      "Connection to flex supplies with new olives if needed",
+      "Flush of lines to clear debris before aerator fit",
+      "User tips for limescale care"
+    ],
+    "outcome": "taps mounted square with smooth operation and no weeping at bases",
+    "problems": [
+      "Old taps pitted and stiff to turn",
+      "New vanity requiring taller mixers",
+      "Wall-mounted taps needing precise alignment",
+      "Pull-out sprayers tangling under counters",
+      "Commercial prep sinks needing foot pedals out of scope"
+    ],
+    "tips": [
+      "Flush new pipes before attaching delicate cartridges",
+      "Keep spare cartridges if brand provides them",
+      "Use mild descalers—not abrasive pads on chrome"
+    ],
+    "title": "Tap and Faucet Installation",
+    "whenNeeded": "Install when upgrading finishes, replacing corroded fittings, or matching new basins and sinks."
+  },
+  "toilet-installation-and-replacement": {
+    "angle": "setting new pans and cisterns with correct falls and quiet fills",
+    "benefits": [
+      "Modern dual flush supports sustainability goals",
+      "Opportunity to reset silicone at floor junctions",
+      "Improves hygiene in high-traffic offices",
+      "Coordinates with tiling and waterproofing schedules"
+    ],
+    "includes": [
+      "Removal and disposal of old suite if agreed",
+      "New wax or gasket seal and floor fixings",
+      "Connection to existing soil and supply points",
+      "Cistern mounting and button alignment",
+      "Multiple flush tests with paper load"
+    ],
+    "outcome": "toilet securely fixed with clean silicone and tested dual-flush operation",
+    "problems": [
+      "Cracked pans after improper tightening",
+      "Outdated suites wasting water per flush",
+      "Wall-hung frames with unknown brand parts",
+      "Short rough-in distances in older flats",
+      "Accessibility needs for raised height pans"
+    ],
+    "tips": [
+      "Wait for silicone to cure before heavy cleaning",
+      "Keep spare push buttons if style is unusual",
+      "Do not caulk entire base—leave weep gap at rear"
+    ],
+    "title": "Toilet Installation and Replacement",
+    "whenNeeded": "Replace when pans crack, styles update during renovation, or wall-hung units need competent fitting."
+  },
+  "toilet-repair": {
+    "angle": "fixing flush, fill, and seal issues so toilets flush properly without rocking",
+    "benefits": [
+      "Lower water bills from silent leaks",
+      "Fewer tenant complaints in multi-unit blocks",
+      "Avoids ceiling damage from slow seal failures",
+      "Restores accessibility for elderly households"
+    ],
+    "includes": [
+      "Inspection of cistern internals and flush mechanisms",
+      "Replacement of fill and flush valves where stocked",
+      "Tightening of pan fixings and resealing if agreed",
+      "Water level adjustment for optimal flush",
+      "Leak check at base and supply flex"
+    ],
+    "outcome": "toilet stable with complete flushes and silent fill after adjustments",
+    "problems": [
+      "Half flush leaving waste behind",
+      "Fill valve hissing for hours",
+      "Pan moves breaking wax seals slowly",
+      "Dual-flush buttons stuck after sand ingress",
+      "Commercial toilets timing out too quickly"
+    ],
+    "tips": [
+      "Do not use brick weights in cisterns—adjust valves instead",
+      "Clean fill filters when pressure drops",
+      "Report rocking early—floors chip if ignored"
+    ],
+    "title": "Toilet Repair",
+    "whenNeeded": "Repair when flushes are weak, water runs continuously, or pans wobble on floors."
+  },
+  "water-filter-installation": {
+    "angle": "under-sink and inline filters mounted for easier cartridge changes",
+    "benefits": [
+      "Better tasting water for drinking and cooking",
+      "Appliance longevity for landlords furnishing units",
+      "Easy future swaps without flooding cabinets",
+      "Pairs with kitchen plumbing inspections"
+    ],
+    "includes": [
+      "Mounting bracket under sink or on wall",
+      "Connection to cold supply with dedicated valve",
+      "Flush procedure per cartridge type",
+      "Drip tray or towel protection during install",
+      "Written change interval reminder"
+    ],
+    "outcome": "filters plumbed with shut-offs and leaks checked at first flush",
+    "problems": [
+      "Scale damaging coffee machines quickly",
+      "Chlorine taste in Marina apartments",
+      "No shut-off making cartridge swaps messy",
+      "Oversized units not fitting under sinks",
+      "Tenants unsure when to change cartridges"
+    ],
+    "tips": [
+      "Replace cartridges on schedule—not when taste returns only",
+      "Turn off valve before swaps",
+      "Use manufacturer OEM cartridges when possible"
+    ],
+    "title": "Water Filter Installation",
+    "whenNeeded": "Install when drinking water taste bothers you, appliances need scale protection, or landlords specify filters."
+  },
+  "water-heater-installation-and-repair": {
+    "angle": "electric and storage heaters connected safely with relief paths and stable mounts",
+    "benefits": [
+      "Restores comfort for families and staff accommodation",
+      "Proper relief routing protects ceilings and walls",
+      "Identifies when replacement beats repeated element fixes",
+      "Documents install for warranty claims"
+    ],
+    "complianceNote": "Electrical connections for water heaters must meet UAE requirements and may require appropriately licensed electricians where regulations apply.",
+    "includes": [
+      "Electrical and plumbing isolation coordination",
+      "Mounting brackets and pressure relief piping",
+      "Connection to hot and cold supplies with valves",
+      "Element or thermostat replacement where repairable",
+      "Commissioning and temperature setting advice"
+    ],
+    "outcome": "heater producing reliable hot water with safety valve discharge routed correctly",
+    "problems": [
+      "Tripping electrics when heater engages",
+      "Rusty water from failing tanks",
+      "Pressure relief dripping constantly",
+      "Undersized units for large villas",
+      "Heaters mounted without earthquake straps"
+    ],
+    "tips": [
+      "Set temperature safely for children and elderly",
+      "Flush tanks periodically per manufacturer",
+      "Keep area clear for service access"
+    ],
+    "title": "Water Heater Installation and Repair",
+    "whenNeeded": "Service when hot water fails, heaters leak from tanks, or new units replace aged cylinders."
+  },
+  "water-heater-maintenance": {
+    "angle": "periodic care that extends heater life and keeps relief valves functioning",
+    "benefits": [
+      "Fewer surprise cold showers for tenants",
+      "Lower element burnout from overheated spots",
+      "Safety valve confidence before peak winter use",
+      "Maintenance records for managed portfolios"
+    ],
+    "includes": [
+      "Visual inspection of tank, pipes, and pan",
+      "Test of pressure relief discharge path",
+      "Drain flush of sediment where design allows",
+      "Check of electrical isolator labelling nearby",
+      "Advice on replacement timing if rust visible"
+    ],
+    "outcome": "heater operating cleaner with anode and valve checks noted in a simple log",
+    "problems": [
+      "Popping noises from sediment layers",
+      "Slow recovery after consecutive showers",
+      "Relief valve seized from never being tested",
+      "Scale reducing efficiency in hard water areas",
+      "Landlords unaware of last service date"
+    ],
+    "tips": [
+      "Test relief valves gently per manufacturer",
+      "Keep floor pans clear of stored chemicals",
+      "Schedule before house guests arrive"
+    ],
+    "title": "Water Heater Maintenance",
+    "whenNeeded": "Plan maintenance annually or when sediment reduces hot water volume noticeably."
+  },
+  "water-pressure-troubleshooting": {
+    "angle": "diagnosing weak or surging pressure affecting showers and appliances",
+    "benefits": [
+      "Better appliance performance and fewer errors",
+      "Improved shower experience for top-floor flats",
+      "Protects hoses from burst due to high pressure",
+      "Documents issues for landlord negotiations"
+    ],
+    "includes": [
+      "Gauge checks at hose bibs or washing points if available",
+      "Inspection of PRVs and stop valves",
+      "Cleaning of aerators and inlet screens",
+      "Discussion with building management when riser related",
+      "Recommendations for pumps or PRV replacement if needed"
+    ],
+    "outcome": "pressure causes explained with fixes applied on accessible valves and regulators",
+    "problems": [
+      "Shower barely running while kitchen tap is fine",
+      "Pressure hammer when closing mixer taps",
+      "Building booster schedules unknown to tenants",
+      "Clogged inlet filters on washing machines",
+      "PRV failed causing high pressure leaks"
+    ],
+    "tips": [
+      "Clean washing machine filters quarterly",
+      "Open taps slowly to reduce hammer",
+      "Note times of day when pressure drops"
+    ],
+    "title": "Water Pressure Troubleshooting",
+    "whenNeeded": "Investigate when upper floors lose pressure at peak hours or washing machines error out."
+  },
+  "water-supply-line-repairs": {
+    "angle": "fixing feeds to fixtures, appliances, and outdoor taps with secure terminations",
+    "benefits": [
+      "Prevents catastrophic cabinet floods",
+      "Easier appliance swaps for tenants",
+      "Supports DEWA efficiency with no hidden flow",
+      "Pairs with water heater and filter work"
+    ],
+    "includes": [
+      "Replacement of flex hoses and angle stops",
+      "Sweating or push-fit repairs on copper where licensed scope allows",
+      "Installation of appliance isolation valves",
+      "Labelling of lines in manifolds if requested",
+      "Leak test at working pressure"
+    ],
+    "outcome": "supply lines tight with valves accessible for future service",
+    "problems": [
+      "Bulging braided hoses ready to fail",
+      "Corroded gate valves that will not close",
+      "Tees added without support causing cracks",
+      "Outdoor kitchen feeds leaking in summer heat",
+      "Unlabelled lines making isolation risky"
+    ],
+    "tips": [
+      "Replace hoses when moving fridges and dishwashers",
+      "Exercise stop valves gently twice a year",
+      "Use quality hoses—not cheapest online listings"
+    ],
+    "title": "Water Supply Line Repairs",
+    "whenNeeded": "Repair when flex lines burst, mains feed leaks in cabinets, or new appliances need dedicated lines."
+  }
+}

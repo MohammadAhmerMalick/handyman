@@ -1,0 +1,529 @@
+{
+  "caulking-and-sealant-replacement": {
+    "angle": "le renouvellement du mastic défaillant aux plinthes, aux fenêtres et dans les pièces d’eau, avec le produit adapté à chaque joint",
+    "benefits": [
+      "Empêche les infiltrations d’eau cachées dans la menuiserie",
+      "Des lignes nettes pour les photos de remise des clés",
+      "S’associe efficacement aux travaux de silicone de plomberie",
+      "Améliore la maîtrise de la poussière de climatisation aux jeux de fenêtre"
+    ],
+    "includes": [
+      "Retrait de l’ancien matériau descellé lorsqu’il est accessible",
+      "Vérification que la surface est propre et sèche",
+      "Application d’un mastic peinturable ou sanitaire selon le cas",
+      "Lissage pour un profil régulier",
+      "Conseils de séchage avant nettoyage ou peinture"
+    ],
+    "outcome": "les cordons neufs se lissent proprement, et les temps de séchage sont expliqués avant tout usage sous l’eau",
+    "problems": [
+      "Mastic rétracté aux jonctions baignoire-carrelage",
+      "Jeux aux fenêtres extérieures qui laissent entrer la poussière pendant les shamals",
+      "Jeux de crédence de cuisine qui retiennent la graisse",
+      "Mastic coupe-feu manquant après des traversées de canalisations",
+      "Peintures de bailleur qui lâchent en haut des plinthes"
+    ],
+    "tips": [
+      "Ne peignez pas un silicone sanitaire qui n’a pas fini de sécher",
+      "Ventilez bien pendant l’application",
+      "Utilisez un fond de joint dans les jeux profonds avant de mastiquer"
+    ],
+    "title": "Remplacement des mastics et joints",
+    "whenNeeded": "Refaites les joints lorsque des jeux s’ouvrent, que la peinture se décolle aux raccords, ou que les salles de bain montrent des cordons noircis."
+  },
+  "curtain-and-blind-installation": {
+    "angle": "des rails, tringles et stores montés droit sur les fenêtres en baie et les portes coulissantes courantes dans les logements des Émirats",
+    "benefits": [
+      "Un meilleur sommeil et une climatisation plus efficace grâce à l’occultation",
+      "Des finitions soignées, appréciées dans les appartements avec vue à Marina",
+      "Une gestion des cordons sûre pour les enfants dans les maisons familiales",
+      "S’accorde avec les plannings de peinture et de nettoyage"
+    ],
+    "includes": [
+      "Confirmation des mesures avant perçage",
+      "Pose des supports, avec panneaux de renfort si nécessaire",
+      "Réglage du niveau et du recouvrement pour les paires occultantes",
+      "Retouche des ourlets seulement si c’est convenu dans le périmètre",
+      "Démonstration d’utilisation des cordons et des clips de sécurité enfant"
+    ],
+    "outcome": "les habillages de fenêtre fonctionnent en douceur, avec des supports ancrés dans la structure",
+    "problems": [
+      "Larges coulissants qui demandent un appui supplémentaire à mi-portée",
+      "Fixations au plafond dans les plaques de plâtre, sans renfort",
+      "Stores qui gênent les poignées des fenêtres oscillo-battantes",
+      "Courbes de baie avec des jours qui laissent passer le soleil du matin",
+      "Câbles de motorisation à cheminer proprement jusqu’aux prises"
+    ],
+    "tips": [
+      "Défroissez ou repassez les rideaux selon les conseils du tissu avant la pose",
+      "Nettoyez les rails après les journées de sable aux fenêtres",
+      "Resserrez les supports après le premier mois d’utilisation"
+    ],
+    "title": "Pose de rideaux et de stores",
+    "whenNeeded": "Posez-les après l’ameublement, lorsque la décoloration au soleil s’aggrave, ou lors du remplacement d’un système manuel par un kit motorisé dans le périmètre prévu."
+  },
+  "door-handle-and-lock-replacement": {
+    "angle": "le remplacement des poignées et des cylindres pour que les portes ferment en douceur, sans les abîmer",
+    "benefits": [
+      "Un rafraîchissement de la sécurité sans remplacer les portes entières",
+      "Une meilleure première impression lors des visites de location",
+      "Met fin à l’agacement quotidien des pênes qui coincent",
+      "Se coordonne avec les réparations de charnières lors de la même visite"
+    ],
+    "includes": [
+      "Dépose de l’ancienne quincaillerie sans éclater les portes",
+      "Pose des poignées ou cylindres fournis",
+      "Réglages d’alignement du pêne et de la gâche",
+      "Remise des clés et inventaire des doubles",
+      "Orientation pour les organigrammes de clés à profil restreint"
+    ],
+    "outcome": "les poignées sont alignées, les pênes s’engagent et les clés fonctionnent en douceur",
+    "problems": [
+      "Poignées desserrées qui laissent apparaître des arêtes vives de carré",
+      "Bailleurs qui ont besoin de nouveaux cylindres entre deux locataires",
+      "Verrous de salle de bain qui n’indiquent plus si la pièce est occupée",
+      "Serrures connectées qui exigent un diamètre de perçage différent",
+      "Poignées extérieures corrodées sur les portes exposées à la mer"
+    ],
+    "tips": [
+      "Conservez les anciens cylindres jusqu’à l’essai des nouvelles clés",
+      "Lubrifiez les pênes avec des produits sans graphite",
+      "Vérifiez les règles des portes coupe-feu avant de changer la quincaillerie"
+    ],
+    "title": "Remplacement de poignées et de serrures",
+    "whenNeeded": "Remplacez-les lorsque les clés coincent, que les poignées s’affaissent, ou que vous changez le cylindre entre deux locataires."
+  },
+  "emergency-handyman-services": {
+    "angle": "une aide prioritaire le jour même, pendant les heures d’ouverture, pour des réparations urgentes qui ne relèvent pas d’un spécialiste",
+    "benefits": [
+      "Une réponse prioritaire réaliste, sans annonce d’un service 24 h/24 et 7 j/7",
+      "Fait le lien jusqu’à l’arrivée des métiers agréés",
+      "Réduit le stress du propriétaire face à des délais serrés",
+      "Documente les actions pour l’assurance ou les bailleurs"
+    ],
+    "includes": [
+      "Triage téléphonique pour confirmer que le périmètre d’un homme à tout faire convient",
+      "Passage le jour même lorsque le planning le permet, pendant les heures d’ouverture",
+      "Mesures provisoires de mise en sécurité lorsque c’est nécessaire",
+      "Réparation définitive lorsque les matériaux disponibles le permettent",
+      "Prochaines étapes claires si des spécialistes doivent prendre le relais"
+    ],
+    "outcome": "les points urgents sont stabilisés ou mis en sécurité, et une réparation plus complète est planifiée si le temps ou les pièces l’exigent",
+    "problems": [
+      "Loquet d’entrée cassé avant un départ en avion",
+      "Étagère en verre desserrée, prête à tomber dans un commerce",
+      "Infiltration d’eau qui demande un calfeutrement provisoire",
+      "Risques de trébuchement sur des profils de transition de sol desserrés",
+      "Problème de sécurité enfant avec une moulure abîmée et coupante"
+    ],
+    "tips": [
+      "Envoyez tôt le point de localisation et les consignes d’accès",
+      "Coupez l’eau et l’électricité lorsque c’est sans danger, avant notre arrivée",
+      "Tenez les enfants et les animaux à l’écart des zones de travail"
+    ],
+    "title": "Dépannage urgent d’homme à tout faire",
+    "whenNeeded": "Demandez une intervention prioritaire lorsqu’une porte ne ferme plus à clé, qu’une fuite doit être contenue, ou qu’un commerce doit pouvoir ouvrir en sécurité."
+  },
+  "flat-pack-furniture-assembly": {
+    "angle": "la patience d’un spécialiste pour les systèmes en kit, avec excentriques, tourillons et fixations cachées",
+    "benefits": [
+      "Une installation plus rapide pour les mutations professionnelles",
+      "Moins de dégâts sur les sols stratifiés causés par le traînage",
+      "Une qualité constante sur de nombreux meubles identiques",
+      "Peut se combiner le même jour avec la pose de rideaux et la fixation de téléviseur"
+    ],
+    "includes": [
+      "Inventaire comparé aux listes de colisage",
+      "Montage dans l’ordre, avec contrôles d’équerrage",
+      "Remplacement des excentriques foirés lorsque des pièces de rechange existent",
+      "Mise à niveau sur les carrelages irréguliers des villas",
+      "Remise des pièces restantes, étiquetées pour le rangement"
+    ],
+    "outcome": "les meubles en kit sont d’équerre, les excentriques sont serrés et les pieds sont réglés sur le carrelage",
+    "problems": [
+      "Excentriques mal enclenchés qui provoquent un jeu",
+      "Panneaux arrière cloués avant le contrôle d’équerrage",
+      "Quincaillerie métrique et impériale mélangée dans le même carton",
+      "Notices qui renvoient à d’anciennes révisions de la référence",
+      "Chants abîmés par un montage solo trop précipité"
+    ],
+    "tips": [
+      "Ouvrez les cartons dans la pièce où le meuble restera",
+      "Utilisez une visseuse sans fil à faible couple pour les excentriques",
+      "Signalez les pièces manquantes au vendeur avant de forcer les étapes"
+    ],
+    "title": "Montage de meubles en kit",
+    "whenNeeded": "Choisissez ce service lorsque plusieurs cartons de meubles en kit arrivent pour meubler une location neuve ou réaménager un bureau."
+  },
+  "general-handyman-services": {
+    "angle": "une aide compétente pour les petits travaux qui n’exigent pas une équipe spécialisée complète",
+    "benefits": [
+      "Retire les tâches tenaces de votre liste du week-end",
+      "Réduit les blessures liées au bricolage sur échelle",
+      "Périmètre souple, des appartements aux villas",
+      "S’associe bien aux plans d’entretien préventif"
+    ],
+    "includes": [
+      "Examen de votre liste de réserves écrite ou photographiée",
+      "Outils et fixations pour les tâches domestiques courantes",
+      "Perçage avec maîtrise de la poussière lorsque c’est possible",
+      "Petites retouches dans le périmètre convenu",
+      "Orientation honnête lorsque des limites d’agrément s’appliquent"
+    ],
+    "outcome": "les tâches d’homme à tout faire convenues sont terminées, avec des zones de travail rangées et de simples notes d’entretien",
+    "problems": [
+      "Montages IKEA à moitié faits puis abandonnés",
+      "Supports de rideaux desserrés après des nuits venteuses",
+      "Crochets de tableaux qui lâchent sur les cloisons en plaques de plâtre",
+      "Petites fuites qui attendent à côté d’autres corvées",
+      "Pas le temps de coordonner plusieurs rendez-vous"
+    ],
+    "tips": [
+      "Placez les points de sécurité en tête de votre liste",
+      "Confirmez le type de plafond avant les fixations lourdes",
+      "Tenez les animaux à l’écart des outils ouverts et des échelles"
+    ],
+    "title": "Services généraux d’homme à tout faire",
+    "whenNeeded": "Réservez lorsque vous avez une liste éparse — fixations, réglages, mastic — et que vous voulez avancer en une seule visite."
+  },
+  "handyman-and-general-maintenance": {
+    "angle": "les réparations du quotidien et l’entretien qui font tourner sans accroc les logements et les lieux de travail aux Émirats",
+    "benefits": [
+      "Un seul interlocuteur, sans jongler entre plusieurs corps de métier",
+      "Planification pendant les heures d’ouverture, avec des attentes réalistes",
+      "Conseils pratiques adaptés aux appartements de Marina et aux villas",
+      "Un historique qui se construit pour l’entretien récurrent du bien"
+    ],
+    "includes": [
+      "Triage sur place des tâches d’entretien mélangées",
+      "Réparations des équipements, des fixations et des petites finitions",
+      "Réglage des portes, des étagères et de la quincaillerie",
+      "Retouches de silicone et de mastic lorsque c’est convenu",
+      "Synthèse pour les visites de suivi ou les spécialistes"
+    ],
+    "outcome": "les points prioritaires sont traités, avec des notes claires sur tout ce qui exige un métier spécialisé",
+    "problems": [
+      "Longues listes de réserves après le départ des locataires",
+      "Fixations qui se desserrent sous les vibrations et les cycles de chaleur",
+      "Propriétaires à l’étranger qui ont besoin d’une aide locale de confiance",
+      "Bureaux qui se dégradent entre deux nettoyages en profondeur",
+      "Incertitude sur le métier à appeler en premier"
+    ],
+    "tips": [
+      "Regroupez les tâches similaires par pièce pour des visites plus efficaces",
+      "Partagez des photos avant le rendez-vous",
+      "Préparez les badges d’accès de l’immeuble pour les techniciens"
+    ],
+    "title": "Homme à tout faire et entretien général",
+    "whenNeeded": "Faites appel à nous lorsque les listes de réserves s’allongent, que les locations se succèdent, ou que vous voulez une seule équipe pour des petits travaux mélangés."
+  },
+  "hinge-repair-and-replacement": {
+    "angle": "des charnières de porte resserrées, remplacées ou calées pour que les portes tombent d’aplomb",
+    "benefits": [
+      "Prolonge la vie de la porte avant un remplacement complet",
+      "Des chambres et des couloirs d’hôtel plus silencieux",
+      "S’associe aux changements de serrure lors des changements de locataire",
+      "Des gains rapides sur les listes de réserves"
+    ],
+    "includes": [
+      "Contrôle des charnières de haut en bas",
+      "Pose de vis longues ou de plaques de réparation",
+      "Charnières de remplacement adaptées au poids de la porte",
+      "Coordination d’un rabotage si le frottement au sol persiste",
+      "Lubrification avec des produits adaptés"
+    ],
+    "outcome": "les portes pivotent librement, avec des vis qui prennent dans un matériau sain ou des plaques de réparation posées",
+    "problems": [
+      "Grincement continu une fois l’huile dissipée",
+      "Vis de charnière foirées dans des dormants en aggloméré",
+      "Portes qui descendent et frottent sur le carrelage",
+      "Portes coupe-feu lourdes sur des charnières trop faibles",
+      "Axes retirés qui provoquent un désalignement"
+    ],
+    "tips": [
+      "Soutenez le poids de la porte lorsque vous retirez les charnières",
+      "Traitez les fuites qui gonflent les dormants avant de raboter",
+      "Passez à des charnières à roulement à billes sur les portes lourdes"
+    ],
+    "title": "Réparation et remplacement de charnières",
+    "whenNeeded": "Intervenez lorsque les portes raclent le sol, que les charnières grincent, ou que les vis foirent dans des dormants tendres."
+  },
+  "home-inspection-and-maintenance-checks": {
+    "angle": "des visites structurées qui consignent l’état du bien et repèrent l’entretien tôt",
+    "benefits": [
+      "Des décisions éclairées, sans approximation",
+      "Un appui à la négociation grâce à des listes de réserves factuelles",
+      "La tranquillité d’esprit avant l’emménagement de la famille",
+      "Une base pour les programmes d’entretien préventif"
+    ],
+    "includes": [
+      "Contrôles visuels et fonctionnels pièce par pièce, selon le périmètre convenu",
+      "Essais des portes, fenêtres et équipements accessibles",
+      "Notes sur les fuites, les fissures et les points de sécurité",
+      "Liste séparée pour les points électriques et gaz soumis à agrément",
+      "Ordre de visite suggéré pour les réparations de suivi"
+    ],
+    "outcome": "un rapport de contrôle, avec photos en option, et des recommandations d’entretien classées par priorité",
+    "problems": [
+      "État inconnu d’une location après des années à l’étranger",
+      "Incertitude avant achat sur ce qui est mineur ou majeur",
+      "Assurance qui demande une vérification après une fuite",
+      "Listes de défauts de la résidence qui appellent un avis indépendant",
+      "Résidence de vacances inutilisée, avec un état inconnu de la climatisation et de la plomberie"
+    ],
+    "tips": [
+      "Assistez à la visite si vous voulez des réponses en direct",
+      "Fournissez les rapports précédents pour comparaison",
+      "Donnez suite rapidement aux constats prioritaires pour la sécurité"
+    ],
+    "title": "Inspection du logement et contrôles d’entretien",
+    "whenNeeded": "Réservez avant un achat, après le départ des locataires, ou au retour d’un long séjour à l’étranger."
+  },
+  "home-repairs-and-maintenance": {
+    "angle": "le maintien de logements habités sûrs, calmes et présentables entre deux rénovations plus importantes",
+    "benefits": [
+      "Un meilleur confort au quotidien, sans le coût d’une rénovation complète",
+      "Prépare les logements pour les photos et les visites",
+      "Repère les petits défauts avant qu’ils ne tachent les plafonds",
+      "Soutient les familles occupées et les foyers où les deux adultes travaillent"
+    ],
+    "includes": [
+      "Resserrage et refixation des accessoires courants",
+      "Rebouchage et ponçage prêts à peindre, si c’est dans le périmètre",
+      "Renouvellement du silicone aux éviers et baignoires lorsque c’est listé",
+      "Réglages de portes et de meubles dans le temps prévu",
+      "Conseils d’entretien adaptés à vos finitions"
+    ],
+    "outcome": "le logement fonctionne confortablement, avec moins de défauts esthétiques sur la liste convenue",
+    "problems": [
+      "Barres porte-serviettes et dérouleurs de papier toilette desserrés",
+      "Murs éraflés et plinthes ébréchées dans les angles",
+      "Loqueteaux de porte de balcon qui lâchent au vent",
+      "Crochets de garde-manger qui s’arrachent des plaques de plâtre",
+      "Barrières de sécurité pour enfants desserrées dans les escaliers"
+    ],
+    "tips": [
+      "Faites le tour de chaque pièce une fois par mois, carnet en main",
+      "Resserrez les poignées desserrées avant qu’elles n’agrandissent les trous",
+      "Gardez un petit stock de vis et de chevilles de rechange"
+    ],
+    "title": "Réparations et entretien du logement",
+    "whenNeeded": "Planifiez l’intervention lorsque l’usure apparaît dans les zones de passage, après des invités, ou avant de mettre un bien en location ou en vente."
+  },
+  "minor-household-repairs": {
+    "angle": "de petites interventions qui rétablissent l’usage quotidien sans lancer une rénovation",
+    "benefits": [
+      "Allège la charge mentale des tâches inachevées",
+      "Améliore les avis sur les locations de courte durée",
+      "Plus économique que d’ignorer l’usure",
+      "Des ajouts souples pendant le même rendez-vous"
+    ],
+    "includes": [
+      "Examen de la liste de réserves et ordre de priorité selon la sécurité",
+      "Fixation, resserrage et remplacement de petites pièces",
+      "Rebouchage et ponçage des trous de clous si la peinture n’est pas incluse",
+      "Cordons de silicone simples au niveau des crédences",
+      "Notes sur les points qui exigent des métiers agréés"
+    ],
+    "outcome": "les petites réparations listées sont faites, ou estimées en temps pour les visites de retour",
+    "problems": [
+      "Crochets porte-serviettes auxquels il manque des vis",
+      "Loqueteaux de sécurité enfant cassés sur les meubles",
+      "Profils de transition de sol desserrés qui font trébucher les invités",
+      "Chaînettes de store emmêlées, dangereuses près des berceaux",
+      "Plaques d’interrupteur fissurées à remplacer"
+    ],
+    "tips": [
+      "Regroupez les tâches par étage pour limiter les déplacements d’échelle",
+      "Ayez des ampoules et des piles de rechange à portée",
+      "Marquez « ne pas réparer » les éléments qui relèvent d’un bricolage sentimental"
+    ],
+    "title": "Petites réparations domestiques",
+    "whenNeeded": "Appelez lorsque les petits défauts s’accumulent — réserves, éléments desserrés, petits trous — et que vous voulez les lever."
+  },
+  "picture-and-mirror-hanging": {
+    "angle": "un accrochage de niveau et solide sur béton, blocs et cloisons à ossature, avec les chevilles adaptées",
+    "benefits": [
+      "Protège les œuvres et les verres coûteux contre les chutes",
+      "Un espacement professionnel pour les murs d’accent",
+      "Évite aux propriétaires les accidents d’échelle",
+      "Un rafraîchissement rapide avant les séances photo"
+    ],
+    "includes": [
+      "Traçage de l’implantation au laser ou au niveau à bulle",
+      "Choix de chevilles selon les poids déclarés",
+      "Perçage avec maîtrise de la poussière lorsque c’est possible",
+      "Réglage des anneaux en D ou du fil pour l’équilibre",
+      "Conseil de rebouchage pour une dépose future, sur demande"
+    ],
+    "outcome": "les pièces sont centrées et de niveau, avec des fixations adaptées au poids et au type de mur",
+    "problems": [
+      "Miroirs lourds qui tombent de chevilles plastiques dans les plaques de plâtre",
+      "Œuvres de travers sur les longs murs de couloir",
+      "Crochets à fil qui entaillent le dos des cadres",
+      "Perçage dans des gaines cachées en l’absence de plans",
+      "Règles locatives sur le nombre de trous dans les locations"
+    ],
+    "tips": [
+      "Pesez les pièces ou vérifiez les étiquettes avant de réserver",
+      "Évitez d’accrocher au-dessus des lits sans fixations de sécurité supplémentaires",
+      "Posez de la pâte de musée aux angles pour un accrochage décoratif là où le risque sismique est faible"
+    ],
+    "title": "Accrochage de tableaux et de miroirs",
+    "whenNeeded": "Accrochez les œuvres après une rénovation, les miroirs lourds dans les dressings, ou les murs galerie pour l’hôtellerie."
+  },
+  "preventive-maintenance": {
+    "angle": "des points de contrôle planifiés qui repèrent l’usure avant qu’elle ne devienne un dégât urgent",
+    "benefits": [
+      "Moins d’appels urgents pendant les vacances",
+      "Un coût total plus bas que les seules réparations réactives",
+      "Une meilleure fidélisation des locataires grâce à un suivi réactif",
+      "Appuie la diligence attendue par l’assurance, grâce à des visites datées"
+    ],
+    "includes": [
+      "Liste de contrôle reproductible, adaptée à votre type de bien",
+      "Tâches de resserrage, de nettoyage et de réglage",
+      "Rappels de filtres et d’évacuations pour la climatisation et les hottes",
+      "Contrôle visuel des mastics et des joints dans les pièces d’eau",
+      "Rapport priorisé pour l’accord du propriétaire sur les points plus importants"
+    ],
+    "outcome": "la liste de contrôle est mise à jour, les petites réparations sont faites et les points à venir sont datés",
+    "problems": [
+      "Flexibles jamais inspectés jusqu’au jour où ils éclatent",
+      "Évacuations de climatisation qui se bouchent chaque été sans prévenir",
+      "Joints de porte qui durcissent sans qu’on s’en aperçoive",
+      "Luminaires extérieurs desserrés qui se corrodent dans l’air salin",
+      "Silicone qui lâche en silence derrière les baignoires"
+    ],
+    "tips": [
+      "Calez les visites avant l’été et avant les déplacements du Ramadan",
+      "Gardez des doubles de clés étiquetés pour les techniciens",
+      "Mettez la liste à jour lorsque vous rénovez des pièces"
+    ],
+    "title": "Entretien préventif",
+    "whenNeeded": "Prévoyez des visites trimestrielles ou semestrielles pour les logements occupés, les portefeuilles locatifs ou les petits bureaux."
+  },
+  "property-maintenance": {
+    "angle": "un suivi continu pour les bailleurs et les propriétaires qui gèrent appartements, villas et petits locaux commerciaux",
+    "benefits": [
+      "Protège la valeur du patrimoine sur un portefeuille aux Émirats",
+      "Un seul compte rendu, plutôt que des fils WhatsApp dispersés",
+      "Visites prévisibles pendant les horaires publiés",
+      "Oriente les travaux soumis à agrément au lieu d’improviser"
+    ],
+    "includes": [
+      "Contrôles visuels intérieurs et extérieurs selon ce qui est convenu",
+      "Exécution des tâches d’entretien préalablement approuvées",
+      "Notes photo pour les propriétaires à distance, sur demande",
+      "Coordination avec les règles d’accès de l’immeuble",
+      "Planification des suivis pendant les heures d’ouverture"
+    ],
+    "outcome": "les biens sont laissés en état louable, avec les points documentés pour la visite suivante",
+    "problems": [
+      "Demandes locataires récurrentes pour les mêmes éléments desserrés",
+      "Historique d’entretien inconnu sur les biens nouvellement achetés",
+      "Résidences de vacances inutilisées pendant des mois, puis qui échouent aux contrôles",
+      "Locaux commerciaux à remettre vite, sur des créneaux de nuit",
+      "Remarques d’inspection de la résidence à lever"
+    ],
+    "tips": [
+      "Tenez un journal numérique par lot après chaque visite",
+      "Uniformisez les finitions de quincaillerie d’un lot à l’autre",
+      "Testez les détecteurs de fumée à chaque changement de locataire"
+    ],
+    "title": "Entretien de biens immobiliers",
+    "whenNeeded": "Utilisez ce service entre deux locations, pour les visites de portefeuille, ou lorsque les locataires signalent plusieurs petits défauts."
+  },
+  "shelving-installation": {
+    "angle": "des équerres et des systèmes flottants posés pour les charges déclarées, en cuisine, au garage et au bureau",
+    "benefits": [
+      "Un rangement immédiat après un déménagement",
+      "Plus sûr que des empilements improvisés sur des chaises",
+      "S’accorde avec les étagères de menuiserie pour les chantiers mixtes",
+      "Des poses efficaces dans plusieurs pièces en une seule visite"
+    ],
+    "includes": [
+      "Traçage de l’implantation et des hauteurs avec le propriétaire",
+      "Perçage et fixation selon le type de mur",
+      "Pose des tablettes et alignement du chant avant",
+      "Conseils de charge, avec les objets lourds en bas",
+      "Dépose des anciennes étagères défaillantes si c’est listé"
+    ],
+    "outcome": "les étagères sont de niveau, avec des fixations dans la structure ou des chevilles de charge nominale documentées",
+    "problems": [
+      "Étagères flottantes qui fléchissent sous les livres",
+      "Rayonnages de garage sans fixations dans la maçonnerie",
+      "Hauteurs de cellier inadaptées aux achats en volume",
+      "Étagères de bureau non alignées pour l’image de marque",
+      "Règles locatives sur le perçage des aménagements intégrés"
+    ],
+    "tips": [
+      "Repérez les lignes de montants ou de blocs lorsqu’elles sont connues",
+      "Ne grimpez pas sur les étagères à la place d’un escabeau",
+      "Répartissez le poids si un fléchissement apparaît"
+    ],
+    "title": "Pose d’étagères",
+    "whenNeeded": "Posez-les à l’arrivée des livraisons, lorsque les celliers débordent, ou lorsqu’un commerce a besoin d’étagères de stock dans la nuit."
+  },
+  "tv-wall-mounting": {
+    "angle": "des téléviseurs posés de niveau, avec les câbles rangés à portée de l’alimentation et des sources HDMI",
+    "benefits": [
+      "Libère le sol dans les appartements compacts",
+      "Plus sûr pour les enfants qu’un pied instable",
+      "Un rendu plus net pour les appartements Airbnb et hôteliers",
+      "Peut se combiner avec l’installation d’appareils de maison connectée"
+    ],
+    "includes": [
+      "Vérification du schéma VESA et du poids",
+      "Fixation du support dans la structure ou sur une plaque de contreplaqué répartitrice",
+      "Assemblage du support et levage à deux, pour la sécurité",
+      "Rangement simple des câbles vers les prises proches, sans dissimulation dans le mur sauf si c’est prévu",
+      "Démonstration du réglage d’inclinaison et d’orientation"
+    ],
+    "outcome": "le téléviseur est solidaire d’un support de charge adaptée, à une hauteur de vision cohérente avec les assises",
+    "problems": [
+      "Support sous-dimensionné pour les grands écrans de villa",
+      "Câbles qui pendent devant les prises",
+      "Fixation dans les plaques de plâtre sans renfort",
+      "Accumulation de chaleur derrière les écrans dans des niches étroites",
+      "Bras orientables qui heurtent les murs voisins"
+    ],
+    "tips": [
+      "Confirmez que le support fourni inclut des fixations de charge adaptée",
+      "Laissez un espace de ventilation derrière le téléviseur, selon la notice",
+      "Étiquetez les ports HDMI après la pose"
+    ],
+    "title": "Fixation murale de téléviseur",
+    "whenNeeded": "Fixez-le après l’achat d’un nouvel écran, lors du réaménagement d’un séjour, ou pour préparer des locations meublées."
+  },
+  "wall-mounting": {
+    "angle": "la fixation sûre de supports, de crochets et de panneaux sur les types de murs des Émirats",
+    "benefits": [
+      "Un même savoir-faire pour plusieurs pièces en une visite",
+      "Moins de carreaux fissurés à cause d’un mauvais foret",
+      "Prend en charge la pose de barres d’appui d’accessibilité dans le périmètre prévu",
+      "Prépare les murs pour les téléviseurs et les étagères le même jour"
+    ],
+    "includes": [
+      "Contrôle du support par essai de perçage lorsque c’est sans danger",
+      "Choix des chevilles et des vis dans le kit ou le stock",
+      "Perçage avec protection du carrelage lorsque c’est nécessaire",
+      "Confirmation du niveau et de la hauteur",
+      "Notes de rebouchage pour une dépose future, sur demande"
+    ],
+    "outcome": "les éléments fixés tiennent solidement, avec des ancrages choisis selon le poids et le support",
+    "problems": [
+      "Barres porte-serviettes qui s’arrachent des murs carrelés",
+      "Tableaux blancs qui bougent lorsqu’on écrit dessus",
+      "Porte-manteaux lourds dans des portes creuses",
+      "Supports de téléviseur commandés sans vérification du standard VESA",
+      "Cimaises qui fléchissent sur les cloisons de séparation"
+    ],
+    "tips": [
+      "Indiquez le poids et les cotes VESA avant la visite",
+      "Évitez de fixer au-dessus de réseaux non vérifiés",
+      "Utilisez des forets adaptés au grès cérame"
+    ],
+    "title": "Fixation murale",
+    "whenNeeded": "Fixez au mur lorsque vous ajoutez des accessoires de salle de bain, des barres de cuisine, des tableaux blancs de bureau ou des panneaux décoratifs."
+  }
+}

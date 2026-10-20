@@ -1,0 +1,395 @@
+{
+  "cabinet-door-repairs": {
+    "angle": "des réglages de charnières, de fermeture amortie et d’alignement pour les portes de meuble",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Réglage ou remplacement des charnières",
+      "Rebouchage des petits éclats",
+      "Repose des poignées avec inserts",
+      "Espacements assortis sur les linéaires"
+    ],
+    "outcome": "la réparation de portes de meuble est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Portes qui pendent de travers",
+      "Vérins de fermeture amortie en panne",
+      "Éclats aux angles",
+      "Poignées qui traversent le MDF"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparation de portes de meuble",
+    "whenNeeded": "Prévoyez la réparation de portes de meuble lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "drawer-repairs": {
+    "angle": "des tiroirs qui coulissent d’équerre, sans basculer ni coincer",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Contrôle et réalignement des coulisses",
+      "Réparations des caissons par colle et vis",
+      "Remplacement des glissières usées lorsque c’est devisé",
+      "Réglage des mécanismes de fermeture amortie"
+    ],
+    "outcome": "la réparation de tiroirs est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Tiroirs qui tombent d’un côté",
+      "Coulisses déformées après des charges lourdes",
+      "Façades qui se détachent des caissons",
+      "Range-couverts qui bloquent la fermeture"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparation de tiroirs",
+    "whenNeeded": "Prévoyez la réparation de tiroirs lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "drawer-runner-replacement": {
+    "angle": "des glissières neuves dimensionnées pour la charge et la profondeur de cuisine",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Dépose des anciens jeux de coulisses",
+      "Pose d’une quincaillerie de glissières compatible",
+      "Réglage de la hauteur et des jeux",
+      "Essai de charge à vide et avec tiroirs chargés"
+    ],
+    "outcome": "le remplacement de coulisses de tiroir est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Coulisses métalliques qui rouillent près des éviers",
+      "Extension partielle qui limite l’accès",
+      "Grincements à l’usage quotidien",
+      "Décalage après un échange de meubles"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Remplacement de coulisses de tiroir",
+    "whenNeeded": "Prévoyez le remplacement de coulisses de tiroir lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "kitchen-backsplash-installation": {
+    "angle": "des crédences en carrelage ou en panneau qui protègent les murs derrière les plaques et les éviers",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Préparation des surfaces derrière les plans",
+      "Fixation du carrelage ou des panneaux dans le périmètre prévu",
+      "Étanchéité aux jonctions du plan de travail",
+      "Découpes pour les prises lorsqu’elles sont accessibles"
+    ],
+    "outcome": "la pose de crédence de cuisine est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Graisse qui tache les murs peints",
+      "Carreaux desserrés derrière les plaques",
+      "Hauteurs de crédence dépassées",
+      "Jeux après le remplacement des plans de travail"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de crédence de cuisine",
+    "whenNeeded": "Prévoyez la pose de crédence de cuisine lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "kitchen-cabinet-installation": {
+    "angle": "des meubles bas et hauts alignés, de niveau et solidement fixés",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Assemblage des caissons fournis",
+      "Fixation murale avec les chevilles adaptées",
+      "Réglage des portes et des charnières",
+      "Pose des plinthes et des panneaux dans le périmètre prévu"
+    ],
+    "outcome": "la pose de meubles de cuisine est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Cuisines neuves en kit à assembler",
+      "Meubles hors de niveau sur des sols irréguliers",
+      "Fixations manquantes dans les cloisons à ossature",
+      "Jeux après un changement d’appareils"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de meubles de cuisine",
+    "whenNeeded": "Prévoyez la pose de meubles de cuisine lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "kitchen-extractor-hood-installation": {
+    "angle": "des hottes montées en sécurité, avec évacuation ou recyclage selon la conception",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "complianceNote": "Les raccordements électriques en dur ou les gros cheminements de conduit à travers des trémies coupe-feu peuvent exiger un électricien agréé ou un entrepreneur MEP — nous posons selon les instructions du fabricant et dans le périmètre accessible.",
+    "includes": [
+      "Fixation des équerres aux murs ou aux meubles",
+      "Raccordement de gaine dans le périmètre accessible",
+      "Coordination électrique si l’appareil se branche",
+      "Mise en place des filtres et essai de fonctionnement"
+    ],
+    "outcome": "la pose de hotte de cuisine est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Hottes trop basses au-dessus des plaques",
+      "Vibrations sur les murs en plaques de plâtre",
+      "Filtres à charbon absents en mode recyclage",
+      "Mauvaise captation de la vapeur de cuisson"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de hotte de cuisine",
+    "whenNeeded": "Prévoyez la pose de hotte de cuisine lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "kitchen-fixture-replacement": {
+    "angle": "le remplacement des équipements de cuisine usés, comme les poignées, les charnières et la petite quincaillerie",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Dépose de la quincaillerie abîmée",
+      "Pose des pièces de rechange fournies",
+      "Alignement sur les ensembles de portes",
+      "Rebouchage des petits trous de vis si c’est devisé"
+    ],
+    "outcome": "le remplacement de quincaillerie de cuisine est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Poignées disparates après des mises à jour partielles",
+      "Loqueteaux cassés sur les meubles d’angle",
+      "Vis rouillées dans les villas face à la mer",
+      "Caches de charnières manquants"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Remplacement de quincaillerie de cuisine",
+    "whenNeeded": "Prévoyez le remplacement de quincaillerie de cuisine lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "kitchen-maintenance": {
+    "angle": "des réparations courantes de cuisine qui gardent les espaces de cuisson sûrs et nets",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Évaluation de plusieurs petits défauts de cuisine",
+      "Serrage, étanchéité ou réglage dans le périmètre prévu",
+      "Remplacement de petits consommables s’ils sont fournis",
+      "Liste de priorités pour les visites de suivi"
+    ],
+    "outcome": "l’entretien de cuisine est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Charnières de meuble desserrées",
+      "Robinets qui gouttent et gaspillent l’eau",
+      "Silicone qui se décolle derrière les éviers",
+      "Étagères murales qui branlent"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Entretien de cuisine",
+    "whenNeeded": "Prévoyez l’entretien de cuisine lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "kitchen-shelving": {
+    "angle": "des étagères murales et de meuble pour un rangement qui reste de niveau",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Prise de mesures et tracé de niveau",
+      "Fixations adaptées au support mural",
+      "Découpe des tablettes si c’est devisé",
+      "Conseils de charge pour les objets lourds"
+    ],
+    "outcome": "les étagères de cuisine sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Tablettes de garde-manger qui fléchissent",
+      "Équerres qui s’arrachent des plaques de plâtre",
+      "Étagères manquantes dans les cuisines locatives",
+      "Étagères à épices qui bloquent les portes de placard"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Étagères de cuisine",
+    "whenNeeded": "Prévoyez les étagères de cuisine lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "kitchen-sink-replacement": {
+    "angle": "le remplacement d’éviers, avec des raccordements étanches et un soutien adapté",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Isolement des alimentations d’eau dans le périmètre prévu",
+      "Dépose et pose du nouvel évier",
+      "Rebranchement des siphons et des flexibles",
+      "Réglage du mastic et des clips"
+    ],
+    "outcome": "le remplacement d’évier de cuisine est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Cuves inox corrodées",
+      "Fuites au niveau des bondes",
+      "Éviers en composite fissurés",
+      "Éviers sous-plan qui se désolidarisent"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Remplacement d’évier de cuisine",
+    "whenNeeded": "Prévoyez le remplacement d’évier de cuisine lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "kitchen-tap-installation": {
+    "angle": "des mitigeurs posés avec une pression stable et sans suintement",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Dépose des anciens jeux de robinetterie",
+      "Pose des robinets fournis",
+      "Raccordement des flexibles et contrôles d’étanchéité",
+      "Nettoyage ou remplacement de l’aérateur"
+    ],
+    "outcome": "la pose de robinet de cuisine est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Mitigeurs qui gouttent après l’usure de la cartouche",
+      "Robinets desserrés qui tournent sur l’évier",
+      "Entraxe de perçage inadapté sur les plans de travail",
+      "Faible débit dû à des aérateurs entartrés"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de robinet de cuisine",
+    "whenNeeded": "Prévoyez la pose de robinet de cuisine lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "minor-kitchen-refurbishment": {
+    "angle": "des améliorations coordonnées, sans refonte complète de la cuisine",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Lot défini de travaux sur meubles, plan et joints",
+      "Enchaînement des corps de métier dans un seul plan de chantier",
+      "Finitions neutres pour les remises locatives",
+      "Parcours de la liste de réserves à l’achèvement"
+    ],
+    "outcome": "la petite rénovation de cuisine est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Portes fatiguées, mais caissons encore sains",
+      "Plan de travail et crédence qui ne s’accordent plus",
+      "Plusieurs points de fuite en même temps",
+      "Rafraîchissement de bailleur entre deux locations"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Petite rénovation de cuisine",
+    "whenNeeded": "Prévoyez la petite rénovation de cuisine lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "worktop-installation": {
+    "angle": "des plans de travail découpés et posés, avec des joints nets et des profils de chant soignés",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Gabarit ou prise de mesures pour les découpes",
+      "Jointoiement et lit de colle",
+      "Silicone aux zones d’éclaboussure",
+      "Pose d’équerres de soutien pour les débords"
+    ],
+    "outcome": "la pose de plan de travail est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Panneau de particules gonflé près des éviers",
+      "Joints médiocres qui laissent passer l’eau",
+      "Débords irréguliers aux comptoirs de petit-déjeuner",
+      "Découpes nécessaires pour les plaques et les robinets"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de plan de travail",
+    "whenNeeded": "Prévoyez la pose de plan de travail lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "worktop-seal-replacement": {
+    "angle": "des joints silicone hygiéniques là où les plans de travail rencontrent les murs et les éviers",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Dépose du silicone défaillant",
+      "Nettoyage et séchage des joints",
+      "Application d’un mastic résistant aux moisissures",
+      "Temps de prise avant tout usage humide"
+    ],
+    "outcome": "le remplacement du joint de plan de travail est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Moisissures noires dans les angles",
+      "Mastic qui se décolle derrière les robinets",
+      "Eau qui s’infiltre dans les meubles",
+      "Ancien mastic durci qui abrite des bactéries"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Remplacement du joint de plan de travail",
+    "whenNeeded": "Prévoyez le remplacement du joint de plan de travail lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  }
+}

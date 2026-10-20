@@ -1,5 +1,6 @@
 import type { LucideIcon } from 'lucide-react'
 import { Clock, Mail, MapPin, MessageCircle, Phone } from 'lucide-react'
+import { getTranslations } from 'next-intl/server'
 import type { ReactNode } from 'react'
 import { contact } from '@/data/contact'
 
@@ -12,79 +13,89 @@ type ContactDetail = {
   value: ReactNode
 }
 
-const details: ContactDetail[] = [
-  {
-    description: `Based in Marina, Dubai. Service area: ${contact.serviceArea}.`,
-    icon: MapPin,
-    title: 'Address',
-    value: (
-      <address className="not-italic">
+const ContactDetails = async () => {
+  const t = await getTranslations('Contact')
+  const hours = await getTranslations('Hours')
+
+  const details: ContactDetail[] = [
+    {
+      description: t('addressDescription', {
+        address: contact.address,
+        serviceArea: contact.serviceArea,
+      }),
+      icon: MapPin,
+      title: t('addressTitle'),
+      value: (
+        <address className="not-italic">
+          <a
+            className={linkClassName}
+            href={contact.addressLink}
+            rel="noreferrer"
+            target="_blank"
+          >
+            {contact.address}
+          </a>
+        </address>
+      ),
+    },
+    {
+      description: t('callDescription'),
+      icon: Phone,
+      title: t('callTitle'),
+      value: (
+        <a className={linkClassName} href={contact.phone.href}>
+          {contact.phone.display}
+        </a>
+      ),
+    },
+    {
+      description: t('whatsappDescription'),
+      icon: MessageCircle,
+      title: t('whatsappTitle'),
+      value: (
         <a
           className={linkClassName}
-          href={contact.addressLink}
+          href={contact.whatsapp.href}
           rel="noreferrer"
           target="_blank"
         >
-          {contact.address}
+          {contact.phone.display}
         </a>
-      </address>
-    ),
-  },
-  {
-    description: 'Call during opening hours.',
-    icon: Phone,
-    title: 'Call',
-    value: (
-      <a className={linkClassName} href={contact.phone.href}>
-        {contact.phone.display}
-      </a>
-    ),
-  },
-  {
-    description: 'Message us on WhatsApp.',
-    icon: MessageCircle,
-    title: 'WhatsApp',
-    value: (
-      <a
-        className={linkClassName}
-        href={contact.whatsapp.href}
-        rel="noreferrer"
-        target="_blank"
-      >
-        {contact.phone.display}
-      </a>
-    ),
-  },
-  {
-    description: 'Send us an email.',
-    icon: Mail,
-    title: 'Email',
-    value: (
-      <a className={linkClassName} href={`mailto:${contact.email}`}>
-        {contact.email}
-      </a>
-    ),
-  },
-  {
-    description: 'Opening hours only.',
-    icon: Clock,
-    title: 'Hours',
-    value: (
-      <div className="space-y-2 text-base text-foreground">
-        <p>
-          <span className="font-medium text-heading">Saturday–Thursday:</span>{' '}
-          {contact.hours.saturdayToThursday}
-        </p>
-        <p>
-          <span className="font-medium text-heading">Friday:</span>{' '}
-          {contact.hours.friday}
-        </p>
-      </div>
-    ),
-  },
-]
+      ),
+    },
+    {
+      description: t('emailDescription'),
+      icon: Mail,
+      title: t('emailTitle'),
+      value: (
+        <a className={linkClassName} href={`mailto:${contact.email}`}>
+          {contact.email}
+        </a>
+      ),
+    },
+    {
+      description: t('hoursDescription'),
+      icon: Clock,
+      title: t('hoursTitle'),
+      value: (
+        <div className="space-y-2 text-base text-foreground">
+          <p>
+            <span className="font-medium text-heading">
+              {hours('saturdayThursdayLabel')}:
+            </span>{' '}
+            {hours('saturdayThursdayValue')}
+          </p>
+          <p>
+            <span className="font-medium text-heading">
+              {hours('fridayLabel')}:
+            </span>{' '}
+            {hours('fridayValue')}
+          </p>
+        </div>
+      ),
+    },
+  ]
 
-const ContactDetails = () => {
   return (
     <div className="divide-y divide-border">
       {details.map((detail) => (

@@ -34,7 +34,7 @@ We are in **UI designing mode**. Build UI from `TASKS.md` (read that file first)
 - Hours: Sat–Thu 8:00am–9:00pm; Friday 9:00am–11:00am and 4:00pm–9:00pm. No 24h/emergency for now.
 - Map: placeholder until a real embed is added
 - Trade license / legal company name: TBD
-- Ship **English only**. Arabic is upcoming — do not add i18n yet.
+- Locales: **English** (default, no URL prefix), **Arabic** (`/ar/...`), **Urdu** (`/ur/...`), **Hindi** (`/hi/...`), **Chinese** (`/zh/...`), and **French** (`/fr/...`) via `next-intl`. UI copy lives in `messages/*.json`; service catalogue overlays in `src/data/services/i18n/<locale>/`. Do not invent business facts.
 
 ## Pages
 
@@ -55,4 +55,4 @@ The five highlight services are not the full list. Full catalogue and detail cop
 
 ## Do not build yet
 
-Arabic, real logo, social URLs, quote popup/form wiring, contact form email sending, analytics, researched SEO title/description, Contabo/Docker.
+Real logo, social URLs, quote popup/form wiring, contact form email sending, Contabo/Docker. Researched SEO titles and analytics IDs are tracked in `TASKS.md`.

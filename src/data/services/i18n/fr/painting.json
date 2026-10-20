@@ -1,0 +1,506 @@
+{
+  "ceiling-painting": {
+    "angle": "des finitions de plafond planes et nettes, qui atténuent les ombres et les marques au-dessus de la tête",
+    "benefits": [
+      "Des pièces qui semblent plus hautes et plus lumineuses",
+      "Des taches bloquées avant les couches décoratives de finition",
+      "Un accès plus sûr pour le travail en hauteur"
+    ],
+    "includes": [
+      "Contrôle de l’état du plafond et organisation de l’accès",
+      "Blocage des taches là où les marques restent visibles",
+      "Application au rouleau adaptée aux plafonds",
+      "Coupes aux gorges, aux retombées et aux luminaires"
+    ],
+    "outcome": "les plafonds paraissent plus lumineux et plus uniformes, avec un minimum de texture de rouleau lorsque c’est précisé",
+    "problems": [
+      "Auréoles d’eau ou marques de condensation de la climatisation",
+      "Blanc en plaques après de petites réparations de plafond",
+      "Fissures et microfissures qui se lisent à travers la peinture",
+      "Jaunissement dans les cuisines exposées aux vapeurs grasses"
+    ],
+    "tips": [
+      "Réparez les fuites actives avant de repeindre les zones tachées",
+      "Choisissez un aspect mat, ou la brillance convenue pour les plafonds",
+      "Gardez les luminaires froids et sans poussière pendant les travaux"
+    ],
+    "title": "Peinture de plafond",
+    "whenNeeded": "Réservez une peinture de plafond lorsque des auréoles, un jaunissement ou des reprises laissent le plafond inégal."
+  },
+  "crack-filling-and-surface-repairs": {
+    "angle": "des réparations murales localisées, qui stabilisent les fissures avant la décoration",
+    "benefits": [
+      "Un aspect final plus lisse après la peinture",
+      "Moins de risque que les fissures se redessinent sous la peinture",
+      "Des réparations ciblées, sans refaire tout l’enduit"
+    ],
+    "includes": [
+      "Ouverture et nettoyage des fissures qui se prêtent à une reprise",
+      "Rebouchage avec des enduits à joints adaptés",
+      "Ponçage et fondu au niveau des surfaces voisines",
+      "Impression localisée des zones réparées"
+    ],
+    "outcome": "les zones réparées sont affleurantes et stables, prêtes pour le primaire et les couches de finition",
+    "problems": [
+      "Microfissures le long des joints de plaques de plâtre",
+      "Fixations qui ressortent aux plafonds et aux murs",
+      "Cornières d’angle abîmées sur les angles sortants",
+      "Petits trous après la dépose d’équipements"
+    ],
+    "tips": [
+      "Surveillez les fissures de structure qui se rouvrent — signalez-les pour une évaluation plus large",
+      "N’appliquez pas l’enduit en une seule passe trop épaisse",
+      "Imprimez les reprises avant d’assortir la brillance"
+    ],
+    "title": "Rebouchage de fissures et reprises de surface",
+    "whenNeeded": "Intervenez lorsque des microfissures, des fixations qui ressortent ou de petits trous apparaissent avant la peinture, ou après un tassement."
+  },
+  "decorative-painting": {
+    "angle": "des finitions d’accent, comme des bandes, des panneaux et des effets décoratifs simples",
+    "benefits": [
+      "Une touche personnelle, sans travaux de structure",
+      "Des arêtes nettes, difficiles à obtenir à main levée",
+      "Des conseils sur les couleurs qui conviennent à la lumière du jour aux Émirats"
+    ],
+    "includes": [
+      "Tracé d’implantation et lignes de niveau",
+      "Masquage pour des transitions de couleur nettes",
+      "Application du parti décoratif convenu",
+      "Protection des finitions voisines pendant les travaux"
+    ],
+    "outcome": "les éléments décoratifs paraissent voulus et nets, alignés sur votre agencement et votre éclairage",
+    "problems": [
+      "Pièces trop unies, qui manquent d’intérêt visuel",
+      "Proportions maladroites qu’une couleur peut rééquilibrer",
+      "Anciens tracés à main levée qui paraissent irréguliers",
+      "Besoin de mettre en valeur des détails d’architecture"
+    ],
+    "tips": [
+      "Regardez les essais à différents moments de la journée",
+      "Gardez les zones décoratives sans poussière pendant le séchage",
+      "Photographiez l’emplacement des lignes pour l’entretien à venir"
+    ],
+    "title": "Peinture décorative",
+    "whenNeeded": "Choisissez la peinture décorative lorsque vous voulez des bandes d’accent, des blocs de couleur ou une texture discrète, sans papier peint."
+  },
+  "door-painting": {
+    "angle": "des finitions de porte résistantes, qui tiennent à l’ouverture et à la fermeture quotidiennes",
+    "benefits": [
+      "Des portes accordées aux nouvelles harmonies intérieures",
+      "Une meilleure résistance aux éraflures autour des poignées",
+      "Une brillance cohérente avec les moulures voisines"
+    ],
+    "includes": [
+      "Léger ponçage et dégraissage des surfaces de porte",
+      "Masquage de la quincaillerie, ou dépose lorsque c’est convenu",
+      "Sous-couche et finition adaptées aux portes en bois ou en métal",
+      "Finition soignée des faces et des montants visibles"
+    ],
+    "outcome": "les portes paraissent rafraîchies, avec une peinture lisse et durable sur les faces et les chants accessibles",
+    "problems": [
+      "Peinture écaillée sur les chants de porte et les dormants",
+      "Collage ou frottement dû à d’anciennes couches trop épaisses",
+      "Couleur passée sur les portes de balcon exposées au soleil",
+      "Traces de pinceau laissées par d’anciennes couches de bricolage"
+    ],
+    "tips": [
+      "Laissez les portes légèrement entrouvertes pendant le séchage pour éviter qu’elles ne collent",
+      "Lubrifiez les charnières une fois la peinture complètement durcie",
+      "Évitez de claquer les portes tant que les revêtements durcissent"
+    ],
+    "title": "Peinture de portes",
+    "whenNeeded": "Organisez une peinture de portes lorsque les chants s’écaillent, que les couleurs jurent avec les pièces rénovées, ou que la laque est usée jusqu’au support."
+  },
+  "exterior-painting": {
+    "angle": "des revêtements extérieurs pensés pour le climat, qui aident les façades à tenir face au soleil et à la poussière",
+    "benefits": [
+      "Façades plus accueillantes pour les villas et les maisons de ville",
+      "Meilleure protection de l’enduit et de la maçonnerie en dessous",
+      "Un périmètre clair de ce qui peut être atteint en sécurité depuis une échelle ou un échafaudage"
+    ],
+    "includes": [
+      "Évaluation visuelle des surfaces extérieures accessibles",
+      "Léger nettoyage et préparation des zones saines",
+      "Application de systèmes de peinture extérieure adaptés",
+      "Travail soigné autour des équipements, des tuyaux et des garde-corps, là où l’on peut les atteindre"
+    ],
+    "outcome": "les surfaces extérieures paraissent renouvelées et sont mieux protégées contre le soleil et l’usure courante du climat",
+    "problems": [
+      "Peinture passée ou farinante sur les balcons et les façades",
+      "Écaillage sur les murs exposés au soleil",
+      "Taches dues aux gouttes de climatisation ou au ruissellement des jardinières",
+      "Décollement aux acrotères et aux ressauts"
+    ],
+    "tips": [
+      "Planifiez les travaux hors des heures les plus chaudes lorsque c’est possible, pour une meilleure accroche",
+      "Gardez les gouttières et les évacuations dégagées le temps que les surfaces lavées sèchent",
+      "Inspectez chaque année les premiers éclats aux angles et aux joints"
+    ],
+    "title": "Peinture extérieure",
+    "whenNeeded": "Organisez une peinture extérieure lorsque l’enduit ou les murs extérieurs farinent, passent ou s’écaillent, ou avant un grand nettoyage saisonnier des espaces extérieurs."
+  },
+  "feature-wall-painting": {
+    "angle": "des murs d’accent francs ou contrastés, qui ancrent le style d’une pièce",
+    "benefits": [
+      "Un fort impact visuel avec peu de produit",
+      "Plus simple à changer plus tard que des panneaux texturés",
+      "S’accorde au sol et au mobilier déjà en place"
+    ],
+    "includes": [
+      "Conseil de choix du mur selon l’agencement et la lumière",
+      "Couches supplémentaires ou primaires teintés, si nécessaire",
+      "Masquage précis aux angles et aux plafonds",
+      "Finition adaptée à l’usage de la pièce"
+    ],
+    "outcome": "un seul mur se lit clairement comme un accent, avec des limites nettes contre les couleurs voisines",
+    "problems": [
+      "Couleur d’accent qui déborde sur les murs voisins",
+      "Couverture inégale sur des teintes de fond foncées",
+      "Hésitation sur le mur à mettre en valeur",
+      "Ancienne colle de papier peint qui gêne l’accroche"
+    ],
+    "tips": [
+      "Essayez un pot témoin sur le mur réel avant de vous décider",
+      "Gardez un peu de peinture d’accent pour les retouches futures",
+      "Équilibrez les couleurs fortes avec des murs voisins neutres"
+    ],
+    "title": "Peinture de mur d’accent",
+    "whenNeeded": "Réservez une peinture de mur d’accent lorsque vous voulez qu’un seul mur porte la couleur derrière un lit, un canapé ou une banque d’accueil."
+  },
+  "interior-painting": {
+    "angle": "des finitions intérieures régulières et durables, adaptées à la vie quotidienne dans les logements des Émirats",
+    "benefits": [
+      "Des pièces plus fraîches sans rénovation complète",
+      "Couleur et finition homogènes sur l’ensemble des murs",
+      "Des conseils concrets sur les temps de séchage et l’aération"
+    ],
+    "includes": [
+      "Contrôle des surfaces et légère préparation des zones peintes",
+      "Protection des sols et du mobilier fixe lorsque c’est possible",
+      "Application des couches convenues avec une peinture intérieure adaptée",
+      "Coupes soignées aux plafonds, aux plinthes et aux ouvertures"
+    ],
+    "outcome": "les pièces paraissent plus nettes et plus cohérentes, avec des arêtes, des coupes et des brillances adaptées à chaque espace",
+    "problems": [
+      "Couleur de mur inégale ou passée dans les zones de passage",
+      "Marques et éraflures que le nettoyage n’enlève plus",
+      "Brillance inégale après des retouches de bricolage",
+      "Jaunissement ou taches près des cuisines et des salles de bains"
+    ],
+    "tips": [
+      "Aérez les pièces pendant que la peinture durcit, surtout pendant les mois humides",
+      "Attendez le durcissement complet avant de laver les murs ou d’accrocher des cadres lourds",
+      "Notez les références de peinture pour les futures retouches"
+    ],
+    "title": "Peinture intérieure",
+    "whenNeeded": "Réservez une peinture intérieure lorsque les murs paraissent fatigués, que les couleurs datent, ou que vous rafraîchissez une pièce avant un emménagement ou après de petites réparations."
+  },
+  "paint-peeling-repairs": {
+    "angle": "le retrait de la peinture défaillante et la reconstitution de revêtements qui accrochent correctement",
+    "benefits": [
+      "Arrête un écaillage actif avant qu’il ne s’étende",
+      "Repère les cas où l’humidité doit être traitée d’abord",
+      "Une meilleure compatibilité entre les anciennes et les nouvelles couches"
+    ],
+    "includes": [
+      "Grattage des revêtements lâches et écaillés",
+      "Fondu des bords et dépoussiérage",
+      "Primaires anti-humidité ou promoteurs d’adhérence",
+      "Remise en peinture avec des systèmes adaptés"
+    ],
+    "outcome": "les zones écaillées sont stabilisées avec des primaires compatibles et de nouvelles couches de finition",
+    "problems": [
+      "Cloques sur les plafonds de salle de bains",
+      "Écaillage des sous-faces de balcon",
+      "Couches qui se décollent après une mauvaise préparation",
+      "Humidité qui décolle la peinture du plâtre"
+    ],
+    "tips": [
+      "Traitez les fuites avant une peinture seulement esthétique",
+      "Évitez de peindre par-dessus des bords qui ne tiennent pas",
+      "Laissez sécher complètement entre les étapes de réparation"
+    ],
+    "title": "Réparation de peinture écaillée",
+    "whenNeeded": "Organisez l’intervention lorsque la peinture se soulève en plaques, souvent près des salles de bains, des murs extérieurs, ou sur des sous-couches brillantes."
+  },
+  "repainting-and-refreshing": {
+    "angle": "la remise en peinture d’une pièce ou de tout le logement, pour repartir sur une couleur et un état neufs",
+    "benefits": [
+      "Un seul plan de chantier, au lieu de retouches sans fin",
+      "Une meilleure homogénéité de teinte sur les grandes surfaces",
+      "Un planning qui respecte les heures de calme de l’immeuble"
+    ],
+    "includes": [
+      "Visite pour convenir des pièces et des couleurs",
+      "Préparation courante, pièce par pièce, selon le besoin",
+      "Périmètre des plafonds, des murs et des boiseries défini dans le devis",
+      "Visite finale pour les oublis et les retouches"
+    ],
+    "outcome": "les espaces paraissent remis à jour de façon cohérente, avec un plan de couleurs clair et des lignes de finition nettes",
+    "problems": [
+      "Couleurs disparates après un bricolage fait par étapes",
+      "Usure générale des pièces de vie et des chambres",
+      "Besoin de revenir à des tons neutres avant une mise en location",
+      "Couleurs d’accent dépassées dans tout le logement"
+    ],
+    "tips": [
+      "Décidez de l’emplacement des meubles avant de commencer le masquage",
+      "Regroupez les pièces d’eau et les cuisines pour des systèmes de peinture adaptés",
+      "Prévoyez un temps de séchage supplémentaire avant d’accrocher les rideaux"
+    ],
+    "title": "Remise en peinture et rafraîchissement",
+    "whenNeeded": "Planifiez une remise en peinture lorsque plusieurs pièces paraissent fatiguées, ou que vous voulez une palette coordonnée après des travaux de rénovation."
+  },
+  "skirting-board-painting": {
+    "angle": "des finitions nettes de plinthes et de chambranles, qui cadrent les pièces avec soin",
+    "benefits": [
+      "Des pièces qui paraissent terminées, sans redécoration complète",
+      "Une protection du bois dans les couloirs très passants",
+      "Une harmonie avec les couleurs des murs et des sols"
+    ],
+    "includes": [
+      "Nettoyage et léger ponçage des boiseries",
+      "Masquage au droit des sols et des moquettes",
+      "Sous-couche et finition sur les plinthes accessibles",
+      "Retouches aux onglets et aux retours"
+    ],
+    "outcome": "les boiseries se détachent nettement des sols et des murs, avec une laque durable ou le revêtement convenu",
+    "problems": [
+      "Éraflures d’aspirateurs et de serpillières",
+      "Jaunissement du brillant dans les biens plus anciens",
+      "Jeux visibles après un remplacement de sol",
+      "Traces de pinceau d’un bricolage fait trop vite"
+    ],
+    "tips": [
+      "Évitez de laver le brillant tant qu’il n’a pas complètement durci",
+      "Posez des patins de protection sur les meubles que vous déplacez",
+      "Prévoyez la peinture des plinthes après le ponçage du sol, le cas échéant"
+    ],
+    "title": "Peinture de plinthes",
+    "whenNeeded": "Planifiez-la lorsque les plinthes sont éraflées, jaunies ou dépareillées après une mise à jour du sol ou des murs."
+  },
+  "stain-blocking-and-priming": {
+    "angle": "des primaires qui scellent les taches et améliorent l’accroche des couches de finition",
+    "benefits": [
+      "Moins de couches supplémentaires pour couvrir",
+      "Moins de taches qui réapparaissent après la décoration",
+      "Une meilleure accroche sur les zones brillantes ou réparées"
+    ],
+    "includes": [
+      "Identification du type de tache et de sa source",
+      "Application d’un primaire bloqueur de taches adapté",
+      "Impression ponctuelle ou de tout le mur, selon l’accord",
+      "Conseils sur le moment de passer la couche de finition"
+    ],
+    "outcome": "les taches sont scellées et les surfaces sont uniformément prêtes pour la couleur de finition",
+    "problems": [
+      "Auréoles au plafond après d’anciennes fuites",
+      "Tanin du bois qui traverse sur les boiseries",
+      "Couleurs foncées qui transparaissent sous des finitions plus claires",
+      "Traces grasses dans les cuisines"
+    ],
+    "tips": [
+      "Traitez les fuites actives avant de bloquer les taches de plafond",
+      "Utilisez si possible des primaires et des finitions de marques compatibles",
+      "Ne sautez pas le primaire lors d’un fort changement de couleur"
+    ],
+    "title": "Blocage des taches et impression",
+    "whenNeeded": "Réservez lorsque des auréoles d’eau, de la nicotine, de l’encre ou un saignement de tanin risquent de transparaître sous la peinture neuve."
+  },
+  "touch-up-painting": {
+    "angle": "la correction de couleur sur de petites zones, après des réparations, des déplacements de meubles ou de menus dégâts",
+    "benefits": [
+      "Un rafraîchissement économique avant une remise des clés ou des visites",
+      "Bien moins de dérangement qu’une remise en peinture complète",
+      "Un avis concret sur le moment où tout repeindre est plus judicieux"
+    ],
+    "includes": [
+      "Ponçage et rebouchage local des petits défauts",
+      "Fondu des bords pour des raccords plus doux",
+      "Peinture de retouche assortie ou très proche de l’existante",
+      "Impression localisée là où les taches ou les enduits transparaissent"
+    ],
+    "outcome": "les réparations se fondent dans la peinture autour, aussi près que l’état et l’âge du support le permettent",
+    "problems": [
+      "Reprises visibles après le retrait de chevilles",
+      "Éraflures dans les couloirs et derrière les portes",
+      "Petites fissures rebouchées sans correspondance de teinte",
+      "Marques de départ de locataire sur des murs neutres"
+    ],
+    "tips": [
+      "Conservez les restes des chantiers d’origine dans des pots étiquetés",
+      "Testez d’abord les retouches dans un coin peu visible",
+      "Attendez-vous à de légères différences de brillance sur les murs plus anciens"
+    ],
+    "title": "Retouches de peinture",
+    "whenNeeded": "Utilisez les retouches lorsque des trous de clous, des éraflures ou des reprises laissent des taches visibles sur des murs par ailleurs sains."
+  },
+  "wall-painting": {
+    "angle": "une remise en peinture ciblée des murs, avec des arêtes nettes et une couverture régulière",
+    "benefits": [
+      "Un rafraîchissement ciblé, sans repeindre toute la pièce",
+      "Une meilleure maîtrise des taches grâce à des primaires adaptés",
+      "Des raccords nets aux angles et aux ouvertures"
+    ],
+    "includes": [
+      "Masquage et protection des surfaces voisines",
+      "Rebouchage des petits défauts lorsque c’est convenu",
+      "Primaire ou impression isolante lorsque les taches doivent être bloquées",
+      "Application en deux couches sur les surfaces de mur convenues"
+    ],
+    "outcome": "les murs choisis paraissent uniformes en couleur et en texture, et se fondent avec les finitions voisines",
+    "problems": [
+      "Marques de rouleau ou reprises de passage visibles",
+      "Écart de teinte entre l’ancienne peinture et la nouvelle",
+      "Taches qui traversent les couches fraîches",
+      "Surfaces poussiéreuses ou mal préparées"
+    ],
+    "tips": [
+      "Laissez les zones rebouchées sécher complètement avant les couches de finition",
+      "Utilisez le même lot de peinture sur les grands murs lorsque c’est possible",
+      "Évitez un nettoyage appuyé tant que le temps de durcissement indiqué par le fabricant n’est pas écoulé"
+    ],
+    "title": "Peinture des murs",
+    "whenNeeded": "Faites peindre les murs lorsqu’un ou plusieurs d’entre eux ont besoin d’un changement de couleur, d’un masquage de taches, ou d’un rafraîchissement après des réparations."
+  },
+  "wall-surface-preparation": {
+    "angle": "une préparation soignée, pour que la peinture et le papier peint accrochent et paraissent plans",
+    "benefits": [
+      "Une meilleure tenue des finitions et du papier peint",
+      "Moins de surprises une fois la couleur posée",
+      "Une passation fluide aux peintres ou aux poseurs de papier peint"
+    ],
+    "includes": [
+      "Nettoyage et dépolissage lorsque c’est nécessaire",
+      "Rebouchage des petits trous et des fissures",
+      "Ponçage des reprises jusqu’à une face lisse",
+      "Application du primaire lorsqu’il est prévu"
+    ],
+    "outcome": "les surfaces sont propres, saines et prêtes pour le système de finition convenu",
+    "problems": [
+      "Ancienne peinture farinante ou brillante qui refuse les nouvelles couches",
+      "Fines fissures et piqûres sur de grands murs",
+      "Poussière de chantier sur le plâtre nu",
+      "Reliefs d’enduit irréguliers laissés par d’anciennes réparations"
+    ],
+    "tips": [
+      "Laissez les enduits durcir avant de poncer et de revêtir",
+      "Limitez la poussière dans les pièces après la préparation",
+      "Vérifiez d’abord que les sources d’humidité sont traitées"
+    ],
+    "title": "Préparation des surfaces murales",
+    "whenNeeded": "Planifiez la préparation avant une peinture importante ou un papier peint, lorsque les murs sont poussiéreux, brillants ou irréguliers."
+  },
+  "wallpaper": {
+    "angle": "la fourniture et la pose de papier peint intérieur, dans les logements et les petits locaux commerciaux",
+    "benefits": [
+      "Un seul point d’entrée pour les projets de papier peint",
+      "Des liens clairs avec les métiers de pose et de dépose",
+      "Des attentes concrètes sur le motif et les chutes"
+    ],
+    "includes": [
+      "Échange sur le type de papier peint et son adaptation à la pièce",
+      "Contrôle sur place de l’état des murs et de l’accès",
+      "Devis pour la pose et la préparation associée",
+      "Orientation vers la dépose ou la préparation, si nécessaire"
+    ],
+    "outcome": "vous comprenez le périmètre, les besoins de préparation, et quelles tâches liées (dépose, préparation, peinture) entrent dans le même projet",
+    "problems": [
+      "Doute sur la planéité suffisante des murs existants",
+      "Ancien papier encore en place, à déposer d’abord",
+      "Finitions mélangées dans les espaces ouverts",
+      "Besoin de se coordonner avec les peintres sur les primaires"
+    ],
+    "tips": [
+      "Commandez un peu de rouleaux en plus pour les chutes de raccord",
+      "Confirmez les délais des motifs importés",
+      "Prévoyez le déplacement des meubles avant l’arrivée des poseurs"
+    ],
+    "title": "Papier peint",
+    "whenNeeded": "Choisissez cette prestation lorsque vous voulez une vue d’ensemble des options de papier peint — du mur d’accent à la pièce entière — avant de réserver une visite de pose précise."
+  },
+  "wallpaper-installation": {
+    "angle": "une pose de papier peint alignée, aux joints nets et au raccord de motif",
+    "benefits": [
+      "Une mise à niveau visuelle rapide pour les chambres et les bureaux",
+      "Un traitement soigné des angles délicats",
+      "Des conseils sur les papiers peints adaptés à l’humidité des Émirats"
+    ],
+    "includes": [
+      "Contrôle de la planéité et de l’humidité du mur",
+      "Application d’une colle à papier peint adaptée",
+      "Raccord du motif et arasement aux ouvertures",
+      "Nettoyage de l’excédent de colle sur les surfaces"
+    ],
+    "outcome": "le papier peint est posé à plat, les motifs sont raccordés et les coupes sont nettes aux interrupteurs et aux angles",
+    "problems": [
+      "Cloques ou joints qui se soulèvent par manque d’adhérence",
+      "Motif décalé aux raccords",
+      "Décollement près du souffle de la climatisation ou des zones humides",
+      "Murs irréguliers qui se devinent sous les papiers fins"
+    ],
+    "tips": [
+      "Laissez les rouleaux s’acclimater à l’intérieur avant la pose",
+      "Évitez de frotter fort les papiers gaufrés",
+      "Aérez les pièces pendant et après la pose"
+    ],
+    "title": "Pose de papier peint",
+    "whenNeeded": "Organisez une pose de papier peint lorsque vous voulez de la texture ou un motif, sans travaux d’enduit humide."
+  },
+  "wallpaper-removal": {
+    "angle": "un décollage maîtrisé, qui prépare les murs à la peinture ou à un nouveau revêtement",
+    "benefits": [
+      "Un support plus lisse pour la peinture ou un nouveau papier peint",
+      "Moins d’entailles qu’une dépose de bricolage précipitée",
+      "Des étapes suivantes claires pour l’impression et les reprises"
+    ],
+    "includes": [
+      "Vapeur ou griffage, selon le type de papier",
+      "Dépose progressive pour limiter les dégâts du support",
+      "Réduction des résidus de colle sur la face du mur",
+      "Conseils sur le temps de séchage avant de repeindre"
+    ],
+    "outcome": "les murs sont décollés proprement, la colle résiduelle est réduite, et le support est prêt pour la finition suivante",
+    "problems": [
+      "Plusieurs couches d’ancien papier peint",
+      "Support déchiré laissé sur le plâtre",
+      "Faces de plaques de plâtre abîmées lors d’un décollage en bricolage",
+      "Couches de vinyle tenaces près des salles de bains"
+    ],
+    "tips": [
+      "Ne précipitez pas le séchage — un mur humide nuit à l’accroche de la peinture",
+      "Prévoyez de petites reprises après des papiers tenaces",
+      "Aérez pour gérer la vapeur et les odeurs"
+    ],
+    "title": "Dépose de papier peint",
+    "whenNeeded": "Réservez une dépose de papier peint lorsque le papier se décolle, qu’il date, ou qu’il doit partir avant une remise en peinture ou une nouvelle pose."
+  },
+  "window-frame-painting": {
+    "angle": "une peinture soignée des cadres et des tableaux, en accord avec le vitrage et les joints",
+    "benefits": [
+      "Un aspect plus net aux fenêtres, sans remplacement complet",
+      "Une meilleure harmonie avec les couleurs des murs",
+      "Un soin particulier autour des joints et des rails existants"
+    ],
+    "includes": [
+      "Nettoyage et légère abrasion des revêtements encore sains",
+      "Masquage du vitrage et de la quincaillerie",
+      "Primaires adaptés au métal ou au bois, lorsque c’est nécessaire",
+      "Couches de finition régulières sur les faces de cadre accessibles"
+    ],
+    "outcome": "les cadres et les tableaux paraissent plus nets, avec des revêtements adaptés à leur matériau et à leur exposition",
+    "problems": [
+      "Farinage ou décoloration sur les cadres exposés au soleil",
+      "Écaillage sur du métal déjà peint",
+      "Tableaux intérieurs tachés sous les unités de climatisation",
+      "Jeux visibles entre le cadre et la finition du mur"
+    ],
+    "tips": [
+      "Essuyez régulièrement la condensation sur les tableaux pour limiter les taches",
+      "Ne peignez pas par-dessus des joints caoutchouc abîmés — remplacez ces joints à part",
+      "Gardez les rails libres de peinture fraîche pendant le séchage"
+    ],
+    "title": "Peinture de cadres de fenêtre",
+    "whenNeeded": "Réservez lorsque les cadres en aluminium ou en bois farinent, ou que les tableaux intérieurs portent des marques de condensation."
+  }
+}

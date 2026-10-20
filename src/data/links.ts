@@ -23,11 +23,21 @@ import {
 import { contact } from '@/data/contact'
 import { highlightServices, serviceHref } from '@/data/services'
 
+export type PageId =
+  | 'about'
+  | 'contact'
+  | 'faq'
+  | 'home'
+  | 'privacy'
+  | 'services'
+  | 'terms'
+
 export type SiteLink = {
   description?: string
   external?: boolean
   href: string
   icon: LucideIcon
+  id?: PageId
   title: string
 }
 
@@ -50,13 +60,14 @@ export const pages = {
       'Dummy about copy for layout. Replace with the real Handyman story later.',
     href: '/about',
     icon: Info,
+    id: 'about',
     title: 'About',
   },
   contact: {
-    description:
-      'Call or WhatsApp for the fastest reply. Based in Marina, Dubai.',
+    description: `Call or WhatsApp for the fastest reply. Based in ${contact.address}.`,
     href: '/contact',
     icon: Phone,
+    id: 'contact',
     title: 'Contact',
   },
   faq: {
@@ -64,12 +75,14 @@ export const pages = {
       'Answers about coverage, trades, hours, and how to ask for a quote.',
     href: '/faq',
     icon: CircleHelp,
+    id: 'faq',
     title: 'FAQs',
   },
   home: {
-    description: 'Renovation, maintenance, and trade services across the UAE.',
+    description: `Renovation, maintenance, and trade services across the ${contact.serviceArea}.`,
     href: '/',
     icon: Home,
+    id: 'home',
     title: 'Home',
   },
   privacy: {
@@ -77,13 +90,14 @@ export const pages = {
       'Dummy policy for layout only. Replace when the legal company name and trade license are known.',
     href: '/privacy',
     icon: Shield,
+    id: 'privacy',
     title: 'Privacy Policy',
   },
   services: {
-    description:
-      'Renovation and maintenance trades across the UAE. No fixed prices — ask for a quote by call or WhatsApp.',
+    description: `Renovation and maintenance trades across the ${contact.serviceArea}. No fixed prices — ask for a quote by call or WhatsApp.`,
     href: '/services',
     icon: Wrench,
+    id: 'services',
     title: 'Services',
   },
   terms: {
@@ -91,9 +105,10 @@ export const pages = {
       'Dummy terms for layout only. Replace when the legal company name and trade license are known.',
     href: '/terms',
     icon: FileText,
+    id: 'terms',
     title: 'Terms of Use',
   },
-} satisfies Record<string, SiteLink>
+} satisfies Record<PageId, SiteLink>
 
 export const navLinks: SiteLink[] = [
   pages.home,

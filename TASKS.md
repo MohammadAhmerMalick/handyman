@@ -4,22 +4,21 @@ Tracker for UI designing mode. **Read this file first** instead of scanning the 
 
 ## Now
 
-Remaining open items are skipped for now (**8**, **11**, **12**, **13**) unless the user asks for them.
+- [ ] **18.** Analytics: drop real `NEXT_PUBLIC_GA_MEASUREMENT_ID` and `NEXT_PUBLIC_META_PIXEL_ID` into Vercel env (scripts already env-gated)
+- [ ] **19.** SEO: researched title/description pass (replace dummy page descriptions when ready)
 
-- [x] **1.** Move `Navbar` into the root layout so every page shares it
-- [x] **2.** Point **Get Quote** at WhatsApp (or Call) until a quote form exists
-- [x] **3.** Build the **footer**: phone, WhatsApp, email, hours, Marina, nav links
-- [x] **4.** Add dummy **Privacy** and **Terms** routes
-- [x] **5.** **Contact** page: details, hours, map placeholder, UI-only form
-- [x] **6.** Home **services highlights** (the five trades)
-- [x] **7.** **Services** list page (broad UAE catalog, no prices)
-- [ ] **8.** Repeat Call / WhatsApp as a home **strip** (not a quote popup)
-- [x] **9.** **About us** page with dummy copy
-- [x] **10.** Home **trust / testimonials** block (dummy)
-- [ ] **11.** Tidy folders: `Container` → `shared/`, drop duplicate navbar files
-- [ ] **12.** Second **heading font** (name it, then wire `font-heading`) — blocked until a family is named
-- [ ] **13.** Site **hours** visible in footer and Contact; do not advertise 24h (often lands with 3 and 5)
-- [x] **14.** Confirm `AGENTS.md` working mode stays **UI designing** (not pre-UI)
+## Done this round
+
+- [x] **8.** Quote CTA stays WhatsApp only (no home Call/WhatsApp strip)
+- [x] **11.** Folder tidy: `Container` → `shared/`, navbar pieces → `layout/navbar/`
+- [x] **12.** Heading font: **Bricolage Grotesque** (`font-heading`); body **Outfit**
+- [x] **13.** Hours/contact facts pull from `src/data/contact.ts` (FAQs, footer, hero, links, service meta)
+- [x] Arabic foundation: `next-intl`, `[locale]` routes, RTL + Noto Sans Arabic, locale switcher
+- [x] SEO/analytics foundation: page metadata helper, LocalBusiness JSON-LD, GA4 + Meta Pixel via env
+- [x] Locales: English, Arabic, Urdu, Hindi, Mandarin, French (routing, RTL, fonts, locale switcher)
+- [x] **15.** UI copy in `messages/` for Arabic, Urdu, Hindi, Mandarin, and French
+- [x] **16.** Service catalogue overlays in `src/data/services/i18n/<locale>/` (all 110 category files + `registry.ts`)
+- [x] **17.** `hreflang` / locale alternates on pages and service details
 
 ## Already in place
 
@@ -30,7 +29,7 @@ Do not rebuild these unless asked.
 - Home FAQ (preview of 8) and `/faq` (`showAll`)
 - Site shell in root layout: TopBar, Navbar, Footer, scroll-to-top
 - Get Quote → WhatsApp
-- Pages: `/`, `/about`, `/services`, `/services/[slug]`, `/faq`, `/contact`, `/privacy`, `/terms`
+- Pages: `/`, `/about`, `/services`, `/services/[slug]`, `/faq`, `/contact`, `/privacy`, `/terms` (+ `/ar`, `/ur`, `/hi`, `/zh`, `/fr`)
 - Service detail page for each catalog trade
 - Brand color tokens in CSS
 - `src/data/contact.ts`
@@ -38,12 +37,12 @@ Do not rebuild these unless asked.
 - `src/data/services/` (typed catalogue, category seeds, detail content builder)
 - Service detail pages with FAQs, related sidebar, and contact hours from `contact.ts`
 - Logo wordmark
-- Favicon / Apple touch / social images from `public/icon.svg` (`icon.tsx`, `apple-icon.tsx`, `opengraph-image.tsx` with multi-size `generateImageMetadata`)
-- Body font: Outfit (heading family still TBD)
+- Favicon / Apple touch / social images from `public/icon.svg`
+- Body font: Outfit · Heading font: Bricolage Grotesque
 
 ## Notes
 
-- Quote popup/form, contact email sending, SEO meta, analytics, Arabic, real logo, social URLs, real map: **do not build** until asked.
+- Quote popup/form, contact email sending, real logo, social URLs, Contabo/Docker: **do not build** until asked.
 - Dummy copy and `https://placehold.co/600x400` are fine where the brief allows.
 - Component folders: `ui/` Shadcn only; `layout/`, `sections/<name>/`, `shared/` — see `.cursor/rules/components.mdc`.
-- Task **13** is partly covered (hours already in footer and Contact); leave unchecked until explicitly closed.
+- Analytics stay off until env IDs are set (see `.env.example`).

@@ -1,0 +1,366 @@
+{
+  "apartment-maintenance": {
+    "angle": "un entretien d’homme à tout faire adapté aux appartements en tour et en immeuble de hauteur moyenne",
+    "benefits": [
+      "Adapté à la vie en tour à Marina et en ville",
+      "Limite les plaintes des logements voisins",
+      "Une expérience des ascenseurs de service et de la logistique de stationnement"
+    ],
+    "includes": [
+      "des réparations calées sur les heures calmes de l’immeuble",
+      "de petites reprises de balcon et de pièces d’eau",
+      "des réglages de meubles et d’équipements",
+      "la protection des ascenseurs et des couloirs lors du passage des outils"
+    ],
+    "outcome": "les réparations respectent les règles d’accès de l’immeuble et laissent les parties communes en ordre",
+    "problems": [
+      "des défauts d’interphone ou de judas à l’entrée",
+      "des rails de porte-fenêtre de balcon encrassés après les tempêtes de sable",
+      "des filtres de hotte de cuisine négligés",
+      "des voisins sensibles au bruit autour des heures de perçage"
+    ],
+    "tips": [
+      "Réservez l’accès au quai de livraison lorsque c’est nécessaire",
+      "Prévenez la sécurité avant les travaux bruyants",
+      "Gardez chaussures et tapis propres dans les couloirs communs"
+    ],
+    "title": "Entretien d’appartement",
+    "whenNeeded": "Réservez lorsque les règles de la copropriété exigent des réparations soigneuses et peu bruyantes dans votre lot."
+  },
+  "curtain-and-blind-installation-for-new-homes": {
+    "angle": "la pose des habillages de fenêtre de tout le logement pour les nouvelles locations",
+    "benefits": [
+      "Un aspect uniforme pour les photos et les visites",
+      "Un perçage soigné qui évite les reprises en patchwork",
+      "De l’ombre le jour même, avant la mise en place des meubles"
+    ],
+    "includes": [
+      "la confirmation des mesures, pièce par pièce",
+      "la pose des supports à des hauteurs alignées",
+      "l’accrochage des rideaux ou des stores fournis sur place",
+      "la mise en place des sécurités enfant lorsqu’elles sont fournies"
+    ],
+    "outcome": "les fenêtres ont une quincaillerie, des longueurs de tombée et un fonctionnement cohérents dans tout le logement",
+    "problems": [
+      "des poses en tableau et en applique mélangées, qui laissent des jours de lumière",
+      "des niveaux de sol différents qui changent les hauteurs de tombée",
+      "des dispositifs de sécurité enfant manquants sur les cordons",
+      "des fenêtres en baie qui exigent des supports supplémentaires"
+    ],
+    "tips": [
+      "Décidez tôt entre occultant et voilage",
+      "Aérez les rideaux avant l’ourlet définitif, le cas échéant",
+      "Étiquetez les télécommandes et les cannes de store par pièce"
+    ],
+    "title": "Pose de rideaux et de stores pour les nouveaux logements",
+    "whenNeeded": "Faites appel à nous lorsque chaque pièce a besoin d’un ombrage cohérent avant l’emménagement."
+  },
+  "furniture-installation-for-new-homes": {
+    "angle": "le montage et les fixations groupés pour les logements nouvellement loués ou achetés",
+    "benefits": [
+      "Une journée coordonnée, plutôt que des semaines de bricolage",
+      "Un levage plus sûr pour les armoires lourdes",
+      "Des fixations qui suivent le plan d’implantation des meubles"
+    ],
+    "includes": [
+      "un plan de montage priorisé par pièce",
+      "la fixation murale des téléviseurs, miroirs et étagères selon l’accord",
+      "le recoupement de la quincaillerie entre les cartons",
+      "les emballages regroupés vers la zone d’évacuation"
+    ],
+    "outcome": "les chambres, la salle à manger et les espaces de travail deviennent utilisables, avec les fixations faites dans un ordre logique",
+    "problems": [
+      "des livraisons empilées qui bloquent les couloirs",
+      "de la quincaillerie manquante répartie sur plusieurs cartons",
+      "une incertitude sur le type de mur pour les fixations",
+      "des enfants dont les lits doivent passer en premier"
+    ],
+    "tips": [
+      "Ne déballez d’abord que les pièces en cours de travail",
+      "Rangez les notices de montage dans un seul dossier",
+      "Confirmez l’emplacement des montants avant les éléments muraux lourds"
+    ],
+    "title": "Installation de mobilier pour les nouveaux logements",
+    "whenNeeded": "Organisez l’intervention lorsque plusieurs pièces arrivent en kit en même temps."
+  },
+  "holiday-home-maintenance": {
+    "angle": "des visites de contrôle et de reprise pour les logements occupés par intermittence",
+    "benefits": [
+      "Une présentation prête pour les hôtes, sans présence du propriétaire",
+      "Un repérage précoce des problèmes liés à l’humidité",
+      "Une coordination possible avec les visites de nettoyage"
+    ],
+    "includes": [
+      "un parcours centré sur les espaces visibles par les hôtes",
+      "un contrôle et un nettoyage de base des filtres de climatisation, dans le périmètre et en lien avec les services de climatisation associés",
+      "le changement de piles et la lubrification des points qui coincent couramment",
+      "une liste des points reportés pour accord du propriétaire"
+    ],
+    "outcome": "le logement est aéré, les équipements de base fonctionnent et les réserves évidentes sont levées",
+    "problems": [
+      "des pièces au renfermé après l’arrêt de la climatisation",
+      "des portes de balcon raides avant la saison des hôtes",
+      "des piles mortes dans les judas",
+      "une flaque de condensats sous des climatiseurs à l’arrêt"
+    ],
+    "tips": [
+      "Faites tourner la climatisation de temps en temps pendant les longues absences",
+      "Laissez les clés et les codes d’alarme par un canal sécurisé",
+      "Communiquez les dates d’arrivée des hôtes pour fixer les priorités"
+    ],
+    "title": "Entretien de résidence de vacances",
+    "whenNeeded": "Planifiez-les avant l’arrivée des hôtes, ou après de longues périodes vides pendant les mois humides."
+  },
+  "landlord-repair-services": {
+    "angle": "des réparations réactives coordonnées avec les bailleurs et les agents",
+    "benefits": [
+      "Protège la réputation du bailleur auprès des locataires",
+      "Une transmission claire lorsque le travail dépasse le périmètre d’un homme à tout faire",
+      "Compatible avec les portails de maintenance des agences lorsqu’ils sont utilisés"
+    ],
+    "includes": [
+      "un triage à partir des photos et des descriptions du locataire",
+      "des réparations dans le lot, dans le périmètre approuvé par le bailleur",
+      "un compte rendu au bailleur ou à l’agent après la visite",
+      "des recommandations lorsque des agréments de spécialiste sont exigés"
+    ],
+    "outcome": "les réparations sont faites ou documentées, avec des suites claires pour les métiers spécialisés",
+    "problems": [
+      "des locataires qui attendent alors que la responsabilité de la réparation reste floue",
+      "des problèmes qui reviennent après une correction incomplète",
+      "des retards d’accès dans les logements occupés",
+      "une confusion entre priorité urgente et entretien courant"
+    ],
+    "tips": [
+      "Convenez des plafonds de dépense par écrit",
+      "Prévoyez un accès de remplacement lorsque les locataires voyagent",
+      "Gardez les codes d’accès du logement en sécurité"
+    ],
+    "title": "Réparations pour bailleurs",
+    "whenNeeded": "Appelez lorsque les locataires signalent des points qui incombent au bailleur selon le bail."
+  },
+  "minor-property-refurbishment": {
+    "angle": "une remise en état légère entre deux locations, sans contrat de rénovation complète",
+    "benefits": [
+      "Des périodes de vacance plus courtes entre les locataires",
+      "Une dépense maîtrisée par rapport à une réfection complète",
+      "Une finition cohérente pour les photos de commercialisation"
+    ],
+    "includes": [
+      "le rebouchage, la peinture et le rafraîchissement d’équipements dans les pièces convenues",
+      "le renouvellement du silicone dans les pièces d’eau",
+      "le remplacement de la quincaillerie courante, comme les poignées et les patères",
+      "la coordination avec le nettoyage si les deux sont groupés"
+    ],
+    "outcome": "les pièces paraissent actualisées, avec la peinture, les équipements et le silicone convenus réalisés",
+    "problems": [
+      "des cuisines datées mais fonctionnelles, qui demandent un simple rafraîchissement",
+      "des murs éraflés dans tout le logement après de longues locations",
+      "des cordons de silicone fatigués dans les salles de bains",
+      "des poignées et des charnières usées dans tout le logement"
+    ],
+    "tips": [
+      "Choisissez les couleurs de peinture avant la visite pour gagner du temps",
+      "Laissez le silicone prendre avant le nettoyage en profondeur",
+      "Ne mettez les meubles en place qu’une fois la peinture bien dure"
+    ],
+    "title": "Légère remise en état du bien",
+    "whenNeeded": "Réservez lorsqu’un logement a besoin d’être rafraîchi, sans rénovation lourde avec dépose."
+  },
+  "move-in-handyman-services": {
+    "angle": "une aide d’homme à tout faire le jour du déménagement, pour le montage, les fixations et les petites reprises",
+    "benefits": [
+      "Un logement fonctionnel plus vite, dès le premier jour",
+      "Plusieurs tâches d’installation regroupées en une visite",
+      "Moins de stress de bricolage après le voyage"
+    ],
+    "includes": [
+      "une liste de montage prioritaire convenue avant l’arrivée",
+      "la pose de rideaux ou de stores lorsque les ensembles sont sur place",
+      "la fixation d’un téléviseur ou d’une étagère si les supports sont prêts",
+      "un petit rebouchage et une retouche des marques murales mineures, lorsque c’est inclus"
+    ],
+    "outcome": "les meubles essentiels sont montés, les lits sont prêts et les fixations prioritaires sont faites",
+    "problems": [
+      "un arriéré de meubles en kit qui bloque l’aménagement de la chambre",
+      "des rideaux qui laissent passer le jour la première nuit",
+      "un meuble TV qui branle dans le nouveau séjour",
+      "de petits trous de clous laissés par le locataire précédent"
+    ],
+    "tips": [
+      "Étiquetez les cartons par pièce avant l’arrivée des déménageurs",
+      "Faites confirmer le Wi-Fi et le courant pour les appareils connectés",
+      "Gardez les codes peinture du bailleur pour les retouches"
+    ],
+    "title": "Services d’homme à tout faire pour l’emménagement",
+    "whenNeeded": "Faites appel à nous lorsque les clés sont remises et que les cartons doivent vite devenir un logement utilisable."
+  },
+  "move-out-repairs": {
+    "angle": "les reprises de remise en état avant la restitution des clés d’un bien locatif",
+    "benefits": [
+      "Des échanges plus fluides sur la restitution du dépôt de garantie",
+      "Une réalisation par un tiers neutre, lorsque c’est organisé par le bailleur",
+      "Plusieurs petites tâches regroupées avant la remise des clés"
+    ],
+    "includes": [
+      "le rebouchage et le ponçage des marques murales convenues",
+      "le remplacement des équipements abîmés lorsqu’ils sont en stock",
+      "un rafraîchissement simple du silicone dans les pièces d’eau si nécessaire",
+      "la coordination du nettoyage final s’il est planifié à part"
+    ],
+    "outcome": "le logement atteint le niveau convenu, avec des photos des points réalisés",
+    "problems": [
+      "des trous de tableaux au-delà de l’usure normale",
+      "des lames de store cassées",
+      "des abattants de WC desserrés et des poignées qui bougent",
+      "des murs éraflés le long des passages de meubles"
+    ],
+    "tips": [
+      "Retirez tout l’inventaire avant les réparations",
+      "Clarifiez les priorités de la liste de l’agent",
+      "Laissez le temps de séchage de la peinture avant l’état des lieux"
+    ],
+    "title": "Réparations de sortie de location",
+    "whenNeeded": "Réservez une fois que vous avez la liste de l’état des lieux de sortie remise par l’agent."
+  },
+  "property-handover-assistance": {
+    "angle": "un appui concret pendant les rendez-vous de remise des clés",
+    "benefits": [
+      "Moins de stress pendant des créneaux de remise serrés",
+      "Des corrections immédiates qui évitent les plaintes de la première semaine",
+      "Une présence technique neutre aux côtés des agents"
+    ],
+    "includes": [
+      "la présence pendant le parcours de remise",
+      "des démonstrations des vannes, des robinets d’arrêt et des commandes de base",
+      "des resserrages ou des réglages immédiats dans le périmètre",
+      "la rédaction d’une liste de réserves pour les visites de suivi"
+    ],
+    "outcome": "les équipements sont essayés, les petits défauts sont notés et les mises en sécurité immédiates sont faites lorsque c’est convenu",
+    "problems": [
+      "des agents qui expédient les états des lieux",
+      "des locataires qui ne savent pas manœuvrer les vannes ou les disjoncteurs",
+      "des accessoires de salle de bains manquants dès le premier jour",
+      "des poignées desserrées découvertes seulement après la signature"
+    ],
+    "tips": [
+      "Apportez les notices laissées par l’occupant précédent",
+      "Essayez lentement toutes les fenêtres et les portes de balcon",
+      "Photographiez les relevés de compteur avec l’heure"
+    ],
+    "title": "Assistance à la remise des clés",
+    "whenNeeded": "Réservez lorsque vous voulez un homme à tout faire présent pour essayer les équipements pendant que les agents consignent l’état."
+  },
+  "rental-property-inspection": {
+    "angle": "des inspections visuelles avec notes photo pour les bailleurs et les locataires",
+    "benefits": [
+      "Un dossier visuel partagé qui réduit les désaccords",
+      "Des points d’entretien priorisés tôt",
+      "Utile pour les bailleurs à l’étranger"
+    ],
+    "includes": [
+      "un parcours systématique des pièces avec photos",
+      "la distinction entre l’usure et les dégâts",
+      "des contrôles de sécurité simples des garde-corps, des serrures et des pièces d’eau, dans le périmètre",
+      "une synthèse adaptée aux dossiers d’agence"
+    ],
+    "outcome": "vous recevez des photos pièce par pièce et une liste concise de recommandations d’entretien",
+    "problems": [
+      "des accords verbaux oubliés après la remise des clés",
+      "des litiges sur des dégâts préexistants",
+      "des points de sécurité manqués, comme des garde-corps de balcon desserrés",
+      "un contexte incomplet autour des relevés de compteur"
+    ],
+    "tips": [
+      "Ouvrez tous les volets et placards pendant l’inspection",
+      "Faites couler les robinets brièvement pour repérer les fuites évidentes",
+      "Notez les numéros de série des appareils s’ils sont fournis"
+    ],
+    "title": "Inspection de bien locatif",
+    "whenNeeded": "Organisez-la à l’état des lieux d’entrée ou de sortie, lorsque l’état doit être consigné clairement."
+  },
+  "rental-property-maintenance": {
+    "angle": "les réparations et contrôles suivis pour les appartements et villas en location",
+    "benefits": [
+      "Protège les évaluations locatives et les renouvellements",
+      "Un seul interlocuteur, plutôt que des prestataires au coup par coup",
+      "Une documentation qui appuie les échanges sur le dépôt de garantie"
+    ],
+    "includes": [
+      "des visites planifiées ou ponctuelles selon l’accord du bailleur",
+      "des réparations d’équipements, de menuiserie et de finitions dans le périmètre",
+      "des comptes rendus photo pour les propriétaires à distance",
+      "la coordination avec les locataires pour l’accès"
+    ],
+    "outcome": "les locataires rencontrent moins de pannes du quotidien, et les bailleurs reçoivent des notes de visite concises",
+    "problems": [
+      "de petites demandes mélangées qui s’accumulent dans un même logement",
+      "une frontière peu claire entre les réparations d’immeuble et celles du lot",
+      "l’humidité qui agit sur les portes et le silicone des appartements vides",
+      "des locations de vacances qui exigent des rotations rapides"
+    ],
+    "tips": [
+      "Ne transmettez les coordonnées du locataire qu’avec son accord",
+      "Tenez un historique de réserves propre à chaque logement",
+      "Aérez les appartements vacants pendant les mois humides"
+    ],
+    "title": "Entretien de bien locatif",
+    "whenNeeded": "Planifiez l’intervention lorsque des agents ou des bailleurs ont besoin d’un homme à tout faire fiable entre deux locations."
+  },
+  "snagging-and-defect-repairs": {
+    "angle": "la levée des listes de réserves des promoteurs, des bailleurs ou des locataires",
+    "benefits": [
+      "Une levée plus rapide des listes de remise",
+      "Une trace photo pour les dossiers de garantie",
+      "Un seul coordinateur pour des petits métiers variés"
+    ],
+    "includes": [
+      "la lecture et le triage du registre de réserves fourni",
+      "des reprises sur place des petits défauts éligibles",
+      "la clôture photo de chaque point réalisé",
+      "des notes de transmission pour les points structurels ou techniques (CVC, électricité et plomberie)"
+    ],
+    "outcome": "les réserves listées dans le périmètre sont réparées et marquées comme faites, avec photos",
+    "problems": [
+      "des réserves en double d’une visite à l’autre",
+      "une gravité peu claire qui retarde les corrections critiques",
+      "des points de métiers spécialisés mélangés à des tâches mineures",
+      "des locataires présents sur place pendant les réparations"
+    ],
+    "tips": [
+      "Regroupez les réserves par métier pour limiter les visites",
+      "Protégez les sols lors du déplacement des échelles",
+      "Tenez enfants et animaux à l’écart des zones de travail"
+    ],
+    "title": "Réserves et réparations de défauts",
+    "whenNeeded": "Faites appel à nous lorsqu’une liste formelle existe et qu’il faut la réaliser, pas seulement la recontrôler."
+  },
+  "villa-maintenance": {
+    "angle": "le petit entretien intérieur et extérieur des villas isolées et jumelées",
+    "benefits": [
+      "Une seule équipe qui comprend le contexte de tout le bien",
+      "Les éléments extérieurs et intérieurs regroupés sur une seule liste",
+      "Des horaires souples selon le rythme de la famille"
+    ],
+    "includes": [
+      "un parcours de réserves sur plusieurs pièces, en commençant par les pièces de vie",
+      "de petites réparations de portail, de clôture et d’équipements extérieurs dans le périmètre",
+      "la coordination avec des spécialistes de l’extérieur lorsque c’est nécessaire",
+      "des conseils de contrôles de saison pour les pièces inoccupées"
+    ],
+    "outcome": "les pièces clés et les entrées restent fonctionnelles, et les éléments extérieurs sont notés pour un suivi de saison",
+    "problems": [
+      "des portails de jardin qui frottent sur une accumulation de sable",
+      "une quincaillerie de porte de garage qui se desserre",
+      "plusieurs traces de condensats de climatisation au plafond",
+      "des locaux de piscine dont les chemins de câbles demandent à être rangés"
+    ],
+    "tips": [
+      "Rincez la quincaillerie extérieure après un temps poussiéreux",
+      "Gardez des piles de rechange pour la télécommande de portail",
+      "Notez les températures des ailes laissées fermées"
+    ],
+    "title": "Entretien de villa",
+    "whenNeeded": "Organisez-le pour les maisons familiales qui ont besoin de reprises périodiques sur plusieurs niveaux et à l’extérieur."
+  }
+}

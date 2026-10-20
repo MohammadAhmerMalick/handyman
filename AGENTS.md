@@ -50,8 +50,8 @@ Marketing site for **Handyman** — renovation, maintenance, and trade services 
 - Business name: Handyman
 - Logo: text wordmark **Handyman** until a PNG/SVG is supplied
 - Favicon / touch icons: `src/app/icon.tsx` uses `generateImageMetadata` for 16, 32, 48, 192, and 512 px from `public/icon.svg`. `src/app/apple-icon.tsx` generates 120, 152, 167, and 180 px Apple touch icons. Next.js emits the link tags. `favicon.ico` is not generated in code.
-- Language shipping now: English only
-- Arabic: upcoming (site should be structured so `ar` can be added later; do not build i18n yet)
+- Languages: English (default, unprefixed URLs), Arabic (`/ar/...`), Urdu (`/ur/...`), Hindi (`/hi/...`), Chinese (`/zh/...`), and French (`/fr/...`) via `next-intl`
+- Scripts: Arabic and Urdu are RTL with Noto Sans Arabic; Hindi uses Noto Sans Devanagari; Chinese uses Noto Sans SC. UI copy is in `messages/*.json`; service catalogue overlays are in `src/data/services/i18n/<locale>/`.
 
 ## Brand colors
 
@@ -67,10 +67,11 @@ Hex values live in `globals.css` only. In components use theme tokens (`bg-prima
 
 The website uses **multiple typefaces**, not one family for everything:
 
-- Headings: a distinct heading / display font
-- Body and UI: a separate body font
-
-Specific family names are not chosen yet. Do not invent them. Geist in the starter layout is a placeholder until fonts are named in a build session.
+- Headings: **Bricolage Grotesque** (`--font-heading` / `font-heading`)
+- Body / UI: **Outfit** (`--font-sans` / `font-sans`)
+- Arabic / Urdu: **Noto Sans Arabic** (`--font-arabic`; `lang="ar"` and `lang="ur"`)
+- Hindi: **Noto Sans Devanagari** (`--font-devanagari`; `lang="hi"`)
+- Chinese: **Noto Sans SC** (`--font-chinese`; `lang="zh"`)
 
 ## Contact
 
@@ -112,13 +113,13 @@ Do not add an icon library or pick social platforms yet. That happens in dev mod
 
 Do not add extra routes, dashboards, or accounts unless asked.
 
-Nav, footer, legal, and social hrefs/icons live in `src/data/links.ts`. Pages that are not built yet stay `#`. Live routes: `/`, `/about`, `/services`, `/services/[slug]`, `/faq`, `/contact`, `/privacy`, `/terms`.
+Nav, footer, legal, and social hrefs/icons live in `src/data/links.ts`. Pages that are not built yet stay `#`. Live routes: `/`, `/about`, `/services`, `/services/[slug]`, `/faq`, `/contact`, `/privacy`, `/terms`, plus the same paths under `/ar`, `/ur`, `/hi`, `/zh`, and `/fr`.
 
 ## SEO and analytics
 
-Social / SEO images: `src/app/opengraph-image.tsx` uses `generateImageMetadata` for 1200×630 (OG), 1200×600 (Twitter), and 1080×1080 (square) from `public/icon.svg`. Root metadata in `src/app/layout.tsx` sets `metadataBase` (`https://handyman.ae`), title template, description, keywords, canonical URL, Open Graph, and Twitter card. The description is the existing site line.
+Social / SEO images: `src/app/opengraph-image.tsx` uses `generateImageMetadata` for 1200×630 (OG), 1200×600 (Twitter), and 1080×1080 (square) from `public/icon.svg`. Locale layout metadata sets `metadataBase` (`https://handyman.ae`), title template, description, keywords, canonical URL, Open Graph, and Twitter card. Per-page metadata comes from `src/lib/pageMetadata.ts` (linked to `pages` in `links.ts`). LocalBusiness JSON-LD is in `src/components/shared/JsonLd.tsx`.
 
-Researched title and description copy is still later. Do not add analytics yet.
+GA4 and Meta Pixel load from `src/components/shared/Analytics.tsx` only when `NEXT_PUBLIC_GA_MEASUREMENT_ID` / `NEXT_PUBLIC_META_PIXEL_ID` are set (see `.env.example`). Locale pages emit `hreflang` alternates. Researched title/description copy is still in `TASKS.md`.
 
 ## Services
 
@@ -145,19 +146,16 @@ No per-service prices. Quotes only (CTA / banner / popup / form section later).
 
 ## Upcoming features (do not build yet)
 
-- Arabic language / RTL
 - Real logo file beyond the in-app wordmark (favicon is generated from `public/icon.svg`)
 - Icon library + social icons and real profile URLs
 - Trade license / legal company name
 - Real Privacy / Terms copy
-- Real Google Maps embed (Marina, Dubai)
 - Real about / trust / testimonial copy and photos
-- Quote CTA, banner, popup, and quote form section
+- Quote CTA, banner, popup, and quote form section (WhatsApp Get Quote is enough for now)
 - Contact form submission (see recommendation below)
 - Per-service pricing, if ever needed
-- SEO research + recommended title/description (then implement meta tags)
-- Google Analytics
-- Meta Pixel
+- SEO research + recommended title/description
+- Analytics measurement IDs in deployment env (scripts are ready)
 - Move hosting from Vercel to Contabo (Docker + database)
 
 ### Contact form recommendation (later)

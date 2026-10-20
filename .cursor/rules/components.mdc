@@ -25,10 +25,13 @@ src/components/hero.tsx
 src/components/layout/header.tsx
 src/components/layout/footer.tsx
 src/components/sections/hero/hero_1.tsx
-src/components/shared/logo.tsx
-src/components/shared/container.tsx
+src/components/shared/Logo.tsx
+src/components/shared/Container.tsx
+src/components/layout/navbar/NavMenu.tsx
 src/components/ui/button.tsx // Shadcn CLI only
 ```
+
+Navbar chrome (`NavMenu`, `NavigationSheet`) lives under `layout/navbar/`. `Container` is shared site layout, not a Shadcn primitive — keep it out of `ui/`.
 
 Add Shadcn primitives with the Shadcn CLI into `src/components/ui/` only. Compose them from `layout/`, `sections/`, and `shared/`. Do not rewrite Shadcn CLI files to match the site component export style.
 

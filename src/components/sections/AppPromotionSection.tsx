@@ -1,13 +1,16 @@
 import { BadgeCheck, Download, Eye, Star, StarHalf } from 'lucide-react'
 import Image from 'next/image'
-import Link from 'next/link'
+import { getTranslations } from 'next-intl/server'
 import { ApplicationStoreLinks } from '@/components/shared/ApplicationStoreLinks'
+import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
-import { Container } from '@/components/ui/container'
+import { Link } from '@/i18n/navigation'
 
-const AppPromotionSection = () => {
+const AppPromotionSection = async () => {
+  const t = await getTranslations('AppPromo')
+
   return (
     <Container>
       <div className="grid items-center gap-10 lg:grid-cols-2 lg:gap-12">
@@ -20,16 +23,14 @@ const AppPromotionSection = () => {
               <Star className="size-4 fill-current text-primary" />
               <StarHalf className="size-4 fill-current text-primary" />
             </div>
-            <span className="text-muted-foreground">
-              4.8/5 from 2,945 reviews
-            </span>
+            <span className="text-muted-foreground">{t('rating')}</span>
           </div>
 
           <Heading
             as="h2"
-            heading="Your life, organized and simplified"
+            heading={t('heading')}
             layout="left"
-            paragraph="Our app helps you organize tasks, manage projects, and achieve your goals with a beautifully designed, distraction-free interface."
+            paragraph={t('paragraph')}
             size="xl"
             variant="accent"
           />
@@ -37,7 +38,7 @@ const AppPromotionSection = () => {
           <div className="flex flex-col gap-3 sm:flex-row">
             <Button size="lg" render={<Link href="/" />} nativeButton={false}>
               <Download data-icon="inline-start" />
-              Download App
+              {t('download')}
             </Button>
             <Button
               variant="outline"
@@ -46,34 +47,26 @@ const AppPromotionSection = () => {
               nativeButton={false}
             >
               <Eye data-icon="inline-start" />
-              See Features
+              {t('seeFeatures')}
             </Button>
           </div>
 
           <Card className="bg-transparent shadow-muted shadow-xl backdrop-blur-xs">
             <CardContent>
               <div className="flex flex-col gap-3">
-                <h3 className="font-semibold text-lg">
-                  Why users love our app
-                </h3>
+                <h3 className="font-semibold text-lg">{t('whyLove')}</h3>
                 <div className="grid gap-2">
                   <div className="flex items-center gap-2">
                     <BadgeCheck className="size-4 text-primary" />
-                    <span className="text-sm">
-                      Intuitive interface with minimal learning curve
-                    </span>
+                    <span className="text-sm">{t('featureUi')}</span>
                   </div>
                   <div className="flex items-center gap-2">
                     <BadgeCheck className="size-4 text-primary" />
-                    <span className="text-sm">
-                      Seamless cross-device syncing and offline support
-                    </span>
+                    <span className="text-sm">{t('featureOffline')}</span>
                   </div>
                   <div className="flex items-center gap-2">
                     <BadgeCheck className="size-4 text-primary" />
-                    <span className="text-sm">
-                      Advanced organizational tools with zero complexity
-                    </span>
+                    <span className="text-sm">{t('featureOrg')}</span>
                   </div>
                 </div>
               </div>
@@ -92,17 +85,17 @@ const AppPromotionSection = () => {
             <div className="relative z-30 max-w-70 overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-lg">
               <Image
                 src="/app-promo/tasks-hd.png"
-                alt="App screenshot showing task management interface"
+                alt={t('tasksAlt')}
                 width={280}
                 height={580}
                 className="w-full bg-muted"
               />
             </div>
 
-            <div className="absolute top-24 -right-20 z-20 hidden max-w-70 rotate-6 overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-lg lg:-right-32 lg:block">
+            <div className="absolute -inset-e-20 top-24 z-20 hidden max-w-70 rotate-6 overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-lg lg:-end-32 lg:block">
               <Image
                 src="/app-promo/calendar-hd.png"
-                alt="App screenshot showing calendar interface"
+                alt={t('calendarAlt')}
                 height={580}
                 width={280}
                 className="w-full bg-muted"
@@ -110,7 +103,7 @@ const AppPromotionSection = () => {
             </div>
 
             <Card
-              className="absolute top-4/6 -left-8 z-40 hidden bg-white/70 backdrop-blur-sm sm:block lg:-left-16"
+              className="absolute -inset-s-8 top-4/6 z-40 hidden bg-white/70 backdrop-blur-sm sm:block lg:-start-16"
               size="sm"
             >
               <CardContent className="flex items-center gap-2">
@@ -118,20 +111,22 @@ const AppPromotionSection = () => {
                   <Download className="size-5 text-primary" />
                 </div>
                 <div>
-                  <h5 className="font-medium text-xs">Daily Reminder</h5>
+                  <h5 className="font-medium text-xs">{t('dailyReminder')}</h5>
                   <p className="text-muted-foreground text-xs">
-                    Complete your tasks
+                    {t('completeTasks')}
                   </p>
                 </div>
               </CardContent>
             </Card>
 
             <Card
-              className="absolute -right-12 -bottom-6 z-40 hidden bg-white/70 backdrop-blur-sm sm:block"
+              className="absolute -end-12 -bottom-6 z-40 hidden bg-white/70 backdrop-blur-sm sm:block"
               size="sm"
             >
               <CardContent className="flex flex-col">
-                <h5 className="mb-1 font-medium text-xs">Weekly Progress</h5>
+                <h5 className="mb-1 font-medium text-xs">
+                  {t('weeklyProgress')}
+                </h5>
                 <p className="font-semibold text-lg">87%</p>
                 <div className="mt-1 h-2 w-24 rounded-full bg-muted">
                   <div className="h-2 w-[87%] rounded-full bg-primary" />

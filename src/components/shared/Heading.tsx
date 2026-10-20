@@ -12,12 +12,12 @@ const headingVariants = cva('flex w-full gap-4', {
   variants: {
     layout: {
       center: 'mx-auto max-w-3xl flex-col items-center text-center',
-      left: 'max-w-3xl flex-col items-start text-left',
-      right: 'ml-auto max-w-3xl flex-col items-end text-right',
+      left: 'max-w-3xl flex-col items-start text-start',
+      right: 'ms-auto max-w-3xl flex-col items-end text-end',
       split:
-        'flex-col items-start text-left md:flex-row md:items-end md:justify-between md:gap-12',
+        'flex-col items-start text-start md:flex-row md:items-end md:justify-between md:gap-12',
       stacked:
-        'max-w-3xl flex-col items-start border-primary border-l-4 pl-5 text-left',
+        'max-w-3xl flex-col items-start border-primary border-s-4 ps-5 text-start',
     },
     variant: {
       accent: '',
@@ -62,7 +62,7 @@ const paragraphVariants = cva('max-w-2xl text-pretty leading-relaxed', {
       center: '',
       left: '',
       right: '',
-      split: 'md:max-w-md md:text-right',
+      split: 'md:max-w-md md:text-end',
       stacked: '',
     },
     variant: {
@@ -95,7 +95,7 @@ const dividerVariants = cva('h-1 w-12 rounded-full', {
       layout: 'center',
     },
     {
-      class: 'ml-auto',
+      class: 'ms-auto',
       layout: 'right',
     },
   ],

@@ -1,0 +1,423 @@
+{
+  "ceiling-and-wall-repairs": {
+    "angle": "des reprises localisées de plafonds et de murs après des fuites, des déposes ou de petits chocs",
+    "benefits": [
+      "Stabilise les surfaces avant que la moisissure s’installe",
+      "Remise plus nette après le retrait d’équipements",
+      "Limite l’extension des plaques abîmées"
+    ],
+    "includes": [
+      "découpe des parties non adhérentes et contrôles de séchage",
+      "rebouchage, bande armée et ponçage jusqu’à l’affleurement",
+      "impression des taches avant les couches de finition lorsque c’est inclus",
+      "conseils sur les temps de séchage avant une redécoration complète"
+    ],
+    "outcome": "les reprises sont rebouchées, poncées et prêtes à peindre, ou laissées finies selon l’accord",
+    "problems": [
+      "de la peinture de plafond qui cloque après des fuites à l’étage",
+      "des trous de chevilles après la dépose d’une signalétique",
+      "des cornières d’angle abîmées par les chocs de chariots",
+      "des fissures qui se redessinent après le déplacement de gaines de climatisation"
+    ],
+    "tips": [
+      "Réparez les fuites à la source avant les travaux esthétiques de plafond",
+      "Gardez les pièces ventilées pendant le séchage",
+      "Photographiez les limites des taches pour les notes d’assurance"
+    ],
+    "title": "Réparations de plafonds et de murs",
+    "whenNeeded": "Organisez l’intervention après un petit incident d’eau, ou lors du déplacement d’équipements fixés au mur."
+  },
+  "commercial-carpentry": {
+    "angle": "des réparations de bois et de stratifié pour comptoirs, étagères et menuiserie des locaux arrière",
+    "benefits": [
+      "Prolonge la vie de la menuiserie intégrée sans réfection complète",
+      "Chants plus sûrs pour le personnel qui manipule le stock",
+      "Reprend la quincaillerie existante lorsque c’est possible"
+    ],
+    "includes": [
+      "réalignement des portes et des coulisses de tiroirs",
+      "revissage des caissons et ajout d’équerres",
+      "ponçage local et préparation prête à peindre lorsque c’est convenu",
+      "remplacement de poignées, de serrures ou de taquets d’étagère"
+    ],
+    "outcome": "la menuiserie est d’équerre, les charnières sont réglées et les surfaces sont prêtes à un usage continu",
+    "problems": [
+      "des panneaux de comptoir gonflés près des lave-vaisselle",
+      "des étagères qui fléchissent sous le poids du stock",
+      "des serrures de placard en panne dans les bureaux arrière",
+      "des chants éclatés sur les portes de quai de livraison"
+    ],
+    "tips": [
+      "Ne surchargez pas les étagères au-delà des charges indiquées",
+      "Essuyez vite les projections sur les plans stratifiés",
+      "Planifiez un ponçage plus poussé lorsque les boutiques sont fermées"
+    ],
+    "title": "Menuiserie commerciale",
+    "whenNeeded": "Organisez l’intervention lorsque les comptoirs de magasin ou les rangements de bureau montrent l’usure de l’exploitation quotidienne."
+  },
+  "commercial-painting": {
+    "angle": "des retouches et de la peinture de petites surfaces pour les lieux de travail et les cellules commerciales",
+    "benefits": [
+      "Des espaces visibles par les clients, rafraîchis rapidement",
+      "Odeur contenue grâce au choix du moment et au flux d’air",
+      "Relevé clair des codes peinture utilisés"
+    ],
+    "includes": [
+      "dégraissage des surfaces et léger ponçage",
+      "application d’une peinture assortie ou fournie par le client",
+      "protection des sols et des équipements avec des bâches",
+      "plan de ventilation selon les règles de climatisation de l’immeuble"
+    ],
+    "outcome": "les reprises se fondent de façon acceptable dans les teintes existantes, et les zones sont ventilées pendant le séchage",
+    "problems": [
+      "des murs d’accent marqués par les chocs de chariots",
+      "de la peinture qui s’écaille près des taches de condensats de climatisation",
+      "un écart de teinte après des retouches partielles en bricolage",
+      "des inquiétudes liées aux odeurs dans les centres commerciaux clos"
+    ],
+    "tips": [
+      "Laissez sécher complètement avant un nettoyage intensif",
+      "Conservez le reste de peinture étiqueté par pièce",
+      "Confirmez les règles des prestataires du centre commercial avant de commencer"
+    ],
+    "title": "Peinture commerciale",
+    "whenNeeded": "Réservez entre deux locations, ou lorsque les éraflures s’accumulent dans le champ de vision des clients."
+  },
+  "commercial-plumbing-repairs": {
+    "angle": "des réparations de plomberie accessibles pour les cuisines du personnel, les sanitaires et les points techniques",
+    "benefits": [
+      "Rétablit rapidement les équipements du personnel",
+      "Documente les points hors du périmètre de plomberie d’un homme à tout faire",
+      "S’aligne sur les procédures de coupure d’eau de l’immeuble"
+    ],
+    "includes": [
+      "isolement et réparation des robinets, siphons et raccords de tuyaux visibles",
+      "remplacement de joints, de cartouches ou de flexibles",
+      "débouchage simple des siphons accessibles",
+      "signalement des fuites cachées qui exigent une recherche spécialisée"
+    ],
+    "outcome": "l’eau est isolée en sécurité, les fuites visibles sont réparées, et l’orientation vers un spécialiste pour les réseaux importants est claire",
+    "problems": [
+      "des éviers de cuisine du personnel bouchés aux heures de pointe du déjeuner",
+      "des chasses d’eau qui coulent et gaspillent l’eau dans les sanitaires",
+      "des mitigeurs de lavabo desserrés qui bougent à l’usage quotidien",
+      "des bacs de condensats qui débordent près des unités de climatisation"
+    ],
+    "tips": [
+      "Affichez un avis lorsque les sanitaires sont isolés temporairement",
+      "Laissez l’espace sous évier dégagé pour accéder au siphon",
+      "Notez les variations du compteur d’eau après une fuite importante"
+    ],
+    "title": "Réparations de plomberie commerciale",
+    "whenNeeded": "Appelez lorsque des fuites ou des bouchons touchent les espaces du personnel, sans qu’un contrat de plomberie commerciale complet soit nécessaire."
+  },
+  "commercial-washroom-maintenance": {
+    "angle": "l’entretien des équipements, des distributeurs et des joints dans les sanitaires du personnel et des clients",
+    "benefits": [
+      "Meilleure expérience pour le personnel et les visiteurs",
+      "Économies d’eau en arrêtant les écoulements continus",
+      "Une reprise précoce du joint limite les dégâts du support"
+    ],
+    "includes": [
+      "resserrage et refixation des accessoires",
+      "remplacement de joints et de robinets dans le périmètre prévu",
+      "retouches de silicone aux lavabos et aux sols",
+      "remplacement de crochets, de signalétique et de petites cloisons"
+    ],
+    "outcome": "les équipements sont bien fixés, les joints sont intacts et les utilisateurs disposent de fournitures fiables",
+    "problems": [
+      "des barres d’appui ou des distributeurs desserrés",
+      "des mécanismes de chasse qui fuient et coulent en continu",
+      "du joint manquant aux jonctions de sol",
+      "des miroirs qui se corrodent sur les bords dans les pièces humides"
+    ],
+    "tips": [
+      "Ventilez les sanitaires pendant le séchage du silicone",
+      "Signalez vite les fuites cachées derrière les panneaux",
+      "Utilisez si possible les pièces du fabricant pour les chasses d’eau"
+    ],
+    "title": "Entretien de sanitaires commerciaux",
+    "whenNeeded": "Réservez lorsque les sanitaires montrent de l’usure, des fuites ou des accessoires desserrés entre deux nettoyages en profondeur."
+  },
+  "door-and-lock-maintenance": {
+    "angle": "un réglage suivi des portes et des serrures pour les portes commerciales très sollicitées",
+    "benefits": [
+      "Réduit les dégâts causés par le personnel qui force du pied les portes coincées",
+      "Améliore l’accessibilité avec des forces de fermeture plus légères",
+      "Documente les points de portes coupe-feu pour un suivi spécialisé"
+    ],
+    "includes": [
+      "resserrage des charnières et lubrification sélective",
+      "réglage des gâches et alignement des pênes",
+      "remplacement de pièces d’usure, comme les ferme-portes, lorsqu’elles sont fournies",
+      "repérage des portes qui relèvent d’un travail agréé de porte coupe-feu"
+    ],
+    "outcome": "les portes s’enclenchent sans forcer, les charnières sont lubrifiées de façon adaptée et les issues restent dégagées",
+    "problems": [
+      "des ferme-portes hydrauliques qui fuient dans les cages d’escalier",
+      "des pênes à mortaise qui coincent avec l’humidité",
+      "des portes en aluminium désalignées après un changement de moquette",
+      "des organigrammes de clés aux cylindres desserrés"
+    ],
+    "tips": [
+      "Signalez tout de suite les défauts de portes coupe-feu",
+      "Gardez les ferme-portes réglés plutôt que retirés",
+      "Apprenez au personnel à ne pas caler les portes sécurisées en position ouverte"
+    ],
+    "title": "Entretien des portes et serrures",
+    "whenNeeded": "Planifiez l’intervention lorsque le personnel signale des portes qui coincent ou des pênes usés à l’usage quotidien."
+  },
+  "landlord-maintenance-services": {
+    "angle": "un appui d’entretien pour les bailleurs entre les locations et pendant les baux",
+    "benefits": [
+      "Protège les loyers grâce à des interventions plus rapides",
+      "État documenté pour les discussions sur le dépôt de garantie",
+      "Des limites de périmètre concrètes réduisent les coûts imprévus"
+    ],
+    "includes": [
+      "tri des signalements de locataires, avec demande de photos",
+      "réparations dans le logement pour les responsabilités du bailleur convenues",
+      "communication neutre via le bailleur ou l’agent",
+      "listes de réserves liées au déménagement lorsqu’elles sont planifiées"
+    ],
+    "outcome": "les locataires reçoivent à temps des réparations dans le périmètre, et les bailleurs obtiennent des comptes rendus de visite concis",
+    "problems": [
+      "des locataires qui signalent des problèmes mélangés dans une seule demande",
+      "des réparations tardives qui pèsent sur les décisions de renouvellement",
+      "une responsabilité floue entre les éléments de l’immeuble et ceux du logement",
+      "une usure à la remise des clés qui n’est pas documentée"
+    ],
+    "tips": [
+      "Ne transmettez le contact du locataire qu’avec son accord",
+      "Utilisez une approbation écrite pour les plafonds de dépense",
+      "Photographiez l’avant et l’après à la remise des clés"
+    ],
+    "title": "Services d’entretien pour bailleurs",
+    "whenNeeded": "Faites appel à nous lorsque les logements en location ont besoin d’un contact de réparation fiable, sans équipe technique complète."
+  },
+  "lighting-fixture-replacement": {
+    "angle": "le remplacement de luminaires et de tubes dans les plafonds commerciaux accessibles",
+    "benefits": [
+      "Espaces du personnel et de vente plus lumineux et plus efficaces",
+      "Une fixation sûre réduit les risques de chute",
+      "Points documentés qui exigent un travail électrique agréé"
+    ],
+    "complianceNote": "Les circuits neufs, les modifications de tableau et l’éclairage de secours certifié sont réalisés par des électriciens agréés.",
+    "includes": [
+      "coupure et dépose des appareils hors service",
+      "pose des remplacements fournis par le client ou convenus",
+      "alignement simple des ossatures et des diffuseurs",
+      "évacuation des anciens tubes selon les règles du site"
+    ],
+    "outcome": "les nouveaux luminaires sont bien fixés, le flux lumineux convient à la zone et la coupure de sécurité est confirmée",
+    "problems": [
+      "des diffuseurs jaunis qui donnent une impression de manque de propreté",
+      "des ballasts hors service dans d’anciennes réglettes fluorescentes",
+      "des luminaires qui ne tiennent plus que par une fixation après une maintenance",
+      "une température de couleur inadaptée dans les présentations de produits"
+    ],
+    "tips": [
+      "N’ouvrez pas un faux plafond encore sous tension sans coupure",
+      "Respectez l’indice IP dans les sanitaires et les cuisines",
+      "Gardez des tubes de rechange étiquetés par type de luminaire"
+    ],
+    "title": "Remplacement de luminaires",
+    "whenNeeded": "Faites appel à nous lorsque les luminaires tombent souvent en panne, ou qu’un passage à des kits LED est prévu appareil par appareil."
+  },
+  "office-maintenance": {
+    "angle": "un entretien réactif des lieux de travail, pour garder les espaces du personnel sûrs et présentables",
+    "benefits": [
+      "Garde un espace de travail professionnel pour les clients et les candidats",
+      "Un seul interlocuteur pour des petits travaux variés",
+      "Visites planifiées hors des réunions chargées lorsque c’est possible"
+    ],
+    "includes": [
+      "création d’une liste de réserves pendant le tour des locaux",
+      "petites réparations de portes, de murs et d’équipements",
+      "coordination de l’accès avec le gestionnaire de l’immeuble",
+      "notes de suivi pour les points qui exigent un spécialiste"
+    ],
+    "outcome": "les défauts sont consignés, réparés dans le périmètre convenu, et la gêne pour le personnel reste limitée",
+    "problems": [
+      "des luminaires qui clignotent et des prises desserrées qui inquiètent le personnel",
+      "des dalles de faux plafond abîmées après de petites fuites",
+      "des portes de salle de réunion qui ne s’enclenchent pas",
+      "des murs éraflés dans les couloirs très passants"
+    ],
+    "tips": [
+      "Partagez les plans d’étage et les badges d’accès avant les visites",
+      "Désignez un interlocuteur dans l’équipe pour les décisions rapides",
+      "Photographiez les problèmes récurrents pour repérer les tendances"
+    ],
+    "title": "Entretien de bureaux",
+    "whenNeeded": "Planifiez l’intervention lorsque les bureaux ont besoin de réparations régulières entre deux grands aménagements."
+  },
+  "office-partition-repairs": {
+    "angle": "des réparations de cloisons démontables, de remplissages en plaque de plâtre et de blocs-portes de bureau",
+    "benefits": [
+      "Évite le remplacement coûteux d’une cloison entière pour un petit dégât",
+      "Salles de réunion plus silencieuses après le réglage des charnières",
+      "Garde à l’esprit les calfeutrements coupe-feu aux percements"
+    ],
+    "includes": [
+      "réglage des charnières et des ferme-portes sur les portes de cloison",
+      "remplacement des clips, joints ou habillages de tête abîmés",
+      "reprise des petits dégâts de plaque, prête à peindre",
+      "repose des passe-câbles et des plaques d’obturation"
+    ],
+    "outcome": "les cloisons sont d’aplomb, les portes se ferment sans bruit et les passages de câbles restent accessibles",
+    "problems": [
+      "des portes qui raclent après une nouvelle hauteur de sol",
+      "des jeux en tête de cloison après des travaux de climatisation",
+      "des clips de vitrage ou de panneau cassés dans les bulles de réunion",
+      "des passe-câbles arrachés lors des déplacements de bureaux"
+    ],
+    "tips": [
+      "Ne percez pas les cloisons sans l’accord de l’immeuble",
+      "Conservez si possible les types de clips d’origine de l’installateur",
+      "Planifiez les déplacements de bureaux avant les visites de réglage des portes"
+    ],
+    "title": "Réparations de cloisons de bureau",
+    "whenNeeded": "Faites appel à nous lorsque des changements d’agencement laissent des jeux, ou que les portes frottent après un remplacement de moquette."
+  },
+  "property-inspection-and-snagging": {
+    "angle": "des inspections structurées avec listes de réserves pour les remises commerciales et résidentielles",
+    "benefits": [
+      "Une référence commune réduit les litiges",
+      "Les photos appuient les échanges sur le dépôt et la garantie",
+      "Les corrections immédiates règlent les points simples le jour même"
+    ],
+    "includes": [
+      "inspection pièce par pièce selon les critères convenus",
+      "registre de réserves illustré, avec degrés de gravité",
+      "réparations immédiates pour les points qui tiennent dans la visite",
+      "rapport de synthèse pour le bailleur, le locataire ou l’équipe technique"
+    ],
+    "outcome": "vous recevez une liste de réserves priorisée, avec photos et un périmètre clair pour chaque point",
+    "problems": [
+      "des réserves orales informelles perdues entre les parties",
+      "une responsabilité partagée entre promoteur et locataire",
+      "des défauts cachés derrière le mobilier intégré",
+      "des échéances qui approchent sans liste triée"
+    ],
+    "tips": [
+      "Assistez aux inspections avec les clés et les badges d’accès prêts",
+      "Ouvrez tous les volets et tous les placards pendant la visite",
+      "Étiquetez les réserves de façon constante, par pièce et par type de surface"
+    ],
+    "title": "Inspection du bien et levée des réserves",
+    "whenNeeded": "Utilisez ce service à la réception pratique ou avant le début du bail, lorsqu’une liste de réserves formelle est nécessaire."
+  },
+  "retail-property-maintenance": {
+    "angle": "des réparations en zone client pour les boutiques et showrooms ouverts au public",
+    "benefits": [
+      "Protège l’image de marque dans les rues passantes",
+      "Réduit les risques de chute aux entrées",
+      "Horaires souples autour des heures de commerce"
+    ],
+    "includes": [
+      "réparations prioritaires des zones visibles par les clients",
+      "fixation sûre des étagères, des crochets et des présentoirs",
+      "retouches de peinture sur les zones convenues",
+      "planification en dehors des heures de commerce si vous le demandez"
+    ],
+    "outcome": "les devantures paraissent soignées, les équipements fonctionnent et la vente peut continuer lorsque c’est sans risque",
+    "problems": [
+      "des rayonnages abîmés après les livraisons",
+      "une signalétique desserrée qui inquiète les passants",
+      "des crochets et serrures de cabines d’essayage en panne",
+      "un sol éraflé aux entrées"
+    ],
+    "tips": [
+      "Balisez la peinture fraîche jusqu’au séchage complet",
+      "Gardez des fixations de rechange sur place pour les présentoirs",
+      "Signalez immédiatement les fuites d’eau qui touchent le stock"
+    ],
+    "title": "Entretien de locaux commerciaux",
+    "whenNeeded": "Faites appel à nous lorsque les devantures ont besoin de réparations rapides qui jouent sur l’impression des clients."
+  },
+  "scheduled-property-maintenance": {
+    "angle": "des visites d’entretien planifiées pour des portefeuilles et des sites uniques, selon un calendrier récurrent",
+    "benefits": [
+      "Budget d’entretien prévisible",
+      "Moins de dépannages urgents dus à des réserves négligées",
+      "Un seul historique de l’état du bien dans le temps"
+    ],
+    "includes": [
+      "tour selon la liste de contrôle convenue à chaque visite",
+      "traitement groupé des petites réparations dans le temps prévu",
+      "journal photo des points reportés, avec priorité",
+      "coordination avec les locataires pour les créneaux d’accès"
+    ],
+    "outcome": "chaque visite produit une liste de réserves, avec les points traités et des notes différées pour les spécialistes",
+    "problems": [
+      "de petits défauts qui s’accumulent entre les locations",
+      "des réparations non suivies qui entraînent des interventions répétées",
+      "des points saisonniers, comme les contrôles de joints, qui passent inaperçus",
+      "des locataires qui ne savent pas qui contacter pour les petits défauts"
+    ],
+    "tips": [
+      "Partagez les règles d’accès et de stationnement avant chaque tournée",
+      "Tenez à jour une liste de réserves entre les visites",
+      "Alignez les horaires de visite sur les heures calmes des immeubles d’habitation"
+    ],
+    "title": "Entretien immobilier planifié",
+    "whenNeeded": "Mettez ce service en place lorsque les bailleurs ou les gestionnaires de site veulent des tournées de réserves prévisibles."
+  },
+  "tenant-move-in-repairs": {
+    "angle": "des corrections de réserves avant que les nouveaux locataires occupent le logement",
+    "benefits": [
+      "Accueil du locataire plus fluide",
+      "Moins de réclamations dès le premier jour",
+      "Séparation claire entre les éléments de l’immeuble et ceux du logement"
+    ],
+    "includes": [
+      "réparations prioritaires issues de la liste de réserves d’entrée",
+      "pose des accessoires de base lorsqu’ils sont fournis",
+      "essai des portes, des fenêtres et des pièces d’eau",
+      "visite finale avec l’agent ou le bailleur"
+    ],
+    "outcome": "les réserves convenues sont closes et le logement se présente nettement pour l’emménagement",
+    "problems": [
+      "des retouches de peinture après le départ précédent",
+      "des charnières de placard desserrées par la chaleur d’un logement vide",
+      "des accessoires de salle de bain manquants",
+      "des prises ou interrupteurs hors service signalés sur la liste de réserves"
+    ],
+    "tips": [
+      "Partagez la liste de réserves avec photos à l’avance",
+      "Confirmez quels éléments sont fournis par le locataire",
+      "Laissez la peinture sécher avant la livraison des meubles"
+    ],
+    "title": "Réparations d’entrée dans les lieux",
+    "whenNeeded": "Réservez dans les jours qui précèdent la remise des clés, lorsque les listes d’inspection sont prêtes."
+  },
+  "tenant-move-out-repairs": {
+    "angle": "des réparations après la fin du bail, pour retrouver un état louable",
+    "benefits": [
+      "Remise en location plus rapide après une remise en état cohérente",
+      "Documentation neutre pour les litiges de dépôt de garantie",
+      "Regroupe plusieurs petits métiers en une seule visite"
+    ],
+    "includes": [
+      "retouches de peinture et rebouchage au niveau convenu",
+      "remplacement des équipements abîmés lorsque le stock est disponible",
+      "coordination d’un nettoyage en profondeur s’il est prévu à part",
+      "inventaire des éléments réalisés et de ceux qui sont facturables"
+    ],
+    "outcome": "le logement atteint le niveau de remise en état convenu, avec les éléments documentés pour le traitement du dépôt de garantie",
+    "problems": [
+      "des trous de chevilles dans toutes les pièces de vie",
+      "des stores ou rails de rideaux abîmés",
+      "des plinthes et chants de porte éraflés",
+      "de petites fuites non signalées pendant le bail"
+    ],
+    "tips": [
+      "Terminez l’état des lieux de sortie avant de réserver",
+      "Distinguez l’usure normale des dégâts facturables",
+      "Aérez après la peinture, avant les visites"
+    ],
+    "title": "Réparations de sortie des lieux",
+    "whenNeeded": "Organisez l’intervention une fois les locataires partis et l’état des lieux de sortie terminé."
+  }
+}

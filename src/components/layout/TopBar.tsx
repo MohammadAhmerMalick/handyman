@@ -1,6 +1,6 @@
 import { MapPin, Phone } from 'lucide-react'
+import { Container } from '@/components/shared/Container'
 import SocialLinks from '@/components/shared/SocialLinks'
-import { Container } from '@/components/ui/container'
 import { contact } from '@/data/contact'
 
 const TopBar = () => {

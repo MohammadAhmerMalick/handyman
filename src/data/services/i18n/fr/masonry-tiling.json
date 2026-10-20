@@ -1,0 +1,562 @@
+{
+  "bathroom-tiling": {
+    "angle": "le carrelage mural et de sol des pièces d’eau, avec des jonctions soignées",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Dépose des carreaux défaillants convenus",
+      "Systèmes de colle résistants à l’eau",
+      "Joint et mastic au niveau des joints de mouvement",
+      "Coordination avec l’emplacement des équipements"
+    ],
+    "outcome": "le carrelage de salle de bain est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Joints défaillants dans les douches",
+      "Carreaux descellés derrière les vasques",
+      "Joints tachés de moisissure",
+      "Pentes irrégulières vers les évacuations"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Carrelage de salle de bain",
+    "whenNeeded": "Prévoyez un carrelage de salle de bain lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "blockwork-repairs": {
+    "angle": "des réparations de blocs béton pour garages, murs et locaux techniques",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Ouverture des blocs instables",
+      "Reconstruction avec des blocs de dimensions assorties",
+      "Mortier dont la teinte se rapproche autant que possible de l’existant",
+      "Surface prête pour l’enduit ou la peinture"
+    ],
+    "outcome": "les réparations de blocs béton sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Angles abîmés par des chocs de véhicules",
+      "Fissures liées à un léger tassement",
+      "Zones qui sonnent creux",
+      "Infiltrations d’eau par les joints ouverts"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations de blocs béton",
+    "whenNeeded": "Prévoyez des réparations de blocs béton lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "brickwork-repairs": {
+    "angle": "des réparations de brique et de mortier qui suivent les assises existantes lorsque c’est possible",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Remplacement ou repose des briques",
+      "Dégarnissage des joints et rejointoiement local",
+      "Nettoyage de la poussière et des gravats",
+      "Conseils de cure et de peinture"
+    ],
+    "outcome": "les réparations de briquetage sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Briques manquantes ou fissurées sur les murs de jardin",
+      "Efflorescences et taches de sel",
+      "Briques descellées sur les piliers de portail",
+      "Trous de perçage laissés par d’anciennes fixations"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations de briquetage",
+    "whenNeeded": "Prévoyez des réparations de briquetage lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "cement-repair": {
+    "angle": "des reprises au ciment pour sols, appuis et petites surfaces de structure",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Préparation de surface et primaire d’accrochage si nécessaire",
+      "Façonnage de la reprise au ciment",
+      "Lissage au niveau des surfaces voisines",
+      "Conseils sur les produits de protection ou la peinture"
+    ],
+    "outcome": "la réparation au ciment est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Appuis de fenêtre cassés",
+      "Nez de marche ébréchés",
+      "Petites entailles au sol",
+      "Seuils abîmés"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparation au ciment",
+    "whenNeeded": "Prévoyez une réparation au ciment lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "concrete-patching": {
+    "angle": "de petites réparations de béton pour allées, chemins et bords de dalle",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Nettoyage et dressage des bords de reprise",
+      "Mise en place d’un mortier de réparation compatible",
+      "Finition à un niveau de circulation sûr",
+      "Protection de cure selon les conditions"
+    ],
+    "outcome": "les reprises de béton sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Angles cassés sur les allées carrossables",
+      "Bords épaufrés au niveau des joints de dilatation",
+      "Trous de boulons et rebouchages de carottages",
+      "Risques de trébuchement sur des reprises irrégulières"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Reprises de béton",
+    "whenNeeded": "Prévoyez des reprises de béton lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "cracked-tile-repairs": {
+    "angle": "la stabilisation des carreaux fissurés et un remplacement raisonné",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Examen de la cause de la fissure lorsqu’elle est visible",
+      "Options de rebouchage à l’époxy ou de remplacement",
+      "Reprise des joints autour des carreaux concernés",
+      "Conseil lorsqu’un mouvement du support appelle des travaux plus larges"
+    ],
+    "outcome": "les réparations de carreaux fissurés sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Microfissures qui s’étendent au sol",
+      "Fissures d’impact près des portes",
+      "Angles fissurés sur les arêtes vives",
+      "Fissures qui suivent le mouvement du support"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparation de carreaux fissurés",
+    "whenNeeded": "Prévoyez la réparation de carreaux fissurés lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "floor-tiling": {
+    "angle": "des carreaux de sol posés à plat, avec des pentes adaptées dans les pièces d’eau",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Contrôle du support dans le périmètre convenu",
+      "Coupes en rive et autour des évacuations",
+      "Jointoiement et finition des joints",
+      "Conseils de protection pendant la prise de la colle"
+    ],
+    "outcome": "le carrelage de sol est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Désaffleurement entre les carreaux",
+      "Carreaux de sol qui sonnent creux",
+      "Carreaux fissurés aux transitions",
+      "Risque de glissance dans les zones humides"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Carrelage de sol",
+    "whenNeeded": "Prévoyez un carrelage de sol lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "general-masonry-repairs": {
+    "angle": "une stabilisation localisée de la maçonnerie, sans dépose inutile",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Évaluation du matériau sain et du matériau descellé",
+      "Dépose sélective des parties défaillantes",
+      "Réparations au mortier compatible",
+      "Finition soignée, prête pour la peinture ou l’enduit"
+    ],
+    "outcome": "les réparations générales de maçonnerie sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Blocs descellés ou épaufrés près des jardinières",
+      "Joints de lit fissurés sur les murs de clôture",
+      "Éclats d’impact sur les poteaux",
+      "Altération aux angles exposés"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations générales de maçonnerie",
+    "whenNeeded": "Prévoyez des réparations générales de maçonnerie lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "grout-cleaning-and-replacement": {
+    "angle": "une couleur de joint fraîche et une meilleure hygiène dans les cuisines et les salles de bain",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Retrait mécanique du joint jusqu’à une profondeur saine",
+      "Nettoyage des joints",
+      "Application du nouveau joint",
+      "Première cure et rinçage"
+    ],
+    "outcome": "le nettoyage et le remplacement des joints sont réalisés selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Lignes de joint noircies",
+      "Moisissure dans les joints de douche",
+      "Joint friable ou manquant",
+      "Joints de sol tachés dans les entrées"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Nettoyage et remplacement des joints",
+    "whenNeeded": "Prévoyez le nettoyage et le remplacement des joints lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "masonry-and-painting": {
+    "angle": "des retouches de maçonnerie associées à la peinture, pour rafraîchir façades et intérieurs",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Examen des défauts de maçonnerie dans le périmètre prévu",
+      "Réparations localisées avant décoration",
+      "Systèmes d’impression et de peinture selon le devis",
+      "Coordination des étapes de séchage"
+    ],
+    "outcome": "les réparations et les revêtements sont ordonnés pour que les finitions adhèrent et restent homogènes",
+    "problems": [
+      "Peinture qui lâche sur un enduit instable",
+      "Fissures visibles à travers le film de peinture",
+      "Taches sur la maçonnerie extérieure",
+      "Besoin de finitions neutres prêtes pour une remise des clés"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Maçonnerie et peinture",
+    "whenNeeded": "Choisissez cette prestation lorsque des défauts de briquetage, d’enduit ou de plâtre doivent être réparés puis revêtus lors d’une même visite coordonnée, lorsque c’est possible."
+  },
+  "natural-stone-tile-maintenance": {
+    "angle": "des routines de nettoyage et d’imperméabilisation adaptées au marbre et à la pierre",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Identification du type de pierre lorsqu’il est connu",
+      "Nettoyage doux adapté à la pierre",
+      "Traitement local des taches dans le périmètre prévu",
+      "Réapplication de l’imperméabilisant lorsque c’est convenu"
+    ],
+    "outcome": "l’entretien du carrelage en pierre naturelle est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Matage causé par les nettoyants ménagers",
+      "Réseaux de rayures dans la pierre tendre",
+      "Taches d’huiles et de cosmétiques",
+      "Disparition de l’imperméabilisant d’origine"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Entretien du carrelage en pierre naturelle",
+    "whenNeeded": "Prévoyez l’entretien du carrelage en pierre naturelle lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "plaster-repair": {
+    "angle": "des reprises de plâtre qui se lissent avant la décoration",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Dépose du plâtre descellé",
+      "Couche d’accrochage et enduit de lissage pour rattraper le plan",
+      "Conseils sur le temps de séchage",
+      "Remise aux peintres lorsque c’est prévu"
+    ],
+    "outcome": "la réparation de plâtre est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Plâtre qui sonne creux après des fuites",
+      "Couches de finition cloquées",
+      "Angles abîmés par les meubles",
+      "Fissures qui réapparaissent après des travaux de climatisation"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparation de plâtre",
+    "whenNeeded": "Prévoyez une réparation de plâtre lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "plastering": {
+    "angle": "des enduits de lissage et des finitions au plâtre pour mettre murs et plafonds de niveau",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Préparation de surface et couche d’accrochage",
+      "Application de l’enduit de lissage sur les zones convenues",
+      "Ponçage ou finition fine",
+      "Remise prête à peindre"
+    ],
+    "outcome": "la plâtrerie est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Anciennes couches de finition ondulées",
+      "Traces de taloche visibles en lumière rasante",
+      "Irrégularités avant la pose de papier peint",
+      "Reprises après des saignées"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Plâtrerie",
+    "whenNeeded": "Prévoyez la plâtrerie lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "regrouting": {
+    "angle": "un rejointoiement ciblé pour restaurer les joints sans recarreler",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Retrait des joints fragiles",
+      "Choix d’un joint de teinte assortie",
+      "Application et lissage des joints",
+      "Conseils sur les délais avant lavage"
+    ],
+    "outcome": "le rejointoiement est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Joint poudreux dans les pièces d’eau",
+      "Jeux après un mouvement des carreaux",
+      "Couleur de joint inégale après un travail amateur",
+      "Décoloration que le nettoyage ne peut pas corriger"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Rejointoiement",
+    "whenNeeded": "Prévoyez un rejointoiement lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "tile-installation": {
+    "angle": "une pose de carrelage mesurée, avec des joints alignés et des coupes nettes",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Calepinage et pose à blanc",
+      "Lit de colle et pose des carreaux",
+      "Croisillons et contrôles de niveau",
+      "Premier nettoyage du voile de joint"
+    ],
+    "outcome": "la pose de carrelage est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Sols irréguliers qui demandent un calepinage",
+      "Résidus d’ancienne colle",
+      "Pièces aux formes peu commodes",
+      "Alignement du motif au niveau des portes"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de carrelage",
+    "whenNeeded": "Prévoyez une pose de carrelage lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "tile-replacement": {
+    "angle": "le remplacement d’un carreau ou d’une petite surface, sans tout recarreler",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Dépose soignée des carreaux abîmés",
+      "Préparation du support et pose de la colle",
+      "Carreau identique ou le plus proche disponible",
+      "Harmonisation du joint aux raccords"
+    ],
+    "outcome": "le remplacement de carreaux est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Carreaux de sol fissurés dans les zones de passage",
+      "Trous percés dans le carrelage mural",
+      "Carreaux décolorés dans les rangs visibles",
+      "Carreaux descellés qui sonnent creux"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Remplacement de carreaux",
+    "whenNeeded": "Prévoyez un remplacement de carreaux lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "tile-resealing": {
+    "angle": "l’application d’un imperméabilisant pour la pierre et les carreaux poreux",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Surfaces propres et sèches avant traitement",
+      "Couches d’imperméabilisant compatible",
+      "Lustrage lorsque c’est nécessaire",
+      "Conseils sur la fréquence d’entretien"
+    ],
+    "outcome": "la réimperméabilisation du carrelage est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Taches sur les sols en pierre naturelle",
+      "Eau qui assombrit les carreaux poreux",
+      "Efflorescences au niveau des joints",
+      "Aspect terne après un nettoyage en profondeur"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réimperméabilisation du carrelage",
+    "whenNeeded": "Prévoyez une réimperméabilisation du carrelage lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "tiling": {
+    "angle": "le carrelage de sol et mural pour cuisines, salles de bain et pièces de vie aux Émirats",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Discussion du type de carreau et de l’usage de la zone",
+      "Aperçu des mesures sur site",
+      "Parcours de devis pour une pose ou une réparation",
+      "Renvoi vers les prestations de carrelage spécialisées"
+    ],
+    "outcome": "vous avez une vision claire des tâches de carrelage concernées et de leur lien avec le joint, l’imperméabilisation et la préparation du support",
+    "problems": [
+      "Incertitude sur la possibilité d’assortir les carreaux",
+      "Zones défaillantes réparties dans plusieurs pièces",
+      "Besoin d’ordonner le carrelage avec les travaux de plomberie",
+      "Questions sur les pentes des pièces d’eau"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Carrelage",
+    "whenNeeded": "Consultez cette vue d’ensemble lorsque vous avez besoin d’être guidé sur le périmètre du carrelage — du calepinage au joint — avant de réserver une intervention précise au sol ou au mur."
+  },
+  "wall-rendering": {
+    "angle": "des reprises d’enduit et des lissages localisés pour les murs extérieurs et intérieurs",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Piquetage local de l’enduit non adhérent",
+      "Couche de corps et enduit de finition",
+      "Raccord en dégradé avec la texture existante",
+      "Conseils de cure avant revêtement"
+    ],
+    "outcome": "l’enduit mural est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Fissures d’enduit en façade",
+      "Zones creuses derrière le carrelage",
+      "Surfaces irrégulières avant peinture",
+      "Marques d’impact sur les murs extérieurs"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Enduit mural",
+    "whenNeeded": "Prévoyez un enduit mural lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "wall-tiling": {
+    "angle": "la pose de carrelage mural pour les zones d’éclaboussures et les murs d’accent",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Tracés de calepinage verticaux",
+      "Application de la colle à la taloche crantée",
+      "Finition des profilés et des rives",
+      "Coordination du silicone dans les angles lorsque c’est convenu"
+    ],
+    "outcome": "le carrelage mural est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Carreaux qui se décalent du niveau",
+      "Coupes mal ajustées autour des prises",
+      "Colle visible dans les joints",
+      "Besoin d’assortir les formats de carreaux existants"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Carrelage mural",
+    "whenNeeded": "Prévoyez un carrelage mural lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  }
+}

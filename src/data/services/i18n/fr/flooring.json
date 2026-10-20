@@ -1,0 +1,367 @@
+{
+  "engineered-wood-flooring": {
+    "angle": "des lames contrecollées adaptées aux intérieurs climatisés des Émirats",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Échange sur le contrôle d’humidité",
+      "Sous-couche et jeux de dilatation",
+      "Remplacement de lames sur les zones abîmées",
+      "Conseils de produits d’entretien"
+    ],
+    "outcome": "le parquet contrecollé est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Délaminage aux entrées humides",
+      "Clips abîmés lors des déplacements de meubles",
+      "Supports irréguliers où le sol fléchit",
+      "Besoin de se raccorder à des rangées de contrecollé déjà posées"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Parquet contrecollé",
+    "whenNeeded": "Prévoyez le parquet contrecollé lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "floor-skirting-installation": {
+    "angle": "des plinthes qui ferment les jeux et protègent le bas des murs",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Prise de mesures et coupes d’onglet",
+      "Fixation à la colle et aux pointes",
+      "Mastic le long du bord supérieur lorsque c’est convenu",
+      "Préparation prête à peindre si c’est spécifié"
+    ],
+    "outcome": "la pose de plinthes est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Plinthes manquantes après une rénovation de sol",
+      "Jeux après la dépose d’une moquette",
+      "Plinthes en MDF abîmées dans les locations",
+      "Lignes hautes irrégulières contre les murs"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de plinthes",
+    "whenNeeded": "Prévoyez la pose de plinthes lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "floor-surface-repairs": {
+    "angle": "des reprises de rayures, d’entailles et de dégâts localisés sur les sols durs",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Nettoyage et préparation de la surface",
+      "Mastics de réparation ou cires selon le cas",
+      "Raccord avec la finition autour",
+      "Conseils d’entretien pour éviter que le dégât se répète"
+    ],
+    "outcome": "les réparations de surface de sol sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Entailles de meubles dans le bois",
+      "Émail de carreau écaillé",
+      "Éraflures sur la couche d’usure du LVT",
+      "Taches qui pénètrent les zones non finies"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations de surface de sol",
+    "whenNeeded": "Prévoyez les réparations de surface de sol lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "floor-transition-strip-installation": {
+    "angle": "des profilés de transition qui rattrapent en sécurité les différences de niveau",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Choix du profilé selon la différence de hauteur",
+      "Fixation solide au support",
+      "Raccords nets au droit des huisseries",
+      "Réglage pour le mouvement saisonnier"
+    ],
+    "outcome": "la pose de profilés de transition est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Ressauts qui font trébucher entre carrelage et bois",
+      "Profilés métalliques desserrés aux portes",
+      "Jeux de dilatation visibles sur les stratifiés",
+      "Seuils mal adaptés aux fauteuils roulants"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de profilés de transition",
+    "whenNeeded": "Prévoyez la pose de profilés de transition lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "floorboard-repairs": {
+    "angle": "des réparations localisées de parquet, sans remplacer toute la pièce",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Dépose et remplacement sélectifs des lames",
+      "Vissage du support lorsque c’est accessible",
+      "Raccord de ponçage en dégradé si prévu au devis",
+      "Conseils pour assortir la finition"
+    ],
+    "outcome": "les réparations de lames de parquet sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Lames fendues dans les couloirs",
+      "Pourriture aux seuils des portes extérieures",
+      "Clous desserrés qui font grincer",
+      "Pièces de rapport mal assorties après un accès de plomberie"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations de lames de parquet",
+    "whenNeeded": "Prévoyez les réparations de lames de parquet lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "flooring": {
+    "angle": "des poses et réparations de stratifié, de vinyle, de bois et de carrelage aux Émirats",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Visite du site et confirmation du périmètre",
+      "Intervention concrète sur les sols, avec des matériaux adaptés",
+      "Protection des surfaces voisines lorsque c’est possible",
+      "Contrôle du travail terminé et conseils d’entretien"
+    ],
+    "outcome": "vous savez quelles prestations de sol s’appliquent et comment les poses s’articulent avec les plinthes et les seuils",
+    "problems": [
+      "Usure quotidienne qui touche les sols",
+      "Réparations antérieures à reprendre ou à corriger",
+      "Finitions qui jurent avec les zones voisines",
+      "Contraintes d’accès ou de planning dans les appartements et les villas"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Revêtements de sol",
+    "whenNeeded": "Commencez ici lorsque vous hésitez entre plusieurs types de sol ou devez regrouper plusieurs travaux de sol dans un même bien."
+  },
+  "laminate-flooring-installation": {
+    "angle": "des sols stratifiés en pose flottante, avec jeux de dilatation et transitions soignées",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Sous-couche et barrière anti-humidité lorsque c’est spécifié",
+      "Pose des lames en système clic",
+      "Découpes au droit des chambranles",
+      "Coordination des plinthes ou quarts-de-rond si prévu au devis"
+    ],
+    "outcome": "la pose de sol stratifié est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Ancien stratifié qui grince ou s’écarte",
+      "Gonflement par l’eau près des éviers de cuisine",
+      "Mauvaises transitions aux portes de chambre",
+      "Support irrégulier qui se marque en surface"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de sol stratifié",
+    "whenNeeded": "Prévoyez la pose de sol stratifié lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "loose-tile-repairs": {
+    "angle": "le recollage ou le remplacement des carreaux qui sonnent creux sous le pied",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Injection ou dépose et repose selon le cas",
+      "Choix de colle pour zones humides ou sèches",
+      "Reprise du joint autour des carreaux reposés",
+      "Temps de durcissement avant une circulation intense"
+    ],
+    "outcome": "les réparations de carreaux descellés sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Bruits creux au passage",
+      "Carreaux qui jouent sur les sols de salle de bain",
+      "Décollement partiel après une infiltration",
+      "Risque d’arêtes vives lorsque les carreaux se soulèvent"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations de carreaux descellés",
+    "whenNeeded": "Prévoyez les réparations de carreaux descellés lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "luxury-vinyl-tile-installation": {
+    "angle": "des poses de LVT qui imitent la pierre ou le bois, avec une couche d’usure robuste",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Calepinage depuis les principales lignes de vue",
+      "Pose en plein encollage ou en clips",
+      "Découpes au droit des évacuations de sol",
+      "Barres de seuil aux passages de porte"
+    ],
+    "outcome": "la pose de dalles vinyle LVT est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "LVT qui se soulève sur les balcons exposés au soleil",
+      "Jeux aux assemblages clipsés",
+      "Besoin de joints étanches dans les arrière-cuisines",
+      "Raccord à des lots de LVT déjà posés"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de dalles vinyle LVT",
+    "whenNeeded": "Prévoyez la pose de dalles vinyle LVT lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "minor-floor-levelling": {
+    "angle": "un ragréage autonivelant et des reprises pour lisser les légers creux avant un nouveau sol",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "complianceNote": "Une reprise structurelle importante de la dalle, un remplacement étendu de chape ou des planchers techniques surélevés peuvent exiger un entrepreneur spécialisé et des autorisations liées au bâtiment. Nous ne chiffrons que le nivellement léger dans le périmètre d’un homme à tout faire.",
+    "includes": [
+      "Meulage ou reprises dans le périmètre prévu",
+      "Primaire et enduit de ragréage",
+      "Raccords en dégradé en périphérie de pièce",
+      "Temps de séchage avant la pose du sol"
+    ],
+    "outcome": "la mise à niveau légère du sol est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Creux qui font fléchir le stratifié",
+      "Reliefs après la dépose d’un ancien carrelage",
+      "Points bas près des évacuations de sol",
+      "Chape irrégulière dans les garages"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Mise à niveau légère du sol",
+    "whenNeeded": "Prévoyez la mise à niveau légère du sol lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "tile-flooring-repairs": {
+    "angle": "des réparations de carrelage céramique et grès cérame dans les pièces de vie et les pièces d’eau",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Dépose des carreaux et reprise de la colle",
+      "Remplacement par un carreau assorti ou le plus proche",
+      "Joint et mastic aux joints de dilatation",
+      "Contrôle de niveau aux transitions"
+    ],
+    "outcome": "les réparations de carrelage au sol sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Carreaux descellés dans les entrées",
+      "Carreaux fissurés sous les appareils",
+      "Carreaux sonnant creux après des fuites",
+      "Joints défaillants autour des évacuations de sol"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations de carrelage au sol",
+    "whenNeeded": "Prévoyez les réparations de carrelage au sol lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "vinyl-flooring-installation": {
+    "angle": "du vinyle en lés ou en lames, pour des sols pratiques et faciles à essuyer",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Préparation du support dans le périmètre convenu",
+      "Pose collée ou pose libre selon le cas",
+      "Joints thermosoudés ou collés lorsque c’est applicable",
+      "Finition des rives par profilés"
+    ],
+    "outcome": "la pose de sol vinyle est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Vinyle de cuisine qui se décolle",
+      "Joints qui lâchent dans les pièces d’eau",
+      "Remontées de colle aux raccords",
+      "Besoin de plinthes à gorge dans les buanderies"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de sol vinyle",
+    "whenNeeded": "Prévoyez la pose de sol vinyle lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "wooden-flooring-installation": {
+    "angle": "des poses de parquet avec acclimatation et fixations soignées",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Conseils d’acclimatation",
+      "Clouage invisible ou collage selon le devis",
+      "Coordination du ponçage s’il est sous-traité à part",
+      "Premiers conseils de protection"
+    ],
+    "outcome": "la pose de parquet bois est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Tuilage dû à un déséquilibre d’humidité",
+      "Jeux saisonniers dans les chambres",
+      "Grincements le long des solives",
+      "Rayures avant les couches de protection"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de parquet bois",
+    "whenNeeded": "Prévoyez la pose de parquet bois lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  }
+}

@@ -1,18 +1,22 @@
 import { cn } from 'cn'
 import { ArrowRight } from 'lucide-react'
 import Image from 'next/image'
-import Link from 'next/link'
+import { getTranslations } from 'next-intl/server'
+import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
 import { Button } from '@/components/ui/button'
-import { Container } from '@/components/ui/container'
 import { pages } from '@/data/links'
-import { highlightServices, serviceHref } from '@/data/services'
+import { getHighlightServices, serviceHref } from '@/data/services'
 import { categoryImageSrc } from '@/data/services/images'
 import type { ServiceItem } from '@/data/services/types'
+import { Link } from '@/i18n/navigation'
+import type { AppLocale } from '@/i18n/routing'
 
 type HighlightCardProps = {
   featured?: boolean
+  imageAlt: string
   service: ServiceItem
+  viewLabel: string
 }
 
 const highlightSummary = (service: ServiceItem) => {
@@ -26,7 +30,12 @@ const highlightSummary = (service: ServiceItem) => {
   return summary.charAt(0).toUpperCase() + summary.slice(1)
 }
 
-const HighlightCard = ({ featured = false, service }: HighlightCardProps) => {
+const HighlightCard = ({
+  featured = false,
+  imageAlt,
+  service,
+  viewLabel,
+}: HighlightCardProps) => {
   return (
     <Link
       className="group flex h-full flex-col overflow-hidden rounded-3xl border border-border shadow-muted shadow-xl backdrop-blur-xs transition-[background-color,border-color,box-shadow,color] duration-300 hover:bg-primary-foreground hover:shadow-md"
@@ -34,7 +43,7 @@ const HighlightCard = ({ featured = false, service }: HighlightCardProps) => {
     >
       <div className={cn('relative overflow-hidden bg-muted')}>
         <Image
-          alt={`${service.title} service image`}
+          alt={imageAlt}
           className="size-full object-cover transition-transform duration-500 group-hover:scale-105"
           width={725}
           height={410}
@@ -51,7 +60,7 @@ const HighlightCard = ({ featured = false, service }: HighlightCardProps) => {
           )}
         />
         <span className="pointer-events-none absolute inset-x-0 bottom-0 h-24 bg-linear-to-t from-primary-foreground/50 to-transparent" />
-        <span className="absolute bottom-4 left-4 inline-flex size-12 items-center justify-center rounded-2xl bg-primary text-primary-foreground shadow-sm">
+        <span className="absolute inset-s-4 bottom-4 inline-flex size-12 items-center justify-center rounded-2xl bg-primary text-primary-foreground shadow-sm">
           <service.icon aria-hidden className="size-5" />
         </span>
       </div>
@@ -64,10 +73,10 @@ const HighlightCard = ({ featured = false, service }: HighlightCardProps) => {
           {highlightSummary(service)}
         </p>
         <span className="mt-auto inline-flex items-center gap-1.5 pt-2 font-medium text-heading text-sm transition-colors duration-300 group-hover:text-primary">
-          View service
+          {viewLabel}
           <ArrowRight
             aria-hidden
-            className="size-4 transition-transform duration-300 group-hover:translate-x-1"
+            className="size-4 transition-transform duration-300 group-hover:translate-x-1 rtl:rotate-180 rtl:group-hover:-translate-x-1"
           />
         </span>
       </div>
@@ -75,14 +84,17 @@ const HighlightCard = ({ featured = false, service }: HighlightCardProps) => {
   )
 }
 
-const ServicesHighlights = () => {
+const ServicesHighlights = async ({ locale }: { locale: AppLocale }) => {
+  const t = await getTranslations('Highlights')
+  const services = getHighlightServices(locale)
+
   return (
     <Container className="space-y-10">
       <div className="grid items-end gap-6 sm:grid-cols-[minmax(0,1fr)_auto]">
         <Heading
-          heading="Our services"
+          heading={t('heading')}
           layout="left"
-          paragraph="Core trades for homes and businesses across the UAE. See the full list on our services page."
+          paragraph={t('paragraph')}
         />
         <Button
           className="w-fit shrink-0"
@@ -90,21 +102,30 @@ const ServicesHighlights = () => {
           render={<Link href={pages.services.href} />}
           size="lg"
         >
-          View all services
-          <ArrowRight aria-hidden data-icon="inline-end" />
+          {t('viewAll')}
+          <ArrowRight
+            aria-hidden
+            className="rtl:rotate-180"
+            data-icon="inline-end"
+          />
         </Button>
       </div>
 
       <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-6">
-        {highlightServices.map((service, index) => (
+        {services.map((service, index) => (
           <li
             className={cn(
               index < 2 ? 'lg:col-span-3' : 'lg:col-span-2',
-              index === highlightServices.length - 1 && 'sm:col-span-2'
+              index === services.length - 1 && 'sm:col-span-2'
             )}
             key={service.slug}
           >
-            <HighlightCard featured={index < 2} service={service} />
+            <HighlightCard
+              featured={index < 2}
+              imageAlt={t('imageAlt', { title: service.title })}
+              service={service}
+              viewLabel={t('viewService')}
+            />
           </li>
         ))}
       </ul>

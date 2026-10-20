@@ -1,0 +1,519 @@
+{
+  "About": {
+    "booking": "Appeler pour réserver",
+    "eyebrow": "Installation fiable",
+    "heading": "Installation pour la maison et l’entreprise",
+    "imageAlt": "Climatiseur mural et caisse à outils ouverte dans un appartement à Dubai",
+    "items": {
+      "allInOne": {
+        "body": "Une même équipe peut couvrir les métiers liés lors d’une seule visite : vous n’avez pas à coordonner plusieurs intervenants pour une seule pièce.",
+        "title": "Service tout-en-un"
+      },
+      "consultation": {
+        "body": "Nous passons en revue le chantier, l’accès et les horaires avant de sortir les outils, afin que la visite corresponde à l’usage réel des lieux.",
+        "title": "Consultation préalable"
+      },
+      "customized": {
+        "body": "Les recommandations suivent le bien, les matériaux déjà en place et ce qui peut raisonnablement être terminé en un seul rendez-vous.",
+        "title": "Solution sur mesure"
+      },
+      "pricing": {
+        "body": "Il n’y a pas de prix catalogue. Vous recevez un devis pour le travail constaté, et tout supplément est discuté avant de commencer.",
+        "title": "Devis clairs"
+      }
+    },
+    "readMore": "En savoir plus"
+  },
+  "AppPromo": {
+    "calendarAlt": "Capture d’écran de l’application montrant le calendrier",
+    "completeTasks": "Terminez vos tâches",
+    "dailyReminder": "Rappel quotidien",
+    "download": "Télécharger l’application",
+    "featureOffline": "Synchronisation fluide entre appareils et utilisation hors ligne",
+    "featureOrg": "Outils d’organisation avancés, sans complexité",
+    "featureUi": "Interface intuitive, prise en main minimale",
+    "heading": "Votre quotidien, organisé et simplifié",
+    "paragraph": "Notre application vous aide à organiser vos tâches, gérer vos projets et atteindre vos objectifs, avec une interface soignée et sans distraction.",
+    "rating": "4,8/5 d’après 2 945 avis",
+    "seeFeatures": "Voir les fonctionnalités",
+    "tasksAlt": "Capture d’écran de l’application montrant la gestion des tâches",
+    "weeklyProgress": "Progression hebdomadaire",
+    "whyLove": "Pourquoi les utilisateurs aiment notre application"
+  },
+  "Catalog": {
+    "count": "{count, plural, one {1 service} other {{count} services}}",
+    "navLabel": "Catégories de services"
+  },
+  "Categories": {
+    "empty": "Aucune catégorie ne correspond à votre recherche. Essayez un autre terme.",
+    "heading": "Parcourir par catégorie",
+    "imageAlt": "Image de la catégorie {title}",
+    "paragraph": "Explorez nos catégories d’entretien et de métiers, puis ouvrez la liste complète des services pour ce domaine.",
+    "searchLabel": "Rechercher des catégories",
+    "searchPlaceholder": "Rechercher une catégorie…",
+    "serviceCount": "{count, plural, one {{title} — 1 service} other {{title} — {count} services}}",
+    "viewAria": "Voir les services {title}",
+    "viewServices": "Voir les services"
+  },
+  "Common": {
+    "call": "Appeler",
+    "handyman": "Handyman",
+    "scrollToTop": "Retour en haut",
+    "servingUae": "Au service des Émirats",
+    "whatsapp": "WhatsApp"
+  },
+  "Contact": {
+    "addressDescription": "Basé à {address}. Zone desservie : {serviceArea}.",
+    "addressTitle": "Adresse",
+    "callDescription": "Appelez pendant les heures d’ouverture.",
+    "callTitle": "Appeler",
+    "emailDescription": "Envoyez-nous un e-mail.",
+    "emailTitle": "E-mail",
+    "formDetails": "Détails",
+    "formEmail": "E-mail",
+    "formHelp": "Comment pouvons-nous vous aider ?",
+    "formName": "Nom",
+    "formNote": "Ce formulaire n’envoie rien pour le moment. Appelez ou écrivez sur WhatsApp pour une réponse.",
+    "formPhone": "Téléphone",
+    "formPlaceholderDetails": "Précisez votre demande",
+    "formPlaceholderEmail": "vous@exemple.com",
+    "formPlaceholderName": "Nom",
+    "formPlaceholderPhone": "+971 …",
+    "formSubmit": "Envoyer la demande",
+    "formTitle": "Envoyer un message",
+    "helpAssembly": "Montage",
+    "helpCleaning": "Nettoyage",
+    "helpCommercial": "Commercial",
+    "helpElectrical": "Électricité",
+    "helpIndividual": "Particulier",
+    "helpResidential": "Résidentiel",
+    "hoursDescription": "Heures d’ouverture uniquement.",
+    "hoursTitle": "Horaires",
+    "mapTitle": "Dubai Marina sur Google Maps",
+    "whatsappDescription": "Écrivez-nous sur WhatsApp.",
+    "whatsappTitle": "WhatsApp"
+  },
+  "Faq": {
+    "call": "Appeler",
+    "empty": "Aucune question ne correspond à cette recherche. Essayez rénovation, climatisation, plomberie ou horaires.",
+    "eyebrow": "Aide et ressources",
+    "heading": "Questions fréquentes",
+    "imageAlt": "Questions fréquentes",
+    "items": {
+      "ac": {
+        "answer": "Oui. Nous installons, entretenons et réparons la climatisation résidentielle et commerciale.",
+        "question": "Entretenez-vous et réparez-vous la climatisation ?"
+      },
+      "base": {
+        "answer": "{address}. Nous nous déplaçons pour des chantiers dans les {serviceArea}.",
+        "question": "Où êtes-vous basés ?"
+      },
+      "coverage": {
+        "answer": "Nous intervenons dans les {serviceArea} et sommes basés à {address}.",
+        "question": "Quelles zones couvrez-vous ?"
+      },
+      "email": {
+        "answer": "Écrivez à {email}, ou appelez et écrivez sur WhatsApp pendant les heures d’ouverture.",
+        "question": "Comment vous joindre par e-mail ?"
+      },
+      "emergency": {
+        "answer": "Non. Les visites et les appels suivent uniquement les horaires publiés.",
+        "question": "Proposez-vous une intervention 24 h/24 ou d’urgence ?"
+      },
+      "hours": {
+        "answer": "Du samedi au jeudi, {saturdayThursday}. Le vendredi, {friday}.",
+        "question": "Quels sont vos horaires ?"
+      },
+      "kitchens": {
+        "answer": "Oui. La rénovation de cuisines et de salles de bain fait partie du catalogue, avec le carrelage, l’étanchéité et les finitions associées.",
+        "question": "Intervenez-vous sur les cuisines et les salles de bain ?"
+      },
+      "otherTrades": {
+        "answer": "Électricité, carrelage, plâtre et faux plafonds, étanchéité, revêtements de sol, aluminium et vitrage, soudure et fabrication, montage de meubles, installation d’appareils, CCTV et serrures connectées, enduit, papier peint et entretien extérieur de villas.",
+        "question": "Quels autres métiers pouvez-vous organiser ?"
+      },
+      "painting": {
+        "answer": "Oui. Maçonnerie, reprises d’enduit, et peinture intérieure et extérieure.",
+        "question": "Faites-vous la peinture et la maçonnerie ?"
+      },
+      "plumbing": {
+        "answer": "Oui. Cela couvre les canalisations, les appareils, les fuites, les meubles, les portes et la menuiserie courante.",
+        "question": "Pouvez-vous prendre en charge la plomberie et la menuiserie ?"
+      },
+      "quote": {
+        "answer": "Appelez ou écrivez sur WhatsApp au {phone} et décrivez le chantier. Nous n’affichons pas de prix sur le site : chaque intervention est chiffrée.",
+        "question": "Comment demander un devis ?"
+      },
+      "renovate": {
+        "answer": "Oui. Nous réalisons des rénovations complètes de logements et d’espaces commerciaux aux Émirats arabes unis.",
+        "question": "Rénovez-vous villas, appartements, bureaux et commerces ?"
+      },
+      "whatsapp": {
+        "answer": "Oui. WhatsApp utilise le même numéro : {phone}.",
+        "question": "Puis-je vous écrire sur WhatsApp ?"
+      },
+      "workTypes": {
+        "answer": "Rénovation de villas, appartements, bureaux et commerces, climatisation, plomberie et menuiserie, maçonnerie et peinture, et entretien général. La page services présente le catalogue élargi, notamment l’électricité, le carrelage, le plâtre, l’étanchéité, les cuisines et salles de bain, et les revêtements de sol.",
+        "question": "Quel type de travaux prenez-vous en charge ?"
+      }
+    },
+    "searchLabel": "Rechercher dans les questions fréquentes",
+    "searchPlaceholder": "Rechercher une question",
+    "sidebarHeading": "Vous avez encore des questions ?",
+    "sidebarParagraph": "Contactez-nous pour toute question ou demande.",
+    "viewAll": "Voir toutes les questions",
+    "whatsapp": "WhatsApp"
+  },
+  "Footer": {
+    "blurb": "Rénovation, climatisation, plomberie et entretien dans les {serviceArea}. Basé à {address}.",
+    "copyright": "© {year} Handyman. Tous droits réservés.",
+    "ourServices": "Nos services",
+    "quickContact": "Contact rapide",
+    "quickLinks": "Liens rapides"
+  },
+  "Hero": {
+    "badge": "Au service des Émirats",
+    "call": "Appeler {phone}",
+    "heading": "Rénovation et entretien honnêtes, en toute confiance.",
+    "highlightAc": "Services de climatisation",
+    "highlightMaintenance": "Maçonnerie, peinture et entretien",
+    "highlightPlumbing": "Plomberie et menuiserie",
+    "highlightRenovation": "Rénovation de villas, appartements, bureaux et commerces",
+    "intro": "Des villas et appartements aux bureaux et commerces, Handyman prend en charge la rénovation, la climatisation, la plomberie, la menuiserie, la maçonnerie, la peinture et l’entretien courant — basé à {address}.",
+    "trusted": "La confiance de particuliers et d’entreprises aux Émirats arabes unis"
+  },
+  "Highlights": {
+    "heading": "Nos services",
+    "imageAlt": "Image du service {title}",
+    "paragraph": "Métiers essentiels pour les logements et les entreprises aux Émirats arabes unis. La liste complète est sur notre page services.",
+    "viewAll": "Voir tous les services",
+    "viewService": "Voir le service"
+  },
+  "Hours": {
+    "fridayLabel": "Vendredi",
+    "fridayValue": "9h00–11h00 et 16h00–21h00",
+    "saturdayThursdayLabel": "Samedi–jeudi",
+    "saturdayThursdayValue": "8h00–21h00"
+  },
+  "Legal": {
+    "contactHeading": "Nous contacter",
+    "privacyContact": "Pour toute question sur cette politique de confidentialité, écrivez à {email}, appelez le {phone}, ou adressez-vous à Handyman à {address}.",
+    "termsContact": "Pour toute question sur ces conditions d’utilisation, écrivez à {email}, appelez le {phone}, ou adressez-vous à Handyman à {address}."
+  },
+  "LocaleSwitcher": {
+    "ar": "العربية",
+    "en": "English",
+    "fr": "Français",
+    "hi": "हिन्दी",
+    "label": "Langue",
+    "ur": "اردو",
+    "zh": "中文"
+  },
+  "Logo": {
+    "label": "Logo Handyman"
+  },
+  "Metadata": {
+    "category": "Services à domicile",
+    "description": "Rénovation, entretien et métiers du bâtiment aux Émirats arabes unis.",
+    "keywords": "Handyman, handyman EAU, handyman Dubai, rénovation, climatisation, plomberie, menuiserie, maçonnerie, peinture, entretien immobilier, Marina Dubai",
+    "titleDefault": "Handyman",
+    "titleTemplate": "%s | Handyman"
+  },
+  "Nav": {
+    "about": "À propos",
+    "closeMenu": "Fermer le menu",
+    "contact": "Contact",
+    "getQuote": "Demander un devis",
+    "home": "Accueil",
+    "menu": "Menu de navigation",
+    "openMenu": "Ouvrir le menu",
+    "services": "Services"
+  },
+  "Pages": {
+    "about": {
+      "description": "Texte de présentation provisoire pour la mise en page. Il sera remplacé par la véritable histoire de Handyman.",
+      "title": "À propos"
+    },
+    "contact": {
+      "description": "Appelez ou écrivez sur WhatsApp pour une réponse plus rapide. Basé à {address}.",
+      "title": "Contact"
+    },
+    "faq": {
+      "description": "Réponses sur la zone desservie, les métiers, les horaires et la façon de demander un devis.",
+      "title": "FAQ"
+    },
+    "home": {
+      "description": "Rénovation, entretien et métiers du bâtiment dans les {serviceArea}.",
+      "title": "Accueil"
+    },
+    "privacy": {
+      "description": "Politique provisoire, pour la mise en page uniquement. À remplacer lorsque la raison sociale et la licence commerciale seront connues.",
+      "title": "Politique de confidentialité"
+    },
+    "services": {
+      "description": "Métiers de la rénovation et de l’entretien dans les {serviceArea}. Pas de prix fixes — demandez un devis par téléphone ou WhatsApp.",
+      "title": "Services"
+    },
+    "terms": {
+      "description": "Conditions provisoires, pour la mise en page uniquement. À remplacer lorsque la raison sociale et la licence commerciale seront connues.",
+      "title": "Conditions d’utilisation"
+    }
+  },
+  "PageTitle": {
+    "backgroundAlt": "Arrière-plan du titre de page"
+  },
+  "Privacy": {
+    "sections": [
+      {
+        "body": "Cette politique de confidentialité provisoire décrit comment Handyman peut collecter, utiliser et partager des informations lorsque vous visitez handyman.ae ou nous contactez au sujet de services aux Émirats arabes unis. Remplacez ce texte lorsque la raison sociale et la licence commerciale seront connues.",
+        "heading": "Introduction"
+      },
+      {
+        "body": "Nous pouvons collecter les informations que vous fournissez (nom, téléphone, e-mail et contenu du message), des données d’usage sur votre navigation, et des informations techniques telles que le type d’appareil et une localisation approximative. Texte provisoire uniquement.",
+        "heading": "Informations collectées"
+      },
+      {
+        "body": "Nous pouvons utiliser ces informations pour répondre aux demandes, organiser des devis ou des visites, améliorer le site et communiquer au sujet de nos services de rénovation et d’entretien. Texte provisoire uniquement.",
+        "heading": "Utilisation de vos informations"
+      },
+      {
+        "body": "Le site peut utiliser des cookies ou des outils similaires pour le fonctionnement de base et, une fois les statistiques en place, pour l’analyse d’audience. Texte provisoire uniquement.",
+        "heading": "Cookies et technologies similaires"
+      },
+      {
+        "body": "Nous ne vendons pas d’informations personnelles. Nous pouvons partager des données avec des prestataires qui nous aident à faire fonctionner le site ou à fournir les services, ou lorsque le droit des Émirats arabes unis l’exige. Texte provisoire uniquement.",
+        "heading": "Partage des informations"
+      },
+      {
+        "body": "Nous conservons les informations seulement le temps nécessaire aux finalités ci-dessus, ou selon ce qu’exige le droit applicable. Texte provisoire uniquement.",
+        "heading": "Conservation des données"
+      },
+      {
+        "body": "Selon le droit applicable, vous pouvez demander à accéder aux informations personnelles que nous détenons à votre sujet, à les corriger ou à les supprimer. Contactez-nous aux coordonnées ci-dessous. Texte provisoire uniquement.",
+        "heading": "Vos droits"
+      },
+      {
+        "body": "Nous prenons des mesures raisonnables pour protéger les informations, mais aucune méthode de transmission ou de stockage n’est totalement sûre. Texte provisoire uniquement.",
+        "heading": "Sécurité des données"
+      },
+      {
+        "body": "Ce site ne s’adresse pas aux enfants, et nous ne collectons pas sciemment d’informations personnelles auprès de mineurs. Texte provisoire uniquement.",
+        "heading": "Vie privée des mineurs"
+      },
+      {
+        "body": "Nous pouvons mettre cette page à jour de temps à autre. Continuer à utiliser le site après une modification vaut acceptation de la politique mise à jour. Texte provisoire uniquement.",
+        "heading": "Modifications de cette politique"
+      }
+    ]
+  },
+  "Service": {
+    "altFinished": "{title} — résultat {category} terminé",
+    "altHero": "{title} — services {category} aux Émirats arabes unis",
+    "altOnSite": "{title} — intervention {category} sur site",
+    "altSidebar": "{title} — services {category} Handyman",
+    "benefits": "Avantages",
+    "call": "Appeler ",
+    "commonProblems": "Problèmes courants que nous traitons",
+    "faqs": "Questions fréquentes",
+    "getInTouch": "Nous contacter",
+    "includes": "Ce que comprend ce service",
+    "navLabel": "Services associés",
+    "process": "Comment nous réalisons les travaux",
+    "related": "Services associés",
+    "tips": "Conseils d’entretien",
+    "whatsapp": "WhatsApp ",
+    "whyChoose": "Pourquoi choisir Handyman",
+    "workingHours": "Horaires"
+  },
+  "ServiceCategories": {
+    "air-conditioning": {
+      "description": "Aide à l’installation de climatiseurs, entretien, contrôle des évacuations et diagnostic du débit d’air.",
+      "title": "Climatisation et ventilation"
+    },
+    "bathroom": {
+      "description": "Pose d’appareils, réfection des joints, accessoires et rafraîchissements légers de salle de bain.",
+      "title": "Salle de bain"
+    },
+    "carpentry": {
+      "description": "Portes, meubles, étagères, réparations de bois et menuiserie sur mesure.",
+      "title": "Menuiserie et agencement"
+    },
+    "cleaning": {
+      "description": "Nettoyage après intervention, nettoyages en profondeur et entretien des surfaces.",
+      "title": "Nettoyage et aide à l’entretien"
+    },
+    "commercial": {
+      "description": "Entretien de bureaux, de commerces et de biens de bailleurs, pour les lieux de travail aux Émirats arabes unis.",
+      "title": "Entretien de locaux commerciaux"
+    },
+    "doors-windows": {
+      "description": "Réparation de portes et de fenêtres, joints, moustiquaires et entretien du vitrage.",
+      "title": "Portes, fenêtres et vitrage"
+    },
+    "electrical": {
+      "description": "Éclairage, interrupteurs, prises et appareils, réalisés lorsque la licence requise est en place.",
+      "title": "Électricité"
+    },
+    "flooring": {
+      "description": "Pose de stratifié, de vinyle et de parquet, et réparations de surface de sol.",
+      "title": "Revêtements de sol"
+    },
+    "furniture-installation": {
+      "description": "Montage de meubles, fixation murale, stores et supports de téléviseur.",
+      "title": "Meubles et pose intérieure"
+    },
+    "general-handyman": {
+      "description": "Réparations du quotidien, fixations et entretien préventif pour les logements et les lieux de travail.",
+      "title": "Handyman général"
+    },
+    "kitchen": {
+      "description": "Entretien des meubles, plans de travail, éviers et hottes pour les cuisines très sollicitées.",
+      "title": "Cuisine"
+    },
+    "masonry-tiling": {
+      "description": "Reprises de maçonnerie, réparations d’enduit, carrelage et entretien des joints.",
+      "title": "Maçonnerie et carrelage"
+    },
+    "outdoor": {
+      "description": "Entretien des clôtures, portails, terrasses, patios et équipements extérieurs.",
+      "title": "Extérieur et jardin"
+    },
+    "painting": {
+      "description": "Peinture intérieure et extérieure, papier peint et préparation des surfaces.",
+      "title": "Peinture et décoration"
+    },
+    "plumbing": {
+      "description": "Fuites, appareils, évacuations et réparations d’alimentation en eau pour les cuisines et les salles de bain.",
+      "title": "Plomberie"
+    },
+    "renovation": {
+      "description": "Projets de rénovation de villas, d’appartements, de bureaux et de commerces aux Émirats arabes unis.",
+      "title": "Rénovation"
+    },
+    "rental-move": {
+      "description": "Réparations d’emménagement et de départ, snagging et entretien des biens locatifs.",
+      "title": "Location et emménagement"
+    },
+    "smart-home": {
+      "description": "Serrures connectées, sonnettes, capteurs et pose de caméras, dans un périmètre adapté.",
+      "title": "Maison connectée et sécurité"
+    },
+    "specialist-seasonal": {
+      "description": "Équipements d’accessibilité, ancrages de sécurité et plans d’entretien saisonnier.",
+      "title": "Spécialisé et saisonnier"
+    },
+    "uae-property": {
+      "description": "Entretien d’appartements, de villas et de résidences de vacances, axé sur Dubai et Sharjah.",
+      "title": "Entretien immobilier aux Émirats"
+    },
+    "walls-ceilings": {
+      "description": "Cloisons sèches, faux plafonds, cloisons et fixations murales.",
+      "title": "Murs, plafonds et cloisons"
+    },
+    "waterproofing": {
+      "description": "Colmatage des fuites, reprises d’étanchéité en zone humide et entretien des gouttières.",
+      "title": "Toiture, étanchéité et calfeutrage"
+    }
+  },
+  "Store": {
+    "appStore": "Télécharger dans l’App Store",
+    "googlePlay": "Disponible sur Google Play"
+  },
+  "Terms": {
+    "sections": [
+      {
+        "body": "En accédant à handyman.ae ou en demandant les services de Handyman aux Émirats arabes unis, vous acceptez ces conditions d’utilisation. Texte provisoire, pour la mise en page uniquement. À remplacer lorsque la raison sociale et la licence commerciale seront connues.",
+        "heading": "Acceptation des conditions"
+      },
+      {
+        "body": "Handyman fournit des services de rénovation, d’entretien et de métiers du bâtiment aux Émirats arabes unis. Les informations de ce site servent à la présentation et aux demandes de renseignements. Texte provisoire uniquement.",
+        "heading": "À propos de Handyman"
+      },
+      {
+        "body": "Vous ne pouvez utiliser le site qu’à des fins licites. Vous ne devez pas en détourner l’usage, tenter un accès non autorisé, ni envoyer un contenu faux ou nuisible par formulaire ou par un autre canal. Texte provisoire uniquement.",
+        "heading": "Utilisation du site"
+      },
+      {
+        "body": "Les descriptions de services sur le site sont des résumés. Les prix ne sont pas affichés : le travail est chiffré sur demande. Un devis ou une demande ne crée pas de contrat contraignant tant qu’il n’est pas confirmé par écrit ou selon un autre accord. Texte provisoire uniquement.",
+        "heading": "Services et devis"
+      },
+      {
+        "body": "Les règles de planification, d’acompte et d’annulation pour un chantier précis seront confirmées au moment de la réservation. Texte provisoire uniquement.",
+        "heading": "Réservations et annulations"
+      },
+      {
+        "body": "Vous êtes responsable de fournir des coordonnées et des informations d’accès exactes, et de vous assurer que vous êtes habilité à demander des travaux sur le bien. Texte provisoire uniquement.",
+        "heading": "Responsabilités de l’utilisateur"
+      },
+      {
+        "body": "Le contenu de ce site (textes, identité visuelle, mise en page et médias) appartient à Handyman ou à ses concédants et ne peut être copié ou réutilisé sans autorisation. Texte provisoire uniquement.",
+        "heading": "Propriété intellectuelle"
+      },
+      {
+        "body": "Le site peut renvoyer vers des sites tiers (par exemple des cartes ou des applications de messagerie). Nous ne sommes pas responsables de leur contenu ni de leurs pratiques. Texte provisoire uniquement.",
+        "heading": "Liens vers des sites tiers"
+      },
+      {
+        "body": "Le site est fourni « en l’état ». Nous ne garantissons pas qu’il sera ininterrompu ou exempt d’erreurs. Les garanties de service, s’il y en a, sont précisées séparément pour chaque chantier. Texte provisoire uniquement.",
+        "heading": "Exclusion de garanties"
+      },
+      {
+        "body": "Dans toute la mesure permise par le droit des Émirats arabes unis, Handyman n’est pas responsable des pertes indirectes ou consécutives liées à l’usage de ce site. La responsabilité pour les services contractualisés est régie par l’accord propre à ces travaux. Texte provisoire uniquement.",
+        "heading": "Limitation de responsabilité"
+      },
+      {
+        "body": "Vous acceptez d’indemniser Handyman contre les réclamations nées d’un usage abusif du site ou d’un manquement à ces conditions. Texte provisoire uniquement.",
+        "heading": "Indemnisation"
+      },
+      {
+        "body": "Ces conditions sont régies par le droit des Émirats arabes unis, et les litiges peuvent relever des tribunaux de Dubai, sauf disposition légale contraire. Texte provisoire uniquement.",
+        "heading": "Droit applicable"
+      },
+      {
+        "body": "Nous pouvons mettre à jour ces conditions d’utilisation à tout moment en publiant une version révisée sur cette page. Continuer à utiliser le site après une modification vaut acceptation des conditions mises à jour. Texte provisoire uniquement.",
+        "heading": "Modifications des conditions"
+      }
+    ]
+  },
+  "Testimonials": {
+    "eyebrow": "Témoignages",
+    "heading": "Ce que disent nos clients",
+    "items": {
+      "aisha-khan": {
+        "quote": "Un joint de salle de bain défaillant et des portes de cuisine affaissées ont été réglés sans dépose complète. Ils ont refait l’étanchéité des zones humides, reposé les meubles, et les deux pièces sont de nouveau utilisables.",
+        "role": "Propriétaire d’appartement, Al Barsha"
+      },
+      "daniel-okonkwo": {
+        "quote": "Des interrupteurs usés et un luminaire de boutique ont été remplacés pendant nos heures plus calmes. Chaque point a été testé avant leur départ, et le sol est de nouveau éclairé de façon uniforme.",
+        "role": "Commerçant, Deira"
+      },
+      "fatima-al-mazrouei": {
+        "quote": "Nous avions envoyé une courte liste pour le bureau : ferrures desserrées, un loquet qui coinçait et quelques fixations murales. Tout a été terminé le jour même, et les pièces ont été laissées en ordre.",
+        "role": "Coordinatrice des services généraux, Sharjah"
+      },
+      "james-whitfield": {
+        "quote": "Un enduit fissuré et une peinture fatiguée ont été traités ensemble. Ils ont bien préparé les murs, et la nouvelle teinte est uniforme d’une pièce à l’autre.",
+        "role": "Propriétaire de villa, Arabian Ranches"
+      },
+      "layla-hassan": {
+        "quote": "Travailler avec Handyman a transformé notre appartement à Marina. Ils ont expliqué chaque étape, protégé les pièces où ils n’intervenaient pas, et les espaces finis sont plus beaux que nous ne l’espérions.",
+        "role": "Propriétaire, Dubai Marina"
+      },
+      "michael-santos": {
+        "quote": "Les bureaux et les étagères en kit de notre salle de réunion ont été montés, et les éléments hauts ont été ancrés au mur. L’espace était prêt avant l’arrivée des équipes le lendemain matin.",
+        "role": "Assistant administratif, Business Bay"
+      },
+      "omar-al-farsi": {
+        "quote": "J’ai été surpris par la rapidité avec laquelle ils ont compris nos problèmes de climatisation. Ils ont entretenu les unités, dégagé les évacuations, et les appartements refroidissaient de nouveau pendant la visite convenue.",
+        "role": "Gestionnaire immobilier, Jumeirah"
+      },
+      "priya-nair": {
+        "quote": "Un robinet de cuisine qui gouttait et une porte de placard qui ne fermait pas ont été réglés en une seule visite. La porte ferme désormais à fleur, et le robinet est resté sec.",
+        "role": "Résidente, Abu Dhabi"
+      }
+    },
+    "label": "Avis clients",
+    "paragraph": "Particuliers et lieux de travail aux Émirats arabes unis, après une rénovation, une climatisation, une plomberie ou un entretien courant.",
+    "service": "Service : "
+  }
+}

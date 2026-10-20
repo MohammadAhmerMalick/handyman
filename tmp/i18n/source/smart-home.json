@@ -1,0 +1,379 @@
+{
+  "basic-home-automation-device-setup": {
+    "angle": "hub, sensor, and routine setup for straightforward smart-home kits",
+    "benefits": [
+      "Faster day-one use of purchased kits",
+      "Consistent naming helps household members",
+      "Documentation for reversing installs in rentals"
+    ],
+    "complianceNote": "Work is limited to physical mounting and basic device setup. We do not bypass security systems, duplicate keys without authorisation, or carry out specialist alarm or electrical work beyond our qualifications.",
+    "includes": [
+      "hub connection to home network within guest or IoT VLAN guidance",
+      "device naming and room assignment",
+      "two or three practical automations such as arrival lighting",
+      "export or note of admin credentials for the owner"
+    ],
+    "outcome": "devices appear in the app with clear names, basic automations run, and limits of integration are noted",
+    "problems": [
+      "duplicate room names confusing voice assistants",
+      "automations firing at wrong times due to time zones",
+      "firmware versions mismatched across sensors",
+      "landlord Wi‑Fi isolation blocking hubs"
+    ],
+    "tips": [
+      "Use strong passwords on hub accounts",
+      "Keep firmware update windows scheduled",
+      "Disable automations when travelling if preferred"
+    ],
+    "title": "Basic Home Automation Device Setup",
+    "whenNeeded": "Use when devices are purchased but need consistent naming, rooms, and automations."
+  },
+  "cctv-and-smart-locks": {
+    "angle": "combined mounting and basic setup for cameras and access hardware within handyman scope",
+    "benefits": [
+      "Single visit covers entry deterrence and access control basics",
+      "Clear scope avoids costly security overselling",
+      "Suitable for small retail and villa gates"
+    ],
+    "complianceNote": "Work is limited to physical mounting and basic device setup. We do not bypass security systems, duplicate keys without authorisation, or carry out specialist alarm or electrical work beyond our qualifications.",
+    "includes": [
+      "camera bracket mounting and short cable runs",
+      "smart lock installation with alignment checks",
+      "basic recording or app verification on supplied equipment",
+      "written note of items needing licensed security or electrical contractors"
+    ],
+    "outcome": "cameras and locks are physically installed, basic functions work, and specialist limits are clearly stated",
+    "problems": [
+      "mixing incompatible DVR and camera voltages",
+      "locks installed without aligning strike plates",
+      "no plan for cable routes across facades",
+      "expectations of remote monitoring contracts beyond maintenance scope"
+    ],
+    "tips": [
+      "Label NVR locations and login details securely",
+      "Test locks after power outages",
+      "Review camera angles seasonally as plants grow"
+    ],
+    "title": "CCTV & Smart Locks",
+    "whenNeeded": "Book when landlords or small offices want visible deterrence and controlled entry without a full security contract."
+  },
+  "digital-lock-installation": {
+    "angle": "keypad and card digital locks fitted with tidy door prep",
+    "benefits": [
+      "Suited to staff turnover without rekeying",
+      "Tidy door prep limits damage to veneers",
+      "Manual key override retained where supplied"
+    ],
+    "complianceNote": "Work is limited to physical mounting and basic device setup. We do not bypass security systems, duplicate keys without authorisation, or carry out specialist alarm or electrical work beyond our qualifications.",
+    "includes": [
+      "mortise or rim lock installation within product limits",
+      "keypad mounting height agreed with users",
+      "programming of initial master and user codes",
+      "door swing check after fitment"
+    ],
+    "outcome": "codes operate reliably, doors close without binding, and master codes are documented",
+    "problems": [
+      "keypads mounted too low for comfortable use",
+      "doors binding after thicker lock bodies installed",
+      "unclear master versus user code setup",
+      "weather exposure on external doors without gaskets"
+    ],
+    "tips": [
+      "Change default factory codes immediately",
+      "Wipe keypads after sharing temporary codes",
+      "Check battery terminals during humid seasons"
+    ],
+    "title": "Digital Lock Installation",
+    "whenNeeded": "Arrange when offices or homes need code access without full smart-home integration."
+  },
+  "door-closer-installation": {
+    "angle": "door closers adjusted for smooth closing without slamming",
+    "benefits": [
+      "Safer closing in busy corridors",
+      "Reduced noise for neighbouring apartments",
+      "Compliance-friendly setup where building rules apply"
+    ],
+    "complianceNote": "Work is limited to physical mounting and basic device setup. We do not bypass security systems, duplicate keys without authorisation, or carry out specialist alarm or electrical work beyond our qualifications.",
+    "includes": [
+      "closer body mounting aligned to manufacturer templates",
+      "arm connection and swing adjustment",
+      "latching and back-check tuning",
+      "removal of hold-open where not permitted"
+    ],
+    "outcome": "doors latch reliably, closing speed suits daily traffic, and hold-open features are disabled where required",
+    "problems": [
+      "doors slamming in air-conditioned pressure differentials",
+      "closers leaking oil onto floor finishes",
+      "incorrect closer strength for heavy glass doors",
+      "hold-open arms violating fire regulations"
+    ],
+    "tips": [
+      "Report fluid leaks immediately",
+      "Do not prop fire doors open with furniture",
+      "Retest after seasonal humidity changes"
+    ],
+    "title": "Door Closer Installation",
+    "whenNeeded": "Book for fire-rated corridors, office suites, or windy balcony doors needing controlled close."
+  },
+  "door-viewer-installation": {
+    "angle": "door viewers and digital peepholes fitted at comfortable viewing height",
+    "benefits": [
+      "Quick visual check before opening to strangers",
+      "Clean installation limits door face damage",
+      "Digital models suit low-light lobbies"
+    ],
+    "complianceNote": "Work is limited to physical mounting and basic device setup. We do not bypass security systems, duplicate keys without authorisation, or carry out specialist alarm or electrical work beyond our qualifications.",
+    "includes": [
+      "height marking for primary and secondary users",
+      "pilot drilling and clean bore for viewer barrel",
+      "sealing against dust and light rain at exterior face",
+      "battery fit and display test on digital models"
+    ],
+    "outcome": "viewers sit centred, lenses are clear, and door integrity is preserved",
+    "problems": [
+      "viewers installed off-centre to door panels",
+      "short focal length unsuitable for thick fire doors",
+      "drilling splintering laminate faces",
+      "digital viewers with flat batteries on arrival"
+    ],
+    "tips": [
+      "Clean lenses with soft cloth only",
+      "Replace batteries when display dims",
+      "Teach children not to press lenses with objects"
+    ],
+    "title": "Door Viewer Installation",
+    "whenNeeded": "Use when upgrading security chains with wide-angle viewers in apartments."
+  },
+  "motion-sensor-installation": {
+    "angle": "indoor and outdoor motion sensors positioned to reduce false triggers",
+    "benefits": [
+      "Less wasted lighting in back-of-house areas",
+      "Fewer false trips with tuned sensitivity",
+      "Battery models placed for safe ladder access"
+    ],
+    "complianceNote": "Work is limited to physical mounting and basic device setup. We do not bypass security systems, duplicate keys without authorisation, or carry out specialist alarm or electrical work beyond our qualifications.",
+    "includes": [
+      "height and angle marking for coverage",
+      "mounting on walls or ceilings with suitable anchors",
+      "sensitivity and timeout adjustment",
+      "pairing to lights or alarms within basic setup scope"
+    ],
+    "outcome": "sensors cover agreed zones without nuisance trips from AC vents or curtains",
+    "problems": [
+      "sensors aimed at sunlit windows causing false alarms",
+      "corridor overlap creating flickering lights",
+      "battery models mounted out of reach for maintenance",
+      "outdoor units without weather hoods failing early"
+    ],
+    "tips": [
+      "Keep sensors clear of swinging doors",
+      "Clean lenses gently to maintain detection",
+      "Review timeouts seasonally when clocks change"
+    ],
+    "title": "Motion Sensor Installation",
+    "whenNeeded": "Book for corridor lighting, store rooms, or basic security lighting triggers."
+  },
+  "security-camera-mounting": {
+    "angle": "camera bracket mounting and cable routing without network configuration beyond basics",
+    "benefits": [
+      "Secure mounting reduces theft and vibration blur",
+      "Angles planned for UAE sun and night glare",
+      "Tidy cables suit landlord inspections"
+    ],
+    "complianceNote": "Work is limited to physical mounting and basic device setup. We do not bypass security systems, duplicate keys without authorisation, or carry out specialist alarm or electrical work beyond our qualifications.",
+    "includes": [
+      "bracket fixing with corrosion-aware anchors outdoors",
+      "tilt and pan set to cover entry paths",
+      "surface cable routing or short concealment runs",
+      "basic power or PoE connection checks where pre-wired"
+    ],
+    "outcome": "cameras are angled to agreed zones, fixings are weather-aware, and cables are tidied within scope",
+    "problems": [
+      "cameras too high for maintenance access",
+      "insufficient fixing depth on soft block walls",
+      "glare from nearby lighting ruining night images",
+      "cables left exposed to door swing"
+    ],
+    "tips": [
+      "Confirm privacy boundaries with neighbours and building rules",
+      "Use outdoor-rated fixings near coastal air",
+      "Schedule lens cleaning on ground-level cameras"
+    ],
+    "title": "Security Camera Mounting",
+    "whenNeeded": "Arrange when cameras are supplied and need secure placement at doors, drives, or lobbies."
+  },
+  "smart-doorbell-installation": {
+    "angle": "video doorbells mounted with stable Wi‑Fi reach and clear viewing angles",
+    "benefits": [
+      "Better visibility of deliveries and visitors",
+      "Mounting accounts for UAE sun angles where possible",
+      "Clear notes when electrician needed for transformer issues"
+    ],
+    "complianceNote": "Work is limited to physical mounting and basic device setup. We do not bypass security systems, duplicate keys without authorisation, or carry out specialist alarm or electrical work beyond our qualifications.",
+    "includes": [
+      "mounting height and angle marking",
+      "fixing to masonry or frame with sealed penetrations",
+      "connection to existing doorbell wiring or battery setup within scope",
+      "app setup walkthrough for motion zones"
+    ],
+    "outcome": "doorbell is level, field of view covers the entry mat, and power options are explained",
+    "problems": [
+      "weak Wi‑Fi at the door causing dropouts",
+      "sun glare washing out daytime video",
+      "existing doorbell voltage incompatible with new unit",
+      "building rules restricting external cameras"
+    ],
+    "tips": [
+      "Test night vision after exterior lights are configured",
+      "Adjust motion zones to avoid busy corridors",
+      "Confirm strata rules before drilling common-area doors"
+    ],
+    "title": "Smart Doorbell Installation",
+    "whenNeeded": "Use when you want visitor alerts at villa gates or apartment doors within building rules."
+  },
+  "smart-lighting-installation": {
+    "angle": "smart bulbs, strips, and fixtures installed with scenes suited to daily routines",
+    "benefits": [
+      "Easier welcome lighting after travel",
+      "Scenes reduce daily switch adjustments",
+      "Professional mounting of strips under cabinets or coves"
+    ],
+    "complianceNote": "Work is limited to physical mounting and basic device setup. We do not bypass security systems, duplicate keys without authorisation, or carry out specialist alarm or electrical work beyond our qualifications.",
+    "includes": [
+      "fixture access and safe bulb or module installation",
+      "hub or bridge mounting near power and signal",
+      "scene creation for common rooms",
+      "labelling of which circuits remain manual-only"
+    ],
+    "outcome": "lights respond to app and switch commands, scenes are saved, and safe load limits are respected",
+    "problems": [
+      "overloaded circuits when too many smart bulbs added",
+      "hub placement blocking Wi‑Fi or Zigbee mesh",
+      "flicker when dimmers are incompatible with smart bulbs",
+      "outdoor strips exposed to moisture without IP rating"
+    ],
+    "tips": [
+      "Match bulb types to existing dimmer compatibility lists",
+      "Keep firmware updates on a maintenance calendar",
+      "Use outdoor-rated products for balconies"
+    ],
+    "title": "Smart Lighting Installation",
+    "whenNeeded": "Arrange when automating lighting for arrivals, evenings, or rental welcome modes."
+  },
+  "smart-lock-installation": {
+    "angle": "retrofit smart locks with aligned latches and basic app pairing",
+    "benefits": [
+      "Keyless entry suited to busy households and rentals",
+      "Professional alignment reduces jamming and motor strain",
+      "Clear guidance on override keys and guest codes"
+    ],
+    "complianceNote": "Work is limited to physical mounting and basic device setup. We do not bypass security systems, duplicate keys without authorisation, or carry out specialist alarm or electrical work beyond our qualifications.",
+    "includes": [
+      "door prep and latch alignment checks",
+      "lock body installation per manufacturer template",
+      "basic app pairing and test of manual override",
+      "handover on battery type and reset procedure"
+    ],
+    "outcome": "the lock engages smoothly, batteries are fitted, and you know how to manage user codes safely",
+    "problems": [
+      "latch misalignment preventing deadbolt extension",
+      "old bore holes incompatible with smart faceplates",
+      "uncertainty about fire egress with auto-lock features",
+      "apps failing to pair without factory reset steps"
+    ],
+    "tips": [
+      "Keep override keys accessible but separate from daily bags",
+      "Replace batteries at low-voltage alerts promptly",
+      "Share building access rules for drilling or door modifications"
+    ],
+    "title": "Smart Lock Installation",
+    "whenNeeded": "Book when you want keyless entry or need a lock replaced after tenant change."
+  },
+  "smart-switch-installation": {
+    "angle": "smart switch and dimmer replacement within appropriate electrical scope",
+    "benefits": [
+      "Consistent smart control at wall points",
+      "Cover plates neat in high-traffic corridors",
+      "Clear handover when licensed electrician must continue"
+    ],
+    "complianceNote": "Work is limited to physical mounting and basic device setup. We do not bypass security systems, duplicate keys without authorisation, or carry out specialist alarm or electrical work beyond our qualifications. Licensed electricians handle new circuits or panel work.",
+    "includes": [
+      "isolation and replacement of switches where scope allows",
+      "faceplate alignment and screw torque checks",
+      "pairing to app or hub as supplied",
+      "label circuits affected for future maintenance"
+    ],
+    "outcome": "switches sit flush, cover plates align, and manual override still works during outages",
+    "problems": [
+      "deep back boxes needed but not present",
+      "neutral wires missing in older circuits",
+      "metal faceplates interfering with touch models",
+      "multi-gang layouts confusing traveller wiring"
+    ],
+    "tips": [
+      "Do not mix incompatible dimmers and LED loads",
+      "Photograph wiring before changes",
+      "Test manual toggle after app pairing"
+    ],
+    "title": "Smart Switch Installation",
+    "whenNeeded": "Use when you want app control of lighting without changing every bulb."
+  },
+  "smart-thermostat-installation": {
+    "angle": "smart thermostat mounting and basic configuration with existing HVAC controls",
+    "benefits": [
+      "More predictable comfort and switching patterns",
+      "Neater wall plates in living areas",
+      "Documentation for landlords on reversible installs"
+    ],
+    "complianceNote": "Work is limited to physical mounting and basic device setup. We do not bypass security systems, duplicate keys without authorisation, or carry out specialist alarm or electrical work beyond our qualifications.",
+    "includes": [
+      "safe isolation of low-voltage control wires where accessible",
+      "backplate mounting and wire termination per diagram",
+      "basic schedule and mode configuration",
+      "identification of items needing HVAC specialist follow-up"
+    ],
+    "outcome": "thermostat displays correctly, schedules are set, and limits of HVAC integration are documented",
+    "problems": [
+      "legacy wiring labels missing behind old thermostats",
+      "systems with multiple zones needing separate stats",
+      "Wi‑Fi dropouts in plant rooms or corridors",
+      "unclear compatibility with landlord-owned equipment"
+    ],
+    "tips": [
+      "Photograph wire labels before disconnecting old stats",
+      "Keep manufacturer compatibility lists on file",
+      "Avoid forcing connections on unfamiliar control boards"
+    ],
+    "title": "Smart Thermostat Installation",
+    "whenNeeded": "Book when upgrading controls for better scheduling in villas with split AC systems."
+  },
+  "window-security-lock-installation": {
+    "angle": "secondary window locks and restrictors for child safety and ventilation",
+    "benefits": [
+      "Improved peace of mind for family homes",
+      "Ventilation positions without fully opening windows",
+      "Matches common UAE aluminium frame profiles"
+    ],
+    "complianceNote": "Work is limited to physical mounting and basic device setup. We do not bypass security systems, duplicate keys without authorisation, or carry out specialist alarm or electrical work beyond our qualifications.",
+    "includes": [
+      "lock or restrictor positioning on sliding or hinged units",
+      "pilot holes with burr-free edges",
+      "keyed or thumb-turn options fitted as supplied",
+      "operation demo for cleaning and emergency egress"
+    ],
+    "outcome": "windows lock securely while still allowing agreed ventilation gaps",
+    "problems": [
+      "standard latches failing on sliding aluminium sections",
+      "restrictors missing on bedroom windows",
+      "keys lost for existing window locks",
+      "frames flexing so locks do not catch"
+    ],
+    "tips": [
+      "Keep keys labelled but out of reach of children",
+      "Lubricate tracks lightly after sandy weather",
+      "Do not defeat restrictors permanently"
+    ],
+    "title": "Window Security Lock Installation",
+    "whenNeeded": "Arrange when ground-floor windows need extra locking or child restrictors."
+  }
+}

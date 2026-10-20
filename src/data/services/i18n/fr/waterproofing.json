@@ -1,0 +1,430 @@
+{
+  "balcony-waterproofing-repairs": {
+    "angle": "l’étanchéité du sol de balcon pour protéger les intérieurs et les voisins",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "complianceNote": "Le remplacement complet de la membrane de balcon sur une tour, ou la reprise d’une dalle structurelle, exige des équipes spécialisées et souvent un avis aux autorités. Nous restons dans les réparations localisées et accessibles.",
+    "includes": [
+      "Dégagement des évacuations et renouvellement local des joints",
+      "Recalage de carreaux sur de petites zones si c’est au devis",
+      "Coordination du joint de seuil",
+      "Conseils de séchage et d’usage"
+    ],
+    "outcome": "les réparations d’étanchéité de balcon sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Eau qui stagne après la pluie",
+      "Taches sur les sous-faces du dessous",
+      "Carrelages décollés",
+      "Seuils de portes de balcon défaillants"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations d’étanchéité de balcon",
+    "whenNeeded": "Prévoyez des réparations d’étanchéité de balcon lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "bathroom-waterproofing-repairs": {
+    "angle": "des reprises ciblées d’étanchéité en pièce d’eau, sous le carrelage et aux jonctions",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "complianceNote": "Une étanchéité complète de salle de bains selon des normes certifiées, ou des réparations de dalle structurelle, peut exiger des étancheurs spécialisés. Nous réalisons les réparations locales convenues et nous coordonnons la repose du carrelage.",
+    "includes": [
+      "Dépose localisée de carreaux si c’est au devis",
+      "Reprise localisée de membrane dans les zones accessibles",
+      "Repose des carreaux et des joints",
+      "Conseils pour l’essai de mise en eau lorsque c’est pertinent"
+    ],
+    "outcome": "les réparations d’étanchéité de salle de bains sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Fuites vers les pièces du dessous",
+      "Niches de douche défaillantes",
+      "Joints de carrelage fissurés qui laissent passer l’eau",
+      "Plinthes ramollies à l’extérieur des salles de bains"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations d’étanchéité de salle de bains",
+    "whenNeeded": "Prévoyez des réparations d’étanchéité de salle de bains lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "door-weatherproofing": {
+    "angle": "des joints et des seuils qui retiennent la pluie et le sable",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Pose d’une barre de seuil ou d’un balai de porte",
+      "Remplacement du joint de dormant",
+      "Réglage du seuil",
+      "Alignement avec les serrures existantes"
+    ],
+    "outcome": "l’étanchéité des portes aux intempéries est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Eau sous les portes de balcon",
+      "Entrée de sable dans les logements du rez-de-chaussée",
+      "Bas de porte usés après la dépose des moquettes",
+      "Jeux après un changement de niveau de sol"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Étanchéité des portes aux intempéries",
+    "whenNeeded": "Prévoyez l’étanchéité des portes aux intempéries lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "downpipe-repairs": {
+    "angle": "des descentes fixées et raccordées pour éloigner l’eau des murs",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Reprise des colliers et des crochets",
+      "Remplacement de tronçons à portée de main",
+      "Pose du dauphin et du déflecteur au sol",
+      "Essai d’écoulement par rinçage de la gouttière"
+    ],
+    "outcome": "les réparations de descentes d’eau sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Tuyaux desserrés qui claquent au vent",
+      "Fentes qui fuient sur les façades",
+      "Dauphins manquants au niveau du sol",
+      "Bouchons qui font refouler les gouttières"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations de descentes d’eau",
+    "whenNeeded": "Prévoyez des réparations de descentes d’eau lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "expansion-joint-sealant-repairs": {
+    "angle": "des joints de mouvement renouvelés pour accompagner la dilatation du bâtiment",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "complianceNote": "Les systèmes de joints de dilatation structurels, dans les parkings ou les tours, peuvent exiger des poseurs agréés par le fabricant. Nous réparons les zones de mastic accessibles, dans le périmètre d’un homme à tout faire.",
+    "includes": [
+      "Dépose du matériau de joint défaillant",
+      "Fond de joint et rupteur d’adhérence adaptés",
+      "Mastics adaptés, coulés ou extrudés au pistolet",
+      "Délais de prise avant la remise en circulation"
+    ],
+    "outcome": "les réparations de mastic des joints de dilatation sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Joints ouverts qui laissent entrer la pluie",
+      "Mastic qui ressort sous la compression",
+      "Risques de trébuchement sur les joints de sol",
+      "Fuites de dalle de parking au droit des joints"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations de mastic des joints de dilatation",
+    "whenNeeded": "Prévoyez des réparations de mastic des joints de dilatation lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "exterior-joint-sealing": {
+    "angle": "le colmatage des façades et des traversées face au climat du Golfe",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "complianceNote": "L’accès sur corde, la reprise de façade en grande hauteur ou l’étude des joints structurels exigent des spécialistes certifiés. Nous étanchons les joints accessibles depuis une échelle ou depuis un balcon accessible de l’intérieur, lorsque c’est sûr.",
+    "includes": [
+      "Préparation du joint et pose du fond de joint",
+      "Application d’un mastic résistant aux UV",
+      "Lissage en profil qui rejette l’eau",
+      "Organisation de l’accès dans une portée sûre"
+    ],
+    "outcome": "l’étanchéité des joints extérieurs est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Joints de fractionnement fissurés dans l’enduit",
+      "Jeux aux traversées de tuyaux",
+      "Mastic défaillant aux panneaux de bardage",
+      "Traînées de poussière sur les façades"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Étanchéité des joints extérieurs",
+    "whenNeeded": "Prévoyez l’étanchéité des joints extérieurs lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "gutter-cleaning": {
+    "angle": "des gouttières et des évacuations dégagées pour que la pluie s’écoule correctement",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Retrait des débris dans les gouttières accessibles",
+      "Rinçage des descentes lorsque c’est possible",
+      "Contrôle visuel des crochets",
+      "Conseil sur les grilles de protection si c’est utile"
+    ],
+    "outcome": "le nettoyage de gouttières est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Débordement lors des fortes pluies",
+      "Plantes qui poussent dans les gouttières",
+      "Taches sur les murs de villa",
+      "Moustiques qui prolifèrent dans l’eau stagnante"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Nettoyage de gouttières",
+    "whenNeeded": "Prévoyez un nettoyage de gouttières lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "gutter-repair": {
+    "angle": "le réalignement et la refixation des gouttières qui fuient ou se décrochent",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Remplacement des crochets et réalignement",
+      "Renouvellement du joint aux raccords",
+      "Remplacement de tronçon dans le périmètre prévu",
+      "Contrôle des raccordements de descente"
+    ],
+    "outcome": "la réparation de gouttières est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Tronçons qui fléchissent au milieu du parcours",
+      "Joints d’angle qui fuient",
+      "Crochets manquants après le vent",
+      "Pente insuffisante qui empêche l’écoulement"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparation de gouttières",
+    "whenNeeded": "Prévoyez une réparation de gouttières lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "minor-roof-repairs": {
+    "angle": "des reprises localisées de toiture pour les fuites et les détails usés, dans un accès sûr",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "complianceNote": "Les travaux sur toitures à forte pente, le remplacement important du platelage structurel ou l’accès extérieur en immeuble de grande hauteur exigent des équipes de couverture spécialisées, avec un accès certifié. Nous limitons l’intervention aux petites réparations accessibles en sécurité.",
+    "includes": [
+      "Relevé visuel depuis les zones accessibles",
+      "Renouvellement du mastic aux évents et aux costières",
+      "Dégagement des débris locaux aux évacuations",
+      "Notes photo pour le dossier du propriétaire"
+    ],
+    "outcome": "les petites réparations de toiture sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Auréoles d’eau aux plafonds du dernier étage",
+      "Solins desserrés aux acrotères",
+      "Mastic de toiture fissuré aux traversées",
+      "Évacuations bouchées qui font stagner l’eau"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Petites réparations de toiture",
+    "whenNeeded": "Prévoyez de petites réparations de toiture lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "roof-leak-inspection": {
+    "angle": "des contrôles méthodiques pour retracer l’entrée d’eau avant la réparation",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Mise en relation de l’intérieur et de l’extérieur",
+      "Coordination d’un essai à l’eau si c’est pertinent",
+      "Synthèse écrite des cheminements probables",
+      "Ordre de réparation recommandé"
+    ],
+    "outcome": "l’inspection de fuite de toiture est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Fuites intermittentes après la pluie",
+      "Plusieurs auréoles au plafond, d’origine incertaine",
+      "Confusion entre condensats de climatisation et eau de pluie",
+      "Besoin de documents pour l’assurance"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Inspection de fuite de toiture",
+    "whenNeeded": "Prévoyez une inspection de fuite de toiture lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "roof-sealant-repairs": {
+    "angle": "le renouvellement des mastics aux traversées et aux joints de toiture",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "complianceNote": "Une réfection importante de membrane d’étanchéité, ou le resurfaçage complet d’une toiture, exige des applicateurs spécialisés, avec des systèmes sous garantie. Nous traitons les réparations localisées de mastic dans le périmètre accessible d’un homme à tout faire.",
+    "includes": [
+      "Dépose du mastic défaillant",
+      "Nettoyage et primaire lorsque c’est nécessaire",
+      "Application d’un mastic compatible",
+      "Conseils de protection pendant la prise"
+    ],
+    "outcome": "les réparations de mastic de toiture sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Mastic durci autour des puits de lumière",
+      "Jeux au pied des costières de climatisation",
+      "Fissures aux joints de mouvement",
+      "Anciennes reprises qui lâchent"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations de mastic de toiture",
+    "whenNeeded": "Prévoyez des réparations de mastic de toiture lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "terrace-waterproofing-repairs": {
+    "angle": "des retouches de terrasse et de toiture-terrasse pour les villas et les penthouses",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "complianceNote": "La pose de membrane sur de grandes surfaces, la mise à niveau de l’isolation ou les chantiers qui exigent une grue relèvent de couvreurs spécialisés. Nous ne chiffrons que les petites reprises et l’entretien.",
+    "includes": [
+      "Nettoyage des évacuations et des gargouilles",
+      "Reprises localisées des revêtements dans le périmètre prévu",
+      "Renouvellement des joints aux relevés",
+      "Recommandations de réfection complète du revêtement lorsque c’est nécessaire"
+    ],
+    "outcome": "les réparations d’étanchéité de terrasse sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Stagnation près d’évacuations bouchées",
+      "Chape fissurée qui laisse entrer l’eau",
+      "Fuites de jardinières vers les garages",
+      "Anciens revêtements abîmés par la chaleur"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations d’étanchéité de terrasse",
+    "whenNeeded": "Prévoyez des réparations d’étanchéité de terrasse lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "waterproofing": {
+    "angle": "des réparations d’étanchéité de toiture, de balcon et de pièces d’eau aux Émirats",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "complianceNote": "Une étanchéité structurelle importante, l’accès par nacelle sur les tours ou les systèmes d’étanchéité certifiés sous garantie exigent des entreprises spécialisées agréées. Nous nous concentrons sur les inspections et les réparations localisées, dans un accès sûr.",
+    "includes": [
+      "Visite du site et confirmation du périmètre",
+      "Intervention concrète d’étanchéité, avec des matériaux adaptés",
+      "Protection des surfaces voisines lorsque c’est possible",
+      "Contrôle du travail terminé et conseils d’entretien"
+    ],
+    "outcome": "vous comprenez quelles tâches d’étanchéité relèvent du périmètre d’un homme à tout faire, et lesquelles relèvent de membranes spécialisées",
+    "problems": [
+      "Usure quotidienne qui touche l’étanchéité",
+      "Réparations antérieures à reprendre ou à corriger",
+      "Finitions qui jurent avec les zones voisines",
+      "Contraintes d’accès ou de planning dans les appartements et les villas"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Étanchéité",
+    "whenNeeded": "Commencez ici lorsque vous voyez des taches, des odeurs de moisi ou des joints défaillants, et que vous avez besoin d’être guidé sur l’inspection et le périmètre de réparation."
+  },
+  "waterproofing-inspection": {
+    "angle": "un examen de l’étanchéité des pièces d’eau et des extérieurs avant la rénovation",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Repérage d’humidité dans le périmètre visible",
+      "Examen des évacuations et des pentes",
+      "Repérage des joints défaillants",
+      "Options de périmètre pour les réparations"
+    ],
+    "outcome": "l’inspection d’étanchéité est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Projet de recarreler une salle de bains",
+      "Carreaux de balcon qui se soulèvent",
+      "Odeurs de moisi après les orages",
+      "Travaux antérieurs sous garantie, peu clairs"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Inspection d’étanchéité",
+    "whenNeeded": "Prévoyez une inspection d’étanchéité lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "window-leak-sealing": {
+    "angle": "l’arrêt de l’eau qui chemine autour des dormants et des appuis de fenêtre",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Renouvellement des joints extérieurs et intérieurs lorsqu’ils sont accessibles",
+      "Contrôle de la pente des appuis",
+      "Dégagement des orifices d’évacuation dans les rails",
+      "Coordination avec les peintres pour les taches"
+    ],
+    "outcome": "le colmatage des fuites de fenêtre est réalisé selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Taches sur les tableaux après les orages",
+      "Jeux de silicone aux meneaux extérieurs",
+      "Larmiers absents au-dessus des têtes de fenêtre",
+      "Peinture intérieure qui cloque près des cadres"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Colmatage des fuites de fenêtre",
+    "whenNeeded": "Prévoyez un colmatage des fuites de fenêtre lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  }
+}

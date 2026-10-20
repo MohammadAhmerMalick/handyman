@@ -2,17 +2,20 @@
 
 import { cn } from 'cn'
 import { MessageCircle } from 'lucide-react'
-import Link from 'next/link'
+import { useTranslations } from 'next-intl'
+import LocaleSwitcher from '@/components/layout/LocaleSwitcher'
+import NavigationSheet from '@/components/layout/navbar/NavigationSheet'
+import NavMenu from '@/components/layout/navbar/NavMenu'
+import { Container } from '@/components/shared/Container'
 import Logo from '@/components/shared/Logo'
-import NavigationSheet from '@/components/shared/navbar/NavigationSheet'
-import NavMenu from '@/components/shared/navbar/NavMenu'
 import { Button } from '@/components/ui/button'
-import { Container } from '@/components/ui/container'
 import { contact } from '@/data/contact'
 import { pages } from '@/data/links'
 import { useScrolledPast } from '@/hooks/useScrolledPast'
+import { Link } from '@/i18n/navigation'
 
 const Navbar = () => {
+  const t = useTranslations('Nav')
   // 40px hysteresis > the ~32px height drop so shrinking cannot bounce scrollY back across 50
   const isCompact = useScrolledPast(50, 40)
 
@@ -38,12 +41,12 @@ const Navbar = () => {
           />
         </Link>
 
-        {/* Desktop Menu */}
         <nav>
           <NavMenu className="hidden lg:block" />
         </nav>
 
         <div className="flex items-center gap-3">
+          <LocaleSwitcher className="hidden lg:flex" />
           <Button
             size="lg"
             className="hidden lg:flex"
@@ -57,10 +60,9 @@ const Navbar = () => {
             nativeButton={false}
           >
             <MessageCircle className="size-5" data-icon="inline-center" />
-            Get Quote
+            {t('getQuote')}
           </Button>
 
-          {/* Mobile Menu */}
           <div className="lg:hidden">
             <NavigationSheet />
           </div>

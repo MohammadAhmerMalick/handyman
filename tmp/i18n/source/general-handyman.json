@@ -1,0 +1,529 @@
+{
+  "caulking-and-sealant-replacement": {
+    "angle": "renewing failed caulk at skirting, windows, and wet areas with the right product for each joint",
+    "benefits": [
+      "Stops hidden water ingress into joinery",
+      "Crisp lines for handover photography",
+      "Pairs with plumbing silicone tasks efficiently",
+      "Improves AC dust control at window gaps"
+    ],
+    "includes": [
+      "Removal of loose old material where accessible",
+      "Surface clean and dry verification",
+      "Application of paintable or sanitary sealant as suited",
+      "Tooling for consistent profile",
+      "Cure guidance before cleaning or painting"
+    ],
+    "outcome": "fresh beads tooling cleanly with cure times explained before wet use",
+    "problems": [
+      "Shrunken caulk at tub-to-tile joints",
+      "Exterior window gaps letting dust in during shamals",
+      "Kitchen backsplash gaps collecting grease",
+      "Fire-rated sealant missing after pipe penetrations",
+      "Landlord paint jobs failing at skirting tops"
+    ],
+    "tips": [
+      "Do not paint over uncured sanitary silicone",
+      "Ventilate well during application",
+      "Use backer rod in deep gaps before caulking"
+    ],
+    "title": "Caulking and Sealant Replacement",
+    "whenNeeded": "Reseal when gaps open, paint peels at joints, or bathrooms show blackened bead lines."
+  },
+  "curtain-and-blind-installation": {
+    "angle": "tracks, poles, and blinds mounted straight on bay windows and sliding doors common in UAE homes",
+    "benefits": [
+      "Better sleep and AC efficiency with blackout",
+      "Neat finishes valued in Marina view apartments",
+      "Child-safe cord management on family homes",
+      "Pairs with painting and cleaning schedules"
+    ],
+    "includes": [
+      "Measure confirm before drilling",
+      "Mounting brackets with backing boards if needed",
+      "Level and overlap settings for blackout pairs",
+      "Trimming of hems only if agreed in scope",
+      "Operation demo for cords and child safety clips"
+    ],
+    "outcome": "window treatments operating smoothly with brackets secure into structure",
+    "problems": [
+      "Wide sliders needing extra support mid-span",
+      "Ceiling fixings into gypsum without backing",
+      "Blinds fouling handles on tilt-and-turn windows",
+      "Bay curves with gaps letting morning sun in",
+      "Motor wires needing neat routing to sockets"
+    ],
+    "tips": [
+      "Steam or iron curtains per fabric guidance before hang",
+      "Clean tracks after sandy window days",
+      "Retighten brackets after first month of use"
+    ],
+    "title": "Curtain and Blind Installation",
+    "whenNeeded": "Install after furnishing, when sun fade worsens, or when replacing manual with motorized kits within scope."
+  },
+  "door-handle-and-lock-replacement": {
+    "angle": "swapping handles and cylinders so doors latch smoothly without damaging doors",
+    "benefits": [
+      "Security refresh without replacing whole doors",
+      "Better first impression on rental viewings",
+      "Fixes daily annoyance of sticking latches",
+      "Coordinates with hinge repairs same visit"
+    ],
+    "includes": [
+      "Removal of old hardware without splintering doors",
+      "Installation of supplied handles or cylinders",
+      "Latch and strike alignment adjustments",
+      "Handover of keys and spares inventory",
+      "Referral for restricted master key systems"
+    ],
+    "outcome": "handles aligned with latches engaging and keys operating smoothly",
+    "problems": [
+      "Loose handles exposing sharp spindle edges",
+      "Landlords needing new cylinders between tenants",
+      "Bathroom privacy locks failing to indicate occupied",
+      "Smart lock retrofits needing different bore sizes",
+      "Corroded external handles on sea-facing doors"
+    ],
+    "tips": [
+      "Retain old cylinders until new keys tested",
+      "Lubricate latches with graphite-free products",
+      "Check fire door rules before changing hardware"
+    ],
+    "title": "Door Handle and Lock Replacement",
+    "whenNeeded": "Replace when keys stick, handles sag, or you rekey between tenants."
+  },
+  "emergency-handyman-services": {
+    "angle": "priority same-day help during working hours for urgent but non-specialist fixes",
+    "benefits": [
+      "Realistic priority response—not advertised 24/7",
+      "Bridges gap until licensed trades arrive",
+      "Reduces owner stress during tight deadlines",
+      "Documents actions for insurance or landlords"
+    ],
+    "includes": [
+      "Phone triage to confirm handyman scope fits",
+      "Same-day attendance when schedule allows within hours",
+      "Temporary make-safe measures where needed",
+      "Permanent fix when materials on hand permit",
+      "Clear next steps if specialists must follow"
+    ],
+    "outcome": "urgent items stabilised or made safe with fuller repairs scheduled if time or parts require",
+    "problems": [
+      "Broken entrance latch before a flight",
+      "Loose glass shelf about to fall in a shop",
+      "Water ingress needing temporary sealing",
+      "Trip hazards on loose floor transitions",
+      "Child safety issue with sharp damaged trim"
+    ],
+    "tips": [
+      "Send location pin and access instructions early",
+      "Isolate water and power when safe before we arrive",
+      "Keep children and pets clear of work zones"
+    ],
+    "title": "Emergency Handyman Services",
+    "whenNeeded": "Request priority service when a door cannot secure, a leak needs containment, or a shop must open safely."
+  },
+  "flat-pack-furniture-assembly": {
+    "angle": "specialist patience for flat-pack systems with cam locks, dowels, and hidden fixings",
+    "benefits": [
+      "Faster move-in for corporate relocations",
+      "Less damage to laminate floors from dragging",
+      "Consistent quality across many identical units",
+      "Works alongside curtain and TV mounting same day"
+    ],
+    "includes": [
+      "Inventory count against packing lists",
+      "Sequential build with square checks",
+      "Replacement of stripped cams where spares exist",
+      "Levelling on uneven villa tiles",
+      "Handover of leftover parts labelled for storage"
+    ],
+    "outcome": "flat-pack items squared up with cams tightened and feet adjusted to tile floors",
+    "problems": [
+      "Cam locks not fully seated causing wobble",
+      "Back panels nailed before checking square",
+      "Mixed metric and imperial hardware in one box",
+      "Instructions referencing outdated SKU revisions",
+      "Damaged edges from rushed solo builds"
+    ],
+    "tips": [
+      "Open boxes in the room they will live in",
+      "Use a cordless driver on low torque for cams",
+      "Report missing parts to retailer before forcing steps"
+    ],
+    "title": "Flat-Pack Furniture Assembly",
+    "whenNeeded": "Choose when multiple flat-pack cartons arrive for a new rental furnish or office refit."
+  },
+  "general-handyman-services": {
+    "angle": "competent help for the odd jobs that do not need a full specialist crew",
+    "benefits": [
+      "Moves stubborn tasks off your weekend list",
+      "Reduces DIY injuries from ladder work",
+      "Flexible scope across flats and villas",
+      "Pairs well with preventive maintenance plans"
+    ],
+    "includes": [
+      "Review of your written or photo snag list",
+      "Tools and fixings for typical household tasks",
+      "Drilling with dust control where practical",
+      "Basic touch-ups within agreed scope",
+      "Honest referral when licensing limits apply"
+    ],
+    "outcome": "agreed handyman tasks finished with tidy work areas and simple aftercare notes",
+    "problems": [
+      "IKEA fixes half-done and abandoned",
+      "Curtain brackets loose after windy nights",
+      "Picture hooks failing on gypsum walls",
+      "Minor leaks waiting alongside other chores",
+      "No time to coordinate multiple appointments"
+    ],
+    "tips": [
+      "Prioritise safety items at the top of your list",
+      "Confirm ceiling types before heavy mounts",
+      "Keep pets away from open tools and ladders"
+    ],
+    "title": "General Handyman Services",
+    "whenNeeded": "Book when you have a scattered list—mounts, adjustments, sealant—and want progress in one visit."
+  },
+  "handyman-and-general-maintenance": {
+    "angle": "day-to-day fixes and upkeep that keep UAE homes and workplaces running smoothly",
+    "benefits": [
+      "One contact instead of juggling many trades",
+      "Working-hours scheduling with realistic expectations",
+      "Practical advice suited to Marina apartments and villas",
+      "Builds history for recurring property care"
+    ],
+    "includes": [
+      "Walk-through triage of mixed maintenance tasks",
+      "Repairs to fittings, fixings, and minor finishes",
+      "Adjustment of doors, shelves, and hardware",
+      "Silicone and sealant touch-ups where agreed",
+      "Summary for follow-up visits or specialists"
+    ],
+    "outcome": "priority items completed with clear notes on anything needing a specialist trade",
+    "problems": [
+      "Long punch lists after tenant move-outs",
+      "Fixtures loosening from vibration and heat cycles",
+      "Landlords overseas needing trusted local help",
+      "Offices degrading between deep cleans",
+      "Uncertainty which trade to call first"
+    ],
+    "tips": [
+      "Batch similar tasks by room for efficient visits",
+      "Share photos before the appointment",
+      "Keep building access passes ready for technicians"
+    ],
+    "title": "Handyman & General Maintenance",
+    "whenNeeded": "Engage when snagging lists grow, tenancies turn over, or you want one team for mixed small jobs."
+  },
+  "hinge-repair-and-replacement": {
+    "angle": "door hinges tightened, replaced, or packed so doors hang true",
+    "benefits": [
+      "Extends door life before full replacement",
+      "Quieter bedrooms and hotel corridors",
+      "Pairs with lock changes during turnovers",
+      "Quick wins on snagging lists"
+    ],
+    "includes": [
+      "Hinge inspection top to bottom",
+      "Long screw or repair plate installation",
+      "Replacement hinges matched to door weight",
+      "Planing coordination if floor bind persists",
+      "Lubrication with appropriate products"
+    ],
+    "outcome": "doors swing freely with screws biting solid material or repair plates fitted",
+    "problems": [
+      "Continuous squeak after oil wears off",
+      "Hinge screws stripped in particleboard jambs",
+      "Doors dropping and dragging on tiles",
+      "Heavy fire doors on too-small hinges",
+      "Removed pins causing misalignment"
+    ],
+    "tips": [
+      "Support door weight when removing hinges",
+      "Fix leaks that swell jambs before planing",
+      "Upgrade to ball bearing hinges on heavy doors"
+    ],
+    "title": "Hinge Repair and Replacement",
+    "whenNeeded": "Fix when doors scrape floors, hinges squeal, or screws strip in soft jambs."
+  },
+  "home-inspection-and-maintenance-checks": {
+    "angle": "structured walk-throughs that record condition and catch maintenance early",
+    "benefits": [
+      "Informed decisions without guesswork",
+      "Negotiation support with factual snag lists",
+      "Peace of mind before family move-in",
+      "Baseline for preventive maintenance programmes"
+    ],
+    "includes": [
+      "Room-by-room visual and operational checks agreed in scope",
+      "Tests of accessible doors, windows, and fixtures",
+      "Notes on leaks, cracks, and safety items",
+      "Separate list for licensed electrical and gas items",
+      "Suggested visit order for follow-up repairs"
+    ],
+    "outcome": "checklist report with photos optional and prioritised maintenance recommendations",
+    "problems": [
+      "Unknown state of rental after years abroad",
+      "Pre-purchase uncertainty on minor versus major issues",
+      "Insurance asking for post-leak verification",
+      "Community defect lists needing independent review",
+      "Holiday home idle with unknown AC and plumbing status"
+    ],
+    "tips": [
+      "Attend walk-through if you want real-time questions answered",
+      "Provide previous reports for comparison",
+      "Follow up quickly on safety-priority findings"
+    ],
+    "title": "Home Inspection and Maintenance Checks",
+    "whenNeeded": "Book before buying, after tenants leave, or when returning from long overseas travel."
+  },
+  "home-repairs-and-maintenance": {
+    "angle": "keeping lived-in homes safe, quiet, and presentable between bigger renovations",
+    "benefits": [
+      "Better daily comfort without full refurb cost",
+      "Prepares homes for photography and viewings",
+      "Catches small issues before they stain ceilings",
+      "Supports busy families and dual-income households"
+    ],
+    "includes": [
+      "Tightening and re-fixing of common accessories",
+      "Patch filling and sand ready for paint if scoped",
+      "Silicone refresh at sinks and baths when listed",
+      "Door and cabinet adjustments within time box",
+      "Maintenance tips tailored to your finishes"
+    ],
+    "outcome": "homes functioning comfortably with cosmetic issues reduced on the agreed list",
+    "problems": [
+      "Loose towel rails and toilet roll holders",
+      "Scuffed walls and chipped skirting at corners",
+      "Balcony door catches failing in wind",
+      "Pantry hooks pulling out of plasterboard",
+      "Children’s safety gates loose at stairs"
+    ],
+    "tips": [
+      "Walk each room monthly with a notepad",
+      "Fix loose handles before they strip holes",
+      "Keep a small kit of spare screws and anchors"
+    ],
+    "title": "Home Repairs and Maintenance",
+    "whenNeeded": "Schedule when wear shows in high-traffic zones, after guests, or before listing a property."
+  },
+  "minor-household-repairs": {
+    "angle": "small fixes that restore daily function without launching a renovation",
+    "benefits": [
+      "Clears mental load of unfinished tasks",
+      "Improves reviews for short-term rentals",
+      "Affordable compared with ignoring wear",
+      "Flexible add-ons during same appointment"
+    ],
+    "includes": [
+      "Snag list review and safety ordering",
+      "Fixing, tightening, and replacing small parts",
+      "Fill and sand of nail holes if paint not included",
+      "Simple silicone beads at backsplashes",
+      "Notes on items needing licensed trades"
+    ],
+    "outcome": "listed minor repairs completed or scoped with time estimates for return visits",
+    "problems": [
+      "Towel hooks missing screws",
+      "Child safety latches broken on cabinets",
+      "Loose floor transition strips tripping guests",
+      "Blind chain tangles unsafe near cots",
+      "Cracked switch plates needing swap"
+    ],
+    "tips": [
+      "Group tasks by floor for ladder efficiency",
+      "Have spare bulbs and batteries ready",
+      "Mark items “do not fix” if sentimental DIY"
+    ],
+    "title": "Minor Household Repairs",
+    "whenNeeded": "Call when little defects pile up—snags, loose items, small holes—and you want them cleared."
+  },
+  "picture-and-mirror-hanging": {
+    "angle": "level, secure hanging on concrete, block, and stud walls with appropriate anchors",
+    "benefits": [
+      "Protects expensive art and glass from falls",
+      "Professional spacing for feature walls",
+      "Saves owners from ladder accidents",
+      "Quick refresh before photography sessions"
+    ],
+    "includes": [
+      "Layout marking with laser or spirit level",
+      "Anchor selection for declared weights",
+      "Drilling with dust control where possible",
+      "D-ring or wire adjustment for balance",
+      "Patch advice for future removal if requested"
+    ],
+    "outcome": "pieces centred and level with fixings suited to weight and wall type",
+    "problems": [
+      "Heavy mirrors falling from plastic plugs in gypsum",
+      "Art crooked on long corridor walls",
+      "Wire hooks cutting into frame backs",
+      "Drilling into hidden conduits without plans",
+      "Tenant rules on hole counts in rentals"
+    ],
+    "tips": [
+      "Weigh pieces or check labels before booking",
+      "Avoid hanging above beds without extra safety fixings",
+      "Use museum putty on corners in earthquake-light design"
+    ],
+    "title": "Picture and Mirror Hanging",
+    "whenNeeded": "Hang art after renovations, heavy mirrors in dressing rooms, or gallery walls for hospitality."
+  },
+  "preventive-maintenance": {
+    "angle": "planned touchpoints that catch wear before it becomes emergency damage",
+    "benefits": [
+      "Fewer emergency calls during holidays",
+      "Lower total cost than reactive repairs alone",
+      "Better tenant retention with responsive care",
+      "Supports insurance diligence with dated visits"
+    ],
+    "includes": [
+      "Repeatable checklist adapted to your property type",
+      "Tightening, cleaning, and adjustment tasks",
+      "Filter and drain reminders for AC and hoods",
+      "Sealant and grout visual scans in wet areas",
+      "Prioritised report for owner approval on bigger items"
+    ],
+    "outcome": "updated checklist with minor fixes applied and future items dated",
+    "problems": [
+      "Flex hoses never inspected until they burst",
+      "AC drains clog every summer without warning",
+      "Door seals hardening unnoticed",
+      "Loose exterior lights corroding in salt air",
+      "Silicone failing silently behind baths"
+    ],
+    "tips": [
+      "Align visits before summer and before Ramadan travel",
+      "Keep spare keys labelled for technicians",
+      "Update checklist when you renovate rooms"
+    ],
+    "title": "Preventive Maintenance",
+    "whenNeeded": "Plan quarterly or bi-annual visits for occupied homes, rental portfolios, or small offices."
+  },
+  "property-maintenance": {
+    "angle": "ongoing care for landlords and owners managing flats, villas, and small commercial units",
+    "benefits": [
+      "Protects asset value across the UAE portfolio",
+      "Single report instead of scattered WhatsApp threads",
+      "Predictable visits within published hours",
+      "Escalates licensed work instead of guessing"
+    ],
+    "includes": [
+      "Exterior and interior visual checks as agreed",
+      "Execution of pre-approved maintenance tasks",
+      "Photo notes for remote owners when requested",
+      "Coordination with building access rules",
+      "Scheduling follow-ups within working hours"
+    ],
+    "outcome": "properties left in lettable condition with documented items for the next visit",
+    "problems": [
+      "Recurring tenant tickets for the same loose items",
+      "Unknown maintenance history on new purchases",
+      "Holiday homes idle for months then failing checks",
+      "Retail units needing fast turnaround overnight windows",
+      "Community inspection comments to clear"
+    ],
+    "tips": [
+      "Keep a digital log per unit after each visit",
+      "Standardise hardware finishes between units",
+      "Test smoke detectors on every turnover"
+    ],
+    "title": "Property Maintenance",
+    "whenNeeded": "Use between tenancies, for portfolio walk-throughs, or when tenants report mixed minor issues."
+  },
+  "shelving-installation": {
+    "angle": "brackets and floating systems installed for declared loads in kitchens, garages, and offices",
+    "benefits": [
+      "Immediate organisation after moves",
+      "Safer than improvised stackings on chairs",
+      "Matches carpentry shelving for mixed jobs",
+      "Efficient multi-room installs in one visit"
+    ],
+    "includes": [
+      "Layout and height marking with owner",
+      "Drilling and fixing per wall type",
+      "Shelf placement and front-edge alignment",
+      "Load guidance for heavy items low down",
+      "Removal of old failed shelves if listed"
+    ],
+    "outcome": "shelves level with fixings into structure or rated plugs documented",
+    "problems": [
+      "Floating shelves sagging under books",
+      "Garage shelving missing masonry fixings",
+      "Pantry heights wrong for bulk buys",
+      "Office shelves not aligned for branding",
+      "Rental rules on drilling in built-ins"
+    ],
+    "tips": [
+      "Mark stud or block lines when known",
+      "Do not climb shelves instead of using steps",
+      "Redistribute weight if bowing appears"
+    ],
+    "title": "Shelving Installation",
+    "whenNeeded": "Install when deliveries arrive, pantries overflow, or retail needs stock shelves overnight."
+  },
+  "tv-wall-mounting": {
+    "angle": "TVs mounted level with cables tidied within reach of power and HDMI sources",
+    "benefits": [
+      "Frees floor space in compact apartments",
+      "Safer for children versus unstable stands",
+      "Cleaner look for Airbnb and hotel apartments",
+      "Can combine with smart home device setup"
+    ],
+    "includes": [
+      "VESA pattern and weight verification",
+      "Bracket fixings into structure or ply spreader",
+      "Mount assembly and lift with two-person safety",
+      "Basic cable dress to nearby outlets—not in-wall conceal unless scoped",
+      "Tilt and swivel adjustment demo"
+    ],
+    "outcome": "TV secure on rated bracket with viewing height suited to seating",
+    "problems": [
+      "Bracket underrated for large villa screens",
+      "Cables dangling across outlets",
+      "Mounting into gypsum without backing",
+      "Heat buildup behind sets in tight niches",
+      "Swivel arms hitting adjacent walls"
+    ],
+    "tips": [
+      "Confirm bracket supplied includes rated fixings",
+      "Leave ventilation gap behind TV per manual",
+      "Label HDMI ports after mounting"
+    ],
+    "title": "TV Wall Mounting",
+    "whenNeeded": "Mount after buying a new screen, rearranging living rooms, or preparing furnished rentals."
+  },
+  "wall-mounting": {
+    "angle": "secure mounting of brackets, hooks, and panels on UAE wall types",
+    "benefits": [
+      "One skill set for many rooms in one visit",
+      "Reduces cracked tiles from wrong bits",
+      "Supports accessibility grab bar mounts within scope",
+      "Prepares walls for TVs and shelves same day"
+    ],
+    "includes": [
+      "Substrate check by drill test where safe",
+      "Anchor and screw selection from kit or stock",
+      "Drilling with tile protection when needed",
+      "Level and height confirmation",
+      "Patch notes for future removal if asked"
+    ],
+    "outcome": "mounted items solid with fixings chosen for weight and substrate",
+    "problems": [
+      "Towel rails pulling out of tiled walls",
+      "Whiteboards shaking when written on",
+      "Heavy coat hooks in hollow doors",
+      "TV brackets ordered without VESA check",
+      "Art rails on partition walls flexing"
+    ],
+    "tips": [
+      "Provide weight and VESA specs before visit",
+      "Avoid mounting over unverified services",
+      "Use appropriate bits for porcelain tile"
+    ],
+    "title": "Wall Mounting",
+    "whenNeeded": "Mount when adding bathroom accessories, kitchen rails, office whiteboards, or decorative panels."
+  }
+}

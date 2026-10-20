@@ -1,7 +1,9 @@
 import { cn } from 'cn'
 import Image from 'next/image'
+import { getTranslations } from 'next-intl/server'
+import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
-import { Container } from '@/components/ui/container'
+import { contact } from '@/data/contact'
 import { getPageLink } from '@/data/links'
 
 type PageTitleProps = {
@@ -11,15 +13,24 @@ type PageTitleProps = {
   title?: string
 }
 
-const PageTitle = ({
+const PageTitle = async ({
   className,
   description,
   pathname,
   title,
 }: PageTitleProps) => {
+  const pages = await getTranslations('Pages')
+  const t = await getTranslations('PageTitle')
   const page = pathname ? getPageLink(pathname) : undefined
-  const heading = title ?? page?.title
-  const paragraph = description ?? page?.description
+  const heading = title ?? (page?.id ? pages(`${page.id}.title`) : page?.title)
+  const paragraph =
+    description ??
+    (page?.id
+      ? pages(`${page.id}.description`, {
+          address: contact.address,
+          serviceArea: contact.serviceArea,
+        })
+      : page?.description)
 
   if (!heading || !paragraph) return null
 
@@ -42,7 +53,7 @@ const PageTitle = ({
           top: `-106px`,
         }}
         src="/page-title-bg.jpg"
-        alt="Page Title Background"
+        alt={t('backgroundAlt')}
         width={2000}
         height={500}
       />

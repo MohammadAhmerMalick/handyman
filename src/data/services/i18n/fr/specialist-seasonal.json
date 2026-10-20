@@ -1,0 +1,395 @@
+{
+  "annual-maintenance-inspections": {
+    "angle": "un parcours annuel du bien, avec une feuille de route d’entretien",
+    "benefits": [
+      "Une protection du bien sur la durée",
+      "Une aide à la planification budgétaire pour les bailleurs",
+      "Un seul document à partager avec les agents"
+    ],
+    "includes": [
+      "une inspection visuelle complète, pièce par pièce",
+      "un journal photo des éléments d’usure",
+      "un classement des priorités entre sécurité et cosmétique",
+      "un calendrier de visites suggéré pour l’année suivante"
+    ],
+    "outcome": "vous recevez des suggestions d’entretien classées par priorité pour l’année à venir",
+    "problems": [
+      "des réparations au fil de l’eau qui coûtent plus cher dans la durée",
+      "des contrôles de toiture ou de balcon oubliés",
+      "des périodes de garantie qui expirent sans qu’on s’en aperçoive",
+      "aucun dossier central des réparations passées"
+    ],
+    "tips": [
+      "Conservez les anciennes factures pour repérer les tendances",
+      "Assistez à l’inspection pour poser des questions propres à chaque pièce",
+      "Mettez la liste à jour après toute rénovation"
+    ],
+    "title": "Inspections d’entretien annuelles",
+    "whenNeeded": "Réservez aux dates anniversaire d’acquisition ou aux cycles de bail, pour une planification en amont."
+  },
+  "cabinet-child-locks": {
+    "angle": "des verrous enfant sur les placards de cuisine et de salle de bains qui contiennent des objets coupants ou des produits chimiques",
+    "benefits": [
+      "Maintient les produits d’entretien et les couteaux hors d’accès",
+      "Un équilibre entre la sécurité et l’accès quotidien",
+      "Des options non destructives lorsque la location l’exige"
+    ],
+    "includes": [
+      "le choix d’un type de verrou adapté à chaque style de placard",
+      "un alignement pour que portes et tiroirs se referment nettement",
+      "une démonstration aux adultes des méthodes d’ouverture",
+      "des adhésifs ou des vis de rechange mis en sachet pour le propriétaire"
+    ],
+    "outcome": "les verrous s’enclenchent de façon régulière, et les adultes peuvent les ouvrir sans frustration",
+    "problems": [
+      "des verrous adhésifs qui lâchent dans les cuisines humides",
+      "des clés magnétiques égarées",
+      "des tiroirs qui s’ouvrent encore à cause de façades souples",
+      "des grands-parents gênés par des mécanismes complexes"
+    ],
+    "tips": [
+      "Reverrouillez les placards après chaque usage",
+      "Rangez les clés magnétiques en hauteur, toujours au même endroit",
+      "Remplacez les fixations adhésives lorsqu’elles se desserrent"
+    ],
+    "title": "Verrous enfant pour placards",
+    "whenNeeded": "Organisez la pose lorsque des enfants qui rampent ou qui marchent explorent les meubles bas."
+  },
+  "child-safety-gate-installation": {
+    "angle": "des barrières à pression et à visserie, aux escaliers et aux passages de porte",
+    "benefits": [
+      "Un usage des escaliers plus sûr, sans dégât permanent lorsque les fixations vissées sont utilisées correctement",
+      "Le bon type de barrière pour le haut ou le bas de l’escalier",
+      "Des conseils sur le moment de retirer les barrières à mesure que les enfants grandissent"
+    ],
+    "includes": [
+      "l’évaluation sur place des surfaces de fixation",
+      "une pose par visserie ou par pression, selon les consignes du produit",
+      "l’essai de la hauteur du loquet pour les adultes qui gardent l’enfant",
+      "des patins de protection des finitions lorsque c’est nécessaire"
+    ],
+    "outcome": "les barrières pivotent ou se verrouillent de façon fiable, et la fixation protège les murs ou les garde-corps",
+    "problems": [
+      "des barrières à pression qui lâchent sur une cloison sèche creuse",
+      "un jeu en partie basse qui dépasse les limites sûres",
+      "des barrières en haut d’escalier mal posées",
+      "un conflit avec les plinthes, qui empêche un appui bien plaqué"
+    ],
+    "tips": [
+      "Resserrez les fixations à pression après la première semaine",
+      "N’enjambez jamais les barrières vous-même",
+      "Retirez les obstacles près des zones de débattement de la barrière"
+    ],
+    "title": "Installation de barrière de sécurité enfant",
+    "whenNeeded": "Réservez la pose lorsque les tout-petits commencent à se déplacer seuls dans le logement."
+  },
+  "draught-proofing": {
+    "angle": "des joints et des profilés pour réduire l’entrée de poussière et les pertes de climatisation autour des portes et des fenêtres",
+    "benefits": [
+      "Des pièces plus confortables par temps poussiéreux",
+      "Une amélioration simple avant un remplacement complet des fenêtres",
+      "Des gains rapides pour les villas et les appartements plus anciens"
+    ],
+    "includes": [
+      "la mesure des jeux aux ouvertures concernées",
+      "la pose de joints brosse, mousse ou silicone selon le cas",
+      "la pose d’un bas de porte lorsque les seuils le permettent",
+      "un contrôle pour que les portes s’enclenchent encore"
+    ],
+    "outcome": "les jeux sont mesurés et calfeutrés avec des profilés adaptés, sans bloquer les portes",
+    "problems": [
+      "de la lumière visible sous les portes d’appartement",
+      "des portes de balcon qui sifflent dans le vent",
+      "Une climatisation qui tourne en surrégime l’été",
+      "d’anciens joints en mousse qui s’effritent"
+    ],
+    "tips": [
+      "Nettoyez les rails avant de poser les joints adhésifs",
+      "Remplacez chaque année la mousse écrasée exposée au soleil fort",
+      "Combinez le calfeutrage avec l’entretien de la climatisation pour un meilleur effet"
+    ],
+    "title": "Calfeutrage des courants d’air",
+    "whenNeeded": "Réservez la pose lorsque le sable entre sous les portes, ou que le coût de climatisation monte à cause de dormants peu étanches."
+  },
+  "furniture-anchoring": {
+    "angle": "l’ancrage anti-basculement des armoires, étagères et commodes dans les logements familiaux",
+    "benefits": [
+      "Réduit les basculements pendant les périodes où les enfants grimpent",
+      "Des méthodes réversibles, adaptées à de nombreux baux",
+      "Complète la sécurité de la fixation des téléviseurs"
+    ],
+    "includes": [
+      "le repérage des montants ou des points d’appui pleins",
+      "la pose de sangles ou d’équerres selon la notice du kit",
+      "le repositionnement du meuble avec un jeu pour la circulation d’air",
+      "un relevé photo pour pouvoir remettre en état en location"
+    ],
+    "outcome": "les ancrages relient les meubles aux murs par des sangles ou des équerres dimensionnées pour la charge",
+    "problems": [
+      "de lourdes armoires simplement posées sur la moquette",
+      "Des meubles TV avec des tout-petits qui grimpent à proximité",
+      "des kits anti-basculement absents des cartons en kit",
+      "des bailleurs qui exigent des fixations réversibles"
+    ],
+    "tips": [
+      "Ne surchargez pas les étagères du haut",
+      "Réancrez le meuble après l’avoir déplacé",
+      "Apprenez aux enfants à ne pas escalader les tiroirs"
+    ],
+    "title": "Ancrage de meubles",
+    "whenNeeded": "Faites appel à ce service lorsque des meubles hauts risquent de basculer dans les pièces où il y a des enfants."
+  },
+  "grab-bar-installation": {
+    "angle": "des barres d’appui à charge nominale, posées dans les douches, les baignoires et les toilettes",
+    "benefits": [
+      "Des ancrages adaptés qui réduisent le risque d’arrachement",
+      "Un placement qui respecte les calepinages de carrelage et les niches",
+      "Compatible avec un futur siège de douche"
+    ],
+    "includes": [
+      "le marquage de l’implantation, avec des essais de posture de l’utilisateur",
+      "un perçage adapté au carrelage, avec maîtrise de la poussière",
+      "des ancrages structurels ou des plaques de renfort selon les besoins",
+      "un joint silicone aux traversées"
+    ],
+    "outcome": "les barres sont de niveau, ancrées à la structure lorsque c’est possible, et étanchées contre l’humidité",
+    "problems": [
+      "des utilisateurs qui se tiennent à des étagères en verre instables",
+      "des barres fixées dans du carrelage creux, sans les chevilles adaptées",
+      "un diamètre inadapté aux prises en cas d’arthrite",
+      "des barres placées loin des commandes de douche"
+    ],
+    "tips": [
+      "N’utilisez les barres que pour leur charge nominale",
+      "Évitez d’accrocher de lourdes serviettes mouillées aux barres d’appui",
+      "Resserrez les fixations si des fissures de joint apparaissent"
+    ],
+    "title": "Installation de barre d’appui",
+    "whenNeeded": "Organisez la pose lorsque la salle de bains a besoin de prises fiables, au-delà des barres porte-serviettes décoratives."
+  },
+  "handrail-installation": {
+    "angle": "des mains courantes sur les escaliers, les rampes et les couloirs, pour un appui stable",
+    "benefits": [
+      "Un appui continu sur les escaliers intérieurs de villa",
+      "Un espacement des supports adapté à la charge quotidienne",
+      "Des finitions nettes dans les couloirs visibles"
+    ],
+    "includes": [
+      "la mesure de la pente et de la taille de l’utilisateur",
+      "la fixation des supports dans les montants ou avec des chevilles adaptées",
+      "les embouts et les retours selon l’implantation",
+      "les contrôles d’alignement sur toute la volée"
+    ],
+    "outcome": "les mains courantes courent en continu, avec des supports solides et des abouts confortables",
+    "problems": [
+      "des retours d’extrémité absents, qui accrochent les vêtements",
+      "des mains courantes qui s’arrêtent avant les marches haute et basse",
+      "des supports desserrés après l’usage quotidien",
+      "un appui de mur incertain sur plaque de plâtre"
+    ],
+    "tips": [
+      "Laissez les escaliers dégagés pendant la prise de la colle ou du mastic",
+      "Essuyez-vous les mains avant de toucher une peinture fraîche à proximité",
+      "Inspectez les supports après des week-ends avec beaucoup d’invités"
+    ],
+    "title": "Installation de main courante",
+    "whenNeeded": "Faites appel à ce service lorsque les marches semblent peu sûres pour des résidents âgés, ou après de légères modifications d’escalier."
+  },
+  "holiday-home-preparation": {
+    "angle": "des contrôles et une mise en place avant l’arrivée, pour les biens de courte durée et de vacances",
+    "benefits": [
+      "De meilleurs avis d’invités pour les locations de courte durée",
+      "La tranquillité du propriétaire à distance",
+      "Se combine avec la pose de meubles et de rideaux"
+    ],
+    "includes": [
+      "un parcours du logement du point de vue de l’invité",
+      "des essais de base des portes, des éclairages et des pièces d’eau",
+      "une coordination avec le ménage s’il est prévu",
+      "de petites réparations issues de la liste de réserves qui en découle"
+    ],
+    "outcome": "le bien paraît frais, les installations de base fonctionnent, et les attentions d’accueil sont prêtes",
+    "problems": [
+      "un air confiné dans des villas restées fermées",
+      "une flaque d’eau sous des unités de climatisation restées à l’arrêt",
+      "des piles de télécommande à plat",
+      "des essentiels pour les invités absents des salles de bains"
+    ],
+    "tips": [
+      "Partagez les codes d’alarme et de portail de façon sécurisée",
+      "Stockez des ampoules et des piles de rechange sur place",
+      "Calez la visite sur les livraisons de linge"
+    ],
+    "title": "Préparation de résidence de vacances",
+    "whenNeeded": "Organisez la visite avant l’arrivée des propriétaires ou des invités, après une longue absence."
+  },
+  "home-accessibility-fixture-installation": {
+    "angle": "la pose d’aides à l’accessibilité simples, comme les barres, les mains courantes et les poignées béquille",
+    "benefits": [
+      "Des déplacements quotidiens plus sûrs dans un logement familier",
+      "Des fixations choisies pour les types de murs courants aux Émirats",
+      "Une planification respectueuse, en présence des membres de la famille"
+    ],
+    "includes": [
+      "une discussion sur place de la portée de l’utilisateur et des parcours de transfert",
+      "la pose des barres d’appui et des mains courantes fournies",
+      "le remplacement des boutons par des poignées béquille si convenu",
+      "des indications de charge selon les étiquettes du fabricant"
+    ],
+    "outcome": "les équipements sont ancrés de façon adaptée, et les emplacements conviennent à la portée de l’utilisateur et aux parcours de transfert",
+    "problems": [
+      "des barres porte-serviettes ordinaires utilisées à la place de barres à charge nominale",
+      "des couloirs étroits qui empêchent les demi-tours avec un déambulateur",
+      "des hauteurs inadaptées aux utilisateurs assis",
+      "des sols glissants sans emplacements de prise prévus"
+    ],
+    "tips": [
+      "Confirmez l’avis médical sur le placement lorsqu’il est disponible",
+      "Gardez les barres dégagées des rideaux de douche qui s’emmêlent",
+      "Testez les fixations de temps en temps après un usage intensif"
+    ],
+    "title": "Installation d’équipements d’accessibilité",
+    "whenNeeded": "Réservez la pose lorsque les besoins de mobilité changent, ou après une sortie d’hôpital qui exige une salle de bains plus sûre."
+  },
+  "home-maintenance-plans": {
+    "angle": "un rythme de visites convenu, qui couvre les tâches récurrentes de Handyman",
+    "benefits": [
+      "Moins de dépenses d’urgence",
+      "Un calendrier prévisible pour les locataires et le personnel",
+      "Adaptable lorsque les besoins de la famille évoluent"
+    ],
+    "includes": [
+      "un projet de calendrier d’entretien, avec les apports du propriétaire",
+      "des tâches regroupées à chaque visite pour limiter le coût",
+      "une réunion de revue après le premier cycle",
+      "l’ajustement du plan à mesure que le bien vieillit"
+    ],
+    "outcome": "le plan liste les tâches programmées, les responsables et les dates de revue",
+    "problems": [
+      "des rappels qui se chevauchent pour les filtres, les joints et la quincaillerie",
+      "différents corps de métier qui doublonnent les visites",
+      "des absences en vacances qui laissent passer des réserves évidentes",
+      "une incertitude sur ce que gèrent le bailleur et le locataire"
+    ],
+    "tips": [
+      "Revoyez le plan après des rénovations importantes",
+      "Partagez le plan avec la gestion de l’immeuble lorsque c’est utile",
+      "Conservez des copies numériques pour l’assurance"
+    ],
+    "title": "Plans d’entretien du logement",
+    "whenNeeded": "Mettez un plan en place lorsque des propriétaires très pris veulent répartir l’entretien sur l’année."
+  },
+  "insulation-inspection": {
+    "angle": "des contrôles visuels de l’isolation accessible et des ponts thermiques, sans enquête invasive",
+    "benefits": [
+      "Clarifie le moment où des équipes d’isolation spécialisées sont nécessaires",
+      "Documente les points pour l’entretien du bailleur",
+      "Non invasive, et adaptée aux logements occupés"
+    ],
+    "complianceNote": "Les rapports complets de thermographie et la pose certifiée d’isolation sont fournis par des diagnostiqueurs énergétiques spécialisés, et ne sont pas inclus ici.",
+    "includes": [
+      "des contrôles visuels de combles ou de trappe de plafond lorsqu’un accès sûr existe",
+      "le relevé des panneaux d’isolation manquants ou comprimés",
+      "des photos des ponts thermiques évidents au niveau des trappes",
+      "une orientation vers des entreprises d’isolation certifiées"
+    ],
+    "outcome": "vous recevez des notes sur les vides visibles, l’isolation abîmée et les prochaines étapes pratiques",
+    "problems": [
+      "des plafonds chauds sous des toitures mal isolées",
+      "Des liaisons de climatisation qui condensent faute de calorifuge sur les tuyaux",
+      "des dalles de plafond retirées et jamais reposées",
+      "des réserves qui surchauffent et réchauffent les chambres voisines"
+    ],
+    "tips": [
+      "Ne dérangez pas les matériaux suspects d’amiante",
+      "Portez un masque si de la poussière est présente dans les trappes",
+      "Refermez les couvercles de trappe après l’inspection"
+    ],
+    "title": "Inspection de l’isolation",
+    "whenNeeded": "Organisez une visite lorsque des pièces se refroidissent de façon inégale, ou que des points chauds apparaissent après des travaux de toiture."
+  },
+  "minor-storm-damage-repairs": {
+    "angle": "des retouches après un épisode de vent ou de pluie, dans le périmètre de Handyman",
+    "benefits": [
+      "Une stabilisation rapide avant d’autres intempéries",
+      "Des photos utiles à l’assurance lorsque c’est nécessaire",
+      "Se combine avec les plans d’entretien saisonnier"
+    ],
+    "includes": [
+      "la sécurisation des éléments desserrés qui présentent un risque immédiat",
+      "la refixation mineure de panneaux, de couvre-joints et d’accessoires",
+      "le dégagement des parcours d’évacuation accessibles",
+      "une documentation pour l’assureur ou le suivi de l’immeuble"
+    ],
+    "outcome": "les dangers immédiats sont sécurisés, et les réparations cosmétiques sont planifiées de façon adaptée",
+    "problems": [
+      "des panneaux de clôture desserrés après des rafales",
+      "des entrées d’eau aux seuils des portes de balcon",
+      "de la signalétique ou des caches de luminaires déplacés",
+      "des évacuations de balcon bouchées après une forte pluie"
+    ],
+    "tips": [
+      "Photographiez les dégâts avant les réparations temporaires",
+      "Ne grimpez pas sur des structures abîmées sans évaluation",
+      "Dégagez les évacuations régulièrement pendant les saisons pluvieuses"
+    ],
+    "title": "Réparations mineures après intempéries",
+    "whenNeeded": "Faites appel à ce service après un temps inhabituel, lorsque clôtures, portes ou façades montrent des dégâts mineurs."
+  },
+  "minor-water-damage-repairs": {
+    "angle": "une aide au séchage, le traitement des taches et la réparation légère de panneaux après de petites fuites",
+    "benefits": [
+      "Empêche un dégât cosmétique de devenir structurel",
+      "Un périmètre clair une fois que le plombier a arrêté les fuites actives",
+      "Prépare les surfaces pour la remise en peinture"
+    ],
+    "includes": [
+      "l’évaluation de l’humidité avec des humidimètres lorsqu’ils sont disponibles",
+      "le retrait des matériaux non adhérents et un traitement anti-moisissure",
+      "le rebouchage et la préparation prête à peindre",
+      "un avis si des spécialistes du séchage structurel sont nécessaires"
+    ],
+    "outcome": "les finitions touchées sont stables, les taches sont traitées lorsque c’est possible, et le risque de moisissure est réduit",
+    "problems": [
+      "des auréoles jaunes au plafond après un débordement de climatisation",
+      "des plinthes gonflées après de courtes fuites de plomberie",
+      "de la peinture qui cloque près des cabines de douche",
+      "des placards qui sentent le renfermé sous les éviers"
+    ],
+    "tips": [
+      "Réparez les fuites actives avant les travaux cosmétiques",
+      "Ventilez et déshumidifiez pendant le séchage",
+      "Jetez les matériaux poreux restés mouillés trop longtemps"
+    ],
+    "title": "Réparations mineures après dégât des eaux",
+    "whenNeeded": "Appelez une fois la source de la fuite réparée, lorsque les zones ont besoin d’une remise en état cosmétique."
+  },
+  "seasonal-home-maintenance": {
+    "angle": "des contrôles deux fois par an, calés sur la chaleur, l’humidité et la poussière aux Émirats",
+    "benefits": [
+      "Un rythme d’entretien prévisible",
+      "Repère les petits points avant les pics météo",
+      "Une documentation pour les résidences de vacances et les locations"
+    ],
+    "includes": [
+      "une liste saisonnière adaptée au type de bien",
+      "de petits réglages et une lubrification pendant la visite",
+      "des contrôles visuels des filtres et des bouches, avec des orientations",
+      "une liste de rappels pour le propriétaire en vue de la saison suivante"
+    ],
+    "outcome": "le logement reçoit une liste saisonnière, avec les points réalisés et des rappels",
+    "problems": [
+      "Une climatisation qui peine avant l’été, faute de préparation",
+      "des portes qui gonflent avec l’humidité",
+      "des tempêtes de poussière qui encrassent les rails",
+      "de la quincaillerie extérieure qui se corrode sans qu’on s’en aperçoive"
+    ],
+    "tips": [
+      "Réservez tôt, avant la ruée de l’été",
+      "Gardez des brosses de rail de rechange pour les portes coulissantes",
+      "Notez les projections d’arrosage sur les vitrages au fil des saisons"
+    ],
+    "title": "Entretien saisonnier du logement",
+    "whenNeeded": "Planifiez la visite avant les pics de refroidissement de l’été, et après les périodes hivernales humides."
+  }
+}

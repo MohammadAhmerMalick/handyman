@@ -2,8 +2,9 @@
 
 import { Search, Wrench } from 'lucide-react'
 import Image from 'next/image'
-import Link from 'next/link'
+import { useTranslations } from 'next-intl'
 import { useDeferredValue, useMemo, useState } from 'react'
+import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
 import { Button } from '@/components/ui/button'
 import {
@@ -13,7 +14,6 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from '@/components/ui/carousel'
-import { Container } from '@/components/ui/container'
 import { Input } from '@/components/ui/input'
 import {
   catalogByCategory,
@@ -21,6 +21,7 @@ import {
   type ServiceCategoryId,
 } from '@/data/services'
 import { categoryImageSrc } from '@/data/services/images'
+import { Link } from '@/i18n/navigation'
 
 type CategoryCardData = {
   description: string
@@ -31,31 +32,21 @@ type CategoryCardData = {
   title: string
 }
 
-const categoryCards: CategoryCardData[] = catalogByCategory.map(
-  ({ category, services }) => ({
-    description: category.description,
-    href: categoryHref(category.slug),
-    id: category.id,
-    imageSrc: categoryImageSrc(category.id),
-    serviceCount: services.length,
-    title: category.title,
-  })
-)
-
 type CategoryCardProps = {
   category: CategoryCardData
 }
 
 const CategoryCard = ({ category }: CategoryCardProps) => {
-  const countLabel =
-    category.serviceCount === 1
-      ? `${category.title} Service`
-      : `${category.serviceCount} ${category.title} Services`
+  const t = useTranslations('Categories')
+  const countLabel = t('serviceCount', {
+    count: category.serviceCount,
+    title: category.title,
+  })
 
   return (
     <article className="group flex h-full flex-col overflow-hidden rounded-2xl border border-border shadow-md shadow-muted backdrop-blur-xs">
       <Link
-        aria-label={`View ${category.title} services`}
+        aria-label={t('viewAria', { title: category.title })}
         className="relative block aspect-16/10 overflow-hidden bg-muted"
         href={category.href}
       >
@@ -63,7 +54,7 @@ const CategoryCard = ({ category }: CategoryCardProps) => {
           width={400}
           height={220}
           src={category.imageSrc}
-          alt={`${category.title} category image`}
+          alt={t('imageAlt', { title: category.title })}
           sizes="(max-width: 768px) 90vw, (max-width: 1200px) 45vw, 30vw"
           className="size-full object-cover transition-transform duration-300 group-hover:scale-[1.03]"
         />
@@ -94,7 +85,7 @@ const CategoryCard = ({ category }: CategoryCardProps) => {
           render={<Link href={category.href} />}
           className="mt-auto w-full"
         >
-          View services
+          {t('viewServices')}
         </Button>
       </div>
     </article>
@@ -102,8 +93,21 @@ const CategoryCard = ({ category }: CategoryCardProps) => {
 }
 
 const ServiceCategorySlider = () => {
+  const t = useTranslations('Categories')
+  const categories = useTranslations('ServiceCategories')
   const [query, setQuery] = useState('')
   const deferredQuery = useDeferredValue(query)
+
+  const categoryCards: CategoryCardData[] = useMemo(() => {
+    return catalogByCategory.map(({ category, services }) => ({
+      description: categories(`${category.id}.description`),
+      href: categoryHref(category.slug),
+      id: category.id,
+      imageSrc: categoryImageSrc(category.id),
+      serviceCount: services.length,
+      title: categories(`${category.id}.title`),
+    }))
+  }, [categories])
 
   const filteredCategories = useMemo(() => {
     const normalizedQuery = deferredQuery.trim().toLowerCase()
@@ -115,14 +119,14 @@ const ServiceCategorySlider = () => {
         category.description.toLowerCase().includes(normalizedQuery)
       )
     })
-  }, [deferredQuery])
+  }, [categoryCards, deferredQuery])
 
   return (
     <Container className="space-y-8">
       <Heading
-        heading="Browse by category"
+        heading={t('heading')}
         layout="left"
-        paragraph="Explore our maintenance and trade categories, then open the full service list for that area of work."
+        paragraph={t('paragraph')}
       />
 
       <Carousel
@@ -133,23 +137,23 @@ const ServiceCategorySlider = () => {
         <div className="mb-4 flex items-center gap-3">
           <div className="relative min-w-0 flex-1 sm:max-w-80">
             <label className="sr-only" htmlFor="category-slider-search">
-              Search categories
+              {t('searchLabel')}
             </label>
             <Search
               aria-hidden
-              className="pointer-events-none absolute top-1/2 left-3 size-4 -translate-y-1/2"
+              className="pointer-events-none absolute inset-s-3 top-1/2 size-4 -translate-y-1/2"
             />
             <Input
-              className="h-10 rounded-3xl border-border bg-background pl-9"
+              className="h-10 rounded-3xl border-border bg-background ps-9"
               id="category-slider-search"
               onChange={(event) => setQuery(event.target.value)}
-              placeholder="Search categories..."
+              placeholder={t('searchPlaceholder')}
               type="search"
               value={query}
             />
           </div>
 
-          <div className="ml-auto flex shrink-0 items-center gap-2">
+          <div className="ms-auto flex shrink-0 items-center gap-2">
             <CarouselPrevious
               className="translate-none static size-9 rounded-2xl disabled:opacity-40"
               size="icon"
@@ -163,13 +167,13 @@ const ServiceCategorySlider = () => {
 
         {filteredCategories.length === 0 ? (
           <p className="rounded-2xl border border-border bg-background px-5 py-10 text-center text-muted-foreground">
-            No categories match your search. Try another term.
+            {t('empty')}
           </p>
         ) : (
-          <CarouselContent className="-ml-6">
+          <CarouselContent className="-ms-6">
             {filteredCategories.map((category) => (
               <CarouselItem
-                className="basis-full py-2 pl-6 sm:basis-1/2 lg:basis-1/3 xl:basis-1/4"
+                className="basis-full py-2 ps-6 sm:basis-1/2 lg:basis-1/3 xl:basis-1/4"
                 key={category.id}
               >
                 <CategoryCard category={category} />

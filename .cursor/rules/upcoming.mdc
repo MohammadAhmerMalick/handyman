@@ -5,19 +5,19 @@ alwaysApply: true
 
 # Upcoming (do not build)
 
-- Arabic + RTL
 - Real logo file beyond the in-app wordmark (favicon is generated from `public/icon.svg`)
 - Icon library + social icons and real profile URLs
 - Trade license / legal company name
 - Real Privacy / Terms copy (dummy pages are in scope)
-- Real Google Maps embed for Marina, Dubai
 - Real about / trust / testimonial copy and photos
-- Quote CTA, banner, popup, and quote form section
+- Quote CTA, banner, popup, and quote form section (Get Quote → WhatsApp is enough for now)
 - Contact form backend
 - 24h / emergency offering (not advertised now)
-- SEO research + recommended title/description, then meta tags
-- Google Analytics
-- Meta Pixel
 - Move off Vercel to Contabo with Docker and database services
+
+## In progress (see `TASKS.md`)
+
+- SEO research titles/descriptions
+- Analytics IDs in Vercel env (GA4 + Meta Pixel scripts are env-gated)
 
 When the contact form is wired: keep Call + WhatsApp (`https://wa.me/971545149849`) as primary CTAs; prefer Next.js server action + Resend (or Web3Forms for zero setup). UI-only form until then.

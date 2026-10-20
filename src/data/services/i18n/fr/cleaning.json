@@ -1,0 +1,282 @@
+{
+  "bathroom-deep-cleaning": {
+    "angle": "un nettoyage centré sur l’hygiène des salles de bains et des salles d’eau",
+    "benefits": [
+      "Des salles de bains plus fraîches dans les zones d’eau calcaire",
+      "Met en évidence les joints qui demandent un entretien, pas seulement un nettoyage",
+      "Des sols antidérapants plus sûrs une fois bien séchés"
+    ],
+    "includes": [
+      "le détartrage du verre et du chrome avec des produits adaptés",
+      "le traitement de surface du carrelage et des joints",
+      "l’assainissement des appareils sanitaires",
+      "l’essuyage de l’extérieur de l’extracteur lorsqu’il est accessible"
+    ],
+    "outcome": "le carrelage, les équipements et le verre sont détartrés et assainis, avec une ventilation maintenue",
+    "problems": [
+      "du calcaire sur le verre de douche",
+      "de la moisissure le long des joints de silicone",
+      "des évacuations de douche bouchées qui ralentissent l’écoulement",
+      "des équipements ternis par l’eau calcaire"
+    ],
+    "tips": [
+      "Passez la raclette après la douche pour limiter le calcaire",
+      "Aérez pendant et après le nettoyage",
+      "Signalez un silicone défaillant plutôt que de le masquer avec des produits"
+    ],
+    "title": "Nettoyage en profondeur de salle de bains",
+    "whenNeeded": "Réservez avant un séjour d’invités, ou après un entretien qui a dérangé joints et carrelage."
+  },
+  "glass-surface-cleaning": {
+    "angle": "le nettoyage des miroirs, des parois de douche et des cloisons vitrées",
+    "benefits": [
+      "Des méthodes sûres qui protègent traitements et teintes",
+      "Des cloisons de bureau présentables pour les clients",
+      "Met en évidence les cas où il faut remplacer, pas seulement nettoyer"
+    ],
+    "includes": [
+      "un nettoyage sans traces avec des produits non abrasifs",
+      "le retrait du film lorsque c’est compatible avec les traitements de surface",
+      "l’essuyage des bords et des zones de fixation",
+      "le repérage des éclats qui exigent un vitrier en suivi"
+    ],
+    "outcome": "les surfaces vitrées sont nettes, sans traces ni dégât d’abrasif",
+    "problems": [
+      "des résidus de film de protection sur des parois de douche neuves",
+      "une corrosion des bords de miroir due à des nettoyants à l’ammoniaque",
+      "des traces de doigts sur les cloisons de bureau, à hauteur de poignée",
+      "des rayures dues à des lames de rasoir mal utilisées"
+    ],
+    "tips": [
+      "N’utilisez jamais de tampons abrasifs sur le verre traité",
+      "Aérez lorsque vous utilisez des nettoyants à base d’alcool",
+      "Resserrez les fixations desserrées avant d’appuyer fort au nettoyage"
+    ],
+    "title": "Nettoyage des surfaces vitrées",
+    "whenNeeded": "Faites appel à nous après des poses ou des rénovations qui laissent des marques de chantier."
+  },
+  "kitchen-deep-cleaning": {
+    "angle": "un dégraissage ciblé des cuisines après un usage intensif ou des travaux",
+    "benefits": [
+      "Un meilleur tirage de la hotte après nettoyage de l’extérieur des filtres",
+      "Un cadre de cuisine plus agréable pour les familles",
+      "Prépare les cuisines aux photos de location"
+    ],
+    "includes": [
+      "le dégraissage de la plaque, de la crédence et de l’extérieur de la hotte",
+      "le nettoyage des façades de meuble et des poignées",
+      "le détartrage de l’évier et des robinets, dans les limites du produit",
+      "le dégraissage du sol aux zones de cuisson"
+    ],
+    "outcome": "les zones grasses sont traitées, les surfaces sont assainies et l’extérieur des appareils brille",
+    "problems": [
+      "des résidus collants au-dessus des plaques",
+      "des filtres de hotte qui gouttent lorsque l’extraction tourne",
+      "des poignées de meuble noircies par les huiles",
+      "des joints décolorés derrière les poubelles"
+    ],
+    "tips": [
+      "Faites tourner la hotte en cuisinant pour limiter l’accumulation",
+      "Essuyez les projections le jour même pour réduire les taches",
+      "Vérifiez les conditions de garantie avant de déposer un panneau"
+    ],
+    "title": "Nettoyage en profondeur de cuisine",
+    "whenNeeded": "Faites appel à nous lorsque la graisse de hotte, le pourtour des plaques ou les meubles demandent plus qu’un entretien courant."
+  },
+  "post-clean-pressure-washing": {
+    "angle": "un lavage à faible pression en appui, après entretien ou pour les terrasses encrassées en profondeur",
+    "benefits": [
+      "Complète le nettoyage après rénovation à l’extérieur",
+      "Des choix de pression plus sûrs que les machines de location en bricolage",
+      "Des limites claires qui protègent les finitions délicates"
+    ],
+    "includes": [
+      "un lavage basse pression sur les surfaces tolérantes convenues",
+      "la planification du mouillage et du rinçage pour les plantations voisines",
+      "le traitement localisé des zones tenaces",
+      "des notes d’orientation lorsque des équipes spécialisées de façade sont nécessaires"
+    ],
+    "outcome": "les surfaces dures accessibles paraissent rafraîchies, sans dégât d’une pression excessive",
+    "problems": [
+      "de la saleté incrustée sur les allées d’entrée de villa",
+      "des plaques d’algues glissantes près des plages de piscine",
+      "des taches après de petites réparations extérieures",
+      "une incertitude sur la pression sûre pour une pierre tendre"
+    ],
+    "tips": [
+      "Essayez d’abord une petite zone cachée",
+      "Gardez les prises électriques couvertes et sèches",
+      "Associez-le à l’entretien extérieur pour l’ensemble du jardin"
+    ],
+    "title": "Lavage à pression après nettoyage",
+    "whenNeeded": "Réservez-le pour les carrelages et les allées de plain-pied lorsque le brossage manuel ne suffit pas, et non comme travail principal de façade."
+  },
+  "post-maintenance-cleaning": {
+    "angle": "le nettoyage après le passage de l’homme à tout faire, pour retirer poussière et débris",
+    "benefits": [
+      "Un retour confortable dans les lieux après des travaux le jour même",
+      "Moins de poussière en circulation dans les reprises de climatisation",
+      "S’associe naturellement aux visites d’installation"
+    ],
+    "includes": [
+      "l’aspiration HEPA des sols et des rebords souples",
+      "l’essuyage humide des surfaces dures et des appuis",
+      "le nettoyage localisé du verre touché pendant les poses",
+      "l’ensachage des petites chutes lorsque c’est convenu"
+    ],
+    "outcome": "les pièces sont aspirées, essuyées et prêtes à l’usage, sans poussière de chantier",
+    "problems": [
+      "de la poussière fine sur les plinthes après perçage",
+      "des résidus de colle près des fixations",
+      "des traces sur le verre des panneaux touchés",
+      "des débris dans les rails de balcon"
+    ],
+    "tips": [
+      "Couvrez les bouches de climatisation pendant un perçage proche, lorsque c’est possible",
+      "Aérez pendant que les surfaces essuyées sèchent",
+      "Planifiez le nettoyage après les temps de séchage de la peinture"
+    ],
+    "title": "Nettoyage après entretien",
+    "whenNeeded": "Réservez lorsque des réparations ou des poses laissent une poussière fine sur les sols et les surfaces."
+  },
+  "post-renovation-cleaning": {
+    "angle": "un nettoyage soigné après décoration ou légère remise en état",
+    "benefits": [
+      "Une finition prête à la commercialisation pour les locations",
+      "Un air plus sain après des travaux poussiéreux",
+      "Met en évidence les réserves de peinture oubliées"
+    ],
+    "includes": [
+      "le dépoussiérage de haut en bas, luminaires compris",
+      "le détaillage du carrelage et des appareils sanitaires",
+      "l’intérieur des rails et des cadres de fenêtre",
+      "le lavage de sol adapté au type de matériau"
+    ],
+    "outcome": "les surfaces sont sans poussière, les équipements brillent et les sols sont prêts pour les meubles",
+    "problems": [
+      "de la poussière crayeuse de peinture sur les interrupteurs après une remise en peinture",
+      "des traces de silicone sur le carrelage",
+      "de la poussière de plâtre dans les caissons de dressing",
+      "des résidus de ruban de masquage sur le verre"
+    ],
+    "tips": [
+      "Confirmez les temps de séchage avant de laver une peinture neuve",
+      "Ouvrez les fenêtres pendant l’usage des produits, lorsque c’est sans risque",
+      "Contrôlez sous plusieurs angles de lumière pour la poussière oubliée"
+    ],
+    "title": "Nettoyage après rénovation",
+    "whenNeeded": "Organisez-le lorsque la peinture et le silicone ont pris, et que les pièces doivent atteindre un niveau de propreté d’emménagement."
+  },
+  "sealant-and-grout-maintenance": {
+    "angle": "le nettoyage, les petites reprises de joint et les retouches de silicone dans les pièces d’eau",
+    "benefits": [
+      "Arrête tôt les dégâts d’eau cachés",
+      "Un aspect plus frais pour les photos de location",
+      "S’associe au nettoyage en profondeur pour le meilleur résultat"
+    ],
+    "includes": [
+      "le retrait du silicone décollé sur les longueurs convenues",
+      "l’application d’un silicone anti-moisissure dans les zones humides",
+      "un petit remplissage de joint là où les carreaux restent solidaires",
+      "l’indication des temps de prise et un conseil d’aération"
+    ],
+    "outcome": "les cordons sont continus, les joints sont stables, et les occupants connaissent les temps de prise avant un usage intensif",
+    "problems": [
+      "du silicone noirci au pied des douches",
+      "des joints fissurés qui laissent l’eau gagner les murs",
+      "un joint manquant au rebord des baignoires",
+      "des plaintes de locataires à propos d’odeurs de renfermé"
+    ],
+    "tips": [
+      "Ne prenez pas de douche sur un silicone frais pendant les heures convenues",
+      "Faites tourner les extracteurs pendant la prise",
+      "Signalez les carreaux desserrés avant de masquer un dégât par un joint"
+    ],
+    "title": "Entretien des joints et du silicone",
+    "whenNeeded": "Faites appel à nous lorsqu’un silicone taché de moisissure ou un joint fissuré laisse l’eau passer derrière le carrelage."
+  },
+  "tile-and-grout-cleaning": {
+    "angle": "un nettoyage mécanique et chimique des surfaces carrelées et des lignes de joint",
+    "benefits": [
+      "Redonne l’aspect sans recarreler",
+      "Identifie les joints à réparer, plutôt qu’à seulement javelliser",
+      "Des méthodes plus sûres que les acides de bricolage trop agressifs"
+    ],
+    "includes": [
+      "l’application de nettoyants adaptés au carrelage",
+      "l’agitation des joints avec les outils appropriés",
+      "la planification du rinçage et du séchage pour éviter les glissades",
+      "un conseil sur des produits neutres pour la suite"
+    ],
+    "outcome": "les joints sont plus clairs et le carrelage a un éclat régulier, sans abîmer les émaux",
+    "problems": [
+      "des joints noircis au droit des plinthes de meuble de cuisine",
+      "un voile de savon sur le carrelage de salle de bains",
+      "des marques tenaces dans les entrées",
+      "de mauvais produits qui attaquent le carrelage imitation pierre"
+    ],
+    "tips": [
+      "Utilisez des tapis d’entrée pour réduire l’abrasion du sable",
+      "Évitez la cire sur le carrelage mat, sauf indication contraire",
+      "Réparez les joints fissurés avant un nettoyage appuyé"
+    ],
+    "title": "Nettoyage de carrelage et de joints",
+    "whenNeeded": "Organisez-le lorsque les sols paraissent ternes malgré un lavage régulier."
+  },
+  "vent-cover-cleaning": {
+    "angle": "la dépose et le nettoyage des caches et grilles de ventilation accessibles",
+    "benefits": [
+      "Améliore le débit d’air perçu et la propreté",
+      "Montre quand un nettoyage complet des gaines de climatisation est un service à part",
+      "Une manipulation douce qui évite les dégâts visibles"
+    ],
+    "includes": [
+      "la dépose en sécurité des grilles accessibles",
+      "le lavage et le séchage des grilles en plastique ou en métal",
+      "l’aspiration des seules embouchures de gaine accessibles",
+      "la repose alignée sur les lignes du plafond"
+    ],
+    "outcome": "les grilles sont lavées, séchées et reposées, sans ailettes tordues",
+    "problems": [
+      "des auréoles de poussière grise autour des diffuseurs de plafond",
+      "de la graisse de cuisson sur les grilles de cuisine",
+      "des lamelles tordues par une dépose brutale en bricolage",
+      "un débit d’air de climatisation qui semble faible malgré un entretien"
+    ],
+    "tips": [
+      "Coupez les ventilateurs avant la dépose, lorsque c’est sans risque",
+      "Notez la longueur et l’emplacement des vis pour la repose",
+      "Planifiez à part l’entretien des filtres de climatisation si besoin"
+    ],
+    "title": "Nettoyage des grilles de ventilation",
+    "whenNeeded": "Organisez-le lorsque la poussière accumulée gêne le débit d’air ou marque les plafonds."
+  },
+  "window-cleaning": {
+    "angle": "le nettoyage des vitrages intérieurs et des vitrages extérieurs accessibles, pour appartements et villas",
+    "benefits": [
+      "Des pièces plus lumineuses et de meilleures vues",
+      "Des méthodes d’accès professionnelles qui réduisent le risque de chute",
+      "Des rails propres qui améliorent le coulissement"
+    ],
+    "includes": [
+      "le nettoyage des vitrages intérieurs avec des bâches de protection",
+      "les vitrages extérieurs accessibles depuis le balcon ou le rez-de-chaussée",
+      "l’aspiration des rails et des appuis",
+      "le repérage des vitrages qui exigent des spécialistes d’accès sur corde"
+    ],
+    "outcome": "le verre est sans traces dans les limites d’accès sûres, et les appuis sont essuyés",
+    "problems": [
+      "un voile salin sur les vitrages de balcon",
+      "des traces de doigts sur les baies vitrées du séjour",
+      "des taches d’eau calcaire dues aux projections d’arrosage",
+      "un bricolage risqué en se penchant depuis les balcons"
+    ],
+    "tips": [
+      "Évitez le nettoyage en plein soleil de midi",
+      "Rincez les plantes sous les fenêtres avant le travail extérieur",
+      "Signalez les joints fendus lorsqu’une entrée d’eau est visible"
+    ],
+    "title": "Nettoyage de vitres",
+    "whenNeeded": "Planifiez-le lorsque la poussière de saison ou le voile salin réduit la lumière et la vue."
+  }
+}

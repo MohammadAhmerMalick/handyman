@@ -1,0 +1,871 @@
+{
+  "basement-plumbing": {
+    "angle": "les évacuations, pompes et éviers de service des niveaux bas, maintenus en état dans les villas et les maisons de ville",
+    "benefits": [
+      "Protège les affaires entreposées d’un suintement lent",
+      "Précise quand un assèchement spécialisé est nécessaire",
+      "Améliore l’air des salles de sport et des salles de cinéma",
+      "Appuie les déclarations d’assurance avec des observations datées"
+    ],
+    "includes": [
+      "Inspection visuelle des pompes, des fosses et des canalisations accessibles",
+      "Remise en eau des siphons ou remplacement des joints sur les évacuations inutilisées",
+      "Débouchage des obstructions accessibles aux siphons de sol",
+      "Essai des flotteurs et des alimentations électriques dans le périmètre",
+      "Notes si une fouille ou une inspection caméra est nécessaire"
+    ],
+    "outcome": "les équipements du sous-sol s’évacuent, et les problèmes de pompe et de refoulement sont clairement identifiés",
+    "problems": [
+      "Évacuations de sol qui refoulent après de fortes pluies",
+      "Pompe de puisard qui ne démarre pas lorsque la fosse se remplit",
+      "Évier de service pour l’eau de serpillière, qui se bouche souvent",
+      "Odeurs de renfermé dues à des gardes d’eau asséchées",
+      "Cartons qui bloquent les tampons de visite"
+    ],
+    "tips": [
+      "Versez de l’eau dans les siphons de sol inutilisés chaque mois",
+      "Gardez les fosses de pompe libres de débris après le jardinage",
+      "Ne stockez pas à proximité de produits qui corrodent les joints de pompe"
+    ],
+    "title": "Plomberie de sous-sol",
+    "whenNeeded": "Organisez l’intervention lorsque les salles de bains de sous-sol sentent mauvais, que les pompes de puisard tombent en panne, ou que les éviers de buanderie refoulent après les orages."
+  },
+  "basin-installation-and-repair": {
+    "angle": "les lavabos sur colonne et sur meuble, montés avec des évacuations nettes et des bondes à tirette",
+    "benefits": [
+      "Salles de bains plus nettes pour les photos et les visites",
+      "Évite une dégradation lente des caissons de vasque",
+      "Des ancrages adaptés, importants pour les plans en pierre lourds",
+      "S’associe le même jour à la modernisation des robinets"
+    ],
+    "includes": [
+      "Dépose et repose avec les bonnes équerres",
+      "Montage de la bonde et du siphon avec des joints neufs",
+      "Silicone à la jonction du plan ou du mur si c’est convenu",
+      "Alignement avec le miroir et les joints de carrelage",
+      "Essai d’écoulement par les trop-pleins"
+    ],
+    "outcome": "les lavabos sont stables, les bondes fonctionnent et le filetage d’évacuation ne suinte pas",
+    "problems": [
+      "Lavabos sur colonne desserrés après des claquements de porte",
+      "Bondes à tirette bloquées fermées par les cheveux",
+      "Plans de vasque qui ne sont pas de niveau et retiennent l’eau",
+      "Fentes de trop-plein bouchées par le dentifrice",
+      "Lavabos suspendus qui arrachent les chevilles du plâtre"
+    ],
+    "tips": [
+      "Nettoyez les tiges de bonde chaque mois dans les salles de bains familiales",
+      "Ne montez pas sur les lavabos à colonne pour nettoyer les miroirs",
+      "Utilisez les mastics recommandés par le fabricant sur la pierre"
+    ],
+    "title": "Pose et réparation de lavabo",
+    "whenNeeded": "Intervenez sur les lavabos lorsque des fissures apparaissent, que le robinet fait bouger tout l’ensemble, ou qu’un meuble vasque neuf exige une nouvelle vasque."
+  },
+  "bathroom-plumbing": {
+    "angle": "les douches, lavabos et WC entretenus ensemble pour une salle de bains fiable d’un seul tenant",
+    "benefits": [
+      "Une seule visite pour les listes de réserves de salle de bains des bailleurs",
+      "Moins de moisissures dues au suintement chronique dans les menuiseries",
+      "De meilleurs avis d’hôtes pour les locations de vacances",
+      "Se coordonne avec le carrelage ou l’étanchéité si besoin"
+    ],
+    "includes": [
+      "Contrôles des mitigeurs, des évacuations et des vannes accessibles",
+      "Repose des cuvettes et des manchons",
+      "Nettoyage des siphons et remplacement des joints",
+      "Retouches de silicone aux baignoires et douches si c’est convenu",
+      "Essai d’eau avec le rideau ou la paroi de douche en place"
+    ],
+    "outcome": "les équipements de salle de bains sont étanches, l’eau arrive et s’évacue, et le silicone comme les joints sont signalés s’ils lâchent",
+    "problems": [
+      "Température de douche qui varie lorsque d’autres robinets s’ouvrent",
+      "Fuites de siphon de lavabo qui tachent les meubles vasque",
+      "Douchette WC qui fuit à la plaque murale",
+      "Évacuation de baignoire lente après un bouchon de cheveux",
+      "Gouttes de gaine d’extracteur prises pour des fuites de tuyau"
+    ],
+    "tips": [
+      "Passez la raclette sur les parois pour limiter le calcaire sur les mitigeurs",
+      "Ne rangez pas d’objets lourds sous des siphons fragiles",
+      "Signalez les WC qui bougent avant que le joint de cire ne lâche"
+    ],
+    "title": "Plomberie de salle de bains",
+    "whenNeeded": "Faites appel à nous lorsque les salles d’eau cumulent plusieurs défauts, ou que vous rafraîchissez une salle de bains sans rénovation complète."
+  },
+  "bathtub-installation-and-repair": {
+    "angle": "les baignoires posées avec les bons supports, les évacuations et les trappes d’accès pour l’entretien futur",
+    "benefits": [
+      "Un bain confortable, sans fuite cachée",
+      "De bons supports qui réduisent les grincements et le mouvement",
+      "Des trappes prévues pour le nettoyage futur du siphon",
+      "S’aligne avec les métiers de l’étanchéité et du carrelage"
+    ],
+    "includes": [
+      "Pose de la baignoire sur châssis ou lit de mortier, selon la conception",
+      "Montage de la bonde et du trop-plein avec des joints neufs",
+      "Raccordement des becs ou des remplisseurs de plage s’ils sont présents",
+      "Silicone aux joints de mur et de plage si c’est convenu",
+      "Essai de remplissage et de vidange, avec contrôle à la trappe"
+    ],
+    "outcome": "la baignoire est stable, et les raccordements de bonde et de trop-plein sont essayés et étanches",
+    "problems": [
+      "Baignoires acryliques qui fléchissent et fissurent les joints",
+      "Joints de trop-plein qui suintent dans les plafonds",
+      "Trappes d’accès absentes après d’anciennes réparations",
+      "Bondes qui ne retiennent pas l’eau pour un bain",
+      "Jets de Jacuzzi hors périmètre, mais fuite au niveau des enjoliveurs"
+    ],
+    "tips": [
+      "Ne posez pas de porte-shampooings lourds sur le rebord de la baignoire",
+      "Vérifiez les trappes après chaque nettoyage en profondeur",
+      "Utilisez des tapis antidérapants qui ne couvrent pas les trop-pleins"
+    ],
+    "title": "Pose et réparation de baignoire",
+    "whenNeeded": "Faites appel à nous pour poser une baignoire neuve en rénovation, ou pour une fuite aux trappes et aux trop-pleins."
+  },
+  "bidet-installation": {
+    "angle": "les douchettes d’hygiène et les abattants bidet raccordés avec la protection anti-retour fournie",
+    "benefits": [
+      "Meilleure hygiène sans grosse rénovation",
+      "Aide à l’accessibilité pour les personnes à mobilité réduite",
+      "Équipement moderne pour les locations haut de gamme",
+      "Pose soignée, sans flexible pincé"
+    ],
+    "includes": [
+      "Vérification de la compatibilité de la cuvette et de l’espace",
+      "Pose du bidet ou du kit d’abattant fourni",
+      "Raccordement au flexible, avec vanne",
+      "Contrôle d’étanchéité de tous les joints après mise en pression",
+      "Conseils d’usage sur les réglages de pression"
+    ],
+    "outcome": "le bidet ou l’abattant est posé, l’alimentation est stable et les tés ne fuient pas",
+    "problems": [
+      "Douchettes en eau froide seulement, inconfortables en hiver",
+      "Abattants incompatibles avec les cuvettes à jupe",
+      "Tés qui fuient dans l’espace étroit du réservoir",
+      "Prises électriques absentes pour les abattants chauffants",
+      "Règles d’immeuble peu claires sur les équipements ajoutés"
+    ],
+    "tips": [
+      "Utilisez une pression douce le temps de vous habituer",
+      "Séchez les raccords après les jours de nettoyage",
+      "Éloignez les prises des éclaboussures directes"
+    ],
+    "title": "Pose de bidet",
+    "whenNeeded": "Faites poser un bidet lorsque vous modernisez la salle de bains pour le confort, l’accessibilité ou des habitudes régionales."
+  },
+  "blocked-drain-clearance": {
+    "angle": "le débouchage urgent des évacuations complètement bouchées, pendant les heures d’ouverture",
+    "benefits": [
+      "Rétablit vite l’hygiène de base dans les logements",
+      "Limite l’interruption d’activité des établissements de restauration",
+      "Transmission honnête lorsque le bricolage risque d’abîmer les tuyaux",
+      "Documente la cause pour les échanges sur le dépôt de garantie"
+    ],
+    "includes": [
+      "Diagnostic pour distinguer un bouchon local d’une colonne principale",
+      "Travail au furet ou à la ventouse sur les siphons d’équipement",
+      "Retrait à la main des obstructions accessibles",
+      "Conseils de désinfection après un contact avec les eaux usées",
+      "Orientation vers un hydrocurage si des racines ou du tartre sont suspectés"
+    ],
+    "outcome": "le bouchon est levé ou contourné pour un temps, et une réparation durable est chiffrée s’il est plus profond",
+    "problems": [
+      "Ventouse de WC qui échoue à répétition",
+      "Plusieurs équipements qui refoulent en même temps",
+      "Remontée nauséabonde lorsque le lave-linge pompe",
+      "Siphons de sol de restaurant figés par la graisse",
+      "Objets de locataire tombés dans la cuvette"
+    ],
+    "tips": [
+      "Cessez d’utiliser les équipements dès qu’un refoulement commence",
+      "Tenez les enfants à l’écart des zones contaminées",
+      "Ne mélangez pas de déboucheurs chimiques après un débouchage manuel"
+    ],
+    "title": "Débouchage d’évacuation bouchée",
+    "whenNeeded": "Appelez lorsque les WC sont proches du débordement, que les éviers de cuisine ne s’évacuent plus du tout, ou qu’un commerce ne peut plus laver les sols conformément aux règles d’hygiène."
+  },
+  "drain-cleaning": {
+    "angle": "le rétablissement de l’écoulement des éviers, des douches et des canalisations de sol, sans abus de produits chimiques",
+    "benefits": [
+      "Douches et vaisselle plus rapides au quotidien",
+      "Moins d’air vicié dans les chambres de service et les locaux techniques",
+      "Évite les produits corrosifs qui abîment les canalisations",
+      "Peut regrouper plusieurs équipements dans une même visite"
+    ],
+    "includes": [
+      "Débouchage manuel ou furet à main, à portée du siphon",
+      "Dépose et nettoyage du siphon lorsque c’est possible",
+      "Essai de rinçage avec contrôle du volume d’eau",
+      "Conseils simples sur les crépines et les habitudes de nettoyage",
+      "Orientation si la colonne principale exige un hydrocurage avec caméra"
+    ],
+    "outcome": "les évacuations coulent librement sur les tronçons accessibles, avec des conseils pour éviter les rebouchages",
+    "problems": [
+      "Receveurs lents après une accumulation de cheveux",
+      "Canalisations de cuisine graisseuses, rétrécies au fil des années",
+      "Évacuations de balcon bouchées par du terreau",
+      "Éviers d’office encombrés de marc de café",
+      "Condensats de climatisation raccordés aux éviers, source de dépôt gluant"
+    ],
+    "tips": [
+      "Brossez-vous les cheveux avant la douche dans les salles de bains partagées",
+      "Ne versez jamais d’huile de cuisson dans les éviers",
+      "Rincez les siphons de sol des balcons après les tempêtes de sable"
+    ],
+    "title": "Nettoyage d’évacuation",
+    "whenNeeded": "Planifiez l’intervention lorsque l’eau stagne dans les douches, que les évacuations de cuisine gargouillent, ou que les siphons de sol sentent mauvais."
+  },
+  "emergency-plumbing-repairs": {
+    "angle": "une intervention prioritaire de plomberie pendant les heures d’ouverture, pour contenir les fuites et rétablir l’essentiel",
+    "benefits": [
+      "Limite les dégâts chez les voisins dans les appartements superposés",
+      "Intervient pendant les horaires publiés, sans fausse promesse d’un service 24 h/24 et 7 j/7",
+      "Communication claire pour les photos d’assurance",
+      "Peut s’élargir à un remplacement de canalisations plus large si nécessaire"
+    ],
+    "includes": [
+      "Triage à distance par téléphone ou WhatsApp lorsque c’est possible",
+      "Coupure de l’eau à la vanne la plus proche",
+      "Confinement temporaire avec tapis et seaux",
+      "Réparation durable des points d’éclatement accessibles",
+      "Conseils de séchage et orientation vers d’autres corps de métier si besoin"
+    ],
+    "outcome": "les fuites sont stabilisées ou isolées, et les réparations pratiques sont faites le jour même lorsque les matériaux le permettent",
+    "problems": [
+      "Plafond qui bombe à cause d’une fuite de salle de bains à l’étage",
+      "Évier de cuisine qui jaillit après l’éclatement d’un flexible",
+      "Débordement de WC pendant une réunion de famille",
+      "Plus d’eau du tout après la défaillance d’une vanne",
+      "Risque de fermeture du commerce si les toilettes du personnel ne fonctionnent pas"
+    ],
+    "tips": [
+      "Envoyez photos et vidéo une fois l’eau coupée",
+      "Éloignez tout de suite les objets de valeur des gouttes actives",
+      "Gardez les contacts de la gestion d’immeuble à portée de main pour l’accès aux colonnes"
+    ],
+    "title": "Réparations de plomberie en urgence",
+    "whenNeeded": "Demandez une aide prioritaire lorsque des fuites actives menacent les plafonds, que l’eau doit revenir avant l’arrivée des invités, ou que les WC ne peuvent plus tirer la chasse."
+  },
+  "flush-mechanism-repair": {
+    "angle": "l’entretien des boutons, siphons et cartouches de double chasse à l’intérieur des réservoirs",
+    "benefits": [
+      "Redonne confiance dans les salles de bains d’invités",
+      "Corrige souvent une chasse faible sans changer la cuvette",
+      "Réduit les traces de trop-plein sur les couvercles",
+      "Échange rapide de pièces pendant les visites de réserves"
+    ],
+    "includes": [
+      "Dépose du couvercle de réservoir, avec protection par tapis",
+      "Identification de la marque et de la série du mécanisme",
+      "Remplacement des cartouches, des siphons ou des boutons",
+      "Lubrification des tiges de commande lorsque c’est adapté",
+      "Vérification du niveau d’eau après remontage"
+    ],
+    "outcome": "les demi-chasses et les chasses complètes sont prévisibles, avec des pièces internes assorties à la marque",
+    "problems": [
+      "Boutons qui s’enfoncent lentement après une exposition à la chaleur",
+      "Pignons en plastique foirés sur des pièces bon marché",
+      "Kits adaptables incompatibles qui se bloquent",
+      "Fuites cachées dues à des cloches de siphon fêlées",
+      "WC de bureau encombrés d’articles d’hygiène"
+    ],
+    "tips": [
+      "Photographiez l’intérieur avant de commander des pièces rares",
+      "Éloignez les couvercles de réservoir du passage",
+      "Expliquez au personnel ce que la chasse peut accepter"
+    ],
+    "title": "Réparation de mécanisme de chasse",
+    "whenNeeded": "Faites réparer lorsque les boutons restent enfoncés, que la demi-chasse ne part jamais, ou qu’il faut appuyer plusieurs fois."
+  },
+  "general-plumbing": {
+    "angle": "les réparations courantes d’eau et d’évacuation qui gardent les cuisines et les salles de bains utilisables",
+    "benefits": [
+      "Un seul rendez-vous, plutôt que de courir après plusieurs corps de métier",
+      "Repérage précoce des flexibles défaillants avant une inondation",
+      "Priorités claires pour le budget de rénovation",
+      "Conseils pratiques adaptés à la qualité de l’eau aux Émirats"
+    ],
+    "includes": [
+      "Inspection des alimentations et des évacuations visibles",
+      "Réglage des robinets desserrés et des raccords de siphon",
+      "Remplacement des joints et cartouches courants lorsqu’ils sont en stock",
+      "Débouchage simple au niveau des siphons accessibles",
+      "Synthèse des points qui exigent un spécialiste ou des travaux d’accès"
+    ],
+    "outcome": "l’eau arrive et s’évacue comme prévu, avec un périmètre de suivi noté pour les canalisations cachées",
+    "problems": [
+      "Plusieurs petites fuites sur une liste de réserves",
+      "Emplacement des vannes d’arrêt incertain en cas d’urgence",
+      "Mitigeurs qui ne donnent qu’une douche tiède",
+      "Anciens flexibles qui gonflent sous les éviers",
+      "Changement de locataire avec un historique de plomberie inconnu"
+    ],
+    "tips": [
+      "Repérez votre vanne d’arrêt principale avant un voyage",
+      "Remplacez les flexibles tressés tous les quelques ans, par précaution",
+      "Évitez les déboucheurs chimiques sur les anciens joints en PVC"
+    ],
+    "title": "Plomberie générale",
+    "whenNeeded": "Réservez la plomberie générale lorsque des gouttes, des évacuations lentes ou des équipements desserrés apparaissent, et que vous voulez une seule visite pour trier plusieurs points."
+  },
+  "kitchen-plumbing": {
+    "angle": "les raccordements d’évier, de lave-vaisselle et de filtre maintenus étanches dans les cuisines actives des Émirats",
+    "benefits": [
+      "Protège les caissons de cuisine coûteux du gonflement",
+      "Permet aux restaurants et aux cafés de continuer le service",
+      "Plus sûr que d’ignorer des flexibles tressés qui gonflent",
+      "S’associe aux visites d’installation d’appareils"
+    ],
+    "includes": [
+      "Inspection des robinets d’alimentation et des flexibles",
+      "Contrôle des arrivées et des évacuations de lave-vaisselle",
+      "Démontage et nettoyage du siphon lorsqu’il est accessible",
+      "Pose de filtres en ligne simples s’ils sont fournis",
+      "Conseils sur la graisse et l’usage des crépines"
+    ],
+    "outcome": "les raccordements d’eau de la cuisine sont étanches, avec le dégagement nécessaire à l’entretien des appareils",
+    "problems": [
+      "Évacuation de lave-vaisselle qui déborde dans les meubles d’évier",
+      "Robinet d’eau bouillante qui fuit à la tête de filtre",
+      "Siphons graisseux qui se bouchent chaque semaine",
+      "Siphons en P desserrés après le changement d’appareil par un locataire",
+      "Coup de bélier lorsque les électrovannes du lave-linge se ferment"
+    ],
+    "tips": [
+      "Utilisez une crépine d’évier et jetez la graisse à la poubelle",
+      "Remplacez les flexibles de lave-vaisselle en déplaçant l’appareil",
+      "Testez les robinets d’arrêt en douceur : beaucoup se grippent s’ils ne servent jamais"
+    ],
+    "title": "Plomberie de cuisine",
+    "whenNeeded": "Appelez lorsque les meubles sous évier sentent l’humidité, que les lave-vaisselle refoulent, ou que de nouveaux appareils ont besoin d’arrivées d’eau."
+  },
+  "leak-detection-and-repair": {
+    "angle": "le repérage des fuites cachées et visibles avant que les finitions et l’électricité ne s’abîment davantage",
+    "benefits": [
+      "Évite les rappels répétés de peintre et de plâtrier",
+      "Protège les logements voisins dans les immeubles",
+      "Appuie un échange factuel avec les assureurs",
+      "Souvent moins coûteux que de deviner et de solliciter le mauvais métier"
+    ],
+    "includes": [
+      "Essais d’isolement au compteur lorsqu’il est accessible",
+      "Contrôle visuel et à l’écoute des pièces d’eau",
+      "Ouverture des trappes ou des panneaux de visite si c’est convenu",
+      "Réparation des joints ou raccords localisés",
+      "Orientation vers des spécialistes en détection thermique ou acoustique si le résultat reste incertain"
+    ],
+    "outcome": "la source de la fuite est isolée ou circonscrite, et la réparation est faite sur les parties apparentes",
+    "problems": [
+      "Hausses inexpliquées de facture DEWA",
+      "Taches chaudes et humides sur les murs carrelés",
+      "Sifflement derrière les dressings intégrés",
+      "Soupçon de raccordement croisé avec l’arrosage sur les villas",
+      "Réparations de plafond répétées sans correction en amont"
+    ],
+    "tips": [
+      "Notez les heures où la fuite empire : c’est souvent lié à la pression",
+      "Évitez de percer le carrelage avant que les tests confirment l’emplacement",
+      "Photographiez les relevés de compteur sur plusieurs jours"
+    ],
+    "title": "Recherche et réparation de fuites",
+    "whenNeeded": "Lancez une recherche lorsque le compteur tourne alors qu’aucun robinet n’est ouvert, que les taches s’étendent sans source visible, ou qu’un sifflement sort des murs."
+  },
+  "leaking-tap-repair": {
+    "angle": "l’arrêt des gouttes et des suintements aux mitigeurs et aux robinets, sans remplacement inutile",
+    "benefits": [
+      "Économie d’eau visible sur les compteurs de villa",
+      "Nuits plus calmes dans les appartements ouverts",
+      "Prolonge la vie des mitigeurs design coûteux",
+      "Gain rapide sur les longues listes d’entretien"
+    ],
+    "includes": [
+      "Coupure aux robinets d’arrêt locaux ou à l’arrivée générale si besoin",
+      "Démontage et contrôle des cartouches ou des joints",
+      "Détartrage des mousseurs et des limiteurs de débit",
+      "Remontage avec des joints neufs lorsqu’ils sont en stock",
+      "Essai de débit et de température sur les mitigeurs"
+    ],
+    "outcome": "les robinets ferment franchement, avec cartouches ou joints renouvelés selon le besoin",
+    "problems": [
+      "Goutte continue du mitigeur de cuisine pendant la nuit",
+      "Côté chaud qui fuit seulement lorsque la pression du chauffe-eau monte",
+      "Robinet de puisage extérieur qui suinte une fois fermé",
+      "Poignées desserrées sur les lavabos de la salle d’amis",
+      "Mousseurs abîmés par un locataire, avec des éclaboussures"
+    ],
+    "tips": [
+      "Essuyez les mitigeurs chaque jour pour repérer tôt un nouveau suintement",
+      "Ne forcez pas les poignées : les cartouches se fissurent",
+      "Utilisez des chiffons doux sur les finitions plaquées"
+    ],
+    "title": "Réparation de robinet qui fuit",
+    "whenNeeded": "Faites réparer les robinets lorsque les gouttes vous empêchent de dormir, que les poignées tournent dans le vide, ou que le calcaire tache les lavabos."
+  },
+  "pipe-repair-and-replacement": {
+    "angle": "la réparation des canalisations d’alimentation et d’évacuation accessibles, avec des joints adaptés aux conditions des Émirats",
+    "benefits": [
+      "Arrête une dégradation progressive par l’eau dans les murs",
+      "Utilise des matériaux adaptés à la chimie locale de l’eau",
+      "Limite claire lorsqu’un remplacement complet est plus raisonnable",
+      "Se coordonne avec le carrelage si des trappes d’accès sont nécessaires"
+    ],
+    "includes": [
+      "Isolement et vidange des tronçons concernés",
+      "Découpe du tuyau abîmé, avec des coupes d’équerre",
+      "Manchons, coudes ou raccords à compression selon le cas",
+      "Réglage des colliers pour supprimer les contraintes",
+      "Essai de pression ou de mise en eau après réparation"
+    ],
+    "outcome": "les tronçons réparés sont sains, et les réparations sont éprouvées à la pression lorsque le périmètre le permet",
+    "problems": [
+      "Microfuites sur d’anciennes colonnes en cuivre",
+      "Évacuation en PVC fêlée par des colliers trop serrés",
+      "Tuyaux souples périmés dans les locaux techniques chauds",
+      "Raccords de bricolage qui fuient aux coffrets de nourrice",
+      "Réseau d’arrosage croisé par erreur avec l’eau potable"
+    ],
+    "tips": [
+      "N’ignorez pas les petites taches vertes sur le cuivre",
+      "Supportez les parcours horizontaux pour éviter le fléchissement",
+      "Identifiez les vannes d’arrosage à part de l’eau potable"
+    ],
+    "title": "Réparation et remplacement de tuyauterie",
+    "whenNeeded": "Agissez lorsque les tuyaux éclatent, se corrodent, ou fuient aux raccords après une rénovation ou avec l’âge."
+  },
+  "plumbing-fixture-replacement": {
+    "angle": "le remplacement des équipements usés des salles de bains et des cuisines, avec des finitions assorties",
+    "benefits": [
+      "Un ensemble cohérent pour les photos de commercialisation",
+      "Réduit les rappels liés à des remplacements partiels en bricolage",
+      "Occasion de passer à des modèles économes en eau",
+      "Remplacements efficaces sur plusieurs pièces"
+    ],
+    "includes": [
+      "Dépose soignée des équipements indiqués",
+      "Pose des remplacements fournis par le propriétaire",
+      "Joints et rubans neufs sur tous les filetages",
+      "Essai de fonctionnement de chaque élément remplacé",
+      "Notes d’évacuation ou de recyclage si nécessaire"
+    ],
+    "outcome": "des équipements assortis sont posés, et les anciens sont retirés si c’est convenu",
+    "problems": [
+      "Robinets disparates après des modernisations partielles",
+      "Barres de douche corrodées dans les appartements du littoral",
+      "Distributeurs de savon cassés qui fuient dans les murs",
+      "WC de bureau aux boutons de chasse vandalisés",
+      "Locations de vacances qui exigent des pièces durables de qualité professionnelle"
+    ],
+    "tips": [
+      "Achetez des cartouches de rechange en changeant de marque",
+      "Photographiez l’existant avant la dépose",
+      "Comparez les échantillons de finition sous votre éclairage"
+    ],
+    "title": "Remplacement d’équipements de plomberie",
+    "whenNeeded": "Remplacez les équipements lorsque le style change, que le chrome lâche, ou qu’une liste de sortie exige des pièces uniformes."
+  },
+  "running-toilet-repair": {
+    "angle": "l’arrêt des réservoirs qui n’en finissent pas de se remplir, ou qui suintent dans la cuvette sans qu’on le voie",
+    "benefits": [
+      "Économie immédiate sur les comptes d’eau",
+      "Logements et chambres d’hôtel plus silencieux",
+      "Réparation simple avant de changer tout l’ensemble",
+      "Geste de bonne volonté envers les locataires de longue durée"
+    ],
+    "includes": [
+      "Test au colorant ou au papier pour confirmer un suintement dans la cuvette",
+      "Remplacement des clapets, des joints ou des robinets de remplissage",
+      "Réglage de la hauteur du flotteur, ou passage à des mécanismes modernes",
+      "Nettoyage des sédiments sur les crépines de remplissage",
+      "Contrôle du silence pendant une heure après la réparation"
+    ],
+    "outcome": "les cycles de remplissage s’arrêtent nettement, et le clapet ou les joints de mécanisme portent bien",
+    "problems": [
+      "Chasses qui partent seules dans les locations vides",
+      "Factures DEWA élevées sans fuite visible",
+      "Tube de trop-plein qui coule en permanence",
+      "Injecteurs de chasse bouchés, qui réduisent la puissance",
+      "Bras de flotteur mal réglés après un bricolage"
+    ],
+    "tips": [
+      "Remplacez les clapets lorsqu’ils sont raides ou lisses au toucher",
+      "Évitez les pastilles bleues pour réservoir, qui corrodent les caoutchoucs",
+      "Notez si la pression de l’immeuble monte la nuit"
+    ],
+    "title": "Réparation de WC qui coule",
+    "whenNeeded": "Agissez lorsque vous entendez l’eau cycler la nuit, que la cuvette miroite d’un filet, ou que le compteur tourne tous robinets fermés."
+  },
+  "shower-head-replacement": {
+    "angle": "le remplacement rapide des pommes et des barres, pour un jet plus confortable et une meilleure économie d’eau",
+    "benefits": [
+      "Rafraîchissement peu coûteux avant la saison des hôtes",
+      "Les modèles économes réduisent un peu les factures",
+      "Supprime les gouttes gênantes sans intervenir sur la vanne",
+      "Plusieurs salles de bains traitées en une visite"
+    ],
+    "includes": [
+      "Dépose de l’ancienne pomme ou du kit de barre",
+      "Nettoyage des filetages et pose de ruban d’étanchéité",
+      "Pose des pommes fournies par le propriétaire",
+      "Essai de débit à la pression habituelle de l’immeuble",
+      "Conseils de calendrier de détartrage"
+    ],
+    "outcome": "les pommes neuves sont étanchées au ruban et orientées pour un jet confortable",
+    "problems": [
+      "Calcaire qui bouche la moitié des buses",
+      "Gouttes aux rotules pendant la nuit",
+      "Pommes en plastique fêlées après une chute",
+      "Jet irrégulier après une chute de pression en petit immeuble",
+      "Usure de location courte durée qui appelle un rafraîchissement"
+    ],
+    "tips": [
+      "Faites tremper les pommes dans le vinaigre, pas les finitions dorées",
+      "Serrez à la main, puis un quart de tour à la clé seulement si besoin",
+      "Vérifiez le pas de vis avant d’acheter des modèles importés"
+    ],
+    "title": "Remplacement de pomme de douche",
+    "whenNeeded": "Remplacez la pomme lorsque les buses se bouchent, que les raccords fuient au filetage, ou que vous voulez un modèle économiseur d’eau."
+  },
+  "shower-installation-and-repair": {
+    "angle": "des douches à pression régulière, avec un ensemble étanche de vannes, de pommes et de receveurs",
+    "benefits": [
+      "Bains familiaux plus sûrs grâce à une température stable",
+      "Soutient le standing des locations de vacances",
+      "Repère les fuites avant une grosse dépose de carrelage",
+      "Se coordonne avec les métiers du verre et du carrelage"
+    ],
+    "includes": [
+      "Pose des barres, pommes et vannes fournies",
+      "Raccordement aux alimentations existantes, avec contrôle de pression",
+      "Remplacement des flexibles et des cartouches lorsqu’ils sont défaillants",
+      "Silicone aux joints de receveur ou de seuil, si c’est dans le périmètre",
+      "Essais d’équilibrage du débit et de la température"
+    ],
+    "outcome": "les douches fonctionnent à température stable, sans fuite au flexible ni aux entrées de vanne",
+    "problems": [
+      "Eau brûlante lorsque d’autres robinets s’ouvrent",
+      "Mitigeurs encastrés qui fuient dans les murs",
+      "Faible pression dans les appartements du dernier étage",
+      "Fuites de receveur qui tachent le plafond du dessous",
+      "Douchettes qui tombent de supports trop faibles"
+    ],
+    "tips": [
+      "Détartrez les pommes de douche chaque mois dans les zones d’eau calcaire",
+      "Signalez tôt une vanne qui goutte : les cartouches s’usent",
+      "Utilisez des tapis qui ne bouchent pas l’évacuation du receveur"
+    ],
+    "title": "Pose et réparation de douche",
+    "whenNeeded": "Faites poser ou réparer la douche lors de la rénovation d’une pièce d’eau, pour une fuite derrière le carrelage, ou pour passer à une pomme de douche pluie."
+  },
+  "silicone-sealing-around-sinks-and-baths": {
+    "angle": "un silicone sanitaire neuf qui garde l’eau du bon côté des joints",
+    "benefits": [
+      "Arrête les fuites lentes qui déforment les menuiseries",
+      "Aspect neuf pour les photos de remise des clés",
+      "Salles de bains plus saines, avec moins de retour de moisissure",
+      "S’associe le même jour au remplacement des équipements de plomberie"
+    ],
+    "includes": [
+      "Retrait de l’ancien mastic décollé lorsqu’il est accessible",
+      "Dégraissage des surfaces et contrôle du temps de séchage",
+      "Application d’un silicone sanitaire anti-moisissure",
+      "Lissage pour un cordon de profil régulier",
+      "Indication du temps de prise avant un usage à l’eau"
+    ],
+    "outcome": "les cordons de silicone sont lisses et deviennent étanches après prise, là où le support est sain",
+    "problems": [
+      "Moisissure noire le long des rebords de baignoire",
+      "Mastic qui se décolle et laisse l’eau entrer dans les meubles",
+      "Allergies de locataires déclenchées par les mastics de salle de bains",
+      "Silicone décoloré qui compromet les contrôles d’hôtel",
+      "Jours apparus après les vibrations d’un lave-linge"
+    ],
+    "tips": [
+      "Aérez pendant et après l’application",
+      "Ne prenez pas de bain avant la prise complète indiquée sur le tube",
+      "Utilisez l’extracteur pour ralentir le retour de la moisissure"
+    ],
+    "title": "Joints silicone autour des éviers et des baignoires",
+    "whenNeeded": "Refaites les joints lorsque la moisissure gagne, que des jours s’ouvrent après le nettoyage, ou que des équipements neufs exigent un cordon net."
+  },
+  "sink-installation-and-repair": {
+    "angle": "les éviers de cuisine et de buanderie posés de niveau, avec des évacuations et des alimentations fiables",
+    "benefits": [
+      "Des meubles secs qui protègent les provisions et l’électricité",
+      "Un bon support qui réduit le bruit au lavage des casseroles",
+      "S’accorde proprement à la pose de meubles de cuisine neufs",
+      "Supprime les odeurs des siphons secs ou fêlés"
+    ],
+    "includes": [
+      "Dépose de l’ancien évier si le remplacement est convenu",
+      "Attaches réglées pour une pose par le dessus ou en sous-plan",
+      "Montage de la bonde et du trop-plein avec des joints neufs",
+      "Raccordement eau chaude et eau froide avec des flexibles neufs",
+      "Essai de fuite, cuve pleine puis vidée"
+    ],
+    "outcome": "les éviers sont étanchés au plan, les siphons sont alignés et les bondes panier ne suintent pas",
+    "problems": [
+      "Plans en granit qui exigent un réglage en sous-plan",
+      "Éviers inox qui fléchissent et cassent le joint",
+      "Fuites aux brides de broyeur d’évier",
+      "Crépines panier desserrées qui coupent les joints",
+      "Éviers de buanderie qui se fendent sous les vibrations"
+    ],
+    "tips": [
+      "Évitez de ranger des casseroles lourdes qui cognent les éviers fins",
+      "Utilisez des produits doux sur les surfaces en composite",
+      "Faites couler l’eau après de longues absences pour remplir les siphons"
+    ],
+    "title": "Pose et réparation d’évier",
+    "whenNeeded": "Faites poser ou réparer l’évier lorsque les plans de travail sont renouvelés, que la cuve se fend, ou que des fuites tachent les meubles."
+  },
+  "tap-and-faucet-installation": {
+    "angle": "la pose de mitigeurs et de robinets neufs, avec les joints adaptés à l’eau calcaire des Émirats",
+    "benefits": [
+      "Un air neuf pour le rafraîchissement de la cuisine et de la salle de bains",
+      "Des cartouches modernes plus faciles pour les personnes âgées",
+      "Un montage correct qui limite les fuites cachées sous le plan",
+      "Peut s’aligner sur le calendrier de pose des meubles de cuisine"
+    ],
+    "includes": [
+      "Dépose du robinet existant et nettoyage des trous de plan",
+      "Pose du mitigeur fourni avec les joints du fabricant",
+      "Raccordement aux flexibles, avec des olives neuves si besoin",
+      "Rinçage des canalisations pour chasser les débris avant la pose du mousseur",
+      "Conseils d’entretien face au calcaire"
+    ],
+    "outcome": "les robinets sont montés d’équerre, manœuvrent en douceur et ne suintent pas à la base",
+    "problems": [
+      "Anciens robinets piqués et durs à tourner",
+      "Nouveau meuble vasque qui exige des mitigeurs plus hauts",
+      "Robinets muraux qui demandent un alignement précis",
+      "Douchettes extractibles qui s’emmêlent sous le plan",
+      "Éviers de préparation professionnelle avec commandes au pied, hors périmètre"
+    ],
+    "tips": [
+      "Rincez les canalisations neuves avant de monter des cartouches délicates",
+      "Gardez des cartouches de rechange si la marque en fournit",
+      "Utilisez un détartrant doux, pas de tampons abrasifs sur le chrome"
+    ],
+    "title": "Pose de robinets et de mitigeurs",
+    "whenNeeded": "Faites poser un robinet lorsque vous modernisez les finitions, remplacez des pièces corrodées, ou accordez de nouveaux lavabos et éviers."
+  },
+  "toilet-installation-and-replacement": {
+    "angle": "la pose de cuvettes et de réservoirs neufs, avec la bonne pente et un remplissage silencieux",
+    "benefits": [
+      "La double chasse moderne sert les objectifs d’économie d’eau",
+      "Occasion de refaire le silicone à la jonction du sol",
+      "Améliore l’hygiène dans les bureaux à fort passage",
+      "Se coordonne avec les plannings de carrelage et d’étanchéité"
+    ],
+    "includes": [
+      "Dépose et évacuation de l’ancien ensemble si c’est convenu",
+      "Joint de cire ou joint plat neuf, et fixations au sol",
+      "Raccordement aux attentes d’évacuation et d’alimentation existantes",
+      "Pose du réservoir et alignement des boutons",
+      "Plusieurs essais de chasse avec une charge de papier"
+    ],
+    "outcome": "le WC est solidement fixé, avec un silicone net et une double chasse essayée",
+    "problems": [
+      "Cuvettes fêlées après un serrage incorrect",
+      "Ensembles anciens qui gaspillent l’eau à chaque chasse",
+      "Bâtis de WC suspendus dont la marque des pièces est inconnue",
+      "Cotes de sortie trop courtes dans les appartements anciens",
+      "Besoins d’accessibilité pour des cuvettes rehaussées"
+    ],
+    "tips": [
+      "Attendez la prise du silicone avant un nettoyage appuyé",
+      "Gardez des boutons-poussoirs de rechange si le modèle est peu courant",
+      "Ne mastiquez pas tout le pied : laissez un jour d’écoulement à l’arrière"
+    ],
+    "title": "Pose et remplacement de WC",
+    "whenNeeded": "Remplacez le WC lorsque la cuvette est fêlée, que le style change pendant une rénovation, ou qu’un modèle suspendu exige une pose soignée."
+  },
+  "toilet-repair": {
+    "angle": "la remise en état de la chasse, du remplissage et des joints, pour des WC qui tirent bien sans bouger",
+    "benefits": [
+      "Factures d’eau plus basses grâce à l’arrêt des fuites silencieuses",
+      "Moins de plaintes de locataires dans les immeubles",
+      "Évite les dégâts de plafond dus à des joints qui lâchent lentement",
+      "Redonne un usage confortable aux foyers de personnes âgées"
+    ],
+    "includes": [
+      "Contrôle de l’intérieur du réservoir et des mécanismes de chasse",
+      "Remplacement des mécanismes de remplissage et de chasse lorsqu’ils sont en stock",
+      "Serrage des fixations de cuvette et réétanchéité si c’est convenu",
+      "Réglage du niveau d’eau pour une chasse efficace",
+      "Contrôle de fuite au pied et au flexible d’alimentation"
+    ],
+    "outcome": "le WC est stable, la chasse est complète et le remplissage est silencieux après réglage",
+    "problems": [
+      "Demi-chasse qui laisse des déchets",
+      "Robinet flotteur qui siffle pendant des heures",
+      "Cuvette qui bouge et use peu à peu le joint de cire",
+      "Boutons de double chasse bloqués après une entrée de sable",
+      "WC professionnels dont la chasse automatique se coupe trop vite"
+    ],
+    "tips": [
+      "Ne placez pas de brique dans le réservoir : réglez plutôt les mécanismes",
+      "Nettoyez les filtres de remplissage lorsque la pression baisse",
+      "Signalez tôt un WC qui bouge : le sol s’écaille si on l’ignore"
+    ],
+    "title": "Réparation de WC",
+    "whenNeeded": "Faites réparer lorsque la chasse est faible, que l’eau coule en continu, ou que la cuvette bouge au sol."
+  },
+  "water-filter-installation": {
+    "angle": "les filtres sous évier et en ligne, posés pour faciliter le changement de cartouche",
+    "benefits": [
+      "Une eau au meilleur goût pour boire et cuisiner",
+      "Des appareils qui durent plus longtemps lorsque le bailleur meuble le logement",
+      "Des changements futurs simples, sans inonder les meubles",
+      "S’associe aux contrôles de plomberie de cuisine"
+    ],
+    "includes": [
+      "Équerre de fixation sous l’évier ou au mur",
+      "Raccordement à l’eau froide avec une vanne dédiée",
+      "Procédure de rinçage selon le type de cartouche",
+      "Bac ou serviette de protection pendant la pose",
+      "Rappel écrit de l’intervalle de changement"
+    ],
+    "outcome": "les filtres sont raccordés avec des robinets d’arrêt, et l’étanchéité est contrôlée au premier rinçage",
+    "problems": [
+      "Tartre qui abîme vite les machines à café",
+      "Goût de chlore dans les appartements de Marina",
+      "Absence de robinet d’arrêt, qui rend le changement de cartouche salissant",
+      "Appareils trop volumineux pour passer sous l’évier",
+      "Locataires qui ne savent pas quand changer les cartouches"
+    ],
+    "tips": [
+      "Changez les cartouches au calendrier, pas seulement lorsque le goût revient",
+      "Fermez la vanne avant chaque changement",
+      "Utilisez les cartouches d’origine du fabricant lorsque c’est possible"
+    ],
+    "title": "Pose de filtre à eau",
+    "whenNeeded": "Faites poser un filtre lorsque le goût de l’eau potable vous gêne, que les appareils ont besoin d’une protection antitartre, ou que le bailleur impose un filtre."
+  },
+  "water-heater-installation-and-repair": {
+    "angle": "les chauffe-eau électriques et à accumulation raccordés en sécurité, avec une évacuation de soupape et des fixations stables",
+    "benefits": [
+      "Redonne du confort aux familles et aux logements du personnel",
+      "Une évacuation de soupape bien dirigée protège plafonds et murs",
+      "Indique quand le remplacement vaut mieux que des changements de résistance à répétition",
+      "Documente la pose pour les recours en garantie"
+    ],
+    "complianceNote": "Les raccordements électriques des chauffe-eau doivent respecter les exigences des Émirats et peuvent exiger des électriciens dûment agréés lorsque la réglementation s’applique.",
+    "includes": [
+      "Coordination de la coupure électrique et de la coupure d’eau",
+      "Équerres de fixation et tuyauterie de soupape de sécurité",
+      "Raccordement aux arrivées chaude et froide, avec vannes",
+      "Remplacement de la résistance ou du thermostat lorsque c’est réparable",
+      "Mise en service et conseils de réglage de température"
+    ],
+    "outcome": "le chauffe-eau produit une eau chaude fiable, et la décharge de la soupape de sécurité est correctement dirigée",
+    "problems": [
+      "Disjonctions lorsque le chauffe-eau se met en marche",
+      "Eau rouillée provenant d’un ballon en fin de vie",
+      "Soupape de sécurité qui goutte en permanence",
+      "Appareils sous-dimensionnés pour les grandes villas",
+      "Chauffe-eau posés sans sangles de retenue antisismiques"
+    ],
+    "tips": [
+      "Réglez la température en sécurité pour les enfants et les personnes âgées",
+      "Vidangez les ballons périodiquement, selon le fabricant",
+      "Laissez le dégagement nécessaire pour l’entretien"
+    ],
+    "title": "Installation et réparation de chauffe-eau",
+    "whenNeeded": "Faites intervenir un technicien lorsque l’eau chaude manque, que le ballon fuit, ou qu’un appareil neuf remplace un cylindre ancien."
+  },
+  "water-heater-maintenance": {
+    "angle": "l’entretien périodique qui prolonge la vie du chauffe-eau et garde les soupapes de sécurité en état",
+    "benefits": [
+      "Moins de douches froides surprises pour les locataires",
+      "Moins de résistances grillées par des points de surchauffe",
+      "Une soupape de sécurité fiable avant la forte utilisation d’hiver",
+      "Un historique d’entretien pour les portefeuilles gérés"
+    ],
+    "includes": [
+      "Inspection visuelle du ballon, des tuyaux et du bac",
+      "Essai du parcours de décharge de la soupape",
+      "Vidange du tartre lorsque la conception le permet",
+      "Contrôle du repérage du sectionneur électrique à proximité",
+      "Conseil sur l’échéance de remplacement si de la rouille est visible"
+    ],
+    "outcome": "le chauffe-eau fonctionne plus proprement, et les contrôles d’anode et de soupape sont notés dans un simple journal",
+    "problems": [
+      "Bruits de claquement dus aux couches de tartre",
+      "Remontée en température lente après des douches enchaînées",
+      "Soupape de sécurité grippée, faute d’essai",
+      "Tartre qui réduit le rendement dans les zones d’eau calcaire",
+      "Bailleurs qui ignorent la date du dernier entretien"
+    ],
+    "tips": [
+      "Essayez les soupapes en douceur, selon le fabricant",
+      "Gardez les bacs de rétention libres de produits stockés",
+      "Planifiez l’entretien avant l’arrivée des invités"
+    ],
+    "title": "Entretien de chauffe-eau",
+    "whenNeeded": "Planifiez un entretien chaque année, ou lorsque le tartre réduit nettement le volume d’eau chaude."
+  },
+  "water-pressure-troubleshooting": {
+    "angle": "le diagnostic d’une pression faible ou saccadée qui gêne les douches et les appareils",
+    "benefits": [
+      "Meilleur fonctionnement des appareils, et moins d’erreurs",
+      "Douche plus confortable dans les appartements du dernier étage",
+      "Protège les flexibles de l’éclatement par surpression",
+      "Documente les problèmes pour les échanges avec le bailleur"
+    ],
+    "includes": [
+      "Contrôle au manomètre sur les robinets de puisage ou les points de lavage, s’ils existent",
+      "Inspection des réducteurs de pression et des robinets d’arrêt",
+      "Nettoyage des mousseurs et des crépines d’arrivée",
+      "Échange avec la gestion d’immeuble lorsque la colonne est en cause",
+      "Recommandations de pompe ou de remplacement de réducteur si besoin"
+    ],
+    "outcome": "les causes de pression sont expliquées, et les corrections sont faites sur les vannes et réducteurs accessibles",
+    "problems": [
+      "Douche à peine alimentée alors que le robinet de cuisine va bien",
+      "Coup de bélier à la fermeture des mitigeurs",
+      "Horaires de surpresseur d’immeuble inconnus des locataires",
+      "Filtres d’arrivée de lave-linge encrassés",
+      "Réducteur de pression en panne, à l’origine de fuites par surpression"
+    ],
+    "tips": [
+      "Nettoyez les filtres de lave-linge chaque trimestre",
+      "Ouvrez les robinets lentement pour limiter les coups de bélier",
+      "Notez les heures où la pression baisse"
+    ],
+    "title": "Diagnostic de pression d’eau",
+    "whenNeeded": "Faites diagnostiquer la pression lorsque les étages hauts la perdent aux heures de pointe, ou que les lave-linge se mettent en défaut."
+  },
+  "water-supply-line-repairs": {
+    "angle": "la réparation des alimentations d’équipements, d’appareils et de robinets extérieurs, avec des abouts sûrs",
+    "benefits": [
+      "Évite les inondations graves de meubles",
+      "Changements d’appareils plus simples pour les locataires",
+      "Sert la maîtrise de la consommation DEWA en supprimant un débit caché",
+      "S’associe aux travaux de chauffe-eau et de filtre"
+    ],
+    "includes": [
+      "Remplacement des flexibles et des robinets d’arrêt d’angle",
+      "Brasure ou raccords instantanés sur cuivre, lorsque le périmètre agréé le permet",
+      "Pose de vannes d’isolement pour les appareils",
+      "Repérage des lignes sur les nourrices, si demandé",
+      "Essai d’étanchéité à la pression de service"
+    ],
+    "outcome": "les alimentations sont étanches, et les vannes restent accessibles pour l’entretien futur",
+    "problems": [
+      "Flexibles tressés gonflés, prêts à lâcher",
+      "Vannes à opercule corrodées qui ne ferment plus",
+      "Tés ajoutés sans support, à l’origine de fissures",
+      "Alimentations de cuisine extérieure qui fuient sous la chaleur d’été",
+      "Lignes non repérées, qui rendent la coupure risquée"
+    ],
+    "tips": [
+      "Remplacez les flexibles en déplaçant réfrigérateurs et lave-vaisselle",
+      "Manœuvrez doucement les robinets d’arrêt deux fois par an",
+      "Choisissez des flexibles de qualité, pas les annonces en ligne les moins chères"
+    ],
+    "title": "Réparation des alimentations en eau",
+    "whenNeeded": "Faites réparer l’alimentation lorsqu’un flexible éclate, que l’arrivée fuit dans un meuble, ou qu’un appareil neuf exige une ligne dédiée."
+  }
+}

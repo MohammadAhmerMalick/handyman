@@ -1,0 +1,396 @@
+{
+  "access-panel-installation": {
+    "angle": "des trappes discrètes pour les vannes, les compteurs et les points d’entretien",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Choix des dimensions et de l’emplacement de la trappe",
+      "Fixation du cadre sur plaque ou carrelage",
+      "Finition assortie à l’entourage",
+      "Repérage pour les accès ultérieurs"
+    ],
+    "outcome": "la pose de trappe de visite est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Robinets d’arrêt cachés derrière un mur carrelé",
+      "Besoin d’accès à l’évacuation de climatisation",
+      "Points de contrôle dans les faux plafonds",
+      "Anciennes découpes bâclées, laissées ouvertes"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de trappe de visite",
+    "whenNeeded": "Prévoyez une pose de trappe de visite lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "ceiling-crack-repairs": {
+    "angle": "un traitement ciblé des fissures de plafond avant la repeinture",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Ouverture et nettoyage de la fissure",
+      "Systèmes de bande ou d’enduit",
+      "Ponçage jusqu’au nu du plan",
+      "Recommandation d’impression"
+    ],
+    "outcome": "la réparation de fissures de plafond est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Fissures droites le long des joints",
+      "Microfissures visibles en lumière rasante",
+      "Fissures autour des rosaces de plafond",
+      "Mouvement aux angles des retombées"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparation de fissures de plafond",
+    "whenNeeded": "Prévoyez une réparation de fissures de plafond lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "ceiling-repairs": {
+    "angle": "des reprises de plaques et d’enduit de plafond après une fuite ou un accès",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Dépose et remplacement local de plaque",
+      "Finition des joints",
+      "Enduit pelliculaire localisé lorsque c’est au devis",
+      "Coordination avec les peintres pour les taches"
+    ],
+    "outcome": "les réparations de plafond sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Plaques qui fléchissent près des salles de bains",
+      "Textures irrégulières après le déplacement de spots",
+      "Fissures apparues après des vibrations",
+      "Taches qui exigent une découpe de plaque"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations de plafond",
+    "whenNeeded": "Prévoyez des réparations de plafond lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "drywall-hole-repairs": {
+    "angle": "des pièces soignées pour les petits et moyens trous dans les murs en plâtre",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Renforts arrière ou plaques de pièce selon le besoin",
+      "Montée d’enduit puis ponçage",
+      "Impression localisée",
+      "Raccord de texture lorsqu’elle existe déjà"
+    ],
+    "outcome": "la réparation de trous dans les plaques de plâtre est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Trous de support de téléviseur trop larges",
+      "Ouvertures d’accès plomberie non rebouchées",
+      "Trous de choc dus au mobilier",
+      "Plusieurs trous de chevilles dans une même zone"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparation de trous dans les plaques de plâtre",
+    "whenNeeded": "Prévoyez une réparation de trous dans les plaques de plâtre lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "drywall-installation": {
+    "angle": "de nouveaux habillages en plaques de plâtre pour les cloisons et les retombées",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Ossature ou fixation directe selon le plan",
+      "Pose des plaques selon le schéma de vissage",
+      "Pose des bandes, prête pour l’enduit de lissage",
+      "Nettoyage de la poussière de plâtre"
+    ],
+    "outcome": "la pose de plaques de plâtre est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Réaménagements ouverts qui exigent de nouvelles pièces",
+      "Plaques abîmées après des fuites",
+      "Réseaux qui doivent être coffrés",
+      "Maçonnerie irrégulière qui appelle un doublage"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de plaques de plâtre",
+    "whenNeeded": "Prévoyez une pose de plaques de plâtre lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "false-ceiling-installation": {
+    "angle": "des plafonds suspendus en plâtre pour l’éclairage, la climatisation et des finitions de niveau",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Ossature en grille ou en suspension directe",
+      "Pose des plaques et traitement des joints",
+      "Découpes pour luminaires et diffuseurs",
+      "Trappes de visite lorsqu’elles sont prévues"
+    ],
+    "outcome": "la pose de faux plafond est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Sous-faces béton irrégulières",
+      "Besoin de masquer les gaines",
+      "Mise à jour des ossatures de plafond de bureau",
+      "Amélioration acoustique des salles de réunion"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de faux plafond",
+    "whenNeeded": "Prévoyez une pose de faux plafond lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "gypsum-and-false-ceiling": {
+    "angle": "des cloisons en plâtre, des retombées et des faux plafonds pour les intérieurs aux Émirats",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Visite du site et confirmation du périmètre",
+      "Intervention concrète de plâtre et de faux plafond, avec des matériaux adaptés",
+      "Protection des surfaces voisines lorsque c’est possible",
+      "Contrôle du travail terminé et conseils d’entretien"
+    ],
+    "outcome": "vous pouvez relier la pose, les réparations et les trappes de visite dans une même conversation de projet",
+    "problems": [
+      "Usure quotidienne qui touche le plâtre et le faux plafond",
+      "Réparations antérieures à reprendre ou à corriger",
+      "Finitions qui jurent avec les zones voisines",
+      "Contraintes d’accès ou de planning dans les appartements et les villas"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Plâtre et faux plafond",
+    "whenNeeded": "Utilisez cette vue d’ensemble lorsque vous prévoyez des abaissements de plafond, des retombées décoratives ou des travaux de plâtre en bureau."
+  },
+  "minor-wall-modifications": {
+    "angle": "de petites ouvertures, fermetures et adaptations, sans gros œuvre structurel",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Adaptations d’ossature dans les cloisons en plâtre",
+      "Pièce de plaque et finition",
+      "Coordination avec les électriciens lorsque l’intervention se limite aux ouvertures",
+      "Maîtrise de la poussière pendant les travaux"
+    ],
+    "outcome": "les modifications légères de murs sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Élargissement de portes dans des cloisons à ossature",
+      "Rebouchage d’ouvertures devenues inutiles",
+      "Déplacement d’interrupteurs dans des murs en plaque",
+      "Création de niches d’exposition"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Modifications légères de murs",
+    "whenNeeded": "Prévoyez des modifications légères de murs lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "partition-wall-installation": {
+    "angle": "des cloisons non porteuses pour subdiviser les pièces",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "complianceNote": "La dépose d’un mur porteur, la modification d’un compartimentage coupe-feu ou les dossiers d’autorisation liés à un changement de surface exigent un ingénieur structure et des entrepreneurs agréés. Nous posons des cloisons non porteuses dans le périmètre convenu.",
+    "includes": [
+      "Fixation des rails au sol et au plafond",
+      "Montants et isolation si c’est au devis",
+      "Plaques des deux faces et joints",
+      "Réservations de portes dans le périmètre prévu"
+    ],
+    "outcome": "la pose de cloison de séparation est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Besoin d’un bureau à domicile dans un espace ouvert",
+      "Reconfiguration d’un agencement commercial",
+      "Passage du son entre les chambres",
+      "Besoin de cloisons démontables pour une location"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Pose de cloison de séparation",
+    "whenNeeded": "Prévoyez une pose de cloison de séparation lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "plasterboard-repairs": {
+    "angle": "le remplacement de plaques et la reprise des joints après un dégât ou un accès",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Découpe des zones abîmées",
+      "Pièces de plaque neuves",
+      "Bande et enduit fondus en dégradé",
+      "Prêt à peindre ou à texturer"
+    ],
+    "outcome": "les réparations de plaques de plâtre sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Trous de poignée dans les couloirs",
+      "Panneaux de plafond tachés d’eau",
+      "Découpes laissées après un déplacement de climatisation",
+      "Angles écrasés lors d’un déménagement"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations de plaques de plâtre",
+    "whenNeeded": "Prévoyez des réparations de plaques de plâtre lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "soundproofing-improvements": {
+    "angle": "des mises à niveau concrètes pour réduire le bruit dans les pièces et les cloisons",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "complianceNote": "Une conception acoustique spécialisée, une isolation de niveau studio ou des modifications d’ouvrages coupe-feu peuvent exiger des acousticiens et des systèmes agréés. Nous proposons des améliorations concrètes dans le cadre de cloisons courantes.",
+    "includes": [
+      "Remplissage isolant dans les cloisons à ossature accessibles",
+      "Mastic acoustique en périphérie",
+      "Coordination du balai de porte ou du seuil",
+      "Attentes réalistes sur les gains d’indice STC"
+    ],
+    "outcome": "les améliorations d’isolation phonique sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Bruit entre chambres contiguës",
+      "Écho dans un bureau à domicile",
+      "Son d’une salle média qui passe chez les voisins",
+      "Portes trop fines qui réduisent l’effet des cloisons"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Améliorations d’isolation phonique",
+    "whenNeeded": "Prévoyez des améliorations d’isolation phonique lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "suspended-ceiling-repairs": {
+    "angle": "des réparations de dalles, de grille et de plaques sur les faux plafonds existants",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Remplacement des dalles, avec un rapprochement de teinte aussi proche que possible",
+      "Réglage des clips d’ossature et des suspentes",
+      "Pièces de plaque localisées dans les plafonds en plâtre",
+      "Conseils de séchage après une fuite"
+    ],
+    "outcome": "les réparations de plafond suspendu sont réalisées selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Dalles de plafond tachées d’eau",
+      "Profilés en T déformés",
+      "Dalles manquantes après une intervention",
+      "Tronçons qui fléchissent près des fuites"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparations de plafond suspendu",
+    "whenNeeded": "Prévoyez des réparations de plafond suspendu lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "wall-anchoring-and-fixings": {
+    "angle": "des fixations sûres pour les téléviseurs, les étagères et les objets muraux lourds",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Détection des montants ou perçage de sondage",
+      "Choix de chevilles dimensionnées pour la charge",
+      "Pose des supports fournis par le client",
+      "Rebouchage des perçages mal placés si c’est au devis"
+    ],
+    "outcome": "les ancrages et les fixations murales sont réalisés selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Composition du mur incertaine derrière le carrelage",
+      "Miroirs lourds sur plaques de plâtre",
+      "Arrachements dans les murs creux",
+      "Plusieurs tentatives qui laissent le mur abîmé"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Ancrages et fixations murales",
+    "whenNeeded": "Prévoyez des ancrages et des fixations murales lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  },
+  "wall-crack-repairs": {
+    "angle": "le pontage et le rebouchage des fissures avant la décoration",
+    "benefits": [
+      "Devis établi selon ce que nous constatons sur place",
+      "Intervention planifiée pendant les heures d’ouverture de Handyman",
+      "Finition adaptée au climat local et à l’usage"
+    ],
+    "includes": [
+      "Ouverture en V et nettoyage des fissures",
+      "Mastics souples ou systèmes de bande",
+      "Ponçage en dégradé",
+      "Orientation lorsqu’un avis structurel est conseillé"
+    ],
+    "outcome": "la réparation de fissures murales est réalisée selon le niveau convenu, afin que l’espace soit net, utilisable et plus facile à entretenir",
+    "problems": [
+      "Fissures au-dessus des linteaux de porte",
+      "Fissures en diagonale après un léger tassement",
+      "Fissures à la jonction des poutres",
+      "Fissures qui reviennent sur des cloisons qui travaillent"
+    ],
+    "tips": [
+      "Dégagez l’accès et écartez les objets fragiles avant la visite",
+      "Envoyez des photos lors de la demande pour accélérer le devis",
+      "Traitez les fuites actives ou les problèmes de mouvement avant les travaux esthétiques"
+    ],
+    "title": "Réparation de fissures murales",
+    "whenNeeded": "Prévoyez une réparation de fissures murales lorsque l’usure, les dégâts ou des finitions dépassées gênent l’usage de l’espace. Les biens aux Émirats — des appartements de Marina aux villas familiales — ont tout à gagner de finitions adaptées à l’humidité locale et à l’usage."
+  }
+}

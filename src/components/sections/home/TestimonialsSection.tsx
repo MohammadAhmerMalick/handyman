@@ -1,5 +1,6 @@
 import { Quote } from 'lucide-react'
-import Link from 'next/link'
+import { getTranslations } from 'next-intl/server'
+import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
 import {
   Carousel,
@@ -8,15 +9,25 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from '@/components/ui/carousel'
-import { Container } from '@/components/ui/container'
-import { serviceHref } from '@/data/services'
+import { getServiceItemBySlug, serviceHref } from '@/data/services'
 import { type Testimonial, testimonials } from '@/data/testimonials'
+import { Link } from '@/i18n/navigation'
+import type { AppLocale } from '@/i18n/routing'
 
 type TestimonialCardProps = {
+  locale: AppLocale
+  serviceLabel: string
   testimonial: Testimonial
 }
 
-const TestimonialCard = ({ testimonial }: TestimonialCardProps) => {
+const TestimonialCard = async ({
+  locale,
+  serviceLabel,
+  testimonial,
+}: TestimonialCardProps) => {
+  const t = await getTranslations('Testimonials')
+  const service = getServiceItemBySlug(testimonial.serviceSlug, locale)
+
   return (
     <figure className="flex h-full flex-col rounded-2xl border border-border p-6 shadow-md shadow-muted backdrop-blur-xs md:p-7">
       <Quote
@@ -25,30 +36,30 @@ const TestimonialCard = ({ testimonial }: TestimonialCardProps) => {
         strokeWidth={1.75}
       />
       <blockquote className="mt-4 flex-1 text-[15px] leading-relaxed">
-        <p>“{testimonial.quote}”</p>
+        <p>“{t(`items.${testimonial.id}.quote`)}”</p>
       </blockquote>
       <figcaption className="mt-6">
         <div className="flex items-center gap-3">
           <p className="flex size-12 items-center justify-center rounded-full border-2 border-primary bg-primary-foreground font-semibold text-primary text-xl">
             {testimonial.name.charAt(0)}
-            {testimonial.role.charAt(0)}
+            {t(`items.${testimonial.id}.role`).charAt(0)}
           </p>
           <div className="min-w-0">
             <p className="font-semibold text-heading leading-tight">
               {testimonial.name}
             </p>
             <p className="mt-0.5 text-muted-foreground text-sm">
-              {testimonial.role}
+              {t(`items.${testimonial.id}.role`)}
             </p>
           </div>
         </div>
         <p className="mt-5 border-border border-t pt-4 text-sm">
-          <span className="font-semibold text-heading">Service: </span>
+          <span className="font-semibold text-heading">{serviceLabel}</span>
           <Link
             className="transition-colors hover:text-primary"
             href={serviceHref(testimonial.serviceSlug)}
           >
-            {testimonial.serviceTitle}
+            {service?.title ?? testimonial.serviceTitle}
           </Link>
         </p>
       </figcaption>
@@ -56,20 +67,22 @@ const TestimonialCard = ({ testimonial }: TestimonialCardProps) => {
   )
 }
 
-const TestimonialsSection = () => {
+const TestimonialsSection = async ({ locale }: { locale: AppLocale }) => {
+  const t = await getTranslations('Testimonials')
+
   return (
     <Container>
       <Carousel
-        aria-label="Customer reviews"
+        aria-label={t('label')}
         className="w-full"
         opts={{ align: 'start', loop: true }}
       >
         <div className="mb-8 grid items-end gap-4 sm:grid-cols-[minmax(0,1fr)_auto]">
           <Heading
-            eyebrow="Testimonials"
-            heading="What our customers say"
+            eyebrow={t('eyebrow')}
+            heading={t('heading')}
             layout="left"
-            paragraph="Homeowners and workplaces across the UAE, after renovation, air conditioning, plumbing, and day-to-day maintenance."
+            paragraph={t('paragraph')}
             size="xl"
           />
           <div className="flex shrink-0 gap-2">
@@ -84,13 +97,17 @@ const TestimonialsSection = () => {
           </div>
         </div>
 
-        <CarouselContent className="-ml-6">
+        <CarouselContent className="-ms-6">
           {testimonials.map((testimonial) => (
             <CarouselItem
-              className="flex basis-full py-2 pl-6 sm:basis-1/2 lg:basis-1/3"
+              className="flex basis-full py-2 ps-6 sm:basis-1/2 lg:basis-1/3"
               key={testimonial.id}
             >
-              <TestimonialCard testimonial={testimonial} />
+              <TestimonialCard
+                locale={locale}
+                serviceLabel={t('service')}
+                testimonial={testimonial}
+              />
             </CarouselItem>
           ))}
         </CarouselContent>
