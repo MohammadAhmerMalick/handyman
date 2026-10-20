@@ -1,4 +1,4 @@
-import FaqSection from '@/components/sections/faq/FaqSection'
+import FaqSection from '@/components/sections/FaqSection'
 import Section from '@/components/shared/Section'
 import { generatePageMetadata } from '@/lib/pageMetadata'
 

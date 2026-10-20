@@ -16,7 +16,7 @@ import {
 } from 'next-intl/server'
 import type { ReactNode } from 'react'
 import Footer from '@/components/layout/Footer'
-import Navbar from '@/components/layout/Navbar'
+import Navbar from '@/components/layout/navbar/Navbar'
 import ScrollToTop from '@/components/layout/ScrollToTop'
 import TopBar from '@/components/layout/TopBar'
 import Analytics from '@/components/shared/Analytics'
