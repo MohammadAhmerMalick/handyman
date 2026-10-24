@@ -1,11 +1,11 @@
 'use client'
 
 import { ChevronRight, MessageCircle, Phone, Search } from 'lucide-react'
-import SiteImage from '@/components/shared/SiteImage'
 import { useTranslations } from 'next-intl'
 import { useMemo, useState } from 'react'
 import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
+import SiteImage from '@/components/shared/SiteImage'
 import {
   Accordion,
   AccordionContent,

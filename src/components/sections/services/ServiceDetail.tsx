@@ -1,11 +1,11 @@
 import { cn } from 'cn'
 import { ArrowRight, Mail, MapPin, MessageCircle, Phone } from 'lucide-react'
-import SiteImage from '@/components/shared/SiteImage'
 import { getTranslations } from 'next-intl/server'
 import type { ReactNode } from 'react'
 import ServiceFaqs from '@/components/sections/services/ServiceFaqs'
 import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
+import SiteImage from '@/components/shared/SiteImage'
 import SocialLinks from '@/components/shared/SocialLinks'
 import { contact } from '@/data/contact'
 import {

@@ -1,8 +1,8 @@
 import { cn } from 'cn'
-import SiteImage from '@/components/shared/SiteImage'
 import { getTranslations } from 'next-intl/server'
 import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
+import SiteImage from '@/components/shared/SiteImage'
 import { contact } from '@/data/contact'
 import { getPageLink } from '@/data/links'
 

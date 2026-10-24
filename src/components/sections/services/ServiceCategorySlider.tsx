@@ -1,11 +1,11 @@
 'use client'
 
 import { Search, Wrench } from 'lucide-react'
-import SiteImage from '@/components/shared/SiteImage'
 import { useTranslations } from 'next-intl'
 import { useDeferredValue, useMemo, useState } from 'react'
 import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
+import SiteImage from '@/components/shared/SiteImage'
 import { Button } from '@/components/ui/button'
 import {
   Carousel,
