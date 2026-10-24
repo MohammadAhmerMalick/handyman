@@ -1,11 +1,41 @@
 import type { Metadata } from 'next'
-import { getTranslations } from 'next-intl/server'
+import { getLocale, getTranslations } from 'next-intl/server'
 import { contact } from '@/data/contact'
 import { getPageLink, type PageId, pages, type SiteLink } from '@/data/links'
-import { hrefLangTags } from '@/i18n/locales'
+import { hrefLangTags, ogLocales } from '@/i18n/locales'
 import { getPathname } from '@/i18n/navigation'
 import { type AppLocale, routing } from '@/i18n/routing'
 import { absoluteSiteUrl } from '@/lib/siteUrl'
+
+/** File route from `src/app/opengraph-image.tsx`. Leaf `openGraph` replaces the parent, so every page must point at this image itself. */
+export const openGraphImage = {
+  alt: 'Handyman',
+  height: 630,
+  url: '/opengraph-image',
+  width: 1200,
+}
+
+export const socialMetadata = (
+  title: string,
+  description: string | undefined,
+  locale: AppLocale
+): Pick<Metadata, 'openGraph' | 'twitter'> => ({
+  openGraph: {
+    description,
+    images: [openGraphImage],
+    locale: ogLocales[locale],
+    siteName: 'Handyman',
+    title,
+    type: 'website',
+    url: './',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    description,
+    images: [openGraphImage],
+    title,
+  },
+})
 
 const pageHref: Record<PageId, string> = {
   about: pages.about.href,
@@ -38,18 +68,12 @@ export const localeAlternates = (href: string): Metadata['alternates'] => {
 
 const toMetadata = (page: SiteLink): Metadata => ({
   description: page.description,
-  openGraph: {
-    description: page.description,
-    title: page.title,
-  },
   title: page.title,
-  twitter: {
-    description: page.description,
-    title: page.title,
-  },
+  ...socialMetadata(page.title, page.description, routing.defaultLocale),
 })
 
 export const generatePageMetadata = async (page: PageId): Promise<Metadata> => {
+  const locale = (await getLocale()) as AppLocale
   const t = await getTranslations('Pages')
   const title = t(`${page}.title`)
   const description = t(`${page}.description`, {
@@ -60,15 +84,8 @@ export const generatePageMetadata = async (page: PageId): Promise<Metadata> => {
   return {
     alternates: localeAlternates(pageHref[page]),
     description,
-    openGraph: {
-      description,
-      title,
-    },
     title,
-    twitter: {
-      description,
-      title,
-    },
+    ...socialMetadata(title, description, locale),
   }
 }
 

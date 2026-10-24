@@ -24,6 +24,7 @@ import JsonLd from '@/components/shared/JsonLd'
 import { isRtlLocale, ogLocales } from '@/i18n/locales'
 import { routing } from '@/i18n/routing'
 import { brandHex } from '@/lib/brandColors'
+import { openGraphImage } from '@/lib/pageMetadata'
 import { getSiteUrl } from '@/lib/siteUrl'
 
 const outfit = Outfit({ subsets: ['latin'], variable: '--font-sans' })
@@ -58,8 +59,14 @@ export const generateStaticParams = () => {
 /** Browser UI chrome (mobile status bar, etc.). Matches sticky navbar surface. */
 export const viewport: Viewport = {
   themeColor: [
-    { media: '(prefers-color-scheme: light)', color: brandHex.primaryForeground },
-    { media: '(prefers-color-scheme: dark)', color: brandHex.primaryForeground },
+    {
+      color: brandHex.primaryForeground,
+      media: '(prefers-color-scheme: light)',
+    },
+    {
+      color: brandHex.primaryForeground,
+      media: '(prefers-color-scheme: dark)',
+    },
   ],
 }
 
@@ -89,6 +96,7 @@ export const generateMetadata = async ({
       .filter(Boolean),
     metadataBase: getSiteUrl(),
     openGraph: {
+      images: [openGraphImage],
       locale: ogLocales[locale],
       siteName: 'Handyman',
       type: 'website',
@@ -105,6 +113,7 @@ export const generateMetadata = async ({
     },
     twitter: {
       card: 'summary_large_image',
+      images: [openGraphImage],
     },
   }
 }

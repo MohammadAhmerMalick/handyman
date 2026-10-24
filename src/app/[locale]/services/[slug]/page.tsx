@@ -4,7 +4,7 @@ import { setRequestLocale } from 'next-intl/server'
 import ServiceDetail from '@/components/sections/services/ServiceDetail'
 import { getServiceBySlug, publishedServices } from '@/data/services'
 import { type AppLocale, routing } from '@/i18n/routing'
-import { localeAlternates } from '@/lib/pageMetadata'
+import { localeAlternates, socialMetadata } from '@/lib/pageMetadata'
 
 type ServiceDetailPageProps = {
   params: Promise<{ locale: string; slug: string }>
@@ -29,6 +29,7 @@ export const generateMetadata = async ({ params }: ServiceDetailPageProps) => {
     alternates: localeAlternates(`/services/${slug}`),
     description: service.metaDescription,
     title: { absolute: service.metaTitle },
+    ...socialMetadata(service.metaTitle, service.metaDescription, locale),
   }
 }
 

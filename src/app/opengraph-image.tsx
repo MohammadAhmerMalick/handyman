@@ -2,12 +2,12 @@ import { ImageResponse } from 'next/og'
 import Favicon from '@/components/layout/Favicon'
 
 // Image metadata
-export const alt = 'AutoRent'
+export const alt = 'Handyman'
 export const size = {
   height: 630,
   width: 1200,
 }
-export const card = 'summary'
+export const card = 'summary_large_image'
 
 export const contentType = 'image/png'
 
