@@ -18,6 +18,15 @@ const nextConfig: NextConfig = {
     ],
   },
   output: 'standalone',
+  async redirects() {
+    return [
+      {
+        destination: '/icon/32',
+        permanent: false,
+        source: '/favicon.ico',
+      },
+    ]
+  },
 }
 
 export default withNextIntl(nextConfig)

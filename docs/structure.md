@@ -65,6 +65,6 @@ Pages compose sections. Sections read `src/data` and `messages`. They do not own
 | `src/i18n/` | `routing.ts` (locale list), `locales.ts` (RTL, fonts, `hreflang`), `request.ts` (loads `messages`), `navigation.ts` (`Link`, `useRouter`) |
 | `src/lib/pageMetadata.ts` | Per-page title, description, and `hreflang`, keyed by page id from `links.ts` |
 | `src/hooks/` | Small client hooks (scroll state) |
-| `src/proxy.ts` | `next-intl` middleware matcher |
+| `src/proxy.ts` | `next-intl` middleware matcher (excludes `icon`, `apple-icon`, `opengraph-image`) |
 
 `next.config.ts` wraps the app with the `next-intl` plugin pointed at `src/i18n/request.ts`.
