@@ -27,6 +27,16 @@ Routes live under `src/app/[locale]/`. The root layout only passes children thro
 
 Full folder map: [`docs/structure.md`](docs/structure.md).
 
+## Docker + HTTPS (VPS)
+
+```bash
+CERTBOT_EMAIL=you@example.com ./deploy/setup-ssl.sh
+```
+
+One **nginx** container listens on **80** and **443**. **Certbot** runs in Docker for issue/renew (`deploy/renew-certbot.sh` for cron). No host nginx required.
+
+Guide: [`docs/ssl-docker-nginx.md`](docs/ssl-docker-nginx.md). Nginx config: `nginx/conf.d/`, `nginx/snippets/`.
+
 ## Data
 
 Phone, hours, nav hrefs, FAQ ids, and the service catalogue live in `src/data`. Wording that changes per language lives in `messages/<locale>.json`. Pages and sections import both.

@@ -9,7 +9,9 @@ Where the site lives in the repo. How `src/data` is shaped and read by component
 | `AGENTS.md` | Business facts and working rules for agents |
 | `TASKS.md` | Current UI queue |
 | `README.md` | How to run the site, with links into these docs |
-| `docs/` | Layout, data, and translation procedures |
+| `docs/` | Layout, data, translation, and deployment (`ssl-docker-nginx.md`) |
+| `deploy/` | VPS scripts (`setup-ssl.sh`, certbot issue/renew) |
+| `nginx/` | Container nginx config (`conf.d/`, `snippets/`) |
 | `messages/` | UI strings per locale (`en`, `ar`, `ur`, `hi`, `zh`, `fr`) |
 | `public/` | Static images, category photos, hero video, `icon.svg` |
 | `tmp/i18n/` | Translation tooling (extract, validate, registry). Required. See `docs/i18n.md` |
