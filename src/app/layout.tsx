@@ -1,9 +1,10 @@
 import type { Metadata } from 'next'
 import type { ReactNode } from 'react'
+import { getSiteUrl } from '@/lib/siteUrl'
 import './globals.css'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://handyman.ae'),
+  metadataBase: getSiteUrl(),
 }
 
 type RootLayoutProps = {

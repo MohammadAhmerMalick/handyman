@@ -5,6 +5,7 @@ import { getPageLink, type PageId, pages, type SiteLink } from '@/data/links'
 import { hrefLangTags } from '@/i18n/locales'
 import { getPathname } from '@/i18n/navigation'
 import { type AppLocale, routing } from '@/i18n/routing'
+import { absoluteSiteUrl } from '@/lib/siteUrl'
 
 const pageHref: Record<PageId, string> = {
   about: pages.about.href,
@@ -18,11 +19,15 @@ const pageHref: Record<PageId, string> = {
 
 export const localeAlternates = (href: string): Metadata['alternates'] => {
   const languages: Record<string, string> = {
-    'x-default': getPathname({ href, locale: routing.defaultLocale }),
+    'x-default': absoluteSiteUrl(
+      getPathname({ href, locale: routing.defaultLocale })
+    ),
   }
 
   for (const locale of routing.locales) {
-    languages[hrefLangTags[locale]] = getPathname({ href, locale })
+    languages[hrefLangTags[locale]] = absoluteSiteUrl(
+      getPathname({ href, locale })
+    )
   }
 
   return {

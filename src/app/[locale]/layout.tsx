@@ -23,6 +23,7 @@ import Analytics from '@/components/shared/Analytics'
 import JsonLd from '@/components/shared/JsonLd'
 import { isRtlLocale, ogLocales } from '@/i18n/locales'
 import { routing } from '@/i18n/routing'
+import { getSiteUrl } from '@/lib/siteUrl'
 
 const outfit = Outfit({ subsets: ['latin'], variable: '--font-sans' })
 const bricolage = Bricolage_Grotesque({
@@ -69,7 +70,7 @@ export const generateMetadata = async ({
       canonical: './',
     },
     applicationName: 'Handyman',
-    authors: [{ name: 'Handyman', url: 'https://handyman.ae' }],
+    authors: [{ name: 'Handyman', url: getSiteUrl().toString() }],
     category: t('category'),
     creator: 'Handyman',
     description: t('description'),
@@ -77,7 +78,7 @@ export const generateMetadata = async ({
       .split(',')
       .map((keyword) => keyword.trim())
       .filter(Boolean),
-    metadataBase: new URL('https://handyman.ae'),
+    metadataBase: getSiteUrl(),
     openGraph: {
       locale: ogLocales[locale],
       siteName: 'Handyman',

@@ -1,4 +1,5 @@
 import { contact } from '@/data/contact'
+import { getSiteUrl } from '@/lib/siteUrl'
 
 const localBusiness = {
   '@context': 'https://schema.org',
@@ -41,13 +42,14 @@ const localBusiness = {
     },
   ],
   telephone: contact.phone.display,
-  url: 'https://handyman.ae',
 }
 
 const JsonLd = () => {
+  const schema = { ...localBusiness, url: getSiteUrl().toString() }
+
   return (
     <script
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusiness) }}
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
       type="application/ld+json"
     />
   )
