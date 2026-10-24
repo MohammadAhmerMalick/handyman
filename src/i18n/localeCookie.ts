@@ -10,9 +10,24 @@ const LOCALE_COOKIE_NAME = 'NEXT_LOCALE'
  * would otherwise win on refresh.
  */
 export const persistLocaleCookie = (locale: AppLocale) => {
+  if (typeof globalThis === 'undefined') {
+    return
+  }
+
+  if ('cookieStore' in globalThis && globalThis.cookieStore) {
+    void globalThis.cookieStore.set({
+      name: LOCALE_COOKIE_NAME,
+      path: '/',
+      sameSite: 'lax',
+      value: locale,
+    })
+    return
+  }
+
   if (typeof document === 'undefined') {
     return
   }
 
+  // biome-ignore lint/suspicious/noDocumentCookie: fallback when Cookie Store API is unavailable
   document.cookie = `${LOCALE_COOKIE_NAME}=${locale}; path=/; SameSite=Lax`
 }
