@@ -16,7 +16,9 @@ const HeroSection = async () => {
           autoPlay
           muted
           loop
-          className="size-full object-cover"
+          playsInline
+          aria-hidden
+          className="pointer-events-none size-full object-cover"
         />
       </div>
       <Container className="relative md:pt-36">
