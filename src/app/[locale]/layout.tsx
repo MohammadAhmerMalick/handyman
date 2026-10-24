@@ -1,5 +1,5 @@
 import { cn } from 'cn'
-import type { Metadata } from 'next'
+import type { Metadata, Viewport } from 'next'
 import {
   Bricolage_Grotesque,
   Noto_Sans_Arabic,
@@ -23,6 +23,7 @@ import Analytics from '@/components/shared/Analytics'
 import JsonLd from '@/components/shared/JsonLd'
 import { isRtlLocale, ogLocales } from '@/i18n/locales'
 import { routing } from '@/i18n/routing'
+import { brandHex } from '@/lib/brandColors'
 import { getSiteUrl } from '@/lib/siteUrl'
 
 const outfit = Outfit({ subsets: ['latin'], variable: '--font-sans' })
@@ -52,6 +53,14 @@ type LocaleLayoutProps = {
 
 export const generateStaticParams = () => {
   return routing.locales.map((locale) => ({ locale }))
+}
+
+/** Browser UI chrome (mobile status bar, etc.). Matches sticky navbar surface. */
+export const viewport: Viewport = {
+  themeColor: [
+    { media: '(prefers-color-scheme: light)', color: brandHex.primaryForeground },
+    { media: '(prefers-color-scheme: dark)', color: brandHex.primaryForeground },
+  ],
 }
 
 export const generateMetadata = async ({
