@@ -10,6 +10,7 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from '@/components/ui/popover'
+import { persistLocaleCookie } from '@/i18n/localeCookie'
 import { usePathname, useRouter } from '@/i18n/navigation'
 import { type AppLocale, routing } from '@/i18n/routing'
 
@@ -30,6 +31,7 @@ const LocaleSwitcher = ({ className }: LocaleSwitcherProps) => {
     if (nextLocale === locale) return
 
     startTransition(() => {
+      persistLocaleCookie(nextLocale)
       router.replace(pathname, { locale: nextLocale })
     })
   }
