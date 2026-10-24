@@ -61,22 +61,20 @@ const ServicesCatalog = async () => {
   return (
     <div>
       <div className="sticky top-18.5 z-40 border-border border-b bg-white/95 backdrop-blur">
-        <Container className="py-3 md:py-3 lg:py-3">
-          <nav aria-label={t('navLabel')}>
-            <ul className="flex gap-2 overflow-x-auto scroll-smooth [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-              {catalog.map(({ category }) => (
-                <li className="shrink-0" key={category.id}>
-                  <a
-                    className="inline-flex rounded-full border border-border bg-card px-3.5 py-1.5 font-medium text-heading text-sm transition-colors hover:border-primary hover:bg-primary hover:text-primary-foreground"
-                    href={`#${category.slug}`}
-                  >
-                    {categories(`${category.id}.title`)}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </nav>
-        </Container>
+        <nav aria-label={t('navLabel')}>
+          <ul className="scrollbar-none flex gap-2 overflow-x-auto scroll-smooth p-3 [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden">
+            {catalog.map(({ category }) => (
+              <li className="shrink-0" key={category.id}>
+                <a
+                  className="inline-flex rounded-full border border-border bg-card px-3.5 py-1.5 font-medium text-heading text-sm transition-colors hover:border-primary hover:bg-primary hover:text-primary-foreground"
+                  href={`#${category.slug}`}
+                >
+                  {categories(`${category.id}.title`)}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
       </div>
 
       <Container className="space-y-16 pt-8 pb-16 md:space-y-20 md:pt-12 md:pb-20 lg:pt-14 lg:pb-24">

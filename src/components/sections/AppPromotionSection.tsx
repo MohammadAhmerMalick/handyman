@@ -92,7 +92,7 @@ const AppPromotionSection = async () => {
               />
             </div>
 
-            <div className="absolute -inset-e-20 top-24 z-20 hidden max-w-70 rotate-6 overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-lg lg:-end-32 lg:block">
+            <div className="absolute -inset-e-20 top-24 z-20 hidden max-w-70 rotate-6 overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-lg lg:-inset-e-32 lg:block">
               <SiteImage
                 src="/app-promo/calendar-hd.png"
                 alt={t('calendarAlt')}
@@ -103,7 +103,7 @@ const AppPromotionSection = async () => {
             </div>
 
             <Card
-              className="absolute -inset-s-8 top-4/6 z-40 hidden bg-white/70 backdrop-blur-sm sm:block lg:-start-16"
+              className="absolute -inset-s-8 top-4/6 z-40 hidden bg-white/70 backdrop-blur-sm sm:block lg:-inset-s-16"
               size="sm"
             >
               <CardContent className="flex items-center gap-2">
@@ -120,7 +120,7 @@ const AppPromotionSection = async () => {
             </Card>
 
             <Card
-              className="absolute -end-12 -bottom-6 z-40 hidden bg-white/70 backdrop-blur-sm sm:block"
+              className="absolute -inset-e-12 -bottom-6 z-40 hidden bg-white/70 backdrop-blur-sm sm:block"
               size="sm"
             >
               <CardContent className="flex flex-col">

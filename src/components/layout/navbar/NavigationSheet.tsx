@@ -33,7 +33,7 @@ const NavigationSheet = () => {
       >
         <Menu />
       </SheetTrigger>
-      <SheetContent className="overflow-y-auto border-primary/30 bg-primary-foreground px-0 pt-0 pb-0 text-white [&_[data-slot=sheet-close]]:end-4 [&_[data-slot=sheet-close]]:top-5 [&_[data-slot=sheet-close]]:border [&_[data-slot=sheet-close]]:border-white/15 [&_[data-slot=sheet-close]]:bg-white/10 [&_[data-slot=sheet-close]]:text-white [&_[data-slot=sheet-close]]:hover:bg-white/20 [&_[data-slot=sheet-close]]:hover:text-white">
+      <SheetContent className="overflow-y-auto border-primary/30 bg-primary-foreground px-0 pt-0 pb-0 text-white **:data-[slot=sheet-close]:inset-e-4 **:data-[slot=sheet-close]:top-5 **:data-[slot=sheet-close]:border **:data-[slot=sheet-close]:border-white/15 **:data-[slot=sheet-close]:bg-white/10 **:data-[slot=sheet-close]:text-white **:data-[slot=sheet-close]:hover:bg-white/20 **:data-[slot=sheet-close]:hover:text-white">
         <SheetTitle className="sr-only">{t('menu')}</SheetTitle>
         <div className="border-primary/30 border-b px-5 pe-16 pt-5 pb-5">
           <Link className="block w-fit" href={pages.home.href} onClick={close}>
