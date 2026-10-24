@@ -111,7 +111,7 @@ const AppPromotionSection = async () => {
                   <Download className="size-5 text-primary" />
                 </div>
                 <div>
-                  <h5 className="font-medium text-xs">{t('dailyReminder')}</h5>
+                  <h4 className="font-medium text-xs">{t('dailyReminder')}</h4>
                   <p className="text-muted-foreground text-xs">
                     {t('completeTasks')}
                   </p>
@@ -124,9 +124,9 @@ const AppPromotionSection = async () => {
               size="sm"
             >
               <CardContent className="flex flex-col">
-                <h5 className="mb-1 font-medium text-xs">
+                <h4 className="mb-1 font-medium text-xs">
                   {t('weeklyProgress')}
-                </h5>
+                </h4>
                 <p className="font-semibold text-lg">87%</p>
                 <div className="mt-1 h-2 w-24 rounded-full bg-muted">
                   <div className="h-2 w-[87%] rounded-full bg-primary" />
