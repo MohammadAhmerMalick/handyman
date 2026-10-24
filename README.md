@@ -35,7 +35,11 @@ CERTBOT_EMAIL=you@example.com ./deploy/setup-ssl.sh
 
 One **nginx** container listens on **80** and **443**. **Certbot** runs in Docker for issue/renew (`deploy/renew-certbot.sh` for cron). No host nginx required.
 
-Guide: [`docs/ssl-docker-nginx.md`](docs/ssl-docker-nginx.md). Nginx config: `nginx/conf.d/`, `nginx/snippets/`.
+- First HTTPS: [`docs/ssl-docker-nginx.md`](docs/ssl-docker-nginx.md) — `./deploy/setup-ssl.sh`
+- **After each push:** `./deploy/redeploy.sh` (build while live, then swap app container)
+- Details: [`docs/deploy-vps.md`](docs/deploy-vps.md)
+
+Nginx config: `nginx/conf.d/`, `nginx/snippets/`.
 
 ## Data
 
