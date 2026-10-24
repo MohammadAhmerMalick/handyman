@@ -27,7 +27,9 @@ const Favicon = ({ size = 512 }: FaviconProps) => {
     <img
       alt=""
       height={markSize}
+      loading="eager"
       src={faviconMarkSrc(markSize)}
+      title="Handyman"
       width={markSize}
     />
   )

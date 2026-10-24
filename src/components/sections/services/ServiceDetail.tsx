@@ -1,6 +1,6 @@
 import { cn } from 'cn'
 import { ArrowRight, Mail, MapPin, MessageCircle, Phone } from 'lucide-react'
-import Image from 'next/image'
+import SiteImage from '@/components/shared/SiteImage'
 import { getTranslations } from 'next-intl/server'
 import type { ReactNode } from 'react'
 import ServiceFaqs from '@/components/sections/services/ServiceFaqs'
@@ -30,7 +30,7 @@ type ServiceImageBlockProps = {
 
 const ServiceImageBlock = ({ className, image }: ServiceImageBlockProps) => {
   return (
-    <Image
+    <SiteImage
       alt={image.alt}
       className={cn('w-full rounded-2xl bg-muted object-cover', className)}
       height={400}

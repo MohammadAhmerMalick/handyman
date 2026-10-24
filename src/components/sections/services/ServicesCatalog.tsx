@@ -1,5 +1,5 @@
 import { ArrowRight } from 'lucide-react'
-import Image from 'next/image'
+import SiteImage from '@/components/shared/SiteImage'
 import { getLocale, getTranslations } from 'next-intl/server'
 import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
@@ -82,6 +82,7 @@ const ServicesCatalog = async () => {
       <Container className="space-y-16 pt-8 pb-16 md:space-y-20 md:pt-12 md:pb-20 lg:pt-14 lg:pb-24">
         {catalog.map(({ category, services }, index) => {
           const Icon = categoryIcons[category.id]
+          const categoryTitle = categories(`${category.id}.title`)
 
           return (
             <section
@@ -92,11 +93,11 @@ const ServicesCatalog = async () => {
               <div className="overflow-hidden rounded-3xl border border-border bg-card shadow-muted shadow-sm">
                 <div className="grid md:grid-cols-[17rem_1fr]">
                   <div className="relative aspect-[2.2/1] bg-muted md:aspect-auto md:min-h-48">
-                    <Image
-                      alt=""
+                    <SiteImage
+                      alt={categoryTitle}
                       className="object-cover"
                       fill
-                      priority={index === 0}
+                      preload={index === 0}
                       sizes="(max-width: 768px) 100vw, 272px"
                       src={categoryImageSrc(category.id)}
                     />

@@ -1,7 +1,7 @@
 'use client'
 
 import { ChevronRight, MessageCircle, Phone, Search } from 'lucide-react'
-import Image from 'next/image'
+import SiteImage from '@/components/shared/SiteImage'
 import { useTranslations } from 'next-intl'
 import { useMemo, useState } from 'react'
 import { Container } from '@/components/shared/Container'
@@ -70,7 +70,7 @@ const FaqSection = ({ showAll = false }: FaqSectionProps) => {
       />
       <div className="grid items-stretch gap-6 lg:grid-cols-3 lg:gap-8">
         <aside className="relative order-2 flex min-h-112 overflow-hidden rounded-2xl bg-primary-foreground md:hidden lg:order-1 lg:col-span-1 lg:flex lg:min-h-full">
-          <Image
+          <SiteImage
             src="/faq-image.jpg"
             alt={t('imageAlt')}
             width={690}

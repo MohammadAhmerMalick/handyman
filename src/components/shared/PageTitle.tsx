@@ -1,5 +1,5 @@
 import { cn } from 'cn'
-import Image from 'next/image'
+import SiteImage from '@/components/shared/SiteImage'
 import { getTranslations } from 'next-intl/server'
 import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
@@ -46,7 +46,7 @@ const PageTitle = async ({
           variant="inverted"
         />
       </Container>
-      <Image
+      <SiteImage
         className={cn('absolute inset-0 w-full object-cover')}
         style={{
           height: `calc(100% + 106px)`,
@@ -56,6 +56,8 @@ const PageTitle = async ({
         alt={t('backgroundAlt')}
         width={2000}
         height={500}
+        preload
+        sizes="100vw"
       />
     </section>
   )

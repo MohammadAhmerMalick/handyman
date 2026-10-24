@@ -1,6 +1,6 @@
 import { cn } from 'cn'
 import { ArrowRight } from 'lucide-react'
-import Image from 'next/image'
+import SiteImage from '@/components/shared/SiteImage'
 import { getTranslations } from 'next-intl/server'
 import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
@@ -42,12 +42,12 @@ const HighlightCard = ({
       href={serviceHref(service.slug)}
     >
       <div className={cn('relative overflow-hidden bg-muted')}>
-        <Image
+        <SiteImage
           alt={imageAlt}
           className="size-full object-cover transition-transform duration-500 group-hover:scale-105"
           width={725}
           height={410}
-          priority={featured}
+          preload={featured}
           sizes={
             featured
               ? '(max-width: 1024px) 100vw, 40vw'

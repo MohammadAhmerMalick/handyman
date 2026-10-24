@@ -1,5 +1,5 @@
 import { Phone } from 'lucide-react'
-import Image from 'next/image'
+import SiteImage from '@/components/shared/SiteImage'
 import { getTranslations } from 'next-intl/server'
 import { Container } from '@/components/shared/Container'
 import Heading from '@/components/shared/Heading'
@@ -22,7 +22,7 @@ const AboutHighlightsSection = async () => {
       />
       <div className="grid items-stretch gap-10 lg:grid-cols-2 lg:gap-16">
         <div className="relative min-h-80 overflow-hidden bg-muted lg:min-h-full">
-          <Image
+          <SiteImage
             src="/about-installation.jpg"
             alt={t('imageAlt')}
             sizes="(min-width: 1024px) 50vw, 100vw"

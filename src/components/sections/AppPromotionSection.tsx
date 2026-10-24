@@ -1,5 +1,5 @@
 import { BadgeCheck, Download, Eye, Star, StarHalf } from 'lucide-react'
-import Image from 'next/image'
+import SiteImage from '@/components/shared/SiteImage'
 import { getTranslations } from 'next-intl/server'
 import { ApplicationStoreLinks } from '@/components/shared/ApplicationStoreLinks'
 import { Container } from '@/components/shared/Container'
@@ -83,7 +83,7 @@ const AppPromotionSection = async () => {
 
           <div className="relative mt-4 lg:mt-0 lg:max-w-full">
             <div className="relative z-30 max-w-70 overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-lg">
-              <Image
+              <SiteImage
                 src="/app-promo/tasks-hd.png"
                 alt={t('tasksAlt')}
                 width={280}
@@ -93,7 +93,7 @@ const AppPromotionSection = async () => {
             </div>
 
             <div className="absolute -inset-e-20 top-24 z-20 hidden max-w-70 rotate-6 overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-lg lg:-end-32 lg:block">
-              <Image
+              <SiteImage
                 src="/app-promo/calendar-hd.png"
                 alt={t('calendarAlt')}
                 height={580}

@@ -1,7 +1,7 @@
 'use client'
 
 import { Search, Wrench } from 'lucide-react'
-import Image from 'next/image'
+import SiteImage from '@/components/shared/SiteImage'
 import { useTranslations } from 'next-intl'
 import { useDeferredValue, useMemo, useState } from 'react'
 import { Container } from '@/components/shared/Container'
@@ -50,7 +50,7 @@ const CategoryCard = ({ category }: CategoryCardProps) => {
         className="relative block aspect-16/10 overflow-hidden bg-muted"
         href={category.href}
       >
-        <Image
+        <SiteImage
           width={400}
           height={220}
           src={category.imageSrc}
