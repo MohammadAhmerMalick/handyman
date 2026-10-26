@@ -47,7 +47,7 @@ const pageHref: Record<PageId, string> = {
   terms: pages.terms.href,
 }
 
-export const localeAlternates = (href: string): Metadata['alternates'] => {
+export const alternateLanguages = (href: string): Record<string, string> => {
   const languages: Record<string, string> = {
     'x-default': absoluteSiteUrl(
       getPathname({ href, locale: routing.defaultLocale })
@@ -60,11 +60,13 @@ export const localeAlternates = (href: string): Metadata['alternates'] => {
     )
   }
 
-  return {
-    canonical: './',
-    languages,
-  }
+  return languages
 }
+
+export const localeAlternates = (href: string): Metadata['alternates'] => ({
+  canonical: './',
+  languages: alternateLanguages(href),
+})
 
 const toMetadata = (page: SiteLink): Metadata => ({
   description: page.description,

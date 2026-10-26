@@ -41,6 +41,7 @@ Do not rebuild these unless asked.
 - Favicon / Apple touch / social images from `public/icon.svg`
 - 404 scene using `public/Banner.png` inside the locale shell
 - Body font: Outfit · Heading font: Bricolage Grotesque
+- `/sitemap.xml` and `/robots.txt` (App Router metadata routes, locale alternates on sitemap URLs)
 
 ## Notes
 
