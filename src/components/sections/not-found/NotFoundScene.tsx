@@ -34,8 +34,9 @@ const NotFoundScene = ({
     <section className="relative isolate -mt-23 flex min-h-[calc(100svh)] flex-1 items-center overflow-hidden bg-primary-foreground sm:-mt-26.25 sm:min-h-[calc(100svh-40px)]">
       <SiteImage
         alt={imageAlt}
-        className="object-cover object-[74%_28%] md:object-[center_30%]"
-        fill
+        className="absolute inset-0 size-full object-cover object-[74%_28%] md:object-[center_30%]"
+        width={1920}
+        height={1080}
         preload
         sizes="100vw"
         src="/Banner.png"

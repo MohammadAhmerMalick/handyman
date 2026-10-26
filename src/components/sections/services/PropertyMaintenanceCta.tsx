@@ -33,10 +33,11 @@ const PropertyMaintenanceCta = async () => {
           <div className="relative min-h-72 overflow-hidden lg:min-h-full">
             <SiteImage
               alt={title}
-              className="object-cover transition-transform duration-700 hover:scale-105"
-              fill
-              sizes="(max-width: 1024px) 100vw, 52vw"
+              className="absolute inset-0 size-full object-cover transition-transform duration-700 hover:scale-105"
+              height={649}
+              sizes="(min-width: 1024px) calc((min(100vw, 96rem) - 4rem) / 2), (min-width: 640px) min(723px, calc(100vw - 3rem)), min(723px, calc(100vw - 2rem))"
               src={categoryImageSrc(category.id)}
+              width={773}
             />
             <div className="absolute inset-x-5 bottom-5 flex items-center gap-3 rounded-2xl bg-background/50 p-4 shadow-lg backdrop-blur-xs sm:inset-s-6 sm:inset-x-auto sm:max-w-sm">
               <span className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary text-primary-foreground">

@@ -94,6 +94,7 @@ const AppPromotionSection = async () => {
                 alt={t('calendarAlt')}
                 height={580}
                 width={280}
+                sizes="280px"
                 className="w-full bg-muted"
               />
             </div>

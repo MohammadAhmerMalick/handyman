@@ -52,10 +52,10 @@ const CategoryCard = ({ category }: CategoryCardProps) => {
       >
         <SiteImage
           width={400}
-          height={220}
+          height={250}
           src={category.imageSrc}
           alt={t('imageAlt', { title: category.title })}
-          sizes="(max-width: 768px) 90vw, (max-width: 1200px) 45vw, 30vw"
+          sizes="(min-width: 1280px) calc((min(100vw, 96rem) - 4rem) / 4), (min-width: 1024px) calc((min(100vw, 96rem) - 4rem) / 3), (min-width: 640px) calc((100vw - 3rem) / 2), calc(100vw - 2rem)"
           className="size-full object-cover transition-transform duration-300 group-hover:scale-[1.03]"
         />
       </Link>

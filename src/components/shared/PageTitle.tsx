@@ -54,7 +54,7 @@ const PageTitle = async ({
         }}
         src="/page-title-bg.jpg"
         alt={t('backgroundAlt')}
-        width={2000}
+        width={1920}
         height={500}
         preload
         sizes="100vw"

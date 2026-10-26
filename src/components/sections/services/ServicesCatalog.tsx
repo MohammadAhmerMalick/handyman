@@ -93,11 +93,12 @@ const ServicesCatalog = async () => {
                   <div className="relative aspect-[2.2/1] bg-muted md:aspect-auto md:min-h-48">
                     <SiteImage
                       alt={categoryTitle}
-                      className="object-cover"
-                      fill
+                      className="absolute inset-0 size-full object-cover"
                       preload={index === 0}
-                      sizes="(max-width: 768px) 100vw, 272px"
+                      height={400}
+                      sizes="(min-width: 768px) 272px, min(712px, calc(100vw - 2rem))"
                       src={categoryImageSrc(category.id)}
+                      width={717}
                     />
                     <span className="pointer-events-none absolute inset-x-0 bottom-0 h-20 bg-linear-to-t from-primary-foreground/45 to-transparent" />
                     <span className="absolute inset-s-4 bottom-4 inline-flex size-12 items-center justify-center rounded-2xl bg-primary text-primary-foreground shadow-sm">

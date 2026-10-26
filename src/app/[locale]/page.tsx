@@ -34,9 +34,10 @@ const Home = async () => {
         <SiteImage
           alt="Property Maintenance"
           className="absolute inset-0 scale-105 object-cover blur-xs"
-          fill
-          sizes="(max-width: 1024px) 100vw, 52vw"
+          sizes="100vw"
           src="/services/categories/uae-property.jpg"
+          width={1920}
+          height={1080}
         />
         <Section className="min-h-lvh bg-black/70">
           <PropertyMaintenanceCta />

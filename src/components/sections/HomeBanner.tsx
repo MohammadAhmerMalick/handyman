@@ -16,9 +16,10 @@ const HomeBanner = async () => {
       <section className="relative isolate flex min-h-130 items-center overflow-hidden rounded-4xl border-2 border-primary/50 bg-primary-foreground shadow-xl">
         <SiteImage
           alt={t('imageAlt')}
-          className="object-cover object-center"
-          fill
-          sizes="(max-width: 1280px) 100vw, 1200px"
+          className="absolute inset-0 size-full object-cover object-center"
+          width={1472}
+          height={540}
+          sizes="(min-width: 1536px) 1472px, 100vw"
           src="/Banner.png"
         />
 

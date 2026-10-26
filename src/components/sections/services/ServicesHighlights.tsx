@@ -12,8 +12,19 @@ import type { ServiceItem } from '@/data/services/types'
 import { Link } from '@/i18n/navigation'
 import type { AppLocale } from '@/i18n/routing'
 
+const HIGHLIGHT_FEATURED_SIZES =
+  '(min-width: 1024px) calc((min(100vw, 96rem) - 4rem - 1.25rem) / 2), (min-width: 640px) calc((100vw - 3rem - 1.25rem) / 2), min(761px, calc(100vw - 2rem))'
+
+const HIGHLIGHT_COMPACT_SIZES =
+  '(min-width: 1024px) calc((min(100vw, 96rem) - 4rem - 2.5rem) / 3), (min-width: 640px) calc((100vw - 3rem - 1.25rem) / 2), min(761px, calc(100vw - 2rem))'
+
+/** Last highlight spans both columns from `sm` until `lg`. */
+const HIGHLIGHT_COMPACT_FULL_ROW_SM_SIZES =
+  '(min-width: 1024px) calc((min(100vw, 96rem) - 4rem - 2.5rem) / 3), (min-width: 640px) min(761px, calc(100vw - 3rem)), min(761px, calc(100vw - 2rem))'
+
 type HighlightCardProps = {
   featured?: boolean
+  fullRowSm?: boolean
   imageAlt: string
   service: ServiceItem
   viewLabel: string
@@ -32,6 +43,7 @@ const highlightSummary = (service: ServiceItem) => {
 
 const HighlightCard = ({
   featured = false,
+  fullRowSm = false,
   imageAlt,
   service,
   viewLabel,
@@ -45,13 +57,15 @@ const HighlightCard = ({
         <SiteImage
           alt={imageAlt}
           className="size-full object-cover transition-transform duration-500 group-hover:scale-105"
-          width={725}
-          height={410}
+          width={761}
+          height={428}
           preload={featured}
           sizes={
             featured
-              ? '(max-width: 1024px) 100vw, 40vw'
-              : '(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw'
+              ? HIGHLIGHT_FEATURED_SIZES
+              : fullRowSm
+                ? HIGHLIGHT_COMPACT_FULL_ROW_SM_SIZES
+                : HIGHLIGHT_COMPACT_SIZES
           }
           src={categoryImageSrc(
             service.slug === 'plumbing-and-carpentry'
@@ -122,6 +136,7 @@ const ServicesHighlights = async ({ locale }: { locale: AppLocale }) => {
           >
             <HighlightCard
               featured={index < 2}
+              fullRowSm={index === services.length - 1}
               imageAlt={t('imageAlt', { title: service.title })}
               service={service}
               viewLabel={t('viewService')}

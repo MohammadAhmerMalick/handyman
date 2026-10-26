@@ -25,10 +25,10 @@ const AboutHighlightsSection = async () => {
           <SiteImage
             src="/about-installation.jpg"
             alt={t('imageAlt')}
-            sizes="(min-width: 1024px) 50vw, 100vw"
+            sizes="(min-width: 1536px) 704px, (min-width: 1024px) calc((100vw - 8rem) / 2), 100vw"
             className="size-full rounded-2xl object-cover"
-            width={705}
-            height={530}
+            width={704}
+            height={528}
           />
         </div>
 
