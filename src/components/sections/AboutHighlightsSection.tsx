@@ -65,7 +65,7 @@ const AboutHighlightsSection = async () => {
               render={<Link href={pages.services.href} />}
               size="lg"
             >
-              {t('readMore')}
+              {t('viewServices')}
             </Button>
 
             <a className="flex items-center gap-3" href={contact.phone.href}>
