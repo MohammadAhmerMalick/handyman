@@ -236,6 +236,20 @@
     "openMenu": "打开菜单",
     "services": "服务"
   },
+  "NotFound": {
+    "checks": [
+      { "label": "风口", "value": "是空的" },
+      { "label": "页面", "value": "找不到" },
+      { "label": "下一步", "value": "回首页" }
+    ],
+    "description": "这个地址对不上网站上的任何页面。回到首页，或浏览我们在阿联酋承接的工作。",
+    "eyebrow": "上门检查",
+    "home": "返回首页",
+    "imageAlt": "维修人员在迪拜公寓内检修空调通风口",
+    "services": "浏览服务",
+    "ticket": "风口里什么也没有",
+    "title": "我们打开了风口。页面不在里面。"
+  },
   "Pages": {
     "about": {
       "description": "关于页面的占位文案，仅用于版式。日后将替换为 Handyman 的真实介绍。",

@@ -13,7 +13,8 @@ export const generateStaticParams = () => {
     }))
 }
 
-export const dynamicParams = false
+/** Unknown paths stay renderable so the locale 404 can replace the page. */
+export const dynamicParams = true
 
 const PageTitleSlot = async ({ params }: PageTitleSlotProps) => {
   const { path } = await params

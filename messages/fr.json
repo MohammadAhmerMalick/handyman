@@ -236,6 +236,20 @@
     "openMenu": "Ouvrir le menu",
     "services": "Services"
   },
+  "NotFound": {
+    "checks": [
+      { "label": "Bouche", "value": "Vide" },
+      { "label": "Page", "value": "Absente" },
+      { "label": "Suite", "value": "Accueil" }
+    ],
+    "description": "Cette adresse ne correspond à aucune page du site. Retournez à l'accueil, ou parcourez les travaux que nous réalisons aux Émirats.",
+    "eyebrow": "Visite d'intervention",
+    "home": "Retour à l'accueil",
+    "imageAlt": "Technicien entretenant une bouche de climatisation dans un appartement à Dubaï",
+    "services": "Voir les services",
+    "ticket": "Rien dans la grille",
+    "title": "Nous avons ouvert la bouche. La page n'était pas dedans."
+  },
   "Pages": {
     "about": {
       "description": "Texte de présentation provisoire pour la mise en page. Il sera remplacé par la véritable histoire de Handyman.",

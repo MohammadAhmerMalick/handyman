@@ -236,6 +236,20 @@
     "openMenu": "Open menu",
     "services": "Services"
   },
+  "NotFound": {
+    "checks": [
+      { "label": "Vent", "value": "Empty" },
+      { "label": "Page", "value": "Missing" },
+      { "label": "Next", "value": "Home" }
+    ],
+    "description": "This address does not match a page on the site. Head home, or browse the jobs we do take across the UAE.",
+    "eyebrow": "Service visit",
+    "home": "Back home",
+    "imageAlt": "Handyman servicing an air-conditioning vent in a Dubai apartment",
+    "services": "Browse services",
+    "ticket": "Nothing in the grille",
+    "title": "We opened the vent. The page was not inside."
+  },
   "Pages": {
     "about": {
       "description": "Dummy about copy for layout. Replace with the real Handyman story later.",

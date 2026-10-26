@@ -123,6 +123,8 @@ Do not add an icon library or pick social platforms yet. That happens in dev mod
 6. Privacy Policy (dummy)
 7. Terms of Use (dummy)
 
+Unknown URLs render a 404 scene from `public/Banner.png` inside the site shell (`[locale]/not-found.tsx`). Do not add a root `app/not-found.tsx`; it replaces that locale scene.
+
 Do not add extra routes, dashboards, or accounts unless asked.
 
 Nav, footer, legal, and social hrefs/icons live in `src/data/links.ts`. Pages that are not built yet stay `#`. Live routes: `/`, `/about`, `/services`, `/services/[slug]`, `/faq`, `/contact`, `/privacy`, `/terms`, plus the same paths under `/ar`, `/ur`, `/hi`, `/zh`, and `/fr`. Folder map: `docs/structure.md`.

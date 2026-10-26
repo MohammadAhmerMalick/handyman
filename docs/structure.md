@@ -33,6 +33,8 @@ English URLs have no prefix (`/about`). Other locales use `/{locale}/about`. `sr
 | `[locale]/contact/page.tsx` | `/contact` |
 | `[locale]/privacy/page.tsx` | `/privacy` |
 | `[locale]/terms/page.tsx` | `/terms` |
+| `[locale]/not-found.tsx` | Unknown URLs (scene uses `public/Banner.png`, inside the site shell) |
+| `[locale]/[...path]/page.tsx` | Calls `notFound()` so missing paths use that scene |
 
 `[locale]/@pageTitle/` is a parallel route. It renders `PageTitle` for the current path. The service detail slot uses the service title instead of the generic page title.
 
