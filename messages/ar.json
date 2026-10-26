@@ -306,6 +306,13 @@
       }
     ]
   },
+  "PropertyMaintenanceCta": {
+    "flexibleAppointments": "مواعيد مرنة",
+    "reliableTeam": "فريق محلي موثوق",
+    "residentialRental": "العقارات السكنية والإيجارية",
+    "titleAccent": "عقارك في الإمارات بأفضل حالة",
+    "titleLead": "حافظ على"
+  },
   "Service": {
     "altFinished": "{title} — نتيجة {category} مكتملة",
     "altHero": "{title} — خدمات {category} في الإمارات",

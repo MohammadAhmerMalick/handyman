@@ -306,6 +306,13 @@
       }
     ]
   },
+  "PropertyMaintenanceCta": {
+    "flexibleAppointments": "Rendez-vous flexibles",
+    "reliableTeam": "Équipe locale de confiance",
+    "residentialRental": "Biens résidentiels et locatifs",
+    "titleAccent": "bien immobilier aux EAU en parfait état",
+    "titleLead": "Gardez votre"
+  },
   "Service": {
     "altFinished": "{title} — résultat {category} terminé",
     "altHero": "{title} — services {category} aux Émirats arabes unis",

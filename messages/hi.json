@@ -306,6 +306,13 @@
       }
     ]
   },
+  "PropertyMaintenanceCta": {
+    "flexibleAppointments": "सुविधाजनक अपॉइंटमेंट",
+    "reliableTeam": "भरोसेमंद स्थानीय टीम",
+    "residentialRental": "आवासीय और किराये की संपत्तियाँ",
+    "titleAccent": "यूएई प्रॉपर्टी को बेहतरीन स्थिति में रखें",
+    "titleLead": "अपनी"
+  },
   "Service": {
     "altFinished": "{title} — तैयार {category} का नतीजा",
     "altHero": "{title} — यूएई में {category} सेवाएँ",

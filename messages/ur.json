@@ -306,6 +306,13 @@
       }
     ]
   },
+  "PropertyMaintenanceCta": {
+    "flexibleAppointments": "لچکدار اوقات",
+    "reliableTeam": "قابلِ اعتماد مقامی ٹیم",
+    "residentialRental": "رہائشی اور کرائے کی املاک",
+    "titleAccent": "یو اے ای پراپرٹی بہترین حالت میں رکھیں",
+    "titleLead": "اپنی"
+  },
   "Service": {
     "altFinished": "{title} — مکمل {category} نتیجہ",
     "altHero": "{title} — یو اے ای میں {category} کی خدمات",

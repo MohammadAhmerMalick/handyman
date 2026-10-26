@@ -306,6 +306,13 @@
       }
     ]
   },
+  "PropertyMaintenanceCta": {
+    "flexibleAppointments": "Flexible Appointments",
+    "reliableTeam": "Reliable Local Team",
+    "residentialRental": "Residential & Rental Properties",
+    "titleAccent": "UAE Property in Perfect Condition",
+    "titleLead": "Keep Your"
+  },
   "Service": {
     "altFinished": "{title} — finished {category} result",
     "altHero": "{title} — {category} services in the UAE",

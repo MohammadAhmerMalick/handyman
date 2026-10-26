@@ -3,10 +3,12 @@ import AboutHighlights from '@/components/sections/AboutHighlightsSection'
 import AppPromotionSection from '@/components/sections/AppPromotionSection'
 import FaqSection from '@/components/sections/FaqSection'
 import SplitContentHero from '@/components/sections/HeroSection'
+import PropertyMaintenanceCta from '@/components/sections/services/PropertyMaintenanceCta'
 import CategorySlider from '@/components/sections/services/ServiceCategorySlider'
 import ServicesHighlights from '@/components/sections/services/ServicesHighlights'
 import TestimonialsSection from '@/components/sections/TestimonialsSection'
 import Section from '@/components/shared/Section'
+import SiteImage from '@/components/shared/SiteImage'
 import type { AppLocale } from '@/i18n/routing'
 import { generatePageMetadata } from '@/lib/pageMetadata'
 
@@ -27,6 +29,18 @@ const Home = async () => {
       <Section background="/categories-bg.png" backgroundSide="left" banded>
         <CategorySlider />
       </Section>
+      <div className="relative overflow-hidden bg-primary-foreground">
+        <SiteImage
+          alt="Property Maintenance"
+          className="absolute inset-0 scale-105 object-cover blur-xs"
+          fill
+          sizes="(max-width: 1024px) 100vw, 52vw"
+          src="/services/categories/uae-property.jpg"
+        />
+        <Section className="min-h-lvh bg-black/70">
+          <PropertyMaintenanceCta />
+        </Section>
+      </div>
       <Section background="/services-bg.png" backgroundSide="right">
         <ServicesHighlights locale={locale} />
       </Section>

@@ -306,6 +306,13 @@
       }
     ]
   },
+  "PropertyMaintenanceCta": {
+    "flexibleAppointments": "灵活预约",
+    "reliableTeam": "可靠的本地团队",
+    "residentialRental": "住宅与出租物业",
+    "titleAccent": "阿联酋房产保持最佳状态",
+    "titleLead": "让您的"
+  },
   "Service": {
     "altFinished": "{title}——{category}完工效果",
     "altHero": "{title}——阿联酋{category}服务",

@@ -93,6 +93,12 @@ No 24h / emergency offering for now. Stick to these hours only.
 - Saturday–Thursday: 8:00am–9:00pm
 - Friday: 9:00am–11:00am, then 4:00pm–9:00pm
 
+### Property maintenance
+
+- Reliable local team
+- Flexible appointments
+- Residential and rental properties
+
 ### Map
 
 Contact page can use a map **placeholder** (not a real embed yet). Replace later with a Google Maps embed for Marina, Dubai.
