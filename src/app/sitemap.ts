@@ -1,5 +1,5 @@
 import type { MetadataRoute } from 'next'
-import { pages, type PageId } from '@/data/links'
+import { type PageId, pages } from '@/data/links'
 import { publishedServices, serviceHref } from '@/data/services'
 import { alternateLanguages } from '@/lib/pageMetadata'
 
