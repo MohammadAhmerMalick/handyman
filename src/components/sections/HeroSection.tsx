@@ -65,13 +65,13 @@ const HeroSection = async () => {
             </div>
             <div className="flex items-center space-x-4 pt-4 text-sm">
               <div className="flex -space-x-2 rtl:space-x-reverse">
-                <p className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-muted text-muted-foreground ring-2 ring-background">
+                <p className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-muted text-primary-foreground ring-2 ring-background">
                   JL
                 </p>
-                <p className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-muted text-muted-foreground ring-2 ring-background">
+                <p className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-muted text-primary-foreground ring-2 ring-background">
                   SD
                 </p>
-                <p className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-muted text-muted-foreground ring-2 ring-background">
+                <p className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-muted text-primary-foreground ring-2 ring-background">
                   TK
                 </p>
                 <p className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-primary text-primary-foreground ring-2 ring-background">

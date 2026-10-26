@@ -137,6 +137,7 @@ const LocaleLayout = async ({
     <html
       lang={locale}
       dir={isRtlLocale(locale) ? 'rtl' : 'ltr'}
+      data-scroll-behavior="smooth"
       className={cn(
         'h-full scroll-smooth bg-primary font-sans antialiased',
         outfit.variable,
