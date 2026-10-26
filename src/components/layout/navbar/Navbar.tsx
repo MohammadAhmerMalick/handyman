@@ -17,13 +17,13 @@ import { Link } from '@/i18n/navigation'
 const Navbar = () => {
   const t = useTranslations('Nav')
   // 40px hysteresis > the ~32px height drop so shrinking cannot bounce scrollY back across 50
-  const isCompact = useScrolledPast(50, 40)
+  const isCompact = useScrolledPast(600, 100)
 
   return (
     <header
       className={cn(
-        'sticky top-0 right-0 left-0 z-50 border-primary border-b bg-linear-to-b from-black shadow-xl backdrop-blur-xs duration-300 [overflow-anchor:none]',
-        isCompact ? 'bg-black/60' : 'bg-linear-to-b from-black to-black/10'
+        'sticky top-0 right-0 left-0 z-50 border-primary border-b bg-linear-to-b from-black to-black/10 shadow-xl backdrop-blur-xs duration-300 [overflow-anchor:none]',
+        isCompact ? 'bg-black/60' : 'bg-black/10'
       )}
     >
       <Container
@@ -36,7 +36,7 @@ const Navbar = () => {
           <Logo
             className={cn(
               'w-48 duration-300',
-              isCompact ? 'w-md-52' : 'w-md-60'
+              isCompact ? 'md:w-52' : 'md:w-60'
             )}
           />
         </Link>

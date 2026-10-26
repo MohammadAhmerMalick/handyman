@@ -51,7 +51,7 @@ const AppPromotionSection = async () => {
             </Button>
           </div>
 
-          <Card className="bg-transparent shadow-muted shadow-xl backdrop-blur-xs">
+          <Card className="bg-background/70 shadow-muted shadow-xl">
             <CardContent>
               <div className="flex flex-col gap-3">
                 <h3 className="font-semibold text-lg">{t('whyLove')}</h3>
@@ -77,10 +77,6 @@ const AppPromotionSection = async () => {
         </div>
 
         <div className="relative order-1 flex justify-center lg:order-2 lg:h-150">
-          <div className="absolute inset-0 -z-10">
-            <div className="absolute top-1/2 left-1/2 h-75 w-75 -translate-x-1/2 -translate-y-1/2 rounded-full bg-linear-to-r from-primary/20 to-primary/10 opacity-70 blur-[100px] lg:h-125 lg:w-125" />
-          </div>
-
           <div className="relative mt-4 lg:mt-0 lg:max-w-full">
             <div className="relative z-30 max-w-70 overflow-hidden rounded-4xl border-8 border-primary-foreground shadow-lg">
               <SiteImage
@@ -103,7 +99,7 @@ const AppPromotionSection = async () => {
             </div>
 
             <Card
-              className="absolute -inset-s-8 top-4/6 z-40 hidden bg-white/70 backdrop-blur-sm sm:block lg:-inset-s-16"
+              className="absolute -inset-s-8 top-4/6 z-40 hidden bg-white/70 sm:block lg:-inset-s-16"
               size="sm"
             >
               <CardContent className="flex items-center gap-2">

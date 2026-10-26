@@ -38,7 +38,7 @@ const HighlightCard = ({
 }: HighlightCardProps) => {
   return (
     <Link
-      className="group flex h-full flex-col overflow-hidden rounded-3xl border border-border shadow-muted shadow-xl backdrop-blur-xs transition-[background-color,border-color,box-shadow,color] duration-300 hover:bg-primary-foreground hover:shadow-md"
+      className="group flex h-full flex-col overflow-hidden rounded-3xl border border-border shadow-muted shadow-xl transition-[background-color,border-color,box-shadow,color] duration-300 hover:shadow-md"
       href={serviceHref(service.slug)}
     >
       <div className={cn('relative overflow-hidden bg-muted')}>
@@ -65,7 +65,7 @@ const HighlightCard = ({
         </span>
       </div>
 
-      <div className="flex flex-1 flex-col gap-3 p-5 md:p-6">
+      <div className="flex flex-1 flex-col gap-3 bg-background/70 p-5 transition-[background-color,color] duration-300 group-hover:bg-primary-foreground md:p-6">
         <h3 className="font-semibold text-heading text-xl leading-snug transition-colors duration-300 group-hover:text-primary">
           {service.title}
         </h3>

@@ -44,7 +44,7 @@ const CategoryCard = ({ category }: CategoryCardProps) => {
   })
 
   return (
-    <article className="group flex h-full flex-col overflow-hidden rounded-2xl border border-border shadow-md shadow-muted backdrop-blur-xs">
+    <article className="group flex h-full flex-col overflow-hidden rounded-2xl border border-border shadow-md shadow-muted">
       <Link
         aria-label={t('viewAria', { title: category.title })}
         className="relative block aspect-16/10 overflow-hidden bg-muted"
@@ -60,7 +60,7 @@ const CategoryCard = ({ category }: CategoryCardProps) => {
         />
       </Link>
 
-      <div className="flex flex-1 flex-col gap-3 p-5 md:p-6">
+      <div className="flex flex-1 flex-col gap-3 bg-background/70 p-5 md:p-6">
         <span className="inline-flex w-fit items-center gap-1 rounded-xl bg-muted px-3 py-1.5 font-medium text-xs">
           <Wrench aria-hidden className="size-3.5 shrink-0" />
           {countLabel}
