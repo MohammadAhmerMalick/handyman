@@ -2,6 +2,12 @@
 
 import { useEffect, useState } from 'react'
 
+/**
+ * Hook to check if the user has scrolled past a threshold
+ * @param threshold The threshold to trigger the event
+ * @param hysteresis The hysteresis to apply to the threshold
+ * @returns True if the user has scrolled past the threshold
+ */
 export const useScrolledPast = (threshold: number, hysteresis = 0) => {
   const [isPast, setIsPast] = useState(false)
 
