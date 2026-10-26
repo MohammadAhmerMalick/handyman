@@ -189,6 +189,13 @@
     "viewAll": "View all services",
     "viewService": "View service"
   },
+  "HomeBanner": {
+    "description": "Repairs, fittings, and planned maintenance for homes, rental properties, and workplaces.",
+    "eyebrow": "Handyman services across the UAE",
+    "imageAlt": "Handyman servicing an air-conditioning vent in a Dubai apartment",
+    "titleAccent": "every part of your property",
+    "titleLead": "Professional care for"
+  },
   "Hours": {
     "fridayLabel": "Friday",
     "fridayValue": "9:00am–11:00am and 4:00pm–9:00pm",

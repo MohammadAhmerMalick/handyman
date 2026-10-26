@@ -189,6 +189,13 @@
     "viewAll": "Voir tous les services",
     "viewService": "Voir le service"
   },
+  "HomeBanner": {
+    "description": "Réparations, installations et entretien planifié pour logements, biens locatifs et lieux de travail.",
+    "eyebrow": "Services Handyman partout aux EAU",
+    "imageAlt": "Technicien entretenant une bouche de climatisation dans un appartement à Dubaï",
+    "titleAccent": "chaque partie de votre bien",
+    "titleLead": "Un entretien professionnel pour"
+  },
   "Hours": {
     "fridayLabel": "Vendredi",
     "fridayValue": "9h00–11h00 et 16h00–21h00",

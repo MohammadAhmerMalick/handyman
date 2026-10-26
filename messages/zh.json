@@ -189,6 +189,13 @@
     "viewAll": "查看全部服务",
     "viewService": "查看服务"
   },
+  "HomeBanner": {
+    "description": "为住宅、出租物业和工作场所提供维修、安装及定期保养。",
+    "eyebrow": "覆盖阿联酋的 Handyman 服务",
+    "imageAlt": "维修人员在迪拜公寓内检修空调通风口",
+    "titleAccent": "物业的每个角落",
+    "titleLead": "专业呵护您的"
+  },
   "Hours": {
     "fridayLabel": "周五",
     "fridayValue": "9:00–11:00 及 16:00–21:00",

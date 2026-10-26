@@ -3,6 +3,7 @@ import AboutHighlights from '@/components/sections/AboutHighlightsSection'
 import AppPromotionSection from '@/components/sections/AppPromotionSection'
 import FaqSection from '@/components/sections/FaqSection'
 import SplitContentHero from '@/components/sections/HeroSection'
+import HomeBanner from '@/components/sections/HomeBanner'
 import PropertyMaintenanceCta from '@/components/sections/services/PropertyMaintenanceCta'
 import CategorySlider from '@/components/sections/services/ServiceCategorySlider'
 import ServicesHighlights from '@/components/sections/services/ServicesHighlights'
@@ -43,6 +44,9 @@ const Home = async () => {
       </div>
       <Section background="/services-bg.png" backgroundSide="right">
         <ServicesHighlights locale={locale} />
+      </Section>
+      <Section>
+        <HomeBanner />
       </Section>
       <Section
         aria-label={t('label')}

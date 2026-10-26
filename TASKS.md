@@ -9,6 +9,7 @@ Tracker for UI designing mode. **Read this file first** instead of scanning the 
 
 ## Done this round
 
+- [x] Home image banner using `public/Banner.png`
 - [x] **8.** Quote CTA stays WhatsApp only (no home Call/WhatsApp strip)
 - [x] **11.** Folder tidy: `Container` → `shared/`, navbar pieces → `layout/navbar/`
 - [x] **12.** Heading font: **Bricolage Grotesque** (`font-heading`); body **Outfit**

@@ -152,6 +152,7 @@ No per-service prices. Quotes only (CTA / banner / popup / form section later).
 ## Content rules
 
 - About, story, trust, testimonials, Privacy, and Terms: dummy text for now (lorem ipsum is fine). Replace section by section later.
+- Home banner image: `public/Banner.png`
 - Photos: `https://placehold.co/600x400` until real images exist.
 - Map: placeholder until a real Google Maps embed is added.
 - Header CTAs (WhatsApp vs Call vs quote), social icons, and section layout: decide in **UI designing mode**; track in `TASKS.md`.
