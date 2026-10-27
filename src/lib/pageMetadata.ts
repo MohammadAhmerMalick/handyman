@@ -77,17 +77,20 @@ const toMetadata = (page: SiteLink): Metadata => ({
 export const generatePageMetadata = async (page: PageId): Promise<Metadata> => {
   const locale = (await getLocale()) as AppLocale
   const t = await getTranslations('Pages')
-  const title = t(`${page}.title`)
   const description = t(`${page}.description`, {
     address: contact.address,
     serviceArea: contact.serviceArea,
   })
+  const titleAbsolute =
+    page === 'home' ? t('home.titleAbsolute') : undefined
+  const title = titleAbsolute ?? t(`${page}.title`)
+  const socialTitle = titleAbsolute ?? title
 
   return {
     alternates: localeAlternates(pageHref[page]),
     description,
-    title,
-    ...socialMetadata(title, description, locale),
+    title: titleAbsolute ? { absolute: titleAbsolute } : title,
+    ...socialMetadata(socialTitle, description, locale),
   }
 }
 

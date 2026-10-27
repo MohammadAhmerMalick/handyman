@@ -79,11 +79,12 @@ export const pages = {
     title: 'FAQs',
   },
   home: {
-    description: `Renovation, maintenance, and trade services across the ${contact.serviceArea}.`,
+    description:
+      'Villa and flat renovation, AC, plumbing, carpentry, painting, and handyman work across the UAE. Dubai Marina base — call or WhatsApp for a quote.',
     href: '/',
     icon: Home,
     id: 'home',
-    title: 'Home',
+    title: 'Handyman UAE | Renovation, AC, Plumbing & Maintenance',
   },
   privacy: {
     description:

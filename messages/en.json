@@ -221,7 +221,7 @@
   },
   "Metadata": {
     "category": "Home services",
-    "description": "Renovation, maintenance, and trade services across the UAE.",
+    "description": "Villa and flat renovation, AC, plumbing, carpentry, painting, and handyman work across the UAE. Dubai Marina base — call or WhatsApp for a quote.",
     "keywords": "Handyman, handyman UAE, handyman Dubai, renovation, air conditioning, plumbing, carpentry, masonry, painting, property maintenance, Marina Dubai",
     "titleDefault": "Handyman",
     "titleTemplate": "%s | Handyman"
@@ -264,8 +264,9 @@
       "title": "FAQs"
     },
     "home": {
-      "description": "Renovation, maintenance, and trade services across the {serviceArea}.",
-      "title": "Home"
+      "description": "Villa and flat renovation, AC, plumbing, carpentry, painting, and handyman work across the {serviceArea}. Dubai Marina base — call or WhatsApp for a quote.",
+      "title": "Home",
+      "titleAbsolute": "Handyman UAE | Renovation, AC, Plumbing & Maintenance"
     },
     "privacy": {
       "description": "Dummy policy for layout only. Replace when the legal company name and trade license are known.",

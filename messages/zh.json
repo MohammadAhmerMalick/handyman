@@ -221,7 +221,7 @@
   },
   "Metadata": {
     "category": "家居服务",
-    "description": "面向阿联酋各地的翻新、维修及工种服务。",
+    "description": "阿联酋别墅与公寓翻新、空调、水管、木工、油漆及综合维修。迪拜码头基地——致电或 WhatsApp 获取报价。",
     "keywords": "Handyman, 阿联酋家居维修, 迪拜家居维修, 翻新, 空调, 水管, 木工, 泥瓦, 油漆, 物业维护, 迪拜码头",
     "titleDefault": "Handyman",
     "titleTemplate": "%s | Handyman"
@@ -264,8 +264,9 @@
       "title": "常见问题"
     },
     "home": {
-      "description": "面向{serviceArea}各地的翻新、维修及工种服务。",
-      "title": "首页"
+      "description": "面向{serviceArea}各地的别墅与公寓翻新、空调、水管、木工、油漆及综合维修。迪拜码头基地——致电或 WhatsApp 获取报价。",
+      "title": "首页",
+      "titleAbsolute": "Handyman 阿联酋 | 翻新、空调、水管与维修"
     },
     "privacy": {
       "description": "隐私政策占位文案，仅用于版式。待法律主体名称和贸易执照确定后替换。",

@@ -221,7 +221,7 @@
   },
   "Metadata": {
     "category": "Services à domicile",
-    "description": "Rénovation, entretien et métiers du bâtiment aux Émirats arabes unis.",
+    "description": "Rénovation de villas et appartements, clim, plomberie, menuiserie, peinture et bricolage aux EAU. Basés à Dubai Marina — appelez ou WhatsApp pour un devis.",
     "keywords": "Handyman, handyman EAU, handyman Dubai, rénovation, climatisation, plomberie, menuiserie, maçonnerie, peinture, entretien immobilier, Marina Dubai",
     "titleDefault": "Handyman",
     "titleTemplate": "%s | Handyman"
@@ -264,8 +264,9 @@
       "title": "FAQ"
     },
     "home": {
-      "description": "Rénovation, entretien et métiers du bâtiment dans les {serviceArea}.",
-      "title": "Accueil"
+      "description": "Rénovation de villas et appartements, clim, plomberie, menuiserie, peinture et bricolage dans les {serviceArea}. Basés à Dubai Marina — appelez ou WhatsApp pour un devis.",
+      "title": "Accueil",
+      "titleAbsolute": "Handyman EAU | Rénovation, clim, plomberie et entretien"
     },
     "privacy": {
       "description": "Politique provisoire, pour la mise en page uniquement. À remplacer lorsque la raison sociale et la licence commerciale seront connues.",
